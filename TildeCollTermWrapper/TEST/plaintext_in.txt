@@ -1,0 +1,73 @@
+Bezvadu tīkla iestatīšana
+Iztēlojieties, ka sēžat savā viesistabā un klejojat tīmeklī, tērzējat ar draugiem tiešsaistē, vakarā atpūšoties gultā, vai arī esat virtuvē un pārsūtāt dokumentus no datora uz mājas biroja printeri. Bezvadu tīkls nodrošina maksimāli pielāgojamas tīkla izmantošanas iespējas, un to iestatīt ir vieglāk, nekā domājat. Šajā rakstā ir izklāstīts, kādas darbības jāveic, lai iestatītu bezvadu tīklu un sāktu to lietot.
+Atbilstoša aprīkojuma iegāde
+Platjoslas interneta savienojums ir ātrdarbīgs interneta savienojums atšķirībā no iezvanes savienojuma, kas ir lēnāks un nav pietiekami efektīvs, lai atbalstītu bezvadu tīklu. Ciparu abonentlīnija (Digital Subscriber Line — DSL) un kabeļa līnija ir divi visbiežāk izmantotie platjoslas savienojumu veidi. Platjoslas savienojumu var iegūt, sazinoties ar interneta pakalpojumu sniedzēju (ISP). Parasti interneta pakalpojumu sniedzēji, kas nodrošina ciparu abonentlīniju, ir telefona pakalpojumu uzņēmumi, savukārt interneta pakalpojumu sniedzēji, kas nodrošina kabeļa līniju, ir kabeļtelevīzijas pakalpojumu uzņēmumi. Interneta pakalpojumu sniedzēji parasti piedāvā platjoslas modemus un, iespējams, pat varētu tos instalēt jūsu vietā. Daži interneta pakalpojumu sniedzēji arī piedāvā modemu/bezvadu maršrutētāju kombināciju. Tos var iegādāties arī datoru vai elektronikas veikalos.
+Tipisks kabeļmodems (pa kresi) un DSL modems (pa labi)
+Maršrutētājs nodrošina informācijas plūsmu starp tīklu un internetu. Bezvadu maršrutētājs nodrošina savienojuma izveidi starp datoru un tīklu, izmantojot radio signālus, nevis vadus. Pastāv daži atšķirīgi bezvadu tīkla tehnoloģiju tipi, tostarp 802.11a, 802.11b, 802.11g un 802.11n. Ieteicams izmantot maršrutētāju, kas atbalsta 802.11g vai 802.11n, jo tie ir ātrdarbīgi un nodrošina spēcīgu bezvadu signālu. Papildinformāciju par bezvadu tīkla tehnoloģijām skatiet sadaļā Bezvadu tīklošana: bieži uzdotie jautājumi .
+Tipisks bezvadu maršrutētājs
+Tīkla adapteris ir ierīce, kas savieno datoru ar tīklu. Lai mobilo datoru vai galddatoru savienotu ar bezvadu tīklu, datorā jābūt bezvadu tīkla adapterim. Lielākajā daļā mobilo datoru, kā arī daudzos galddatoros tīkla adapteris jau ir instalēts. Lai pārbaudītu, vai datoram ir bezvadu tīkla adapteris, rīkojieties šādi:
+Atveriet ierīču pārvaldnieku, noklikšķinot uz pogas Sākt
+, pēc tam uz Vadības panelis, uz Sistēma un uzturēšana un uz Ierīču pārvaldnieks.‌
+ Ja tiek lūgts ievadīt administratora paroli vai apstiprinājumu, ierakstiet paroli vai apstipriniet.
+Noklikšķiniet uz pluszīmes (+) pie teksta Tīkla adapteri.
+Meklējiet tīkla adapteri, kura nosaukumā ir vārds "bezvadu" ("wireless").
+Ierīču pārvaldnieks, kurā redzams bezvadu tīkla adapteris
+Ja datoram ir nepieciešams bezvadu tīkla adapteris, to var iegādāties datoru vai elektronikas preču veikalā un instalēt patstāvīgi. Ieteicams izvēlēties universālās seriālās kopnes (USB) tipa adapteri, jo tie ir nelieli, ērti instalējami un tos var pārvietot dažādos datoros. Nodrošiniet, lai adapteris atbilstu bezvadu maršrutētāja tipam. Adaptera tips parasti ir norādīts uz iepakojuma, visbiežāk ar burtu, piemēram, G vai A.
+Tipiski USB bezvadu tīkla adapteri
+Modema un interneta savienojuma iestatīšana
+Kad esat iegādājies visu aprīkojumu, jāiestata modems un interneta savienojums. Ja modemu nav iestatījis interneta pakalpojumu sniedzējs (ISP), izpildiet modemam pievienotās instrukcijas, lai to savienotu ar datoru un internetu. Ja izmantojat ciparu abonentlīniju (DSL), savienojiet modemu ar tālruņa kontaktligzdu. Ja izmantojat kabeli, savienojiet modemu ar kabeļa kontaktligzdu. Plašāku informāciju skatiet sadaļā DSL vai kabeļsavienojuma iestatīšana .
+Bezvadu maršrutētāja novietošana
+Bezvadu maršrutētāju ieteicams novietot vietā, kur tiek saņemts visspēcīgākais signāls ar minimāliem traucējumiem. Lai iegūtu vislabākos rezultātus, rīkojieties šādi:
+Novietojiet bezvadu maršrutētāju centrālā vietā. Lai pastiprinātu bezvadu signāla stiprumu visā mājā, novietojiet maršrutētāju pēc iespējas tuvāk mājas vidusdaļai.
+Nenovietojiet bezvadu maršrutētāju uz grīdas, netuviniet to sienām un metāla priekšmetiem, piemēram, metāla dokumentu skapjiem. Jo mazāk fizisku šķēršļu būs starp datoru un maršrutētāja signālu, jo lielāka iespēja, ka varēsit izmantot maksimālu maršrutētāja signāla stiprumu.
+Samaziniet traucējumus. 802.11g tīklošanas aprīkojumam tiek izmantota 2,4 gigahercu (GHz) radiofrekvence. Šī frekvence tiek izmantota arī lielākajā daļā mikroviļņu krāšņu un daudzos bezvadu tālruņos. Kad tiek ieslēgta mikroviļņu krāsns vai saņemts zvans bezvadu tālrunī, bezvadu signāls var tikt īslaicīgi pārtraukts. Lai izvairītos no šiem traucējumiem, izmantojiet bezvadu tālruni ar lielāku frekvenci, piemēram, 5,8 GHz.
+Bezvadu tīkla aizsardzība
+Drošība ir svarīga vienmēr, tomēr, izmantojot bezvadu tīklu, tā ir vēl svarīgāka, jo tīkla signāls var izkļūt ārpus mājas robežām. Ja nerūpējaties par sava tīkla drošību, datora lietotāji, kas atrodas netālu no jums, iespējams, var piekļūt informācijai, kas saglabāta tīkla datoros, un lietot jūsu interneta savienojumu, lai piekļūtu tīmeklim. Lai garantētu tīkla drošību, rīkojieties šādi:
+Aizsargājiet maršrutētāju, mainot noklusējuma lietotājvārdu un paroli. Lielākā daļa ražotāju maršrutētājiem piešķir noklusējuma lietotājvārdu un paroli, kā arī noklusējuma tīkla nosaukumu. Kāds var izmantot šo informāciju, lai piekļūtu maršrutētājam bez jūsu ziņas. Lai novērstu šādu iespēju, mainiet maršrutētāja noklusējuma lietotājvārdu un paroli. Skatiet ierīces instrukcijās sniegto informāciju.
+Iestatiet tīkla drošības atslēgu. Tāpat kā dokumentu skapjiem ir atslēgas un seifiem ir drošības kombinācijas, arī bezvadu tīkliem ir tīkla drošības atslēga, lai palīdzētu tos aizsargāt pret nesankcionētu piekļuvi. Lai iestatītu tīkla drošības atslēgu, rīkojieties šādi:
+Atveriet tīkla un koplietošanas centru, noklikšķinot uz pogas Sākt
+, pēc tam uz Vadības panelis, uz Tīkls un internets un uz Tīkla un koplietošanas centrs.
+Kreisajā rūtī noklikšķiniet uz Iestatīt savienojumu vai tīklu.
+Noklikšķiniet uz Iestatīt bezvadu maršrutētāju vai piekļuves punktu un pēc tam noklikšķiniet uz Tālāk.
+Vednis palīdzēs izveidot tīkla nosaukumu un drošības atslēgu. Ja maršrutētājs to nodrošina, vednis izveidos noklusējuma Wi-Fi aizsargātās piekļuves (Wi–Fi Protected Access — WPA) drošību. Ieteicams izmantot WPA, jo tā sniedz lielāku drošību nekā tradicionālā vadu ekvivalentā privātuma (Wired Equivalent Privacy — WEP) drošība. WPA ļauj izmantot arī ieejas frāzi, tādējādi nav jāatceras slepenā burtu un skaitļu secība. Plašāku informāciju skatiet sadaļā Kādas bezvadu tīkla drošības metodes ir pieejamas?
+Tīkla drošības atslēgas izveide, ievadot ieejas frāzi
+Pierakstiet drošības atslēgu un saglabājiet to drošā vietā. Ja jums ir USB zibatmiņa, drošības atslēgu varat saglabāt tajā, izpildot vedņa norādījumus.
+Lietojiet ugunsmūri. Ugunsmūris ir aparatūra vai programmatūra, kas var palīdzēt aizsargāt datoru pret urķiem vai ļaunprātīgu programmatūru. Ja ugunsmūris darbojas katrā tīkla datorā, tas var palīdzēt ierobežot ļaunprātīgas programmatūras izplatību tīklā, kā arī aizsargāt datorus, kad piekļūstat internetam. Windows ugunsmūris ir iekļauts operētājsistēmā Windows Vista. Papildinformāciju skatiet sadaļā Ugunsmūris: bieži uzdotie jautājumi .
+Atveriet Izveidot savienonjumu ar tīklu, noklikšķinot uz pogas Sākt
+un pēc tam uz Izveidot savienojumu ar.
+Tīklu sarakstā noklikšķiniet uz tā tīkla nosaukuma, ar kuru vēlaties izveidot savienojumu, un pēc tam noklikšķiniet uz Veidot savienojumu.
+Ievadiet drošības atslēgu. Varat ierakstīt atslēgu vai arī datora USB portā ievietot USB zibatmiņas disku, kurā ir drošības atslēga.
+Failu un printeru koplietošana
+Lielai daļai lietotāju ir bezvadu tīkls, tādējādi viņi var piekļūt internetam no jebkuras ēkas vietas, taču ir noderīgi, ja arī failiem un printeriem var piekļūt, lietojot bezvadu savienojumu.
+Piezīme
+Atveriet tīkla un koplietošanas centru, noklikšķinot uz pogas Sākt
+, pēc tam uz Vadības panelis, uz Tīkls un internets un uz Tīkla un koplietošanas centrs.
+Noklikšķiniet uz bultiņas pogas
+Ieslēgt koplietošanu, lai ikviens lietotājs ar tīkla piekļuvi var atvērt failus
+Ieslēgt koplietošanu, lai ikviens lietotājs ar tīkla piekļuvi var atvērt, mainīt un izveidot failus
+Izslēgt koplietošanu (lietotāji, kas pieteikušies šajā datorā, joprojām varēs piekļūt šai mapei)
+Noklikšķiniet uz Lietot.
+Atkārtojiet iepriekš minētās darbības katrā datorā, kura failus vēlaties koplietot.
+Lai koplietotu failus, saglabājiet tos vai kopējiet uz sava datora publisko mapi. Katrā datorā ir viena publiskā mape. Šo mapi koplieto visas personas, kurām datorā ir lietotāja konts. Lai atvērtu publisko mapi:
+Atveriet dokumentus, noklikšķinot uz pogas Sākt
+un pēc tam uz Dokumenti.
+Navigācijas rūts sadaļā Izlases saites noklikšķiniet uz Publisks.
+Publiskā mape
+Piesakieties datorā, kuram ir pievienots printeris.
+Atveriet tīkla un koplietošanas centru, noklikšķinot uz pogas Sākt
+, pēc tam uz Vadības panelis, uz Tīkls un internets un uz Tīkla un koplietošanas centrs.
+Noklikšķiniet uz bultiņas pogas
+Noklikšķiniet uz bultiņas pogas
+blakus Ar paroli aizsargāta koplietošana, pēc tam noklikšķiniet uz Izslēgt ar paroli aizsargātu koplietošanu un pēc tam uz Lietot.
+Piezīme
+Ja ir ieslēgta ar paroli aizsargāta koplietošana, personām ir nepieciešams lietotāja konts un parole jūsu datorā, lai piekļūtu jūsu printerim.
+Lai piekļūtu printerim no jebkura tīklā esoša datora, rīkojieties šādi:
+Atveriet tīklu, noklikšķinot uz pogas Sākt
+un pēc tam uz Tīkls.
+Veiciet dubultklikšķi uz ikonas, kas atbilst datoram, kuram pievienots printeris.
+Veiciet dubultklikšķi uz printera ikonas. Sistēma Windows automātiski pievienos printeri jūsu datoram un instalēs printera draiveri.
+Brīvības izmantošana
+Tas arī viss — bezvadu tīkls ir gatavs lietošanai. Iekārtojieties ērtāk uz dīvāna vai pie galda un izmēģiniet iepirkšanos tiešsaistē.
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

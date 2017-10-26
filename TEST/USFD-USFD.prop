@@ -1,0 +1,57 @@
+﻿######################################
+# The EntityMappingWorkflow.pl property file defines properties required for Named Entity Recognition (or Term Extraction) and mapping.
+# Do not remove any properties from the file!
+#
+# The property file supports comments only at the beginning of lines (do not add comments after statements).
+######################################
+
+#General property - which mapper to use (USFD or RACAI)?
+MapperToUse = USFD
+
+#The default English NER system (available are USFD, RACAI)
+DefaultEnNER = USFD
+#The default English TE system (available are USFD, RACAI)
+DefaultEnTE = USFD
+
+################## ---------------- TildeNER Section ----------------
+
+# -- LV Subsection --
+
+#The order in which refinements will be executed on the raw NE classified data (default - increases precision).
+LV_RefDefString = L N S R_0.7 C T_0.90 A
+
+# -- LT Subsection --
+
+#The order in which refinements will be executed on the raw NE classified data (default - increases precision).
+LT_RefDefString = L N S R_0.7 C T_0.90 A
+
+################## ----------------- TildeNER [END] -----------------
+
+################## --------------- RACAI NERA2 Section --------------
+
+#If the NE-tagged input contains additional parsed input (For instance, annotated terms), the parser will ignore it.
+RACAINERA2_MoreAnnot = FALSE
+
+################## --------------- RACAI NERA2 [END]  ---------------
+
+################## ----------- RACAI Term Aligner Section -----------
+
+#If the term parsed input contains additional parsed input (For instance, annotated named entities), the parser will ignore it.
+RACAITermAligner_MoreAnnot = FALSE
+
+################## ------------ RACAI Term Aligner [END]  -----------
+
+#The phrase threshold to be considered for term mapping.
+PhrT2Glo_Thr = 0.4
+
+################## ---------------- LT PHR2GLO [END]  ---------------
+
+################## -------------- MapperUSFD Section ----------------
+
+#The  threshold for NE/term mapping.
+MapperUSFD_Thr = 0.6
+
+#Whether (1) or not (0) to use dictionary translations during term mapping.
+MapperUSFD_UseDictForTerms = 1
+
+################## ---------------- MapperUSFD [END]  ---------------

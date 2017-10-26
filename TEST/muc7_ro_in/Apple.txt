@@ -1,0 +1,183 @@
+﻿<ENAMEX TYPE="PERSON">Apple Inc</ENAMEX> .
+( <ENAMEX TYPE="ORGANIZATION">NASDAQ</ENAMEX> :
+<ENAMEX TYPE="ORGANIZATION">AAPL</ENAMEX> până în ianuarie 2007 <ENAMEX TYPE="PERSON">Apple Computer</ENAMEX> , Inc . )
+este o companie din Silicon <ENAMEX TYPE="LOCATION">Valley</ENAMEX> , cu sediul în <ENAMEX TYPE="LOCATION">Cupertino</ENAMEX> , <ENAMEX TYPE="LOCATION">California</ENAMEX> , cu scop principal de activitate în tehnologia computerelor .
+Cunoscută mai ales pentru computerele <ENAMEX TYPE="PERSON">Macintosh</ENAMEX> , <ENAMEX TYPE="PERSON">Apple</ENAMEX> are o reputație de inovație în industria de înaltă tehnologie .
+Cuprins [ ascunde ] .
+1 Istorie .
+2 1976-1980 :
+<TIMEX TYPE="TIME">Primii ani</TIMEX> .
+3 Anii tinereții .
+4 1981-1985 :
+Lisă și <ENAMEX TYPE="LOCATION">Macintosh</ENAMEX> .
+5 1986-1993 :
+Creștere și cădere .
+6 1994-1997 :
+Încercări de reinventare .
+7 1998-2005 :
+Întoarcerea la profitabilitate .
+8 2005 – prezent .
+9 <ENAMEX TYPE="PERSON">Apple</ENAMEX> în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+10 Note .
+11 Vezi și .
+12 Legături externe .
+[ modificare ] Istorie .
+Sediul central al companiei <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> .
+În 1976 , Steve <ENAMEX TYPE="PERSON">Jobs</ENAMEX> și <ENAMEX TYPE="PERSON">Steven Wozniak</ENAMEX> porneau o firmă de produse electronice într- un garaj închiriat din Palo Alto , în sudul <ENAMEX TYPE="LOCATION">Californiei</ENAMEX> .
+Acest garaj este temelia a ceea ce urma să devină curând " Silicon <ENAMEX TYPE="PRODUCT">Valley</ENAMEX> " .
+Peste 37 de ani , alți doi tineri , într- un alt garaj , porneau o altă firmă legendară :
+<ENAMEX TYPE="LOCATION">Apple</ENAMEX> , o afacere de zeci de miliarde de dolari a fost începută în acel garaj .
+Adevăratul strămoș al computerelor personale nu a fost acel <ENAMEX TYPE="ORGANIZATION">PC</ENAMEX> produs de <ENAMEX TYPE="PERSON">IBM</ENAMEX> în 1981 - așa cum se crede de obicei - ci un alt aparat numit <ENAMEX TYPE="ORGANIZATION">Altair</ENAMEX> , care fusese lansat pe piață cu mare succes în 1975 de către compania Micro <ENAMEX TYPE="PRODUCT">Instrumentation and Telemetry Systems</ENAMEX> ( <ENAMEX TYPE="ORGANIZATION">MITS</ENAMEX> ) , din <ENAMEX TYPE="LOCATION">Albuquerque</ENAMEX> , <ENAMEX TYPE="PERSON">New Mexico</ENAMEX> .
+<ENAMEX TYPE="PERSON">Altair</ENAMEX> putea fi comandat și primit prin poștă ;
+probleme mari nu avea - dacă nu luăm în seamă faptul că venea sub formă unor componente pe care trebuia să le asamblezi personal .
+Ce se putea face cu această mașinărie ?
+Nimic , trebuie s- o recunoaștem ;
+asta până când doi hackeri adolescenți , pe nume <ENAMEX TYPE="PERSON">Bill Gates</ENAMEX> și <ENAMEX TYPE="PERSON">Paul Allen</ENAMEX> au scris pentru el o versiune de <ENAMEX TYPE="ORGANIZATION">BASIC</ENAMEX> , cu care se puteau realiza calcule rudimentare .
+Tot în 1975 , un tânăr numit Steve <ENAMEX TYPE="ORGANIZATION">Jobs</ENAMEX> se chinuia să -și afle un țel în viață , acum că terminase liceul ;
+fusese în <ENAMEX TYPE="LOCATION">India</ENAMEX> și se întorsese ;
+fusese la o fermă în <ENAMEX TYPE="LOCATION">Oregon</ENAMEX> și se întorsese ;
+acum își pierdea timpul la <ENAMEX TYPE="LOCATION">Atari</ENAMEX> , ca programator pentru jocuri video și frecvența un club de pasionați ai computerelor , care își ținea reuniunile într- un parc , pe timpul nopții .
+Când apăruse <ENAMEX TYPE="PERSON">Altair</ENAMEX> , membrii clubului au fost fericiți că făcuseră rost de o nouă jucărie ;
+<ENAMEX TYPE="PERSON">Jobs</ENAMEX> însă a văzut aici o modalitate de a câștiga ceva bani .
+Imediat s- a gândit să facă și el un asemenea computer .
+Excelentă idee , numai că nu avea calificarea necesară .
+De aceea a apelat la un amic - Steve <ENAMEX TYPE="PERSON">Wozniak</ENAMEX> ( pe scurt " <ENAMEX TYPE="PRODUCT">Woz</ENAMEX> " ) - care tocmai scrisese un limbaj de programare pentru un microprocesor nou , numit <ENAMEX TYPE="LOCATION">MOS Technology 6502</ENAMEX> .
+Spre deosebire de <ENAMEX TYPE="LOCATION">Jobs</ENAMEX> , chinuit de probleme existențiale , <ENAMEX TYPE="PERSON">Woz</ENAMEX> era un tip retras , care preferă să stea și să apese pe butoanele tastaturii , în loc să cutreiere lumea în lung și- n lat .
+În acest fel , acumulase cunoștințe inginerești , care îi permiseseră să se angajeze la <ENAMEX TYPE="LOCATION">Hewlett-Packard</ENAMEX> .
+Pentru a pune pe picioare afacerea , <ENAMEX TYPE="PERSON">Jobs</ENAMEX> și- a vîndut <ENAMEX TYPE="ORGANIZATION">Volkswagen -ul</ENAMEX> său vopsit în toate culorile curcubeului , iar <ENAMEX TYPE="PERSON">Woz</ENAMEX> s- a despărțit de calculatorul său programabil .
+Părinții lui <ENAMEX TYPE="PERSON">Jobs</ENAMEX> aveau un garaj în <ENAMEX TYPE="LOCATION">Los Altos</ENAMEX> , <ENAMEX TYPE="PERSON">California</ENAMEX> ;
+acolo și- au stabilit cei doi cartierul general - garajul le servea drept cameră a proiectanților , unitate de service și magazin , în același timp .
+După câtva timp au realizat 50 de plăci de bază , proiectate de <ENAMEX TYPE="PRODUCT">Woz</ENAMEX> , pe care le- au vândut amatorilor locali , la prețul de 500 de dolari bucată .
+Noile jucării au fost botezate <ENAMEX TYPE="LOCATION">Apple</ENAMEX> , după numele casei de discuri care producea melodiile <ENAMEX TYPE="LOCATION">Beatles</ENAMEX> , grupul preferat al lui <ENAMEX TYPE="PERSON">Jobs</ENAMEX> .
+1 aprilie <ENAMEX TYPE="PERSON">este</ENAMEX> ziua păcălelilor , dar 1 aprilie <ENAMEX TYPE="MONEY">1976</ENAMEX> a fost și o zi istorică pentru ei , ziua în care s- a vândut primul <ENAMEX TYPE="PERSON">Apple</ENAMEX> .
+<ENAMEX TYPE="PRODUCT">Apple II</ENAMEX> .
+Vânzările mergeau bine , atât de bine încât cei doi și- au dat seama că nu mai erau competenți să conducă o afacere care lua proporții ;
+de aceea , l- au cooptat pe proaspătul pensionar <ENAMEX TYPE="PERSON">Mike Markkula</ENAMEX> , care reușise invidiata performanță de a ieși la pensie la vârsta de 32 de ani ( acest lucru fusese posibil după câteva manevre pline de succes cu acțiunile bursiere ale lui <ENAMEX TYPE="PERSON">Intel</ENAMEX> ) .
+<ENAMEX TYPE="PERSON">Markkula</ENAMEX> a înțeles imediat că este vorba de o afacere profitabilă ;
+a obținut un împrumut de la <ENAMEX TYPE="LOCATION">Bank of America</ENAMEX> , punând la bătaie în plus 91.000 dolari din banii săi .
+Investiția s- a dovedit rentabilă , deoarece pe 3 ianuarie <TIMEX TYPE="DATE">1978</TIMEX> mică firmă a celor trei a devenit <ENAMEX TYPE="PERSON">Apple Incorporated</ENAMEX> , cu un capital de 250.000 dolari .
+În acele zile , sediul firmei s- a mutat la <ENAMEX TYPE="LOCATION">Cupertino</ENAMEX> , pe locul unde urma să apară întinsul campus <ENAMEX TYPE="LOCATION">Apple</ENAMEX> .
+Nu mult după aceea a apărut <ENAMEX TYPE="PERSON">Apple II</ENAMEX> , care era ceva mai mult decât o simplă placă de bază - avea cutia să proprie , sursă de alimentare și o tastatură încorporată .
+Multe elemente noi și atractive apăruseră , ca de pildă posibilitatea de a conecta computerul la un monitor color .
+Nu e de mirare deci că la <ENAMEX TYPE="LOCATION">West Coast Computer Fair</ENAMEX> , în aprilie 1978 , <ENAMEX TYPE="LOCATION">Apple II</ENAMEX> a devenit cea mai populară mașină , iar vânzările au atins cifra de 300 de milioane de dolari .
+Succesul acestui tip de aparate a atras în competiție nenumărate firme .
+Atari , <ENAMEX TYPE="LOCATION">Zenith</ENAMEX> , <ENAMEX TYPE="LOCATION">Commodore</ENAMEX> , <ENAMEX TYPE="PERSON">Tandy</ENAMEX> au început să producă tot felul de computere similare și incompatibile .
+Adevărata problemă a apărut însă atunci când în ring a intrat <ENAMEX TYPE="ORGANIZATION">IBM</ENAMEX> .
+Nu cu mult entuziasm , e adevărat - <ENAMEX TYPE="PRODUCT">IBM</ENAMEX> vindea mainframes cu cel puțin un milion de dolari bucată și avea o cifră de afaceri de 26 miliarde anual , așa că vânzarea unor mizilicuri de nici 5.000 de dolari nu părea foarte atractivă .
+Cu toate acestea , piața computerelor personale era prea dinamică pentru a putea fi neglijată , așa că <ENAMEX TYPE="LOCATION">IBM</ENAMEX> a scos în 1981 un aparat destul de slab , numit <ENAMEX TYPE="PRODUCT">PC</ENAMEX> .
+Pentru <ENAMEX TYPE="LOCATION">Apple</ENAMEX> , aflat în plin avânt , acest lucru nu a avut vreo semnificație deosebită ;
+chiar dacă era <ENAMEX TYPE="LOCATION">IBM</ENAMEX> , în acel moment nu era decât un competitor printre mulți alții , aflați cu mult în urma <ENAMEX TYPE="LOCATION">Apple</ENAMEX> .
+Și asta deoarece <ENAMEX TYPE="LOCATION">Apple</ENAMEX> scosese un model revoluționar :
+<ENAMEX TYPE="LOCATION">Macintosh</ENAMEX> .
+Diferențele între lumea <ENAMEX TYPE="ORGANIZATION">PC -urilor IBM</ENAMEX> și a celor produse de <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> se adâncise ;
+deși primele se numeau " computere personale " , cu greu puteai găsi aparate mai impersonale și mai neprietenoase .
+Până și formă lor colțuroasă contrasta cu rotunjimile <ENAMEX TYPE="ORGANIZATION">Macintosh</ENAMEX> -urilor .
+Oricine pornea computerul dădea de un ecran negru ;
+trebuia să scrii comenzi criptice și era suficient să greșești o literă , pentru a fi lămurit cu replici pline de înțeles ca " <ENAMEX TYPE="PRODUCT">Bad command or file name</ENAMEX> " .
+<ENAMEX TYPE="ORGANIZATION">Macintosh</ENAMEX> -urile erau cu totul altfel ;
+când porneai calculatorul , dădeai de mutrița veselă a unui Mac .
+În plus , spre deosebire de <ENAMEX TYPE="ORGANIZATION">PC</ENAMEX> -uri computerele <ENAMEX TYPE="PERSON">Apple</ENAMEX> aveau o interfață grafică ușor de folosit , care a fost introdusă în sistemul de operare al <ENAMEX TYPE="ORGANIZATION">PC</ENAMEX> -urilor abia de <ENAMEX TYPE="ORGANIZATION">Windows</ENAMEX> 3.1 ( de fapt de la primele versiuni de Windows , dar 3.1 a fost una din cele mai populare și din care s- a desprins și <ENAMEX TYPE="PERSON">Windows for</ENAMEX> workgroups ) .
+[ modificare ] 1976-1980 :
+<TIMEX TYPE="TIME">Primii ani</TIMEX> .
+<ENAMEX TYPE="LOCATION">Apple I</ENAMEX> , <ENAMEX TYPE="PERSON">Primul produs Apple</ENAMEX> .
+[ modificare ] Anii tinereții .
+Steve <ENAMEX TYPE="PERSON">Jobs</ENAMEX> și Steve <ENAMEX TYPE="PERSON">Wozniak</ENAMEX> ( “ cei doi Steve ” ) erau prieteni de ceva timp , cam din 1971 , când un amic comun al lor , <ENAMEX TYPE="PERSON">Bill Fernantez</ENAMEX> , l- a prezentat pe <ENAMEX TYPE="PERSON">Wozniak</ENAMEX> , care avea 21 de ani , lui <ENAMEX TYPE="PERSON">Jobs</ENAMEX> , care avea 16 ani .
+<ENAMEX TYPE="PERSON">Jobs</ENAMEX> a reușit să -l convingă pe <ENAMEX TYPE="PERSON">Wozniak</ENAMEX> să scrie împreună un limbaj de asamblare pe care apoi aveau să -l vândă .
+<ENAMEX TYPE="PERSON">Jobs</ENAMEX> a luat legătura cu un magazin local de calculatoare , The Byte Shop , de unde i s- a răspuns că ar fi interesați să vândă aparatul lui dar numai dacă l- ar avea gata montat .
+Proprietarul magazinului , <ENAMEX TYPE="PERSON">Paul Terrell</ENAMEX> , a mers mai departe comandîndu -i lui <ENAMEX TYPE="PERSON">Jobs 50</ENAMEX> de aparate pe care urma să le plăteasca la livrare cu 500 $ per bucată .
+Atunci <ENAMEX TYPE="PERSON">Jobs</ENAMEX> a acceptat comandă și s- a dus la <ENAMEX TYPE="LOCATION">Cramer Electronics</ENAMEX> , un mare distribuitor de piese electronice , de unde a comandat la rândul lui componentele necesare asamblării Computerului <ENAMEX TYPE="PERSON">Apple I. Directorul departamentului Credite</ENAMEX> l- a întrebat atunci pe <ENAMEX TYPE="PERSON">Jobs</ENAMEX> cum avea de gând să plătească piesele , iar <ENAMEX TYPE="PERSON">Jobs</ENAMEX> i- a răspuns “ Am o comandă din partea lanțului de magazine Byte Shop pentru 50 de bucăți <ENAMEX TYPE="LOCATION">Apple I</ENAMEX> , cu plata la livrare .
+Dacă -mi livrați componentele , în 30 de zile pot construi calculatoarele , în intervalul de livrare , îmi încasez banii de la <ENAMEX TYPE="ORGANIZATION">Terrell</ENAMEX> de la Byte Shop , și vă plătesc ” .
+Auzind asta , directorul de la Credite l- a sunat pe <ENAMEX TYPE="PERSON">Paul Terrell</ENAMEX> , care participă la o conferință a organizației <ENAMEX TYPE="ORGANIZATION">IEEE</ENAMEX> , la <ENAMEX TYPE="LOCATION">Asilomar</ENAMEX> în <ENAMEX TYPE="LOCATION">Pacific Grove</ENAMEX> , și a verificat valabilitatea Comenzii de <ENAMEX TYPE="LOCATION">Livrare</ENAMEX> .
+Uimit de tenacitatea lui <ENAMEX TYPE="ORGANIZATION">Jobs</ENAMEX> , <ENAMEX TYPE="LOCATION">Terrell</ENAMEX> l- a asigurat pe directorul de la credite că după ce calculatoarele ajung pe rafturile magazinelor sale , <ENAMEX TYPE="PERSON">Jobs</ENAMEX> își va încasa banii și va avea mai mult decât suficient să plătească piesele .
+Cei doi Steve și mică lor echipă au petrecut zi și noapte construind și testînd calculatoarele , pe care apoi le- au trimis la <ENAMEX TYPE="ORGANIZATION">Terrell</ENAMEX> la timp pentru a- și plăti furnizorii și să scoată și un profit frumușel , cu care au organizat o petrecere și au început comandă următoare .
+Steve <ENAMEX TYPE="PRODUCT">Jobs</ENAMEX> găsise o cale de a- și finanța ceea ce avea să devină compania să multimilionară , fără să vândă vreo acțiune sau vreo proprietate .
+Calculatorul avea puține facilități care să -l facă deosebit .
+Una din ele era posibilitatea de a folosi un televizor pe post de monitor , iar pe atunci multe calculatoare nu aveau monitor deloc .
+Nu era chiar ca monitoarele calculatoarelor ce urmau să apară , și afișa text la o viteză dezamăgitoare de 60 caractere pe secundă , oricum mai repede decât puteau scrie teletype -urile folosite pe calculatoarele de atunci .
+<ENAMEX TYPE="PERSON">Apple I includea</ENAMEX> de asemenea cod de pornire în <ENAMEX TYPE="LOCATION">ROM</ENAMEX> , ceea ce îl făcea mai ușor de utilizat .
+Nu în ultimul rând , la insistențele lui <ENAMEX TYPE="PERSON">Paul Terrell</ENAMEX> , <ENAMEX TYPE="PERSON">Wozniak</ENAMEX> a proiectat și o interfață pentru casetă audio , pentru încărcarea și salvarea programelor , la viteza fantastică de 1200 biți pe secundă .
+Deși calculatorul era destul de simplu , era totuși o capodoperă a proiectării , folosind mult mai puține piese decât orice alt aparat din aceeași categorie , și conferindu -i repede lui Wozniak reputația de proiectant de înaltă clasă .
+Compania <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> a fost înființată la 1 aprilie , <TIMEX TYPE="DATE">1976</TIMEX> de către Steve <ENAMEX TYPE="PRODUCT">Jobs</ENAMEX> , Steve <ENAMEX TYPE="PRODUCT">Wozniak</ENAMEX> , și <ENAMEX TYPE="PRODUCT">Ronald Wayne</ENAMEX> , pentru a vinde calculator personal <ENAMEX TYPE="LOCATION">Apple I. Acestea</ENAMEX> au fost construite de mână de către <ENAMEX TYPE="PERSON">Wozniak</ENAMEX> și prima dată arătate publicului la <ENAMEX TYPE="LOCATION">Homebrew Computer Club</ENAMEX> .
+<ENAMEX TYPE="PERSON">Apple I a fost vândut</ENAMEX> ca o placă de bază ( cu procesor , memorie RAM ) , mai puțin decât ceea ce este astăzi considerat un computer personal .
+<ENAMEX TYPE="PERSON">Apple I a fost lansat</ENAMEX> pe piață în iulie 1976 cu prețul de 666 .
+66$ .
+<ENAMEX TYPE="PERSON">Apple</ENAMEX> a fost încorporat la 3 ianuarie <TIMEX TYPE="DATE">1977</TIMEX> , fără <ENAMEX TYPE="PRODUCT">Wayne</ENAMEX> , care a vândut partea să din cadrul companiei înapoi la <ENAMEX TYPE="LOCATION">Jobs</ENAMEX> și <ENAMEX TYPE="LOCATION">Wozniak</ENAMEX> pentru 800$ .
+<ENAMEX TYPE="PERSON">Mike Markula</ENAMEX> furniza afaceri finanțare și de expertiză de 250 .
+000$ în timpul încorporării <ENAMEX TYPE="LOCATION">Apple</ENAMEX> .
+<ENAMEX TYPE="PRODUCT">Apple II</ENAMEX> a fost introdus la 16 aprilie <TIMEX TYPE="DATE">1977</TIMEX> , la <ENAMEX TYPE="LOCATION">West Coast Computer Faire</ENAMEX> .
+Se diferenția de rivalii <ENAMEX TYPE="PRODUCT">TRS-80</ENAMEX> și <ENAMEX TYPE="PERSON">Commodore PET</ENAMEX> , pentru că venea cu o grafică colorată și o arhitectură deschisă .
+În timp ce modelele de dinainte foloseau benzi de casetă ca și dispozitive de stocare , <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> folosea 5 diskete floppy de 1 / 4 inch pentru interfață , numite Disk <ENAMEX TYPE="ORGANIZATION">II</ENAMEX> .
+<ENAMEX TYPE="PRODUCT">Apple II</ENAMEX> a fost ales de către <ENAMEX TYPE="PERSON">VisiCalc</ENAMEX> - program de calcul tabelar - pentru a fi platformă desktop pentru primul " killer ap " .
+<ENAMEX TYPE="ORGANIZATION">VisiCalc</ENAMEX> a creat o piață de afaceri pentru <ENAMEX TYPE="PRODUCT">Apple II</ENAMEX> și a dat utilizatorilor un motiv în plus să cumpere <ENAMEX TYPE="ORGANIZATION">Apple II</ENAMEX> - compatibilitatea cu biroul .
+În conformitate cu <ENAMEX TYPE="PERSON">Brian Bagnall</ENAMEX> , <ENAMEX TYPE="PERSON">Apple</ENAMEX> a exagerat cifrele de vânzări fiind pe locul trei după <ENAMEX TYPE="LOCATION">Commodore</ENAMEX> și <ENAMEX TYPE="PERSON">Tandi</ENAMEX> până a venit <ENAMEX TYPE="ORGANIZATION">VisiCalc</ENAMEX> .
+Până la sfârșitul anului 1970 , <ENAMEX TYPE="PERSON">Apple</ENAMEX> a avut o linie de designeri de calculatoare personale și o linie de producție .
+<ENAMEX TYPE="PRODUCT">Apple II</ENAMEX> a fost urmat de <ENAMEX TYPE="PRODUCT">Apple III</ENAMEX> , în mai 1980 din postură de societate concurat cu <ENAMEX TYPE="ORGANIZATION">IBM</ENAMEX> și Microsoft în mediul de afaceri .
+<ENAMEX TYPE="PERSON">Jobs</ENAMEX> și mai mulți angajați apple împreună cu <ENAMEX TYPE="PERSON">Jef Raskin</ENAMEX> au vizitat Xerox PARC în decembrie 1979 pentru a vedea Xerox Alto .
+Xerox a acordat inginerilor <ENAMEX TYPE="PRODUCT">Apple trei zile</ENAMEX> de acces la facilitățile PARC într- un 1 milion$ în pre-IPO <ENAMEX TYPE="PERSON">Apple stock</ENAMEX> .
+<ENAMEX TYPE="PERSON">Jobs</ENAMEX> a fost convins de faptul că toate viitoarele computere vor utiliza o interfață grafică , precum și dezvoltarea de o interfață grafică ;
+a început pentru <ENAMEX TYPE="ORGANIZATION">Apple Lisă</ENAMEX> .
+[ modificare ] 1981-1985 :
+Lisă și <ENAMEX TYPE="LOCATION">Macintosh</ENAMEX> .
+<ENAMEX TYPE="PERSON">Macintosh</ENAMEX> 128K , <ENAMEX TYPE="PERSON">Primul calculator Macintosh</ENAMEX> .
+Steve <ENAMEX TYPE="PERSON">Jobs</ENAMEX> a început lucrul la <ENAMEX TYPE="LOCATION">Apple Lisă</ENAMEX> în 1978 , dar în 1982 a fost înlăturat din echipă Lisă .
+În 1983 Lisă a fost primul computer personal vândut pentru public cu o interfață grafică , dar comercializarea lui a fost un eșec din cauza prețului mare și a numărului limitat de aplicații .
+În 1984 <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> lansează <ENAMEX TYPE="PERSON">Macintosh</ENAMEX> .
+Debutul său a fost anunțat de faimoasa reclamă de 1,5 milioane $ din 1984 .
+Această a fost regizată de <ENAMEX TYPE="PERSON">Ridley Scott</ENAMEX> în 22 ianuarie <TIMEX TYPE="DATE">1984</TIMEX> , iar acum este considerat un eveniment crucial pentru succesul <ENAMEX TYPE="LOCATION">Apple</ENAMEX> .
+La început <ENAMEX TYPE="PRODUCT">Macintosh</ENAMEX> s- a vândut bine , dar vânzările următoare nu au fost foarte puternice .
+Vânzările <ENAMEX TYPE="PERSON">Apple</ENAMEX> a atins noi cote înalte , iar compania a avut prima ofertă publică pe 7 septembrie <TIMEX TYPE="DATE">1984</TIMEX> .
+<ENAMEX TYPE="PERSON">Apple</ENAMEX> este în continuă creștere în 1980 datorită vânzărilor din sectorul educației , atribuite de adaptare la limbajul de programare LOGO , folosite în multe școli cu <ENAMEX TYPE="ORGANIZATION">Apple II</ENAMEX> .
+În unitatea de învățământ a fost făcută o donație de <ENAMEX TYPE="PRODUCT">Apple II</ENAMEX> și un pachet software <ENAMEX TYPE="PERSON">Apple LOGO</ENAMEX> publice pentru fiecare școală din stat .
+[ modificare ] 1986-1993 :
+Creștere și cădere .
+Apărut în 1989 <ENAMEX TYPE="PERSON">Macintosh Portable</ENAMEX> a fost primul calculator " portabil " al <ENAMEX TYPE="LOCATION">Apple</ENAMEX> .
+După ce a învățat câteva lecții dureroase după introducrecea voluminosului <ENAMEX TYPE="PRODUCT">Macintosh Portable</ENAMEX> în 1989 , <ENAMEX TYPE="PERSON">Apple</ENAMEX> introduce în 1991 <ENAMEX TYPE="PERSON">PowerBook</ENAMEX> care a stabilit formă modernă și ergonomică a computerelor laptop .
+În același an <ENAMEX TYPE="PERSON">Apple</ENAMEX> a introdus <ENAMEX TYPE="PERSON">System 7</ENAMEX> , un mare upgrade pentru sistemul de operare care adaugă culoare interfeței grafice și introducea noi capabilități petntru funcțiile de rețea .
+Ca urmare a succesului de <ENAMEX TYPE="ORGANIZATION">LC</ENAMEX> , <ENAMEX TYPE="PERSON">Apple</ENAMEX> a prezentat <ENAMEX TYPE="PERSON">Centris linie</ENAMEX> .
+Sfârșitul a fost dezastruos pentru <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> .
+În acest timp <ENAMEX TYPE="PERSON">Apple</ENAMEX> a experimentat cu o serie de alte produse care nu au avut succes pe piață cum ar fi aparate foto digitale , <ENAMEX TYPE="ORGANIZATION">CD-playere</ENAMEX> audio portabile , difuzoare , console video , aparate <ENAMEX TYPE="ORGANIZATION">TV.</ENAMEX>
+<ENAMEX TYPE="PERSON">Seria Apple II</ENAMEX> a fost considerată prea scumpă pentru a începe producția .
+În 1990 <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> lansează pe piață <ENAMEX TYPE="PERSON">Macintosh LC</ENAMEX> cu un singur slot de extensie pentru Cardul <ENAMEX TYPE="LOCATION">Apple</ENAMEX> .
+<ENAMEX TYPE="PERSON">Apple</ENAMEX> a încetat să mai vândă <ENAMEX TYPE="ORGANIZATION">Apple II</ENAMEX> în 1993 .
+[ modificare ] 1994-1997 :
+Încercări de reinventare .
+De la începutul anilor ' 90 <ENAMEX TYPE="LOCATION">Apple</ENAMEX> dezvoltă platforme alternative pentru <ENAMEX TYPE="PRODUCT">Macintosh</ENAMEX> cum ar fi A / <ENAMEX TYPE="PRODUCT">UX</ENAMEX> ( <ENAMEX TYPE="PERSON">Apple Unix</ENAMEX> ) datorită concurenței din partea OS / 2 și <ENAMEX TYPE="LOCATION">Unix</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Macintosh</ENAMEX> trebuia să fie înlocuit cu o nouă platformă pentru a rula pe hardware mai puternic .
+În 1993 <ENAMEX TYPE="PERSON">Apple</ENAMEX> începe să lucreze împreună cu <ENAMEX TYPE="PERSON">IBM</ENAMEX> , <ENAMEX TYPE="PERSON">Motorola</ENAMEX> în <ENAMEX TYPE="LOCATION">Alinata AIM</ENAMEX> .
+Scopul lor era să creeze o nouă platformă pentru computere care ar folosi ulterior hardware <ENAMEX TYPE="PRODUCT">IBM</ENAMEX> și <ENAMEX TYPE="LOCATION">Motorola</ENAMEX> împreună cu software -ul <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> .
+În același an <ENAMEX TYPE="PERSON">Apple</ENAMEX> prezintă <ENAMEX TYPE="ORGANIZATION">Power Macintosh</ENAMEX> , primul dintre multele computere care foloseau procesorul <ENAMEX TYPE="ORGANIZATION">PowerPC</ENAMEX> de la <ENAMEX TYPE="ORGANIZATION">IBM</ENAMEX> .
+În 1996 , <ENAMEX TYPE="PERSON">Michael Spindler</ENAMEX> a fost înlocuit de <ENAMEX TYPE="PERSON">Gil Amelio</ENAMEX> în funcția de <ENAMEX TYPE="ORGANIZATION">CEO</ENAMEX> ( director general ) .
+[ modificare ] 1998-2005 :
+Întoarcerea la profitabilitate .
+Sediul companiei , Infinite <ENAMEX TYPE="PERSON">Loop</ENAMEX> în <ENAMEX TYPE="LOCATION">Cupertino</ENAMEX> , <ENAMEX TYPE="LOCATION">California</ENAMEX> .
+<ENAMEX TYPE="PRODUCT">Apple Store</ENAMEX> , <ENAMEX TYPE="ORGANIZATION">New York City</ENAMEX> .
+La 15 august <TIMEX TYPE="DATE">1998</TIMEX> <ENAMEX TYPE="PERSON">Apple</ENAMEX> a introdus pe piață un nou calculator care amintește de <ENAMEX TYPE="PERSON">Macintosh</ENAMEX> 128k :
+iMac .
+Echipa de design a iMac -ului a fost condusă de <ENAMEX TYPE="PERSON">Jonathan Ive</ENAMEX> , cel care mai târziu avea să facă designul iPod -ului și iPhone -ului .
+<ENAMEX TYPE="PRODUCT">Apple</ENAMEX> a vândut aproape de 800.000 de unități în primele cinci luni și prin asta a revenit la profitabilitate pentru prima dată după 1993 .
+În 1998 <ENAMEX TYPE="PERSON">Apple</ENAMEX> a anunțat scoaterea pe piață a software -ului <ENAMEX TYPE="PERSON">Macromedia Final Cut</ENAMEX> , extinzâdu -se pe piața de editare digitală .
+În anul următor <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> lansează alte două produse de editare :
+iMovie și Final <ENAMEX TYPE="ORGANIZATION">Cut</ENAMEX> Pro care mai târziu urma să fie un semnificant program de editare video cu peste 800.000 de utilizatori înregistrați la începutul lui 2007 .
+În 2002 <ENAMEX TYPE="LOCATION">Apple</ENAMEX> scoate pe piață și pachetele software <ENAMEX TYPE="ORGANIZATION">Nothing Real</ENAMEX> , <ENAMEX TYPE="LOCATION">Shake</ENAMEX> , <ENAMEX TYPE="LOCATION">Emagic</ENAMEX> , <ENAMEX TYPE="LOCATION">GarageBand</ENAMEX> , iPhoto și iLife .
+La 24 Martie <TIMEX TYPE="DATE">2001</TIMEX> , după câțiva ani de dezvoltare , apare sistemul de operare Mac OS <ENAMEX TYPE="ORGANIZATION">X</ENAMEX> , bazat pe <ENAMEX TYPE="PRODUCT">OPENSTEP</ENAMEX> și <ENAMEX TYPE="PERSON">BSD Unix</ENAMEX> .
+La 18 mai <TIMEX TYPE="DATE">2001</TIMEX> se deschide primul <ENAMEX TYPE="PERSON">Apple Retail Store</ENAMEX> ( prăvălie cu amănuntul , specializată și oficială ) în <ENAMEX TYPE="LOCATION">Virginia</ENAMEX> , <ENAMEX TYPE="LOCATION">California</ENAMEX> , <ENAMEX TYPE="">SUA</ENAMEX> .
+În același ani <ENAMEX TYPE="PRODUCT">Apple</ENAMEX> scoate pe piață produsul portabil iPod , un audioplayer digital , care a fost un mare succes de piață :
+în 6 ani au fost vândute peste 100 de milioane de unități .
+În 2003 a fost prezentat <ENAMEX TYPE="PERSON">Apple produsul</ENAMEX> iTunes <ENAMEX TYPE="PERSON">Store</ENAMEX> , o prăvălie online în web , această oferind muzică disponibilă legal pentru download pentru 0,99 $ pe cântec .
+Serviciul a devenit rapid lider de piață , cu peste 5 miliarde de descărcări până în iunie 2008 .
+[ modificare ] 2005 – prezent .
+În anul 2010 compania <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> a lansat computerul tabletă iPad , mai întâi în Statele Unite ale <ENAMEX TYPE="LOCATION">Americii</ENAMEX> și pe cele 2 continente ale Americii , care imediat a devenit celebru .
+Acesta îndeplinește în același timp rolul mai multor aparate sau dispozitive mobile , ca de ex. smartphone mobil , aparat de navigație după sistemul <ENAMEX TYPE="ORGANIZATION">GPS</ENAMEX> , e- <ENAMEX TYPE="PRODUCT">Reader</ENAMEX> ( cu acesta se pot accesa biblioteci și librării digitale și citi cărți pe ecranul iPad ) , browser Internet , jocuri electronice , dicționare electronice și multe altele .
+Videoclip de prezentare iPad :
+http :
+/ / www .
+youtube .
+com / watch ?
+v = gHBMEqbt0GQ .
+[ modificare ] <ENAMEX TYPE="PERSON">Apple</ENAMEX> în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+În prezent ( martie 2009 ) , unicul importator de sisteme <ENAMEX TYPE="PERSON">Apple</ENAMEX> în <ENAMEX TYPE="LOCATION">România</ENAMEX> este <ENAMEX TYPE="PRODUCT">Integrated Romanian Information System</ENAMEX> ( <ENAMEX TYPE="PERSON">I.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">R</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">I.S</ENAMEX> ) [ 4 ] .
+Vânzările <ENAMEX TYPE="PERSON">Apple</ENAMEX> în <ENAMEX TYPE="LOCATION">România</ENAMEX> au depășit , în anul 2008 , valoarea de 14 milioane Euro [ 4 ] .
+În 2009 a început să circule în <ENAMEX TYPE="LOCATION">Internet</ENAMEX> o petiție deschisă , prin care semnatarii ei cer <ENAMEX TYPE="LOCATION">Apple</ENAMEX> să deschidă o filială proprie în <ENAMEX TYPE="LOCATION">România</ENAMEX> , astfel încât clienții comapaniei din <ENAMEX TYPE="LOCATION">România</ENAMEX> să poată beneficia de software localizat ( în speță Mac OS <ENAMEX TYPE="LOCATION">X</ENAMEX> ) , de serviciul iTunes , de o distribuție mai bună a produselor și de informații traduse pe situl web <ENAMEX TYPE="LOCATION">Apple</ENAMEX> .
+[ 5 ] .

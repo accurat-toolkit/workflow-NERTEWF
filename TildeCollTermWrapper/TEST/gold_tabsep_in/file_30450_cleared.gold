@@ -1,0 +1,2739 @@
+Šī	P	šis	P-fsn-------d-------------f-	0	0	0	1	O
+informācija	N	informācija	N-fsn---------n-----------l-	0	3	0	13	B-TERM
+attiecas	V	attiekties	Vp----3--i-----y----------l-	0	15	0	22	O
+uz	S	uz	S----------------sgp------l-	0	24	0	25	O
+sistēmas	N	sistēma	N-fsg---------n-----------l-	0	27	0	34	B-TERM
+Windows	N	Windows	N-fsg---------n-----------f-	0	36	0	42	O
+ pārlūkprogrammu	-	 pārlūkprogrammu	----------------------------	0	43	0	58	O
+Internet	N	Internet	N-fsa---------n-----------f-	0	60	0	67	O
+ Explorer	-	 Explorer	----------------------------	0	68	0	76	O
+ 7	-	 7	----------------------------	0	77	0	78	O
+un	C	un	C---------------------c---l-	0	80	0	81	O
+sistēmas	N	sistēma	N-fsg---------n-----------l-	0	83	0	90	B-TERM
+Windows	N	Windows	N-fsn---------n-----------f-	0	92	0	98	O
+ pārlūkprogrammu	-	 pārlūkprogrammu	----------------------------	0	99	0	114	O
+Internet	N	Internet	N-fsa---------n-----------f-	0	116	0	123	O
+ Explorer	-	 Explorer	----------------------------	0	124	0	132	O
+ 8	-	 8	----------------------------	0	133	0	134	O
+.	SENT	.	T--------------------------.	0	135	0	135	O
+
+
+Internets	N	internets	N-msn---------n-----------f-	1	0	1	8	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	1	10	1	11	O
+tīkls	N	tīkls	N-msn---------n-----------l-	1	13	1	17	B-TERM
+,	T	,	T--------------------------,	1	18	1	18	O
+kas	P	kas	P---n-------r---------x---l-	1	20	1	22	O
+visā	P	viss	P-fsl-------g-------------l-	1	24	1	27	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	1	29	1	35	O
+savieno	V	savienot	Vp----3--i----------------l-	1	37	1	43	O
+miljoniem	M	miljons	M-mpd---c-----------------l-	1	45	1	53	O
+datoru	N	dators	N-msa---------n-----------l-	1	55	1	60	B-TERM
+.	SENT	.	T--------------------------.	1	61	1	61	O
+
+Nesenā	A	nesens	A-fslp-n--------y---------f-	1	63	1	68	O
+pagātnē	N	pagātne	N-fsl---------n-----------l-	1	70	1	76	O
+tikai	Q	tikai	Q-------------------------l-	1	78	1	82	O
+daži	P	dažs	P-mpn-------i-------------l-	1	84	1	87	O
+cilvēki	N	cilvēks	N-mpn---------n-----------l-	1	89	1	95	O
+kaut ko	P	kaut_kas	P---a-------g-------------l-	1	97	1	103	O
+zināja	V	zināt	Vs----3--i----------------l-	1	105	1	110	O
+par	S	par	S----------------sap------l-	1	112	1	114	O
+internetu	N	internets	N-msa---------n-----------l-	1	116	1	124	B-TERM
+.	SENT	.	T--------------------------.	1	125	1	125	O
+
+Mūsdienās	N	mūsdienas	N-fpl---------n-----------f-	1	127	1	135	O
+internets	N	internets	N-msn---------n-----------l-	1	137	1	145	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	1	147	1	148	O
+radikāli	R	radikāli	R----p--------------------l-	1	150	1	157	O
+mainījis	G	mainījis	Gsmsn--n---a--------------l-	1	159	1	166	O
+datoru	N	dators	N-mpg---------n-----------l-	1	168	1	173	B-TERM
+lietošanas	N	lietošana	N-fsg---------n-----------l-	1	175	1	184	O
+veidu	N	veids	N-msa---------n-----------l-	1	186	1	190	O
+.	SENT	.	T--------------------------.	1	191	1	191	O
+
+Daudzi	M	daudzi	M-mpn---c-----------------f-	1	193	1	198	O
+cilvēki	N	cilvēks	N-mpn---------n-----------l-	1	200	1	206	O
+no	S	no	S----------------sgp------l-	1	208	1	209	O
+tā	P	tas	P-msg-------d-------------l-	1	211	1	212	O
+ir	V	būt	Vp----3--i----------7-----l-	1	214	1	215	O
+atkarīgi	R	atkarīgi	R----p--------------------l-	1	217	1	224	O
+,	T	,	T--------------------------,	1	225	1	225	O
+jo	C	jo	C---------------------r---l-	1	227	1	228	O
+internets	N	internets	N-msn---------n-----------l-	1	230	1	238	B-TERM
+ikdienā	N	ikdiena	N-fsl---------n-----------l-	1	240	1	246	O
+ir	V	būt	Vp----3--i----------7-----l-	1	248	1	249	O
+nepieciešams	G	nepieciešams	Gpmsnp-n---p----y---------l-	1	251	1	262	O
+,	T	,	T--------------------------,	1	263	1	263	O
+lai	C	lai	C---------------------f---l-	1	265	1	267	O
+sazinātos	V	sazināties	Vp-------s-----y----------l-	1	269	1	277	O
+ar	S	ar	S----------------sap------l-	1	279	1	280	O
+citiem	P	cits	P-mpd-------i-------------l-	1	282	1	287	O
+un	C	un	C---------------------c---l-	1	289	1	290	O
+saņemtu	V	saņemt	Vp-------s----------------l-	1	292	1	298	O
+vajadzīgo	A	vajadzīgs	A-fsap-y------------------l-	1	300	1	308	O
+informāciju	N	informācija	N-fsa---------n-----------l-	1	310	1	320	O
+.	SENT	.	T--------------------------.	1	321	1	321	O
+
+Dators	N	dators	N-msn---------n-----------f-	1	323	1	328	B-TERM
+nav	V	nebūt	Vp----3--i------y---1-----l-	1	330	1	332	O
+obligāti	A	obligāts	A-mpnp-n------------------l-	1	334	1	341	O
+jāpievieno	V	pievienot	Vp-------c----------------l-	1	343	1	352	O
+internetam	N	internets	N-msd---------n-----------l-	1	354	1	363	B-TERM
+,	T	,	T--------------------------,	1	364	1	364	O
+taču	C	taču	C-------------------------l-	1	366	1	369	O
+pēc	S	pēc	S----------------sgp------l-	1	371	1	373	O
+datora	N	dators	N-msg---------n-----------l-	1	375	1	380	B-TERM
+pievienošanas	N	pievienošana	N-fsg---------n-----------l-	1	382	1	394	O
+internetam	N	internets	N-msd---------n-----------l-	1	396	1	405	B-TERM
+,	T	,	T--------------------------,	1	406	1	406	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	1	408	1	416	O
+,	T	,	T--------------------------,	1	417	1	417	O
+brīnīsities	V	brīnīties	Vf-p--2--i-----y----------l-	1	419	1	429	O
+,	T	,	T--------------------------,	1	430	1	430	O
+kā	C	kā	C---------------------f---l-	1	432	1	433	O
+bez	S	bez	S----------------sgp------l-	1	435	1	437	O
+tā	P	tas	P-msg-------d-------------l-	1	439	1	440	O
+varējāt	V	varēt	Vs-p--2--i----------3-----l-	1	442	1	448	O
+dzīvot	V	dzīvot	V--------n----------------l-	1	450	1	455	O
+.	SENT	.	T--------------------------.	1	456	1	456	O
+
+
+Kas	P	kas	P---n-------q---------o---f-	2	0	2	2	O
+ir	V	būt	Vp----3--i----------7-----l-	2	4	2	5	O
+tīmeklis	N	tīmeklis	N-msn---------n-----------l-	2	7	2	14	B-TERM
+?	SENT	?	T--------------------------?	2	15	2	15	O
+
+
+Internets	N	internets	N-msn---------n-----------f-	3	0	3	8	B-TERM
+,	T	,	T--------------------------,	3	9	3	9	O
+ko	P	kas	P---a-------r-------------l-	3	11	3	12	O
+pazīst	V	pazīt	Vp----3--i----------------l-	3	14	3	19	O
+lielākā	A	liels	A-fsnc-y------------------l-	3	21	3	27	O
+daļa	N	daļa	N-fsn---------n-----------l-	3	29	3	32	O
+no	S	no	S----------------sgp------l-	3	34	3	35	O
+mums	P	mēs	P--pd-1-----p-------------l-	3	37	3	40	O
+,	T	,	T--------------------------,	3	41	3	41	O
+ir	V	būt	Vp----3--i----------7-----l-	3	43	3	44	O
+globālais	A	globāls	A-msnp-y------------------l-	3	46	3	54	B-TERM
+tīmeklis	N	tīmeklis	N-msn---------n-----------l-	3	56	3	63	I-TERM
+(	T	(	T--------------------------(	3	65	3	65	O
+parasti	R	parasti	R----p--------------------l-	3	66	3	72	O
+tiek	V	tikt	Vp----3--i----------6-----l-	3	74	3	77	O
+dēvēts	G	dēvēts	Gsmsnp-n---p--------------l-	3	79	3	84	O
+par	S	par	S----------------sap------l-	3	86	3	88	O
+tīmekli	N	tīmeklis	N-msa---------n-----------l-	3	90	3	96	B-TERM
+)	T	)	T--------------------------)	3	97	3	97	O
+.	SENT	.	T--------------------------.	3	98	3	98	O
+
+Tīmeklis	N	tīmeklis	N-msn---------n-----------f-	3	100	3	107	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	3	109	3	110	O
+tik	Q	tik	Q-------------------------l-	3	112	3	114	O
+populārs	A	populārs	A-msnp-n------------------l-	3	116	3	123	O
+,	T	,	T--------------------------,	3	124	3	124	O
+ka	C	ka	C---------------------p---l-	3	126	3	127	O
+cilvēki	N	cilvēks	N-mpn---------n-----------l-	3	129	3	135	O
+bieži	R	bieži	R----p--------------------l-	3	137	3	141	O
+jauc	V	jaukt	Vp----3--i----------------l-	3	143	3	146	O
+terminus	N	termins	N-mpa---------n-----------l-	3	148	3	155	O
+internets	N	internets	N-msn---------n-----------l-	3	157	3	165	B-TERM
+un	C	un	C---------------------c---l-	3	167	3	168	O
+tīmeklis	N	tīmeklis	N-msn---------n-----------l-	3	170	3	177	B-TERM
+,	T	,	T--------------------------,	3	178	3	178	O
+domājot	G	domājot	G----------a-n------------l-	3	180	3	186	O
+vienu	M	viens	M-msa---c-----------------l-	3	188	3	192	O
+un	C	un	C---------------------c---l-	3	194	3	195	O
+to	P	tas	P-msa-------d-------------l-	3	197	3	198	O
+pašu	P	pats	P-fsa-------m-------------l-	3	200	3	203	O
+.	SENT	.	T--------------------------.	3	204	3	204	O
+
+Taču	C	taču	C-------------------------f-	3	206	3	209	O
+internetā	N	internets	N-msl---------n-----------l-	3	211	3	219	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	3	221	3	222	O
+iekļauti	G	iekļauts	Gsmpnp-n---p--------------l-	3	224	3	231	O
+arī	Q	arī	Q-------------------------l-	3	233	3	235	O
+citi	P	cits	P-mpn-------i-------------l-	3	237	3	240	O
+pakalpojumi	N	pakalpojums	N-mpn---------n-----------l-	3	242	3	252	O
+,	T	,	T--------------------------,	3	253	3	253	O
+piemēram	R	piemēram	R----p--------------------l-	3	255	3	262	O
+,	T	,	T--------------------------,	3	263	3	263	O
+e	-	e	----------------------------	3	265	3	265	B-TERM
+‑	-	‑	----------------------------	3	266	3	266	I-TERM
+pasts	N	pasts	N-msn---------n-----------l-	3	267	3	271	I-TERM
+,	T	,	T--------------------------,	3	272	3	272	O
+intereškopas	N	intereškopa	N-fsg---------n-----------l-	3	274	3	285	B-TERM
+un	C	un	C---------------------c---l-	3	287	3	288	O
+failu	N	fails	N-mpg---------n-----------l-	3	290	3	294	B-TERM
+koplietošana	N	koplietošana	N-fsn---------n-----------l-	3	296	3	307	I-TERM
+.	SENT	.	T--------------------------.	3	308	3	308	O
+
+Var	V	varēt	Vp----3--i----------3-----f-	3	310	3	312	O
+sūtīt	V	sūtīt	V--------n----------------l-	3	314	3	318	O
+e	-	e	----------------------------	3	320	3	320	B-TERM
+‑	-	‑	----------------------------	3	321	3	321	I-TERM
+pasta	N	pasts	N-msg---------n-----------l-	3	322	3	326	I-TERM
+ziņojumu	N	ziņojums	N-msa---------n-----------l-	3	328	3	335	I-TERM
+vai	C	vai	C---------------------c---l-	3	337	3	339	O
+piedalīties	V	piedalīties	V--------n-----y----------l-	3	341	3	351	O
+intereškopā	N	intereškopa	N-fsl---------n-----------l-	3	353	3	363	B-TERM
+,	T	,	T--------------------------,	3	364	3	364	O
+nelietojot	G	nelietojot	G----------a-n--y---------l-	3	366	3	375	O
+tīmekli	N	tīmeklis	N-msa---------n-----------l-	3	377	3	383	B-TERM
+.	SENT	.	T--------------------------.	3	384	3	384	O
+
+
+Tīmeklī	N	tīmeklis	N-msl---------n-----------f-	4	0	4	6	B-TERM
+informācija	N	informācija	N-fsn---------n-----------l-	4	8	4	18	B-TERM
+tiek	V	tikt	Vp----3--i----------6-----l-	4	20	4	23	O
+parādīta	G	parādīts	Gsfsnp-n---p--------------l-	4	25	4	32	O
+krāsainā	A	krāsains	A-fsnp-y------------------l-	4	34	4	41	O
+,	T	,	T--------------------------,	4	42	4	42	O
+ārēji	A	ārējs	A-mpnp-n------------------l-	4	44	4	48	O
+pievilcīgā	A	pievilcīgs	A-fslp-n------------------l-	4	50	4	59	O
+formā	N	forma	N-fsl---------n-----------l-	4	61	4	65	O
+.	SENT	.	T--------------------------.	4	66	4	66	O
+
+Virsraksti	N	virsraksts	N-mpn---------n-----------f-	4	68	4	77	B-TERM
+,	T	,	T--------------------------,	4	78	4	78	O
+teksts	N	teksts	N-msn---------n-----------l-	4	80	4	85	B-TERM
+un	C	un	C---------------------c---l-	4	87	4	88	O
+attēli	N	attēls	N-mpn---------n-----------l-	4	90	4	95	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	4	97	4	99	O
+būt	V	būt	V--------n----------1-----l-	4	101	4	103	O
+apvienoti	R	apvienoti	R----p--------------------l-	4	105	4	113	O
+vienā	M	viens	M-fsl---c-----------------l-	4	115	4	119	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	4	121	4	127	B-TERM
+lapā	N	lapa	N-fsl---------n-----------l-	4	129	4	132	I-TERM
+(	T	(	T--------------------------(	4	134	4	134	O
+vai	C	vai	C---------------------c---l-	4	135	4	137	O
+lapā	N	lapa	N-fsl---------n-----------l-	4	139	4	142	B-TERM
+)	T	)	T--------------------------)	4	143	4	143	O
+,	T	,	T--------------------------,	4	144	4	144	O
+kas	P	kas	P---n-------r---------x---l-	4	146	4	148	O
+ir	V	būt	Vp----3--i----------7-----l-	4	150	4	151	O
+ļoti	R	ļoti	R----p---------------g----l-	4	153	4	156	O
+līdzīga	A	līdzīgs	A-msgp-n------------------l-	4	158	4	164	O
+žurnāla	N	žurnāls	N-msg---------n-----------l-	4	166	4	172	O
+lappusei	N	lappuse	N-fsd---------n-----------l-	4	174	4	181	O
+—	T	—	T--------------------------—	4	183	4	183	O
+tikai	Q	tikai	Q-------------------------l-	4	185	4	189	O
+ar	S	ar	S----------------sap------l-	4	191	4	192	O
+pievienotu	G	pievienots	Gsmsap-n---p--------------l-	4	194	4	203	O
+skaņu	N	skaņa	N-fsa---------n-----------l-	4	205	4	209	B-TERM
+un	C	un	C---------------------c---l-	4	211	4	212	O
+animāciju	N	animācija	N-fsa---------n-----------l-	4	214	4	222	B-TERM
+.	SENT	.	T--------------------------.	4	223	4	223	O
+
+Tīmekļa	N	tīmeklis	N-msg---------n-----------f-	4	225	4	231	B-TERM
+vietne	N	vietne	N-fsn---------n-----------l-	4	233	4	238	I-TERM
+(	T	(	T--------------------------(	4	240	4	240	O
+vai	C	vai	C---------------------c---l-	4	241	4	243	O
+vietne	N	vietne	N-fsn---------n-----------l-	4	245	4	250	B-TERM
+)	T	)	T--------------------------)	4	251	4	251	O
+ir	V	būt	Vp----3--i----------7-----l-	4	253	4	254	O
+savstarpēji	A	savstarpējs	A-mpnp-n------------------l-	4	256	4	266	O
+saistītu	A	saistīts	A-msap-n------------------l-	4	268	4	275	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	4	277	4	283	B-TERM
+lapu	N	lapa	N-fpg---------n-----------l-	4	285	4	288	I-TERM
+kolekcija	N	kolekcija	N-fsn---------n-----------l-	4	290	4	298	I-TERM
+.	SENT	.	T--------------------------.	4	299	4	299	O
+
+Tīmeklī	N	tīmeklis	N-msl---------n-----------f-	4	301	4	307	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	4	309	4	310	O
+miljoniem	M	miljons	M-mpd---c-----------------l-	4	312	4	320	O
+vietņu	N	vietne	N-fpg---------n-----------l-	4	322	4	327	B-TERM
+un	C	un	C---------------------c---l-	4	329	4	330	O
+miljardiem	M	miljards	M-mpd---c-----------------l-	4	332	4	341	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	4	343	4	349	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	4	351	4	354	I-TERM
+!	SENT	!	T--------------------------!	4	355	4	355	O
+
+
+Tīmekļa	N	tīmeklis	N-msg---------n-----------f-	5	0	5	6	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	5	8	5	12	I-TERM
+piemērs	N	piemērs	N-msn---------n-----------l-	5	14	5	20	O
+(	T	(	T--------------------------(	5	22	5	22	O
+Microsoft	N	Microsoft	N-msn---------n-----------f-	5	23	5	31	O
+Game	-	Game	----------------------------	5	33	5	36	O
+Studios	-	Studios	----------------------------	5	38	5	44	O
+)	T	)	T--------------------------)	5	45	5	45	O
+
+
+Tīmekļa	N	tīmeklis	N-msg---------n-----------f-	6	0	6	6	B-TERM
+lapas	N	lapa	N-fpn---------n-----------l-	6	8	6	12	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	6	14	6	15	O
+savstarpēji	A	savstarpējs	A-mpnp-n------------------l-	6	17	6	27	O
+saistītas	G	saistīts	Gsfpnp-n---p--------------l-	6	29	6	37	O
+ar	S	ar	S----------------pdp------l-	6	39	6	40	O
+hipersaitēm	N	hipersaite	N-fpd---------n-----------l-	6	42	6	52	B-TERM
+(	T	(	T--------------------------(	6	54	6	54	O
+parasti	R	parasti	R----p--------------------l-	6	55	6	61	O
+tiek	V	tikt	Vp----3--i----------6-----l-	6	63	6	66	O
+dēvētas	G	dēvēts	Gsfpnp-n---p--------------l-	6	68	6	74	O
+vienkārši	R	vienkārši	R----p--------------------l-	6	76	6	84	O
+par	S	par	S----------------pdp------l-	6	86	6	88	O
+saitēm	N	saite	N-fpd---------n-----------l-	6	90	6	95	B-TERM
+)	T	)	T--------------------------)	6	96	6	96	O
+,	T	,	T--------------------------,	6	97	6	97	O
+kas	P	kas	P---n-------r---------x---l-	6	99	6	101	O
+var	V	varēt	Vp----3--i----------3-----l-	6	103	6	105	O
+būt	V	būt	V--------n----------1-----l-	6	107	6	109	O
+gan	C	gan	C---------------------c---l-	6	111	6	113	O
+kā	C	kā	C---------------------f---l-	6	115	6	116	O
+teksts	N	teksts	N-msn---------n-----------l-	6	118	6	123	B-TERM
+,	T	,	T--------------------------,	6	124	6	124	O
+gan	C	gan	C---------------------c---l-	6	126	6	128	O
+kā	C	kā	C---------------------f---l-	6	130	6	131	O
+attēli	N	attēls	N-mpn---------n-----------l-	6	133	6	138	B-TERM
+.	SENT	.	T--------------------------.	6	139	6	139	O
+
+Noklikšķinot	G	noklikšķinot	G----------a-n------------f-	6	141	6	152	O
+lapā	N	lapa	N-fsl---------n-----------l-	6	154	6	157	B-TERM
+uz	S	uz	S----------------pdp------l-	6	159	6	160	O
+saites	N	saite	N-fsg---------n-----------l-	6	162	6	167	B-TERM
+,	T	,	T--------------------------,	6	168	6	168	O
+tiek	V	tikt	Vp----3--i----------6-----l-	6	170	6	173	O
+atvērta	G	atvērts	Gsfsnp-n---p--------------l-	6	175	6	181	O
+cita	P	cits	P-fsn-------i-------------l-	6	183	6	186	O
+lapa	N	lapa	N-fsn---------n-----------l-	6	188	6	191	B-TERM
+.	SENT	.	T--------------------------.	6	192	6	192	O
+
+Pārvietošanās	N	pārvietošanās	N-fpn---------n-----------f-	6	194	6	206	O
+no	S	no	S----------------sgp------l-	6	208	6	209	O
+lapas	N	lapa	N-fsg---------n-----------l-	6	211	6	215	B-TERM
+uz	S	uz	S----------------sap------l-	6	217	6	218	O
+lapu	N	lapa	N-fsa---------n-----------l-	6	220	6	223	B-TERM
+,	T	,	T--------------------------,	6	224	6	224	O
+izmantojot	G	izmantojot	G----------a-n------------l-	6	226	6	235	O
+saites	N	saite	N-fsg---------n-----------l-	6	237	6	242	B-TERM
+,	T	,	T--------------------------,	6	243	6	243	O
+dažkārt	R	dažkārt	R----p--------------------l-	6	245	6	251	O
+tiek	V	tikt	Vp----3--i----------6-----l-	6	253	6	256	O
+dēvēta	G	dēvēts	Gsfsnp-n---p--------------l-	6	258	6	263	O
+par	S	par	S----------------sap------l-	6	265	6	267	O
+klejošanu	N	klejošana	N-fsa---------n-----------l-	6	269	6	277	B-TERM
+tīmeklī	N	tīmeklis	N-msl---------n-----------l-	6	279	6	285	B-TERM
+.	SENT	.	T--------------------------.	6	286	6	286	O
+
+
+Ko	P	kas	P---a-------r-------------f-	7	0	7	1	O
+var	V	varēt	Vp----3--i----------3-----l-	7	3	7	5	O
+darīt	V	darīt	V--------n----------------l-	7	7	7	11	O
+internetā	N	internets	N-msl---------n-----------l-	7	13	7	21	B-TERM
+?	SENT	?	T--------------------------?	7	22	7	22	O
+
+
+Meklēt	V	meklēt	V--------n----------------f-	8	0	8	5	O
+informāciju	N	informācija	N-fsa---------n-----------l-	8	7	8	17	B-TERM
+.	SENT	.	T--------------------------.	8	18	8	18	O
+
+Tīmeklī	N	tīmeklis	N-msl---------n-----------f-	8	20	8	26	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	8	28	8	29	O
+milzīgi	R	milzīgi	R----p--------------------l-	8	31	8	37	O
+daudz	R	daudz	R----p---------------g----l-	8	39	8	43	O
+informācijas	N	informācija	N-fsg---------n-----------l-	8	45	8	56	B-TERM
+,	T	,	T--------------------------,	8	57	8	57	O
+kas	P	kas	P---n-------r---------x---l-	8	59	8	61	O
+daudzkārt	R	daudzkārt	R----p--------------------l-	8	63	8	71	O
+pārsniedz	V	pārsniegt	Vp----3--i----------------l-	8	73	8	81	O
+pasaules	N	pasaule	N-fsg---------n-----------l-	8	83	8	90	O
+lielākajās	A	liels	A-fplc-y------------------l-	8	92	8	101	O
+bibliotēkās	N	bibliotēka	N-fpl---------n-----------l-	8	103	8	113	O
+atrodamo	G	atrodams	Gpfsap-y---p--------------l-	8	115	8	122	O
+informācijas	N	informācija	N-fsg---------n-----------l-	8	124	8	135	B-TERM
+apjomu	N	apjoms	N-msa---------n-----------l-	8	137	8	142	O
+.	SENT	.	T--------------------------.	8	143	8	143	O
+
+Piemēram	R	piemēram	R----p--------------------f-	8	145	8	152	O
+,	T	,	T--------------------------,	8	153	8	153	O
+var	V	varēt	Vp----3--i----------3-----l-	8	155	8	157	O
+lasīt	V	lasīt	V--------n----------------l-	8	159	8	163	O
+jaunākās	A	jauns	A-fpnc-y------------------l-	8	165	8	172	O
+ziņas	N	ziņa	N-fpa---------n-----------l-	8	174	8	178	O
+un	C	un	C---------------------c---l-	8	180	8	181	O
+filmu	N	filma	N-fpg---------n-----------l-	8	183	8	187	O
+recenzijas	N	recenzija	N-fpa---------n-----------l-	8	189	8	198	O
+,	T	,	T--------------------------,	8	199	8	199	O
+salīdzināt	V	salīdzināt	V--------n----------------l-	8	201	8	210	O
+aviolīniju	N	aviolīnija	N-fpg---------n-----------l-	8	212	8	221	O
+sarakstus	N	saraksts	N-mpa---------n-----------l-	8	223	8	231	O
+,	T	,	T--------------------------,	8	232	8	232	O
+apskatīt	V	apskatīt	V--------n----------------l-	8	234	8	241	O
+ceļu	N	ceļš	N-msa---------n-----------l-	8	243	8	246	O
+kartes	N	karte	N-fpa---------n-----------l-	8	248	8	253	O
+,	T	,	T--------------------------,	8	254	8	254	O
+uzzināt	V	uzzināt	V--------n----------------l-	8	256	8	262	O
+laika	N	laiks	N-msg---------n-----------l-	8	264	8	268	O
+prognozi	N	prognoze	N-fsa---------n-----------l-	8	270	8	277	O
+savai	P	savs	P-fsd-------s-------------l-	8	279	8	283	O
+pilsētai	N	pilsēta	N-fsd---------n-----------l-	8	285	8	292	O
+vai	C	vai	C---------------------c---l-	8	294	8	296	O
+pārbaudīt	V	pārbaudīt	V--------n----------------l-	8	298	8	306	O
+veselības	N	veselība	N-fsg---------n-----------l-	8	308	8	316	O
+stāvokli	N	stāvoklis	N-msa---------n-----------l-	8	318	8	325	O
+.	SENT	.	T--------------------------.	8	326	8	326	O
+
+Plaši	R	plaši	R----p--------------------f-	8	328	8	332	O
+ir	V	būt	Vp----3--i----------7-----l-	8	334	8	335	O
+pieejami	R	pieejami	R----p--------------------l-	8	337	8	344	O
+arī	Q	arī	Q-------------------------l-	8	346	8	348	O
+uzziņu	N	uzziņa	N-fpg---------n-----------l-	8	350	8	355	O
+avoti	N	avots	N-mpn---------n-----------l-	8	357	8	361	O
+,	T	,	T--------------------------,	8	362	8	362	O
+piemēram	R	piemēram	R----p--------------------l-	8	364	8	371	O
+,	T	,	T--------------------------,	8	372	8	372	O
+vārdnīcas	N	vārdnīca	N-fsg---------n-----------l-	8	374	8	382	B-TERM
+un	C	un	C---------------------c---l-	8	384	8	385	O
+enciklopēdijas	N	enciklopēdija	N-fpn---------n-----------l-	8	387	8	400	B-TERM
+,	T	,	T--------------------------,	8	401	8	401	O
+kā arī	C	kā_arī	C---------------------c---l-	8	403	8	408	O
+vēsturiski	A	vēsturisks	A-mpnp-n------------------l-	8	410	8	419	O
+dokumenti	N	dokuments	N-mpn---------n-----------l-	8	421	8	429	O
+un	C	un	C---------------------c---l-	8	431	8	432	O
+klasiskā	A	klasisks	A-fsnp-y------------------l-	8	434	8	441	O
+literatūra	N	literatūra	N-fsn---------n-----------l-	8	443	8	452	O
+.	SENT	.	T--------------------------.	8	453	8	453	O
+
+
+Lielākajai	A	liels	A-fsdc-y------------------f-	9	0	9	9	O
+daļai	N	daļa	N-fsd---------n-----------l-	9	11	9	15	O
+uzņēmumu	N	uzņēmums	N-msa---------n-----------l-	9	17	9	24	O
+,	T	,	T--------------------------,	9	25	9	25	O
+valsts	N	valsts	N-fsg---------n-----------l-	9	27	9	32	O
+iestāžu	N	iestāde	N-fpg---------n-----------l-	9	34	9	40	O
+,	T	,	T--------------------------,	9	41	9	41	O
+bezpeļņas	N	bezpeļņas	N-fsg---------n-----------l-	9	43	9	51	O
+organizāciju	N	organizācija	N-fsa---------n-----------l-	9	53	9	64	O
+,	T	,	T--------------------------,	9	65	9	65	O
+muzeju	N	muzejs	N-msa---------n-----------l-	9	67	9	72	O
+un	C	un	C---------------------c---l-	9	74	9	75	O
+bibliotēku	N	bibliotēka	N-fsa---------n-----------l-	9	77	9	86	O
+ir	V	būt	Vp----3--i----------7-----l-	9	88	9	89	O
+savas	P	savs	P-fpa-------s-------------l-	9	91	9	95	O
+vietnes	N	vietne	N-fpa---------n-----------l-	9	97	9	103	B-TERM
+,	T	,	T--------------------------,	9	104	9	104	O
+kurās	P	kurš	P-fpl-------r---------a---l-	9	106	9	110	O
+atrodama	G	atrodams	Gpfsnp-n---p--------------l-	9	112	9	119	O
+informācija	N	informācija	N-fsn---------n-----------l-	9	121	9	131	B-TERM
+par	S	par	S----------------pdp------l-	9	133	9	135	O
+to	P	tas	P-fpg-------d-------------l-	9	137	9	138	O
+precēm	N	prece	N-fpd---------n-----------l-	9	140	9	145	O
+,	T	,	T--------------------------,	9	146	9	146	O
+pakalpojumiem	N	pakalpojums	N-mpd---------n-----------l-	9	148	9	160	O
+vai	C	vai	C---------------------c---l-	9	162	9	164	O
+krātuvēm	N	krātuve	N-fpd---------n-----------l-	9	166	9	173	B-TERM
+.	SENT	.	T--------------------------.	9	174	9	174	O
+
+Daudzi	M	daudzi	M-mpn---c-----------------f-	9	176	9	181	O
+cilvēki	N	cilvēks	N-mpn---------n-----------l-	9	183	9	189	O
+publicē	V	publicēt	Vp----3--i----------------l-	9	191	9	197	O
+vietnes	N	vietne	N-fpn---------n-----------l-	9	199	9	205	B-TERM
+ar	S	ar	S----------------pdp------l-	9	207	9	208	O
+personiskajiem	A	personisks	A-mpdp-y------------------l-	9	210	9	223	B-TERM
+žurnāliem	N	žurnāls	N-mpd---------n-----------l-	9	225	9	233	I-TERM
+,	T	,	T--------------------------,	9	234	9	234	O
+kas	P	kas	P---n-------r---------x---l-	9	236	9	238	O
+tiek	V	tikt	Vp----3--i----------6-----l-	9	240	9	243	O
+dēvēti	G	dēvēts	Gsmpnp-n---p--------------l-	9	245	9	250	O
+par	S	par	S----------------pdp------l-	9	252	9	254	O
+emuāriem	N	emuārs	N-mpd---------n-----------l-	9	256	9	263	B-TERM
+(	T	(	T--------------------------(	9	265	9	265	O
+sinonīms	N	sinonīms	N-msn---------n-----------l-	9	266	9	273	O
+terminam	N	termins	N-msd---------n-----------l-	9	275	9	282	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	9	284	9	290	B-TERM
+žurnāli	N	žurnāls	N-mpn---------n-----------l-	9	292	9	298	I-TERM
+)	T	)	T--------------------------)	9	299	9	299	O
+,	T	,	T--------------------------,	9	300	9	300	O
+par	S	par	S----------------pdp------l-	9	302	9	304	O
+saviem	P	savs	P-mpd-------s-------------l-	9	306	9	311	O
+vaļaspriekiem	N	vaļasprieks	N-mpd---------n-----------l-	9	313	9	325	O
+un	C	un	C---------------------c---l-	9	327	9	328	O
+interesēm	N	interese	N-fpd---------n-----------l-	9	330	9	338	O
+.	SENT	.	T--------------------------.	9	339	9	339	O
+
+
+Piezīme	N	piezīme	N-fsn---------n-----------f-	10	0	10	6	O
+.	SENT	.	T--------------------------.	10	7	10	7	O
+
+
+Lai	C	lai	C---------------------k---f-	11	0	11	2	O
+arī	Q	arī	Q-------------------------l-	11	4	11	6	O
+tīmeklis	N	tīmeklis	N-msn---------n-----------l-	11	8	11	15	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	11	17	11	18	O
+lieliski	R	lieliski	R----p--------------------l-	11	20	11	27	O
+izmantojams	G	izmantojams	Gpmsnp-n---p--------------l-	11	29	11	39	O
+meklēšanai	N	meklēšana	N-fsd---------n-----------l-	11	41	11	50	O
+,	T	,	T--------------------------,	11	51	11	51	O
+ne	C	ne	C---------------y---------l-	11	53	11	54	O
+visai	R	visai	R----p---------------g----l-	11	56	11	60	O
+informācijai	N	informācija	N-fsd---------n-----------l-	11	62	11	73	B-TERM
+,	T	,	T--------------------------,	11	74	11	74	O
+kas	P	kas	P---n-------r---------x---l-	11	76	11	78	O
+tajā	P	tas	P-fsl-------d-------------l-	11	80	11	83	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	11	85	11	91	O
+,	T	,	T--------------------------,	11	92	11	92	O
+var	V	varēt	Vp----3--i----------3-----l-	11	94	11	96	O
+uzticēties	V	uzticēties	V--------n-----y----------l-	11	98	11	107	O
+.	SENT	.	T--------------------------.	11	108	11	108	O
+
+Dažās	P	dažs	P-fpl-------i-------------f-	11	110	11	114	O
+vietnēs	N	vietne	N-fpl---------n-----------l-	11	116	11	122	B-TERM
+informācija	N	informācija	N-fsn---------n-----------l-	11	124	11	134	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	11	136	11	138	O
+būt	V	būt	V--------n----------1-----l-	11	140	11	142	O
+kļūdaina	A	kļūdains	A-fsnp-n------------------l-	11	144	11	151	O
+,	T	,	T--------------------------,	11	152	11	152	O
+novecojusi	G	novecojis	Gsfsn--n---a--------------l-	11	154	11	163	O
+vai	C	vai	C---------------------c---l-	11	165	11	167	O
+nepilnīga	A	nepilnīgs	A-fsnp-n--------y---------l-	11	169	11	177	O
+.	SENT	.	T--------------------------.	11	178	11	178	O
+
+Pirms	S	pirms	S----------------pdp------f-	11	180	11	184	O
+uzticēties	V	uzticēties	V--------n-----y----------l-	11	186	11	195	O
+informācijai	N	informācija	N-fsd---------n-----------l-	11	197	11	208	B-TERM
+,	T	,	T--------------------------,	11	209	11	209	O
+pārliecinieties	V	pārliecināties	V--p--2--m-----y----------l-	11	211	11	225	O
+,	T	,	T--------------------------,	11	226	11	226	O
+vai	C	vai	C---------------------c---l-	11	228	11	230	O
+tās	P	tas	P-fsg-------d-------------l-	11	232	11	234	O
+avots	N	avots	N-msn---------n-----------l-	11	236	11	240	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	11	242	11	243	O
+autoritatīvs	A	autoritatīvs	A-msnp-n------------------l-	11	245	11	256	O
+,	T	,	T--------------------------,	11	257	11	257	O
+un	C	un	C---------------------c---l-	11	259	11	260	O
+salīdzinājumam	N	salīdzinājums	N-msd---------n-----------l-	11	262	11	275	O
+pārbaudiet	V	pārbaudīt	V--p--2--m----------------l-	11	277	11	286	O
+citus	P	cits	P-mpa-------i-------------l-	11	288	11	292	O
+informācijas	N	informācija	N-fsg---------n-----------l-	11	294	11	305	B-TERM
+avotus	N	avots	N-mpa---------n-----------l-	11	307	11	312	I-TERM
+.	SENT	.	T--------------------------.	11	313	11	313	O
+
+
+Sazināties	V	sazināties	V--------n-----y----------f-	12	0	12	9	O
+.	SENT	.	T--------------------------.	12	10	12	10	O
+
+E	-	E	----------------------------	12	12	12	12	B-TERM
+‑	-	‑	----------------------------	12	13	12	13	I-TERM
+pasts	N	pasts	N-msn---------n-----------l-	12	14	12	18	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	12	20	12	21	O
+viens	M	viens	M-msn---c-----------------l-	12	23	12	27	O
+no	S	no	S----------------pdp------l-	12	29	12	30	O
+izplatītākajiem	A	izplatīts	A-mpdc-y------------------l-	12	32	12	46	O
+interneta	N	internets	N-msg---------n-----------l-	12	48	12	56	B-TERM
+lietošanas	N	lietošana	N-fsg---------n-----------l-	12	58	12	67	O
+veidiem	N	veids	N-mpd---------n-----------l-	12	69	12	75	O
+.	SENT	.	T--------------------------.	12	76	12	76	O
+
+E	-	E	----------------------------	12	78	12	78	B-TERM
+‑	-	‑	----------------------------	12	79	12	79	I-TERM
+pasta	N	pasts	N-msg---------n-----------l-	12	80	12	84	I-TERM
+ziņojumu	N	ziņojums	N-msa---------n-----------l-	12	86	12	93	I-TERM
+var	V	varēt	Vp----3--i----------3-----l-	12	95	12	97	O
+sūtīt	V	sūtīt	V--------n----------------l-	12	99	12	103	O
+ikvienam	P	ikviens	P-msd-------g-------------l-	12	105	12	112	O
+,	T	,	T--------------------------,	12	113	12	113	O
+kam	P	kas	P---d-------r-------------l-	12	115	12	117	O
+ir	V	būt	Vp----3--i----------7-----l-	12	119	12	120	O
+e	-	e	----------------------------	12	122	12	122	B-TERM
+‑	-	‑	----------------------------	12	123	12	123	I-TERM
+pasta	N	pasta	N-fsn---------n-----------l-	12	124	12	128	I-TERM
+adrese	N	adrese	N-fsn---------n-----------l-	12	130	12	135	I-TERM
+,	T	,	T--------------------------,	12	136	12	136	O
+un	C	un	C---------------------c---l-	12	138	12	139	O
+tas	P	tas	P-msn-------d-------------l-	12	141	12	143	O
+adresāta	N	adresāts	N-msg---------n-----------l-	12	145	12	152	B-TERM
+e	-	e	----------------------------	12	154	12	154	B-TERM
+‑	-	‑	----------------------------	12	155	12	155	I-TERM
+pasta	N	pasta	N-fsn---------n-----------l-	12	156	12	160	I-TERM
+iesūtnē	N	iesūtne	N-fsl---------n-----------l-	12	162	12	168	I-TERM
+nonāk	V	nonākt	Vp----3--i----------------l-	12	170	12	174	O
+gandrīz	R	gandrīz	R----p---------------g----l-	12	176	12	182	O
+acumirklī	N	acumirklis	N-msl---------n-----------l-	12	184	12	192	O
+,	T	,	T--------------------------,	12	193	12	193	O
+pat	Q	pat	Q-------------------------l-	12	195	12	197	O
+ja	C	ja	C---------------------d---l-	12	199	12	200	O
+viņš	P	viņš	P-msn-3-----p-------------l-	12	202	12	205	O
+dzīvo	V	dzīvot	Vp----3--i----------------l-	12	207	12	211	O
+citā	P	cits	P-fsl-------i-------------l-	12	213	12	216	O
+pasaules	N	pasaule	N-fsg---------n-----------l-	12	218	12	225	O
+daļā	N	daļa	N-fsl---------n-----------l-	12	227	12	230	O
+.	SENT	.	T--------------------------.	12	231	12	231	O
+
+Skatiet	V	skatīt	V--p--2--m----------------f-	12	233	12	239	O
+Darba	N	darbs	N-msg---------n-----------f-	12	241	12	245	O
+sākšana	N	sākšana	N-fsn---------n-----------l-	12	247	12	253	O
+ar	S	ar	S----------------sap------l-	12	255	12	256	O
+e	-	e	----------------------------	12	258	12	258	B-TERM
+‑	-	‑	----------------------------	12	259	12	259	I-TERM
+pastu	N	pasts	N-msa---------n-----------l-	12	260	12	264	I-TERM
+.	SENT	.	T--------------------------.	12	266	12	266	O
+
+
+Tūlītējā	A	tūlītējs	A-fsnp-y------------------f-	13	0	13	7	B-TERM
+ziņojumapmaiņa	N	ziņojumapmaiņa	N-fsn---------n-----------l-	13	9	13	22	I-TERM
+(	T	(	T--------------------------(	13	24	13	24	O
+IM	-	IM	----------------------------	13	25	13	26	B-TERM
+)	T	)	T--------------------------)	13	27	13	27	O
+ļauj	V	ļaut	Vp----3--i----------9-----l-	13	29	13	32	O
+reāllaikā	N	reāllaiks	N-msl---------n-----------l-	13	34	13	42	B-TERM
+sarunāties	V	sarunāties	V--------n-----y----------l-	13	44	13	53	O
+ar	S	ar	S----------------sap------l-	13	55	13	56	O
+citu	P	cits	P-fsa-------i-------------l-	13	58	13	61	O
+personu	N	persona	N-fsa---------n-----------l-	13	63	13	69	O
+vai	C	vai	C---------------------c---l-	13	71	13	73	O
+personu	N	persona	N-fsa---------n-----------l-	13	75	13	81	O
+grupu	N	grupa	N-fsa---------n-----------l-	13	83	13	87	O
+.	SENT	.	T--------------------------.	13	88	13	88	O
+
+Rakstot	G	rakstot	G----------a-n------------f-	13	90	13	96	O
+un	C	un	C---------------------c---l-	13	98	13	99	O
+sūtot	G	sūtot	G----------a-n------------l-	13	101	13	105	O
+tūlītējo	A	tūlītējs	A-msap-y------------------l-	13	107	13	114	B-TERM
+ziņojumu	N	ziņojums	N-msa---------n-----------l-	13	116	13	123	I-TERM
+,	T	,	T--------------------------,	13	124	13	124	O
+tas	P	tas	P-msn-------d-------------l-	13	126	13	128	O
+nekavējoties	G	nekavējoties	G----------a-n-yy---------l-	13	130	13	141	O
+kļūst	V	kļūt	Vp----3--i----------5-----l-	13	143	13	147	O
+redzams	G	redzams	Gpmsnp-n---p--------------l-	13	149	13	155	O
+visiem	P	viss	P-mpd-------g-------------l-	13	157	13	162	O
+sarunas	N	saruna	N-fsg---------n-----------l-	13	164	13	170	B-TERM
+dalībniekiem	N	dalībnieks	N-mpd---------n-----------l-	13	172	13	183	I-TERM
+.	SENT	.	T--------------------------.	13	184	13	184	O
+
+Atšķirībā	N	atšķirība	N-fsl---------n-----------f-	13	186	13	194	O
+no	S	no	S----------------sgp------l-	13	196	13	197	O
+e	-	e	----------------------------	13	199	13	199	B-TERM
+‑	-	‑	----------------------------	13	200	13	200	I-TERM
+pasta	N	pasts	N-msg---------n-----------l-	13	201	13	205	I-TERM
+visiem	P	viss	P-mpd-------g-------------l-	13	207	13	212	O
+dalībniekiem	N	dalībnieks	N-mpd---------n-----------l-	13	214	13	225	O
+ir	V	būt	Vp----3--i----------7-----l-	13	227	13	228	O
+jāatrodas	V	atrasties	Vp-------c-----y----------l-	13	230	13	238	O
+tiešsaistē	N	tiešsaiste	N-fsl---------n-----------l-	13	240	13	249	B-TERM
+(	T	(	T--------------------------(	13	251	13	251	O
+jālieto	V	lietot	Vp-------c----------------l-	13	252	13	258	O
+dators	N	dators	N-msn---------n-----------l-	13	260	13	265	B-TERM
+,	T	,	T--------------------------,	13	266	13	266	O
+kas	P	kas	P---n-------r---------x---l-	13	268	13	270	O
+pievienots	G	pievienots	Gsmsnp-n---p--------------l-	13	272	13	281	O
+internetam	N	internets	N-msd---------n-----------l-	13	283	13	292	B-TERM
+)	T	)	T--------------------------)	13	293	13	293	O
+un	C	un	C---------------------c---l-	13	295	13	296	O
+vienā	M	viens	M-msl---c-----------------l-	13	298	13	302	O
+laikā	N	laiks	N-msl---------n-----------l-	13	304	13	308	O
+jābūt	V	būt	Vp-------c----------------l-	13	310	13	314	O
+pie	S	pie	S----------------sgp------l-	13	316	13	318	O
+datora	N	dators	N-msg---------n-----------l-	13	320	13	325	B-TERM
+.	SENT	.	T--------------------------.	13	326	13	326	O
+
+
+Intereškopas	N	intereškopa	N-fpn---------n-----------f-	14	0	14	11	B-TERM
+un	C	un	C---------------------c---l-	14	13	14	14	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	14	16	14	22	B-TERM
+forumi	N	forums	N-mpn---------n-----------l-	14	24	14	29	I-TERM
+ļauj	V	ļaut	Vp----3--i----------9-----l-	14	31	14	34	O
+piedalīties	V	piedalīties	V--------n-----y----------l-	14	36	14	46	O
+rakstveida	N	rakstveida	N-msg---------n-----------l-	14	48	14	57	O
+diskusijās	N	diskusija	N-fpl---------n-----------l-	14	59	14	68	O
+ar	S	ar	S----------------sap------l-	14	70	14	71	O
+citu	P	cits	P-fsa-------i-------------l-	14	73	14	76	O
+personu	N	persona	N-fpg---------n-----------l-	14	78	14	84	O
+grupām	N	grupa	N-fpd---------n-----------l-	14	86	14	91	O
+,	T	,	T--------------------------,	14	92	14	92	O
+kurām	P	kurš	P-fpd-------r---------f---l-	14	94	14	98	O
+interesē	V	interesēt	Vp----3--i----------------l-	14	100	14	107	O
+attiecīgā	A	attiecīgs	A-fsnp-y------------------l-	14	109	14	117	O
+tēma	N	tēma	N-fsn---------n-----------l-	14	119	14	122	O
+.	SENT	.	T--------------------------.	14	123	14	123	O
+
+Piemēram	R	piemēram	R----p--------------------f-	14	125	14	132	O
+,	T	,	T--------------------------,	14	133	14	133	O
+ja	C	ja	C---------------------d---l-	14	135	14	136	O
+jums	P	jūs	P--pd-2-----p-------------l-	14	138	14	141	O
+rodas	V	rasties	Vp----3--i-----y----------l-	14	143	14	147	O
+problēmas	N	problēma	N-fpn---------n-----------l-	14	149	14	157	O
+ar	S	ar	S----------------sap------l-	14	159	14	160	O
+kādas	P	kāds	P-fsg-------g---------f---l-	14	162	14	166	O
+programmas	N	programma	N-fsg---------n-----------l-	14	168	14	177	B-TERM
+lietošanu	N	lietošana	N-fsa---------n-----------l-	14	179	14	187	I-TERM
+,	T	,	T--------------------------,	14	188	14	188	O
+tad	Q	tad	Q-------------------------l-	14	190	14	192	O
+šīs	P	šis	P-fpn-------d-------------l-	14	194	14	196	O
+programmas	N	programma	N-fsg---------n-----------l-	14	198	14	207	B-TERM
+lietotāju	N	lietotāja	N-fpg---------n-----------l-	14	209	14	217	I-TERM
+diskusiju	N	diskusija	N-fsa---------n-----------l-	14	219	14	227	B-TERM
+grupā	N	grupa	N-fsl---------n-----------l-	14	229	14	233	I-TERM
+varat	V	varēt	Vp-p--2--i----------3-----l-	14	235	14	239	O
+ievietot	V	ievietot	V--------n----------------l-	14	241	14	248	O
+savu	P	savs	P-msa-------s-------------l-	14	250	14	253	O
+jautājumu	N	jautājums	N-msa---------n-----------l-	14	255	14	263	O
+.	SENT	.	T--------------------------.	14	264	14	264	O
+
+
+Koplietot	V	koplietot	V--------n----------------f-	15	0	15	8	O
+failus	N	fails	N-mpa---------n-----------l-	15	10	15	15	B-TERM
+.	SENT	.	T--------------------------.	15	16	15	16	O
+
+Varat	V	varēt	Vp-p--2--i----------3-----f-	15	18	15	22	O
+augšupielādēt	V	augšupielādēt	V--------n----------------l-	15	24	15	36	O
+(	T	(	T--------------------------(	15	38	15	38	O
+kopēt	V	kopēt	V--------n----------------l-	15	39	15	43	O
+)	T	)	T--------------------------)	15	44	15	44	O
+attēlus	N	attēls	N-mpa---------n-----------l-	15	46	15	52	B-TERM
+no	S	no	S----------------sgp------l-	15	54	15	55	O
+ciparkameras	N	ciparkamera	N-fsg---------n-----------l-	15	57	15	68	B-TERM
+uz	S	uz	S----------------sgp------l-	15	70	15	71	O
+fotoattēlu	N	fotoattēls	N-mpg---------n-----------l-	15	73	15	82	B-TERM
+koplietošanas	N	koplietošana	N-fsg---------n-----------l-	15	84	15	96	I-TERM
+vietni	N	vietne	N-fsa---------n-----------l-	15	98	15	103	I-TERM
+.	SENT	.	T--------------------------.	15	104	15	104	O
+
+Uzaicinātie	G	uzaicināts	Gsmpnp-y---p--------------f-	15	106	15	116	O
+draugi	N	draugs	N-mpn---------n-----------l-	15	118	15	123	O
+un	C	un	C---------------------c---l-	15	125	15	126	O
+ģimenes	N	ģimene	N-fsg---------n-----------l-	15	128	15	134	O
+locekļi	N	loceklis	N-mpn---------n-----------l-	15	136	15	142	O
+var	V	varēt	Vp----3--i----------3-----l-	15	144	15	146	O
+apmeklēt	V	apmeklēt	V--------n----------------l-	15	148	15	155	O
+vietni	N	vietne	N-fsa---------n-----------l-	15	157	15	162	B-TERM
+un	C	un	C---------------------c---l-	15	164	15	165	O
+apskatīt	V	apskatīt	V--------n----------------l-	15	167	15	174	O
+fotoalbumus	N	fotoalbums	N-mpa---------n-----------l-	15	176	15	186	B-TERM
+.	SENT	.	T--------------------------.	15	187	15	187	O
+
+
+Iepirkties	V	iepirkties	V--------n-----y----------f-	16	0	16	9	O
+.	SENT	.	T--------------------------.	16	10	16	10	O
+
+Tīmeklis	N	tīmeklis	N-msn---------n-----------f-	16	12	16	19	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	16	21	16	22	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	16	24	16	30	O
+lielākais	A	liels	A-msnc-y------------------l-	16	32	16	40	O
+tirdzniecības	N	tirdzniecība	N-fsg---------n-----------l-	16	42	16	54	O
+centrs	N	centrs	N-msn---------n-----------l-	16	56	16	61	O
+.	SENT	.	T--------------------------.	16	62	16	62	O
+
+Varat	V	varēt	Vp-p--2--i----------3-----f-	16	64	16	68	O
+apskatīt	V	apskatīt	V--------n----------------l-	16	70	16	77	O
+un	C	un	C---------------------c---l-	16	79	16	80	O
+iegādāties	V	iegādāties	V--------n-----y----------l-	16	82	16	91	O
+preces	N	prece	N-fpa---------n-----------l-	16	93	16	98	O
+ —	-	 —	----------------------------	16	99	16	100	O
+grāmatas	N	grāmata	N-fsg---------n-----------l-	16	102	16	109	O
+,	T	,	T--------------------------,	16	110	16	110	O
+mūziku	N	mūzika	N-fsa---------n-----------l-	16	112	16	117	O
+,	T	,	T--------------------------,	16	118	16	118	O
+rotaļlietas	N	rotaļlieta	N-fpn---------n-----------l-	16	120	16	130	O
+,	T	,	T--------------------------,	16	131	16	131	O
+apģērbu	N	apģērbs	N-msa---------n-----------l-	16	133	16	139	O
+,	T	,	T--------------------------,	16	140	16	140	O
+elektropreces	N	elektroprece	N-fsg---------n-----------l-	16	142	16	154	O
+un	C	un	C---------------------c---l-	16	156	16	157	O
+vēl	V	vēlēt	Vp----3--i----------3-----l-	16	159	16	161	O
+daudz	R	daudz	R----p---------------g----l-	16	163	16	167	O
+ko	P	kas	P---a-------r-------------l-	16	169	16	170	O
+citu	P	cits	P-fsa-------i-------------l-	16	172	16	175	O
+ —	-	 —	----------------------------	16	176	16	177	O
+daudzu	M	daudzi	M-mpg---c-----------------l-	16	179	16	184	O
+mazumtirgotāju	N	mazumtirgotājs	N-mpg---------n-----------l-	16	186	16	199	O
+vietnēs	N	vietne	N-fpl---------n-----------l-	16	201	16	207	B-TERM
+(	T	(	T--------------------------(	16	209	16	209	O
+parasti	R	parasti	R----p--------------------l-	16	210	16	216	O
+ir	V	būt	Vp----3--i----------7-----l-	16	218	16	219	O
+nepieciešama	A	nepieciešams	A-fsnp-n--------y---------l-	16	221	16	232	O
+kredītkarte	N	kredītkarte	N-fsn---------n-----------l-	16	234	16	244	O
+)	T	)	T--------------------------)	16	245	16	245	O
+.	SENT	.	T--------------------------.	16	246	16	246	O
+
+Vietnēs	N	vietne	N-fpl---------n-----------f-	16	248	16	254	B-TERM
+,	T	,	T--------------------------,	16	255	16	255	O
+kas	P	kas	P---n-------r---------x---l-	16	257	16	259	O
+organizē	V	organizēt	Vp----3--i----------------l-	16	261	16	268	O
+izsoles	N	izsole	N-fpn---------n-----------l-	16	270	16	276	O
+,	T	,	T--------------------------,	16	277	16	277	O
+var	V	varēt	Vp----3--i----------3-----l-	16	279	16	281	O
+arī	Q	arī	Q-------------------------l-	16	283	16	285	O
+pirkt	V	pirkt	V--------n----------------l-	16	287	16	291	O
+un	C	un	C---------------------c---l-	16	293	16	294	O
+pārdot	V	pārdot	V--------n----------------l-	16	296	16	301	O
+lietotas	A	lietots	A-fpap-n------------------l-	16	303	16	310	O
+preces	N	prece	N-fpa---------n-----------l-	16	312	16	317	O
+.	SENT	.	T--------------------------.	16	318	16	318	O
+
+
+Spēlēt	V	spēlēt	V--------n----------------f-	17	0	17	5	O
+spēles	N	spēle	N-fpa---------n-----------l-	17	7	17	12	B-TERM
+un	C	un	C---------------------c---l-	17	14	17	15	O
+atskaņot	V	atskaņot	V--------n----------------l-	17	17	17	24	O
+multividi	N	multivide	N-fsa---------n-----------l-	17	26	17	34	B-TERM
+.	SENT	.	T--------------------------.	17	35	17	35	O
+
+Tīmeklī	N	tīmeklis	N-msl---------n-----------f-	17	37	17	43	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	17	45	17	47	O
+spēlēt	V	spēlēt	V--------n----------------l-	17	49	17	54	O
+visādas	A	visāds	A-fpap-n------------------l-	17	56	17	62	O
+spēles	N	spēle	N-fpa---------n-----------l-	17	64	17	69	B-TERM
+,	T	,	T--------------------------,	17	70	17	70	O
+bieži	R	bieži	R----p--------------------l-	17	72	17	76	O
+arī	Q	arī	Q-------------------------l-	17	78	17	80	O
+pret	S	pret	S----------------pdp------l-	17	82	17	85	O
+citiem	P	cits	P-mpd-------i-------------l-	17	87	17	92	O
+spēlētājiem	N	spēlētājs	N-mpd---------n-----------l-	17	94	17	104	B-TERM
+ —	-	 —	----------------------------	17	105	17	106	O
+neatkarīgi	R	neatkarīgi	R----p----------y---------l-	17	108	17	117	O
+no	S	no	S----------------sgp------l-	17	119	17	120	O
+tā	R	tā	R----p--------------------l-	17	122	17	123	O
+,	T	,	T--------------------------,	17	124	17	124	O
+kurā	P	kurš	P-fsl-------r---------a---l-	17	126	17	129	O
+pasaules	N	pasaule	N-fsg---------n-----------l-	17	131	17	138	O
+daļā	N	daļa	N-fsl---------n-----------l-	17	140	17	143	O
+viņi	P	viņš	P-mpn-3-----p-------------l-	17	145	17	148	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	17	150	17	156	O
+.	SENT	.	T--------------------------.	17	157	17	157	O
+
+Daudzas	M	daudzi	M-fpa---c-----------------f-	17	159	17	165	O
+spēles	N	spēle	N-fpn---------n-----------l-	17	167	17	172	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	17	174	17	175	O
+par	S	par	S----------------sap------l-	17	177	17	179	O
+brīvu	A	brīvs	A-fsap-n------------------l-	17	181	17	185	O
+,	T	,	T--------------------------,	17	186	17	186	O
+un	C	un	C---------------------c---l-	17	188	17	189	O
+tās	P	tas	P-fpn-------d-------------l-	17	191	17	193	O
+var	V	varēt	Vp----3--i----------3-----l-	17	195	17	197	O
+lejupielādēt	V	lejupielādēt	V--------n----------------l-	17	199	17	210	O
+bez	S	bez	S----------------sgp------l-	17	212	17	214	O
+maksas	N	maksa	N-fsg---------n-----------l-	17	216	17	221	O
+.	SENT	.	T--------------------------.	17	222	17	222	O
+
+Var	V	varēt	Vp----3--i----------3-----f-	17	224	17	226	O
+arī	Q	arī	Q-------------------------l-	17	228	17	230	O
+klausīties	V	klausīties	V--------n-----y----------l-	17	232	17	241	O
+interneta	N	internets	N-msg---------n-----------l-	17	243	17	251	B-TERM
+radiostacijas	N	radiostacija	N-fpa---------n-----------l-	17	253	17	265	I-TERM
+,	T	,	T--------------------------,	17	266	17	266	O
+skatīties	V	skatīties	V--------n-----y----------l-	17	268	17	276	O
+filmu	N	filma	N-fpg---------n-----------l-	17	278	17	282	O
+klipus	N	klips	N-mpa---------n-----------l-	17	284	17	289	B-TERM
+un	C	un	C---------------------c---l-	17	291	17	292	O
+lejupielādēt	V	lejupielādēt	V--------n----------------l-	17	294	17	305	O
+vai	C	vai	C---------------------c---l-	17	307	17	309	O
+iegādāties	V	iegādāties	V--------n-----y----------l-	17	311	17	320	O
+mūziku	N	mūzika	N-fsa---------n-----------l-	17	322	17	327	B-TERM
+,	T	,	T--------------------------,	17	328	17	328	O
+videoklipus	N	videoklips	N-mpa---------n-----------l-	17	330	17	340	B-TERM
+un	C	un	C---------------------c---l-	17	342	17	343	O
+pat	Q	pat	Q-------------------------l-	17	345	17	347	O
+televīzijas	N	televīzija	N-fsg---------n-----------l-	17	349	17	359	B-TERM
+pārraižu	N	pārraide	N-fpg---------n-----------l-	17	361	17	368	I-TERM
+ierakstus	N	ieraksts	N-mpa---------n-----------l-	17	370	17	378	I-TERM
+.	SENT	.	T--------------------------.	17	379	17	379	O
+
+
+Savienojuma	N	savienojums	N-msg---------n-----------f-	18	0	18	10	B-TERM
+izveide	N	izveide	N-fsn---------n-----------l-	18	12	18	18	O
+ar	S	ar	S----------------sap------l-	18	20	18	21	O
+internetu	N	internets	N-msa---------n-----------l-	18	23	18	31	B-TERM
+
+
+Lai	C	lai	C---------------------k---f-	19	0	19	2	O
+datorā	N	dators	N-msl---------n-----------l-	19	4	19	9	B-TERM
+izveidotu	G	izveidots	Gsmpgp-n---p--------------l-	19	11	19	19	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	19	21	19	31	B-TERM
+ar	S	ar	S----------------sap------l-	19	33	19	34	O
+internetu	N	internets	N-msa---------n-----------l-	19	36	19	44	B-TERM
+,	T	,	T--------------------------,	19	45	19	45	O
+vispirms	R	vispirms	R----p--------------------l-	19	47	19	54	O
+ir	V	būt	Vp----3--i----------7-----l-	19	56	19	57	O
+jānoslēdz	V	noslēgt	Vp-------c----------------l-	19	59	19	67	O
+līgums	N	līgums	N-msn---------n-----------l-	19	69	19	74	B-TERM
+ar	S	ar	S----------------sap------l-	19	76	19	77	O
+interneta	N	internets	N-msg---------n-----------l-	19	79	19	87	B-TERM
+pakalpojumu	N	pakalpojums	N-msa---------n-----------l-	19	89	19	99	I-TERM
+sniedzēju	N	sniedzējs	N-msa---------n-----------l-	19	101	19	109	I-TERM
+(	T	(	T--------------------------(	19	111	19	111	O
+Internet	N	Internet	N-fsa---------n-----------f-	19	112	19	119	O
+service	-	service	----------------------------	19	121	19	127	O
+provider	-	provider	----------------------------	19	129	19	136	O
+—	T	—	T--------------------------—	19	138	19	138	O
+ISP	-	ISP	----------------------------	19	140	19	142	B-TERM
+)	T	)	T--------------------------)	19	143	19	143	O
+.	SENT	.	T--------------------------.	19	144	19	144	O
+
+ISP	-	ISP	----------------------------	19	146	19	148	B-TERM
+parasti	R	parasti	R----p--------------------l-	19	150	19	156	O
+sniedz	V	sniegt	Vp----3--i----------------l-	19	158	19	163	O
+piekļuvi	N	piekļuve	N-fsa---------n-----------l-	19	165	19	172	O
+internetam	N	internets	N-msd---------n-----------l-	19	174	19	183	B-TERM
+par	S	par	S----------------sap------l-	19	185	19	187	O
+mēneša	N	mēnesis	N-msg---------n-----------l-	19	189	19	194	O
+maksu	N	maksa	N-fsa---------n-----------l-	19	196	19	200	O
+.	SENT	.	T--------------------------.	19	201	19	201	O
+
+Lai	C	lai	C---------------------k---f-	19	203	19	205	O
+pieteiktu	V	pieteikt	Vp-------s----------------l-	19	207	19	215	O
+lietotāja	N	lietotājs	N-msg---------n-----------l-	19	217	19	225	B-TERM
+kontu	N	konts	N-msa---------n-----------l-	19	227	19	231	I-TERM
+,	T	,	T--------------------------,	19	232	19	232	O
+ar	S	ar	S----------------sap------l-	19	234	19	235	O
+ISP	-	ISP	----------------------------	19	237	19	239	B-TERM
+jānoslēdz	V	noslēgt	Vp-------c----------------l-	19	241	19	249	O
+līgums	N	līgums	N-msn---------n-----------l-	19	251	19	256	B-TERM
+,	T	,	T--------------------------,	19	257	19	257	O
+tāpat kā	C	tāpat_kā	C---------------------w---l-	19	259	19	266	O
+ar	S	ar	S----------------pdp------l-	19	268	19	269	O
+tālruņu	N	tālrunis	N-mpg---------n-----------l-	19	271	19	277	B-TERM
+pakalpojumu	N	pakalpojums	N-msa---------n-----------l-	19	279	19	289	I-TERM
+vai	C	vai	C---------------------c---l-	19	291	19	293	O
+komunālo	A	komunāls	A-mpgp-y------------------l-	19	295	19	302	O
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	19	304	19	314	O
+sniedzējiem	N	sniedzējs	N-mpd---------n-----------l-	19	316	19	326	O
+.	SENT	.	T--------------------------.	19	327	19	327	O
+
+Lai	C	lai	C---------------------k---f-	19	329	19	331	O
+atrastu	V	atrast	Vp-------s----------------l-	19	333	19	339	O
+ISP	-	ISP	----------------------------	19	341	19	343	B-TERM
+,	T	,	T--------------------------,	19	344	19	344	O
+kas	P	kas	P---n-------r---------x---l-	19	346	19	348	O
+darbojas	V	darboties	Vp----3--i-----y----------l-	19	350	19	357	O
+jūsu	P	jūs	P--pg-2-----p-------------l-	19	359	19	362	O
+rajonā	N	rajons	N-msl---------n-----------l-	19	364	19	369	O
+,	T	,	T--------------------------,	19	370	19	370	O
+meklējiet	V	meklēt	V--p--2--m----------------l-	19	372	19	380	O
+informāciju	N	informācija	N-fsa---------n-----------l-	19	382	19	392	O
+tālruņu	N	tālrunis	N-mpg---------n-----------l-	19	394	19	400	B-TERM
+kataloga	N	katalogs	N-msg---------n-----------l-	19	402	19	409	I-TERM
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	19	411	19	416	O
+"	T	"	T--------------------------"	19	418	19	418	O
+Interneta	N	internets	N-msg---------n-----------f-	19	419	19	427	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	19	429	19	439	I-TERM
+sniedzēji	N	sniedzējs	N-mpn---------n-----------l-	19	441	19	449	I-TERM
+"	T	"	T--------------------------"	19	450	19	450	O
+.	SENT	.	T--------------------------.	19	451	19	451	O
+
+
+Dažādi	R	dažādi	R----p--------------------f-	20	0	20	5	O
+interneta	N	internets	N-msg---------n-----------l-	20	7	20	15	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	20	17	20	27	I-TERM
+sniedzēji	N	sniedzējs	N-mpn---------n-----------l-	20	29	20	37	I-TERM
+piedāvā	V	piedāvāt	Vp----3--i----------------l-	20	39	20	45	O
+dažādus	A	dažāds	A-mpap-n------------------l-	20	47	20	53	O
+savienojuma	N	savienojums	N-msg---------n-----------l-	20	55	20	65	B-TERM
+veidus	N	veids	N-mpa---------n-----------l-	20	67	20	72	O
+un	C	un	C---------------------c---l-	20	74	20	75	O
+ātrumus	N	ātrums	N-mpa---------n-----------l-	20	77	20	83	O
+.	SENT	.	T--------------------------.	20	84	20	84	O
+
+Ir	V	būt	Vp----3--i----------7-----f-	20	86	20	87	O
+divi	M	divi	M-mpn---c-----------------l-	20	89	20	92	O
+savienojumu	N	savienojums	N-mpg---------n-----------l-	20	94	20	104	B-TERM
+tipi	N	tips	N-mpn---------n-----------l-	20	106	20	109	I-TERM
+:	T	:	T--------------------------:	20	110	20	110	O
+
+
+Platjoslas	N	platjosla	N-fsg---------n-----------f-	21	0	21	9	B-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	21	11	21	21	I-TERM
+.	SENT	.	T--------------------------.	21	22	21	22	O
+
+Platjoslas	N	platjosla	N-fsg---------n-----------f-	21	24	21	33	B-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	21	35	21	45	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	21	47	21	48	O
+liela	A	liels	A-msgp-n------------------l-	21	50	21	54	O
+ātruma	N	ātrums	N-msg---------n-----------l-	21	56	21	61	O
+interneta	N	internets	N-msg---------n-----------l-	21	63	21	71	B-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	21	73	21	83	I-TERM
+.	SENT	.	T--------------------------.	21	84	21	84	O
+
+Ja	C	ja	C---------------------f---f-	21	86	21	87	O
+ir	V	būt	Vp----3--i----------7-----l-	21	89	21	90	O
+platjoslas	N	platjosla	N-fsg---------n-----------l-	21	92	21	101	B-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	21	103	21	113	I-TERM
+,	T	,	T--------------------------,	21	114	21	114	O
+dators	N	dators	N-msn---------n-----------l-	21	116	21	121	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	21	123	21	124	O
+pievienots	G	pievienots	Gsmsnp-n---p--------------l-	21	126	21	135	O
+internetam	N	internets	N-msd---------n-----------l-	21	137	21	146	B-TERM
+visu	P	viss	P-msa-------g-------------l-	21	148	21	151	O
+laiku	N	laiks	N-msa---------n-----------l-	21	153	21	157	O
+un	C	un	C---------------------c---l-	21	159	21	160	O
+apskatīt	V	apskatīt	V--------n----------------l-	21	162	21	169	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	21	171	21	177	B-TERM
+lapas	N	lapa	N-fpa---------n-----------l-	21	179	21	183	I-TERM
+un	C	un	C---------------------c---l-	21	185	21	186	O
+lejupielādēt	V	lejupielādēt	V--------n----------------l-	21	188	21	199	O
+failus	N	fails	N-mpa---------n-----------l-	21	201	21	206	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	21	208	21	210	O
+ļoti	R	ļoti	R----p---------------g----l-	21	212	21	215	O
+ātri	R	ātri	R----p--------------------l-	21	217	21	220	O
+.	SENT	.	T--------------------------.	21	221	21	221	O
+
+Divas	M	divi	M-fpn---c-----------------f-	21	223	21	227	O
+populārākās	A	populārs	A-fpnc-y------------------l-	21	229	21	239	O
+platjoslas	N	platjosla	N-fsg---------n-----------l-	21	241	21	250	B-TERM
+tehnoloģijas	N	tehnoloģija	N-fpn---------n-----------l-	21	252	21	263	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	21	265	21	266	O
+ciparu	N	cipars	N-mpg---------n-----------l-	21	268	21	273	B-TERM
+abonentlīnija	N	abonentlīnija	N-fsn---------n-----------l-	21	275	21	287	I-TERM
+(	T	(	T--------------------------(	21	289	21	289	O
+Digital	-	Digital	----------------------------	21	290	21	296	O
+Subscriber	-	Subscriber	----------------------------	21	298	21	307	O
+Line	-	Line	----------------------------	21	309	21	312	O
+—	T	—	T--------------------------—	21	314	21	314	O
+DSL	-	DSL	----------------------------	21	316	21	318	B-TERM
+)	T	)	T--------------------------)	21	319	21	319	O
+un	C	un	C---------------------c---l-	21	321	21	322	O
+kabeļu	N	kabelis	N-mpg---------n-----------l-	21	324	21	329	B-TERM
+tehnoloģija	N	tehnoloģija	N-fsn---------n-----------l-	21	331	21	341	I-TERM
+.	SENT	.	T--------------------------.	21	342	21	342	O
+
+Šīm	P	šis	P-fpd-------d-------------f-	21	344	21	346	O
+tehnoloģijām	N	tehnoloģija	N-fpd---------n-----------l-	21	348	21	359	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	21	361	21	362	O
+nepieciešams	G	nepieciešams	Gpmsnp-n---p----y---------l-	21	364	21	375	O
+DSL	-	DSL	----------------------------	21	377	21	379	B-TERM
+vai	C	vai	C---------------------c---l-	21	381	21	383	O
+kabeļa	N	kabelis	N-msg---------n-----------l-	21	385	21	390	B-TERM
+modems	N	modems	N-msn---------n-----------l-	21	392	21	397	I-TERM
+,	T	,	T--------------------------,	21	398	21	398	O
+ko	P	kas	P---a-------r-------------l-	21	400	21	401	O
+bieži	R	bieži	R----p--------------------l-	21	403	21	407	O
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	21	409	21	417	O
+ISP	-	ISP	----------------------------	21	419	21	421	B-TERM
+.	SENT	.	T--------------------------.	21	422	21	422	O
+
+
+Iezvane	N	iezvane	N-fsn---------n-----------f-	22	0	22	6	B-TERM
+.	SENT	.	T--------------------------.	22	7	22	7	O
+
+Iezvanes	N	iezvane	N-fsg---------n-----------f-	22	9	22	16	B-TERM
+savienojumam	N	savienojums	N-msd---------n-----------l-	22	18	22	29	I-TERM
+tiek	V	tikt	Vp----3--i----------6-----l-	22	31	22	34	O
+izmantots	G	izmantots	Gsmsnp-n---p--------------l-	22	36	22	44	O
+iezvanes	N	iezvane	N-fsg---------n-----------l-	22	46	22	53	B-TERM
+modems	N	modems	N-msn---------n-----------l-	22	55	22	60	I-TERM
+,	T	,	T--------------------------,	22	61	22	61	O
+lai	C	lai	C---------------------f---l-	22	63	22	65	O
+datoru	N	dators	N-msa---------n-----------l-	22	67	22	72	B-TERM
+varētu	V	varēt	Vp-------s----------3-----l-	22	74	22	79	O
+savienot	V	savienot	V--------n----------------l-	22	81	22	88	O
+ar	S	ar	S----------------sap------l-	22	90	22	91	O
+internetu	N	internets	N-msa---------n-----------l-	22	93	22	101	B-TERM
+,	T	,	T--------------------------,	22	102	22	102	O
+izmantojot	G	izmantojot	G----------a-n------------l-	22	104	22	113	O
+parasto	A	parasts	A-msap-y------------------l-	22	115	22	121	B-TERM
+tālruņa	N	tālrunis	N-msg---------n-----------l-	22	123	22	129	I-TERM
+līniju	N	līnija	N-fsa---------n-----------l-	22	131	22	136	I-TERM
+.	SENT	.	T--------------------------.	22	137	22	137	O
+
+Daudziem	M	daudzi	M-mpd---c-----------------f-	22	139	22	146	O
+datoriem	N	dators	N-mpd---------n-----------l-	22	148	22	155	B-TERM
+iezvanes	N	iezvane	N-fsg---------n-----------l-	22	157	22	164	B-TERM
+modems	N	modems	N-msn---------n-----------l-	22	166	22	171	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	22	173	22	174	O
+jau	Q	jau	Q-------------------------l-	22	176	22	178	O
+instalēts	G	instalēts	Gsmsnp-n---p--------------l-	22	180	22	188	O
+.	SENT	.	T--------------------------.	22	189	22	189	O
+
+Atšķirībā	N	atšķirība	N-fsl---------n-----------f-	22	191	22	199	O
+no	S	no	S----------------sgp------l-	22	201	22	202	O
+platjoslas	N	platjosla	N-fsg---------n-----------l-	22	204	22	213	B-TERM
+tehnoloģijām	N	tehnoloģija	N-fpd---------n-----------l-	22	215	22	226	I-TERM
+iezvanes	N	iezvane	N-fsg---------n-----------l-	22	228	22	235	B-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	22	237	22	247	I-TERM
+darbojas	V	darboties	Vp----3--i-----y----------l-	22	249	22	256	O
+lēnāk	R	lēni	R----c--------------------l-	22	258	22	262	O
+,	T	,	T--------------------------,	22	263	22	263	O
+un	C	un	C---------------------c---l-	22	265	22	266	O
+katru	P	katrs	P-fsa-------g-------------l-	22	268	22	272	O
+reizi	N	reize	N-fsa---------n-----------l-	22	274	22	278	O
+,	T	,	T--------------------------,	22	279	22	279	O
+kad	R	kad	R----p----------------f---l-	22	281	22	283	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	22	285	22	292	O
+lietot	V	lietot	V--------n----------------l-	22	294	22	299	O
+internetu	N	internets	N-msa---------n-----------l-	22	301	22	309	B-TERM
+,	T	,	T--------------------------,	22	310	22	310	O
+ir	V	būt	Vp----3--i----------7-----l-	22	312	22	313	O
+jāizveido	V	izveidot	Vp-------c----------------l-	22	315	22	323	O
+jauns	A	jauns	A-msnp-n------------------l-	22	325	22	329	O
+savienojums	N	savienojums	N-msn---------n-----------l-	22	331	22	341	B-TERM
+.	SENT	.	T--------------------------.	22	342	22	342	O
+
+Tomēr	Q	tomēr	Q-------------------------f-	22	344	22	348	O
+iezvanes	N	iezvane	N-fsg---------n-----------l-	22	350	22	357	B-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	22	359	22	369	I-TERM
+,	T	,	T--------------------------,	22	370	22	370	O
+salīdzinot	G	salīdzinot	G----------a-n------------l-	22	372	22	381	O
+ar	S	ar	S----------------sap------l-	22	383	22	384	O
+platjoslas	N	platjosla	N-fsg---------n-----------l-	22	386	22	395	B-TERM
+savienojumu	N	savienojums	N-msa---------n-----------l-	22	397	22	407	I-TERM
+,	T	,	T--------------------------,	22	408	22	408	O
+ir	V	būt	Vp----3--i----------7-----l-	22	410	22	411	O
+lētāks	A	lēts	A-msnc-n------------------l-	22	413	22	418	O
+,	T	,	T--------------------------,	22	419	22	419	O
+un	C	un	C---------------------c---l-	22	421	22	422	O
+dažās	P	dažs	P-fpl-------i-------------l-	22	424	22	428	O
+vietās	N	vieta	N-fpl---------n-----------l-	22	430	22	435	O
+tā	P	tas	P-fsn-------d-------------l-	22	437	22	438	O
+ir	V	būt	Vp----3--i----------7-----l-	22	440	22	441	O
+vienīgā	A	vienīgs	A-fsnp-y------------------l-	22	443	22	449	O
+iespēja	N	iespēja	N-fsn---------n-----------l-	22	451	22	457	O
+piekļūt	V	piekļūt	V--------n----------------l-	22	459	22	465	O
+internetam	N	internets	N-msd---------n-----------l-	22	467	22	476	B-TERM
+.	SENT	.	T--------------------------.	22	477	22	477	O
+
+
+Kad	R	kad	R----p----------------o---f-	23	0	23	2	O
+ir	V	būt	Vp----3--i----------7-----l-	23	4	23	5	O
+noslēgts	G	noslēgts	Gsmsnp-n---p--------------l-	23	7	23	14	O
+līgums	N	līgums	N-msn---------n-----------l-	23	16	23	21	B-TERM
+ar	S	ar	S----------------sap------l-	23	23	23	24	O
+ISP	-	ISP	----------------------------	23	26	23	28	B-TERM
+un	C	un	C---------------------c---l-	23	30	23	31	O
+dators	N	dators	N-msn---------n-----------l-	23	33	23	38	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	23	40	23	41	O
+aprīkots	G	aprīkots	Gsmsnp-n---p--------------l-	23	43	23	50	O
+ar	S	ar	S----------------sap------l-	23	52	23	53	O
+modemu	N	modems	N-msa---------n-----------l-	23	55	23	60	B-TERM
+,	T	,	T--------------------------,	23	61	23	61	O
+var	V	varēt	Vp----3--i----------3-----l-	23	63	23	65	O
+izveidot	V	izveidot	V--------n----------------l-	23	67	23	74	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	23	76	23	86	B-TERM
+ar	S	ar	S----------------sap------l-	23	88	23	89	O
+internetu	N	internets	N-msa---------n-----------l-	23	91	23	99	B-TERM
+.	SENT	.	T--------------------------.	23	100	23	100	O
+
+Interneta	N	internets	N-msg---------n-----------f-	23	102	23	110	B-TERM
+savienojuma	N	savienojums	N-msg---------n-----------l-	23	112	23	122	B-TERM
+izveides	N	izveide	N-fsg---------n-----------l-	23	124	23	131	I-TERM
+vednis	N	vednis	N-msn---------n-----------l-	23	133	23	138	I-TERM
+palīdz	V	palīdzēt	Vp----3--i----------------l-	23	140	23	145	O
+veikt	V	veikt	V--------n----------------l-	23	147	23	151	O
+nepieciešamās	A	nepieciešams	A-fpap-y--------y---------l-	23	153	23	165	O
+darbības	N	darbība	N-fpa---------n-----------l-	23	167	23	174	O
+.	SENT	.	T--------------------------.	23	175	23	175	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	24	0	24	7	O
+vedni	N	vednis	N-msa---------n-----------l-	24	9	24	13	B-TERM
+Izveidot	V	izveidot	V--------n----------------f-	24	15	24	22	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	24	24	24	34	B-TERM
+ar	S	ar	S----------------sap------l-	24	36	24	37	O
+internetu	N	internets	N-msa---------n-----------l-	24	39	24	47	B-TERM
+,	T	,	T--------------------------,	24	48	24	48	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	24	50	24	61	O
+uz	S	uz	S----------------sgp------l-	24	63	24	64	O
+pogas	N	poga	N-fsg---------n-----------l-	24	66	24	70	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	24	72	24	75	O
+
+
+,	T	,	T--------------------------,	25	0	25	0	O
+pēc tam	-	pēc_tam	----------------------------	25	2	25	8	O
+uz	S	uz	S----------------sgp------l-	25	10	25	11	O
+Vadības	N	vadība	N-fsg---------n-----------f-	25	13	25	19	B-TERM
+panelis	N	panelis	N-msn---------n-----------l-	25	21	25	27	I-TERM
+,	T	,	T--------------------------,	25	28	25	28	O
+uz	S	uz	S----------------sgp------l-	25	30	25	31	O
+Tīkls	N	tīkls	N-msn---------n-----------f-	25	33	25	37	B-TERM
+un	C	un	C---------------------c---l-	25	39	25	40	O
+internets	N	internets	N-msn---------n-----------l-	25	42	25	50	B-TERM
+,	T	,	T--------------------------,	25	51	25	51	O
+uz	S	uz	S----------------sgp------l-	25	53	25	54	O
+Tīkla	N	tīkls	N-msg---------n-----------f-	25	56	25	60	B-TERM
+un	C	un	C---------------------c---l-	25	62	25	63	O
+koplietošanas	N	koplietošana	N-fsg---------n-----------l-	25	65	25	77	B-TERM
+centrs	N	centrs	N-msn---------n-----------l-	25	79	25	84	I-TERM
+,	T	,	T--------------------------,	25	85	25	85	O
+uz	S	uz	S----------------sap------l-	25	87	25	88	O
+Iestatīt	V	iestatīt	V--------n----------------f-	25	90	25	97	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	25	99	25	109	B-TERM
+vai	C	vai	C---------------------c---l-	25	111	25	113	O
+tīklu	N	tīkls	N-msa---------n-----------l-	25	115	25	119	B-TERM
+un	C	un	C---------------------c---l-	25	121	25	122	O
+uz	S	uz	S----------------sap------l-	25	124	25	125	O
+Izveidot	V	izveidot	V--------n----------------f-	25	127	25	134	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	25	136	25	146	B-TERM
+ar	S	ar	S----------------sap------l-	25	148	25	149	O
+internetu	N	internets	N-msa---------n-----------l-	25	151	25	159	B-TERM
+.	SENT	.	T--------------------------.	25	160	25	160	O
+
+
+Darba	N	darbs	N-msg---------n-----------f-	26	0	26	4	O
+sākšana	N	sākšana	N-fsn---------n-----------l-	26	6	26	12	O
+tīmeklī	N	tīmeklis	N-msl---------n-----------l-	26	14	26	20	B-TERM
+
+
+Tiklīdz	C	tiklīdz	C---------------------t---f-	27	0	27	6	O
+ir	V	būt	Vp----3--i----------7-----l-	27	8	27	9	O
+izveidots	G	izveidots	Gsmsnp-n---p--------------l-	27	11	27	19	O
+savienojums	N	savienojums	N-msn---------n-----------l-	27	21	27	31	B-TERM
+ar	S	ar	S----------------sap------l-	27	33	27	34	O
+internetu	N	internets	N-msa---------n-----------l-	27	36	27	44	B-TERM
+,	T	,	T--------------------------,	27	45	27	45	O
+tīmeklim	N	tīmeklis	N-msd---------n-----------l-	27	47	27	54	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	27	56	27	58	O
+piekļūt	V	piekļūt	V--------n----------------l-	27	60	27	66	O
+,	T	,	T--------------------------,	27	67	27	67	O
+lietojot	G	lietojot	G----------a-n------------l-	27	69	27	76	O
+programmu	N	programma	N-fsa---------n-----------l-	27	78	27	86	B-TERM
+Internet	N	Internet	N-fsg---------n-----------f-	27	88	27	95	O
+Explorer	N	Explorer	N-msg---------n-----------f-	27	97	27	104	O
+—	T	—	T--------------------------—	27	106	27	106	O
+sistēmā	N	sistēma	N-fsl---------n-----------l-	27	108	27	114	B-TERM
+Windows	N	Windows	N-fsl---------n-----------f-	27	116	27	122	O
+iekļauto	G	iekļauts	Gsmpgp-y---p--------------l-	27	124	27	131	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	27	133	27	139	B-TERM
+pārlūkprogrammu	N	pārlūkprogramma	N-fsa---------n-----------l-	27	141	27	155	I-TERM
+.	SENT	.	T--------------------------.	27	156	27	156	O
+
+Var	V	varēt	Vp----3--i----------3-----f-	27	158	27	160	O
+lietot	V	lietot	V--------n----------------l-	27	162	27	167	O
+arī	Q	arī	Q-------------------------l-	27	169	27	171	O
+jebkuru	P	jebkurš	P-fsa-------g-------------l-	27	173	27	179	O
+citu	P	cits	P-msa-------i-------------l-	27	181	27	184	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	27	186	27	192	B-TERM
+pārlūkprogrammu	N	pārlūkprogramma	N-fsa---------n-----------l-	27	194	27	208	I-TERM
+,	T	,	T--------------------------,	27	209	27	209	O
+kas	P	kas	P---n-------r---------x---l-	27	211	27	213	O
+ir	V	būt	Vp----3--i----------7-----l-	27	215	27	216	O
+instalēta	G	instalēts	Gsmsgp-n---p--------------l-	27	218	27	226	O
+datorā	N	dators	N-msl---------n-----------l-	27	228	27	233	B-TERM
+.	SENT	.	T--------------------------.	27	234	27	234	O
+
+
+Lai	C	lai	C---------------------k---f-	28	0	28	2	O
+startētu	V	startēt	Vp-------s----------------l-	28	4	28	11	O
+programmu	N	programma	N-fsa---------n-----------l-	28	13	28	21	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	28	23	28	30	O
+Explorer	N	Explorer	N-msd---------n-----------f-	28	32	28	39	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	29	0	29	7	O
+Internet	N	Internet	N-fsl---------n-----------f-	29	9	29	16	O
+Explorer	N	Explorer	N-msn---------n-----------f-	29	18	29	25	O
+,	T	,	T--------------------------,	29	26	29	26	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	29	28	29	39	O
+uz	S	uz	S----------------sgp------l-	29	41	29	42	O
+pogas	N	poga	N-fsg---------n-----------l-	29	44	29	48	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	29	50	29	53	O
+
+
+un	C	un	C---------------------c---l-	30	0	30	1	O
+pēc tam	-	pēc_tam	----------------------------	30	3	30	9	O
+uz	S	uz	S----------------pdp------l-	30	11	30	12	O
+Internet	N	Internet	N-fsg---------n-----------f-	30	14	30	21	O
+Explorer	N	Explorer	N-msn---------n-----------f-	30	23	30	30	O
+.	SENT	.	T--------------------------.	30	31	30	31	O
+
+
+Startējot	G	startējot	G----------a-n------------f-	31	0	31	8	O
+programmu	N	programma	N-fsa---------n-----------l-	31	10	31	18	B-TERM
+Internet	N	Internet	N-fsg---------n-----------f-	31	20	31	27	O
+Explorer	N	Explorer	N-msa---------n-----------f-	31	29	31	36	O
+,	T	,	T--------------------------,	31	37	31	37	O
+tā	P	tas	P-fsn-------d-------------l-	31	39	31	40	O
+atver	V	atvērt	Vp----3--i----------------l-	31	42	31	46	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	31	48	31	54	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	31	56	31	59	I-TERM
+,	T	,	T--------------------------,	31	60	31	60	O
+kas	P	kas	P---n-------r---------x---l-	31	62	31	64	O
+ir	V	būt	Vp----3--i----------7-----l-	31	66	31	67	O
+iestatīta	G	iestatīts	Gsfsnp-n---p--------------l-	31	69	31	77	O
+kā	C	kā	C---------------------f---l-	31	79	31	80	O
+sākumlapa	N	sākumlapa	N-fsn---------n-----------l-	31	82	31	90	B-TERM
+.	SENT	.	T--------------------------.	31	91	31	91	O
+
+Pēc	S	pēc	S----------------sgp------f-	31	93	31	95	O
+noklusējuma	N	noklusējums	N-msg---------n-----------l-	31	97	31	107	B-TERM
+iestatītā	G	iestatīts	Gsfsnp-y---p--------------l-	31	109	31	117	O
+sākumlapa	N	sākumlapa	N-fsn---------n-----------l-	31	119	31	127	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	31	129	31	130	O
+MSN.com	-	MSN.com	----------------------------	31	132	31	138	O
+,	T	,	T--------------------------,	31	139	31	139	O
+kas	P	kas	P---n-------q---------x---l-	31	141	31	143	O
+ir	V	būt	Vp----3--i----------7-----l-	31	145	31	146	O
+korporācijas	N	korporācija	N-fsg---------n-----------l-	31	148	31	159	O
+Microsoft	N	Microsoft	N-fsg---------n-----------f-	31	161	31	169	O
+vietne	N	vietne	N-fsn---------n-----------l-	31	171	31	176	B-TERM
+ar	S	ar	S----------------pdp------l-	31	178	31	179	O
+saitēm	N	saite	N-fpd---------n-----------l-	31	181	31	186	B-TERM
+uz	S	uz	S----------------pdp------l-	31	188	31	189	O
+dažādiem	A	dažāds	A-mpdp-n------------------l-	31	191	31	198	O
+informācijas	N	informācija	N-fsg---------n-----------l-	31	200	31	211	B-TERM
+avotiem	N	avots	N-mpd---------n-----------l-	31	213	31	219	I-TERM
+un	C	un	C---------------------c---l-	31	221	31	222	O
+pakalpojumiem	N	pakalpojums	N-mpd---------n-----------l-	31	224	31	236	B-TERM
+.	T	.	T--------------------------.	31	237	31	237	O
+(	T	(	T--------------------------(	31	239	31	239	O
+Datora	N	dators	N-msg---------n-----------f-	31	240	31	245	B-TERM
+ražotājs	N	ražotājs	N-msn---------n-----------l-	31	247	31	254	I-TERM
+var	V	varēt	Vp----3--i----------3-----l-	31	256	31	258	O
+būt	V	būt	V--------n----------1-----l-	31	260	31	262	O
+iestatījis	G	iestatījis	Gsmsn--n---a--------------l-	31	264	31	273	O
+citu	P	cits	P-fsa-------i-------------l-	31	275	31	278	O
+sākumlapu	N	sākumlapa	N-fsa---------n-----------l-	31	280	31	288	B-TERM
+.	T	.	T--------------------------.	31	289	31	289	O
+)	T	)	T--------------------------)	31	290	31	290	O
+Tomēr	C	tomēr	C-------------------------f-	31	292	31	296	O
+par	S	par	S----------------sap------l-	31	298	31	300	O
+sākumlapu	N	sākumlapa	N-fsa---------n-----------l-	31	302	31	310	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	31	312	31	314	O
+izvēlēties	V	izvēlēties	V--------n-----y----------l-	31	316	31	325	O
+jebkuru	P	jebkurš	P-fsa-------g-------------l-	31	327	31	333	O
+lapu	N	lapa	N-fsa---------n-----------l-	31	335	31	338	B-TERM
+(	T	(	T--------------------------(	31	340	31	340	O
+vai	C	vai	C---------------------c---l-	31	341	31	343	O
+tukšu	A	tukšs	A-fpgp-n------------------l-	31	345	31	349	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	31	351	31	354	I-TERM
+)	T	)	T--------------------------)	31	355	31	355	O
+.	SENT	.	T--------------------------.	31	356	31	356	O
+
+Skatiet	V	skatīt	V--p--2--m----------------f-	31	358	31	364	O
+Programmas	N	programma	N-fsg---------n-----------f-	31	366	31	375	B-TERM
+Internet	N	Internet	N-fsg---------n-----------f-	31	377	31	384	O
+Explorer	N	Explorer	N-msl---------n-----------f-	31	386	31	393	O
+sākumlapas	N	sākumlapa	N-fsg---------n-----------l-	31	395	31	404	B-TERM
+maiņa	N	maiņa	N-fsn---------n-----------l-	31	406	31	410	O
+.	SENT	.	T--------------------------.	31	412	31	412	O
+
+
+Padoms	N	padoms	N-msn---------n-----------f-	32	0	32	5	O
+
+
+programmā	N	programma	N-fsl---------n-----------l-	33	0	33	8	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	33	10	33	17	O
+Explorer	N	Explorer	N-msl---------n-----------f-	33	19	33	26	O
+.	SENT	.	T--------------------------.	33	27	33	27	O
+
+
+Tīmekļa	N	tīmeklis	N-msg---------n-----------f-	34	0	34	6	B-TERM
+adreses	N	adrese	N-fsg---------n-----------l-	34	8	34	14	I-TERM
+ievadīšana	N	ievadīšana	N-fsn---------n-----------l-	34	16	34	25	O
+
+
+Tāpat	R	tāpat	R----p--------------------f-	35	0	35	4	O
+kā	C	kā	C---------------------f---l-	35	6	35	7	O
+katrai	P	katrs	P-fsd-------g-------------l-	35	9	35	14	O
+dzīvesvietai	N	dzīvesvieta	N-fsd---------n-----------l-	35	16	35	27	O
+ir	V	būt	Vp----3--i----------7-----l-	35	29	35	30	O
+unikāla	A	unikāls	A-fsnp-n------------------l-	35	32	35	38	O
+ielas	N	iela	N-fsg---------n-----------l-	35	40	35	44	O
+adrese	N	adrese	N-fsn---------n-----------l-	35	46	35	51	O
+,	T	,	T--------------------------,	35	52	35	52	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	35	54	35	60	B-TERM
+lapai	N	lapa	N-fsd---------n-----------l-	35	62	35	66	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	35	68	35	69	O
+sava	P	savs	P-fsn-------s-------------l-	35	71	35	74	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	35	76	35	82	B-TERM
+adrese	N	adrese	N-fsn---------n-----------l-	35	84	35	89	I-TERM
+.	SENT	.	T--------------------------.	35	90	35	90	O
+
+Šo	P	šis	P-fsa-------d-------------f-	35	92	35	93	O
+adresi	N	adrese	N-fsa---------n-----------l-	35	95	35	100	B-TERM
+dēvē	V	dēvēt	Vp----3--i----------------l-	35	102	35	105	O
+par	S	par	S----------------sap------l-	35	107	35	109	O
+vienoto	A	vienots	A-msap-y------------------l-	35	111	35	117	B-TERM
+resursu	N	resurss	N-msa---------n-----------l-	35	119	35	125	I-TERM
+vietrādi	N	vietrāde	N-fsa---------n-----------l-	35	127	35	134	I-TERM
+(	T	(	T--------------------------(	35	136	35	136	O
+URL	-	URL	----------------------------	35	137	35	139	B-TERM
+)	T	)	T--------------------------)	35	140	35	140	O
+.	SENT	.	T--------------------------.	35	141	35	141	O
+
+Piemēram	R	piemēram	R----p--------------------f-	35	143	35	150	O
+,	T	,	T--------------------------,	35	151	35	151	O
+korporācijas	N	korporācija	N-fsg---------n-----------l-	35	153	35	164	O
+Microsoft	N	Microsoft	N-msl---------n-----------f-	35	166	35	174	O
+galvenās	A	galvenais	A-fsgp-y------------------l-	35	176	35	183	B-TERM
+vietnes	N	vietne	N-fsg---------n-----------l-	35	185	35	191	I-TERM
+vietrādis	N	vietrādis	N-msn---------n-----------l-	35	193	35	201	I-TERM
+URL	-	URL	----------------------------	35	203	35	205	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	35	207	35	208	O
+http://www.microsoft.com.	-	http://www.microsoft.com.	----------------------------	35	210	35	234	O
+
+
+Ja	C	ja	C---------------------f---f-	36	0	36	1	O
+zināt	V	zināt	V--------n----------------l-	36	3	36	7	O
+lapas	N	lapa	N-fsg---------n-----------l-	36	9	36	13	B-TERM
+vietrādi	N	vietrādis	N-msa---------n-----------l-	36	15	36	22	I-TERM
+URL	-	URL	----------------------------	36	24	36	26	I-TERM
+,	T	,	T--------------------------,	36	27	36	27	O
+varat	V	varēt	Vp-p--2--i----------3-----l-	36	29	36	33	O
+to	P	tas	P-fsa-------d-------------l-	36	35	36	36	O
+tieši	R	tieši	R----p--------------------l-	36	38	36	42	O
+ierakstīt	V	ierakstīt	V--------n----------------l-	36	44	36	52	O
+programmā	N	programma	N-fsl---------n-----------l-	36	54	36	62	B-TERM
+Internet	N	Internet	N-fsl---------n-----------f-	36	64	36	71	O
+Explorer	N	Explorer	N-msd---------n-----------f-	36	73	36	80	O
+:	T	:	T--------------------------:	36	81	36	81	O
+
+
+Lodziņā	N	logs	N-msl---------y-----------f-	37	0	37	6	B-TERM
+Adrese	N	adrese	N-fsn---------n-----------f-	37	8	37	13	O
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	37	15	37	24	O
+vietrādi	N	vietrāde	N-fsa---------n-----------l-	37	26	37	33	B-TERM
+URL	-	URL	----------------------------	37	35	37	37	O
+.	SENT	.	T--------------------------.	37	38	37	38	O
+
+
+Lai	C	lai	C---------------------k---f-	38	0	38	2	O
+atvērtu	V	atvērst	Vs-s--1--i----------------l-	38	4	38	10	O
+vietni	N	vietne	N-fsa---------n-----------l-	38	12	38	17	B-TERM
+,	T	,	T--------------------------,	38	18	38	18	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	38	20	38	32	O
+uz	S	uz	S----------------sap------l-	38	34	38	35	O
+pogas	N	poga	N-fsg---------n-----------l-	38	37	38	41	B-TERM
+Aiziet	V	aiziet	Vp----3--i----------------f-	38	43	38	48	O
+!	T	!	T--------------------------!	38	49	38	49	O
+vai	C	vai	C---------------------c---l-	38	51	38	53	O
+nospiediet	V	nospiest	V--p--2--m----------------l-	38	55	38	64	O
+tastatūras	N	tastatūra	N-fsg---------n-----------l-	38	66	38	75	B-TERM
+taustiņu	N	taustiņš	N-msa---------n-----------l-	38	77	38	84	I-TERM
+ENTER	-	ENTER	----------------------------	38	86	38	90	O
+.	SENT	.	T--------------------------.	38	91	38	91	O
+
+
+Vietrāžus	N	vietrādis	N-mpa---------n-----------f-	39	0	39	8	B-TERM
+URL	-	URL	----------------------------	39	10	39	12	I-TERM
+rakstiet	V	rakstīt	V--p--2--m----------------l-	39	14	39	21	O
+adrešu	N	adrese	N-fpg---------n-----------l-	39	23	39	28	B-TERM
+lodziņā	N	logs	N-msl---------y-----------l-	39	30	39	36	I-TERM
+
+
+Padomi	N	padoms	N-mpn---------n-----------f-	40	0	40	5	O
+
+
+http	-	http	----------------------------	41	0	41	3	O
+:	T	:	T--------------------------:	41	4	41	4	O
+//	T	//	T--------------------------/	41	5	41	6	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	41	8	41	10	O
+jāraksta	V	rakstīt	Vp-------c----------------l-	41	12	41	19	O
+.	SENT	.	T--------------------------.	41	20	41	20	O
+
+Piemēram	R	piemēram	R----p--------------------f-	41	22	41	29	O
+,	T	,	T--------------------------,	41	30	41	30	O
+var	V	varēt	Vp----3--i----------3-----l-	41	32	41	34	O
+rakstīt	V	rakstīt	V--------n----------------l-	41	36	41	42	O
+www.microsoft.com	-	www.microsoft.com	----------------------------	41	44	41	60	O
+,	T	,	T--------------------------,	41	61	41	61	O
+un	C	un	C---------------------c---l-	41	63	41	64	O
+programma	N	programma	N-fsn---------n-----------l-	41	66	41	74	B-TERM
+Internet	N	Internet	N-fsg---------n-----------f-	41	76	41	83	O
+Explorer	N	Explorer	N-msa---------n-----------f-	41	85	41	92	O
+paveiks	V	paveikt	Vf----3--i----------------l-	41	94	41	100	O
+pārējo	A	pārējais	A-fsap-y------------------l-	41	102	41	107	O
+.	SENT	.	T--------------------------.	41	108	41	108	O
+
+
+Lai	C	lai	C---------------------k---f-	42	0	42	2	O
+ātri	R	ātri	R----p--------------------l-	42	4	42	7	O
+ievadītu	V	ievadīt	Vp-------s----------------l-	42	9	42	16	O
+vietrādi	N	vietrādis	N-msa---------n-----------l-	42	18	42	25	B-TERM
+URL	-	URL	----------------------------	42	27	42	29	I-TERM
+,	T	,	T--------------------------,	42	30	42	30	O
+kas	P	kas	P---n-------r---------x---l-	42	32	42	34	O
+beidzas	V	beigties	Vp----3--i-----y----3-----l-	42	36	42	42	O
+ar	S	ar	S----------------sap------l-	42	44	42	45	O
+"	T	"	T--------------------------"	42	47	42	47	O
+.	T	.	T--------------------------.	42	48	42	48	O
+com	-	com	----------------------------	42	49	42	51	O
+"	T	"	T--------------------------"	42	52	42	52	O
+,	T	,	T--------------------------,	42	53	42	53	O
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	42	55	42	64	O
+adreses	N	adrese	N-fsg---------n-----------l-	42	66	42	72	B-TERM
+daļu	N	daļa	N-fsa---------n-----------l-	42	74	42	77	O
+,	T	,	T--------------------------,	42	78	42	78	O
+kas	P	kas	P---n-------r---------x---l-	42	80	42	82	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	42	84	42	90	O
+starp	S	starp	S----------------sap------l-	42	92	42	96	O
+"	T	"	T--------------------------"	42	98	42	98	O
+www	-	www	----------------------------	42	99	42	101	O
+.	T	.	T--------------------------.	42	102	42	102	O
+"	T	"	T--------------------------"	42	103	42	103	O
+un	C	un	C---------------------c---l-	42	105	42	106	O
+"	T	"	T--------------------------"	42	108	42	108	O
+.	T	.	T--------------------------.	42	109	42	109	O
+com	-	com	----------------------------	42	110	42	112	O
+"	T	"	T--------------------------"	42	113	42	113	O
+,	T	,	T--------------------------,	42	114	42	114	O
+un	C	un	C---------------------c---l-	42	116	42	117	O
+pēc tam	-	pēc_tam	----------------------------	42	119	42	125	O
+nospiediet	V	nospiest	V--p--2--m----------------l-	42	127	42	136	O
+taustiņu	N	taustiņš	N-mpg---------n-----------l-	42	138	42	145	B-TERM
+kombināciju	N	kombinācija	N-fsa---------n-----------l-	42	147	42	157	I-TERM
+CTRL	-	CTRL	----------------------------	42	159	42	162	O
++	T	+	T--------------------------+	42	163	42	163	O
+ENTER	-	ENTER	----------------------------	42	164	42	168	O
+.	SENT	.	T--------------------------.	42	169	42	169	O
+
+
+Pamatnavigācija	-	Pamatnavigācija	----------------------------	43	0	43	14	O
+
+
+Saišu	N	saite	N-fpg---------n-----------f-	44	0	44	4	B-TERM
+lietošana	N	lietošana	N-fsn---------n-----------l-	44	6	44	14	O
+.	SENT	.	T--------------------------.	44	15	44	15	O
+
+Lielākai	A	liels	A-fsdc-n------------------f-	44	17	44	24	O
+daļai	N	daļa	N-fsd---------n-----------l-	44	26	44	30	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	44	32	44	38	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	44	40	44	43	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	44	45	44	46	O
+desmitiem	M	desmits	M-mpd---c-----------------l-	44	48	44	56	O
+un	C	un	C---------------------c---l-	44	58	44	59	O
+pat	Q	pat	Q-------------------------l-	44	61	44	63	O
+simtiem	M	simts	M-mpd---c-----------------l-	44	65	44	71	O
+saišu	N	saite	N-fpg---------n-----------l-	44	73	44	77	B-TERM
+.	SENT	.	T--------------------------.	44	78	44	78	O
+
+Lai	C	lai	C---------------------k---f-	44	80	44	82	O
+no	S	no	S----------------sgp------l-	44	84	44	85	O
+vienas	M	viens	M-fsg---c-----------------l-	44	87	44	92	O
+lapas	N	lapa	N-fsg---------n-----------l-	44	94	44	98	B-TERM
+atvērtu	G	atvērts	Gsfsap-n---p--------------l-	44	100	44	106	O
+citu	P	cits	P-fsa-------i-------------l-	44	108	44	111	O
+lapu	N	lapa	N-fsa---------n-----------l-	44	113	44	116	B-TERM
+,	T	,	T--------------------------,	44	117	44	117	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	44	119	44	131	O
+uz	S	uz	S----------------sgp------l-	44	133	44	134	O
+jebkuras	P	jebkurš	P-fsg-------g-------------l-	44	136	44	143	O
+saites	N	saite	N-fsg---------n-----------l-	44	145	44	150	B-TERM
+.	SENT	.	T--------------------------.	44	151	44	151	O
+
+Tomēr	C	tomēr	C-------------------------f-	44	153	44	157	O
+ne	Q	ne	Q---------------y---------l-	44	159	44	160	O
+vienmēr	R	vienmēr	R----p--------------------l-	44	162	44	168	O
+ir	V	būt	Vp----3--i----------7-----l-	44	170	44	171	O
+viegli	R	viegli	R----p--------------------l-	44	173	44	178	O
+noteikt	V	noteikt	V--------n----------------l-	44	180	44	186	O
+,	T	,	T--------------------------,	44	187	44	187	O
+kādi	P	kāds	P-mpn-------g---------a---l-	44	189	44	192	O
+vienumi	N	vienums	N-mpn---------n-----------l-	44	194	44	200	B-TERM
+lapā	N	lapa	N-fsl---------n-----------l-	44	202	44	205	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	44	207	44	208	O
+saites	N	saite	N-fpn---------n-----------l-	44	210	44	215	B-TERM
+.	SENT	.	T--------------------------.	44	216	44	216	O
+
+Saites	N	saite	N-fpn---------n-----------f-	44	218	44	223	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	44	225	44	227	O
+būt	V	būt	V--------n----------1-----l-	44	229	44	231	O
+teksts	N	teksts	N-msn---------n-----------l-	44	233	44	238	B-TERM
+,	T	,	T--------------------------,	44	239	44	239	O
+attēli	N	attēls	N-mpn---------n-----------l-	44	241	44	246	B-TERM
+vai	C	vai	C---------------------c---l-	44	248	44	250	O
+abu	P	abi	P-mpg-------i-------------l-	44	252	44	254	O
+apvienojums	N	apvienojums	N-msn---------n-----------l-	44	256	44	266	O
+.	SENT	.	T--------------------------.	44	267	44	267	O
+
+Teksta	N	teksts	N-msg---------n-----------f-	44	269	44	274	B-TERM
+saites	N	saite	N-fsg---------n-----------l-	44	276	44	281	I-TERM
+bieži	R	bieži	R----p--------------------l-	44	283	44	287	O
+ir	V	būt	Vp----3--i----------7-----l-	44	289	44	290	O
+krāsainas	A	krāsains	A-fpnp-n------------------l-	44	292	44	300	O
+un	C	un	C---------------------c---l-	44	302	44	303	O
+pasvītrotas	G	pasvītrots	Gsfpnp-n---p--------------l-	44	305	44	315	O
+,	T	,	T--------------------------,	44	316	44	316	O
+taču	C	taču	C-------------------------l-	44	318	44	321	O
+saišu	N	saite	N-fpg---------n-----------l-	44	323	44	327	B-TERM
+stils	N	stils	N-msn---------n-----------l-	44	329	44	333	I-TERM
+vietnēs	N	vietne	N-fpl---------n-----------l-	44	335	44	341	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	44	343	44	345	O
+atšķirties	V	atšķirties	V--------n-----y----------l-	44	347	44	356	O
+.	SENT	.	T--------------------------.	44	357	44	357	O
+
+
+Lai	C	lai	C---------------------k---f-	45	0	45	2	O
+pārbaudītu	V	pārbaudīt	Vp-------s----------------l-	45	4	45	13	O
+,	T	,	T--------------------------,	45	14	45	14	O
+vai	C	vai	C---------------------c---l-	45	16	45	18	O
+kāds	P	kāds	P-msn-------g---------a---l-	45	20	45	23	O
+vienums	N	vienums	N-msn---------n-----------l-	45	25	45	31	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	45	33	45	34	O
+saite	N	saite	N-fsn---------n-----------l-	45	36	45	40	B-TERM
+vai	C	vai	C---------------------c---l-	45	42	45	44	O
+ne	Q	ne	Q---------------y---------l-	45	46	45	47	O
+,	T	,	T--------------------------,	45	48	45	48	O
+norādiet	V	norādīt	V--p--2--m----------------l-	45	50	45	57	O
+uz	S	uz	S----------------sap------l-	45	59	45	60	O
+to	P	tas	P-msa-------d-------------l-	45	62	45	63	O
+.	SENT	.	T--------------------------.	45	64	45	64	O
+
+Ja	C	ja	C---------------------f---f-	45	66	45	67	O
+tā	R	tā	R----p--------------------l-	45	69	45	70	O
+ir	V	būt	Vp----3--i----------7-----l-	45	72	45	73	O
+saite	N	saite	N-fsn---------n-----------l-	45	75	45	79	B-TERM
+:	T	:	T--------------------------:	45	80	45	80	O
+
+
+Peles	N	pele	N-fsg---------n-----------f-	46	0	46	4	B-TERM
+rādītājs	N	rādītājs	N-msn---------n-----------l-	46	6	46	13	I-TERM
+pārvēršas	V	pārvērsties	Vp----3--i-----y----------l-	46	15	46	23	O
+par	S	par	S----------------sap------l-	46	25	46	27	O
+roku	N	roka	N-fsa---------n-----------l-	46	29	46	32	O
+ar	S	ar	S----------------sap------l-	46	34	46	35	O
+izstieptu	G	izstiepts	Gsmsap-n---p--------------l-	46	37	46	45	O
+rādītājpirkstu	N	rādītājpirksts	N-msa---------n-----------l-	46	47	46	60	O
+.	SENT	.	T--------------------------.	46	61	46	61	O
+
+
+Tīmekļa	N	tīmeklis	N-msg---------n-----------f-	47	0	47	6	B-TERM
+pārlūkprogrammas	N	pārlūkprogramma	N-fsg---------n-----------l-	47	8	47	23	I-TERM
+statusa	N	statuss	N-msg---------n-----------l-	47	25	47	31	B-TERM
+joslā	N	josla	N-fsl---------n-----------l-	47	33	47	37	I-TERM
+parādās	V	parādīties	Vp----3--i-----y----------l-	47	39	47	45	O
+vietrādis	N	vietrādis	N-msn---------n-----------l-	47	47	47	55	B-TERM
+URL	-	URL	----------------------------	47	57	47	59	I-TERM
+.	SENT	.	T--------------------------.	47	60	47	60	O
+
+Tas	P	tas	P-msn-------d-------------f-	47	62	47	64	O
+rāda	V	rādīt	Vp----3--i----------------l-	47	66	47	69	O
+vietni	N	vietne	N-fsa---------n-----------l-	47	71	47	76	B-TERM
+,	T	,	T--------------------------,	47	77	47	77	O
+kas	P	kas	P---n-------r---------x---l-	47	79	47	81	O
+tiks	V	tikt	Vf----3--i----------6-----l-	47	83	47	86	O
+atvērta	G	atvērts	Gsfsnp-n---p--------------l-	47	88	47	94	O
+,	T	,	T--------------------------,	47	95	47	95	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	47	97	47	108	O
+uz	S	uz	S----------------sgp------l-	47	110	47	111	O
+saites	N	saite	N-fsg---------n-----------l-	47	113	47	118	B-TERM
+.	SENT	.	T--------------------------.	47	119	47	119	O
+
+
+Norādot	G	norādot	G----------a-n------------f-	48	0	48	6	O
+uz	S	uz	S----------------sap------l-	48	8	48	9	O
+saiti	N	saite	N-fsa---------n-----------l-	48	11	48	15	B-TERM
+,	T	,	T--------------------------,	48	16	48	16	O
+peles	N	pele	N-fsg---------n-----------l-	48	18	48	22	B-TERM
+rādītājs	N	rādītājs	N-msn---------n-----------l-	48	24	48	31	I-TERM
+pārvēršas	V	pārvērsties	Vp----3--i-----y----------l-	48	33	48	41	O
+un	C	un	C---------------------c---l-	48	43	48	44	O
+statusa	N	statuss	N-msg---------n-----------l-	48	46	48	52	B-TERM
+joslā	N	josla	N-fsl---------n-----------l-	48	54	48	58	I-TERM
+tiek	V	tikt	Vp----3--i----------6-----l-	48	60	48	63	O
+parādīts	G	parādīts	Gsmsnp-n---p--------------l-	48	65	48	72	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	48	74	48	80	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	48	82	48	86	I-TERM
+vietrādis	N	vietrādis	N-msn---------n-----------l-	48	88	48	96	B-TERM
+URL	-	URL	----------------------------	48	98	48	100	I-TERM
+
+
+Pogu	N	poga	N-fsa---------n-----------f-	49	0	49	3	B-TERM
+Atpakaļ	R	atpakaļ	R----p--------------------f-	49	5	49	11	O
+un	C	un	C---------------------c---l-	49	13	49	14	O
+Uz	S	uz	S----------------sap------f-	49	16	49	17	O
+priekšu	N	priekša	N-fsa---------n-----------l-	49	19	49	25	O
+lietošana	N	lietošana	N-fsn---------n-----------l-	49	27	49	35	O
+.	SENT	.	T--------------------------.	49	36	49	36	O
+
+Pārvietojoties	G	pārvietojoties	G----------a-n-y----------f-	49	38	49	51	O
+no	S	no	S----------------sgp------l-	49	53	49	54	O
+vienas	M	viens	M-fsg---c-----------------l-	49	56	49	61	O
+lapas	N	lapa	N-fsg---------n-----------l-	49	63	49	67	B-TERM
+uz	S	uz	S----------------sap------l-	49	69	49	70	O
+citu	P	cits	P-msa-------i-------------l-	49	72	49	75	O
+,	T	,	T--------------------------,	49	76	49	76	O
+programma	N	programma	N-fsn---------n-----------l-	49	78	49	86	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	49	88	49	95	O
+Explorer	N	Explorer	N-msl---------n-----------f-	49	97	49	104	O
+saglabā	V	saglabāt	Vp----3--i----------------l-	49	106	49	112	O
+informāciju	N	informācija	N-fsa---------n-----------l-	49	114	49	124	B-TERM
+par	S	par	S----------------pdp------l-	49	126	49	128	O
+apmeklētajām	G	apmeklēts	Gsfpdp-y---p--------------l-	49	130	49	141	O
+lapām	N	lapa	N-fpd---------n-----------l-	49	143	49	147	B-TERM
+.	SENT	.	T--------------------------.	49	148	49	148	O
+
+Lai	C	lai	C---------------------k---f-	49	150	49	152	O
+atgrieztos	V	atgriezties	Vp-------s-----y----------l-	49	154	49	163	O
+iepriekšējā	A	iepriekšējs	A-msgp-y------------------l-	49	165	49	175	O
+lapā	N	lapa	N-fsl---------n-----------l-	49	177	49	180	B-TERM
+,	T	,	T--------------------------,	49	181	49	181	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	49	183	49	195	O
+uz	S	uz	S----------------sap------l-	49	197	49	198	O
+pogas	N	poga	N-fsg---------n-----------l-	49	200	49	204	B-TERM
+Atpakaļ	R	atpakaļ	R----p--------------------f-	49	206	49	212	O
+.	SENT	.	T--------------------------.	49	213	49	213	O
+
+Lai	C	lai	C---------------------k---f-	49	215	49	217	O
+atgrieztos	V	atgriezties	Vp-------s-----y----------l-	49	219	49	228	O
+lapās	N	lapa	N-fpl---------n-----------l-	49	230	49	234	B-TERM
+,	T	,	T--------------------------,	49	235	49	235	O
+kas	P	kas	P---n-------r---------x---l-	49	237	49	239	O
+tika	V	tikt	Vs----3--i----------6-----l-	49	241	49	244	O
+atvērtas	G	atvērts	Gsfpnp-n---p--------------l-	49	246	49	253	O
+vēl	Q	vēl	Q-------------------------l-	49	255	49	257	O
+agrāk	R	agri	R----c--------------------l-	49	259	49	263	O
+,	T	,	T--------------------------,	49	264	49	264	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	49	266	49	278	O
+uz	S	uz	S----------------sgp------l-	49	280	49	281	O
+pogas	N	poga	N-fsg---------n-----------l-	49	283	49	287	B-TERM
+Atpakaļ	R	atpakaļ	R----p--------------------f-	49	289	49	295	O
+vairākas	P	vairāki	P-fpa-------i-------------l-	49	297	49	304	O
+reizes	N	reize	N-fpa---------n-----------l-	49	306	49	311	O
+.	SENT	.	T--------------------------.	49	312	49	312	O
+
+Pēc	S	pēc	S----------------sgp------f-	49	314	49	316	O
+tam	P	tas	P-msd-------d-------------l-	49	318	49	320	O
+,	T	,	T--------------------------,	49	321	49	321	O
+kad	R	kad	R----p----------------f---l-	49	323	49	325	O
+esat	V	būt	Vp-p--2--i----------1-----l-	49	327	49	330	O
+noklikšķinājis	G	noklikšķinājis	Gsmsn--n---a--------------l-	49	332	49	345	O
+uz	S	uz	S----------------sgp------l-	49	347	49	348	O
+pogas	N	poga	N-fsg---------n-----------l-	49	350	49	354	B-TERM
+Atpakaļ	R	atpakaļ	R----p--------------------f-	49	356	49	362	O
+,	T	,	T--------------------------,	49	363	49	363	O
+varat	V	varēt	Vp-p--2--i----------3-----l-	49	365	49	369	O
+noklikšķināt	V	noklikšķināt	V--------n----------------l-	49	371	49	382	O
+uz	S	uz	S----------------sgp------l-	49	384	49	385	O
+pogas	N	poga	N-fsg---------n-----------l-	49	387	49	391	B-TERM
+Uz	S	uz	S----------------sap------f-	49	393	49	394	O
+priekšu	N	priekša	N-fsa---------n-----------l-	49	396	49	402	O
+,	T	,	T--------------------------,	49	403	49	403	O
+lai	C	lai	C---------------------f---l-	49	405	49	407	O
+virzītos	V	virzīties	Vp-------s-----y----------l-	49	409	49	416	O
+pa	S	pa	S----------------pdp------l-	49	418	49	419	O
+lapām	N	lapa	N-fpd---------n-----------l-	49	421	49	425	B-TERM
+uz	S	uz	S----------------sgp------l-	49	427	49	428	O
+priekšu	N	priekša	N-fsa---------n-----------l-	49	430	49	436	O
+.	SENT	.	T--------------------------.	49	437	49	437	O
+
+
+Poga	N	poga	N-fsn---------n-----------f-	50	0	50	3	B-TERM
+Atpakaļ	R	atpakaļ	R----p--------------------f-	50	5	50	11	O
+(	T	(	T--------------------------(	50	13	50	13	O
+pa	S	pa	S----------------sap------l-	50	14	50	15	O
+kreisi	R	kreisi	R----p--------------------l-	50	17	50	22	O
+)	T	)	T--------------------------)	50	23	50	23	O
+;	T	;	T--------------------------;	50	24	50	24	O
+poga	N	poga	N-fsn---------n-----------l-	50	26	50	29	B-TERM
+Uz	S	uz	S----------------sgp------f-	50	31	50	32	O
+priekšu	N	priekša	N-fsa---------n-----------l-	50	34	50	40	O
+(	T	(	T--------------------------(	50	42	50	42	O
+pa	S	pa	S----------------sap------l-	50	43	50	44	O
+labi	R	labi	R----p--------------------l-	50	46	50	49	O
+)	T	)	T--------------------------)	50	50	50	50	O
+
+
+Izvēlnes	N	izvēlne	N-fsg---------n-----------f-	51	0	51	7	B-TERM
+Nesen	R	nesen	R----p--------------------f-	51	9	51	13	O
+apmeklētās	G	apmeklēts	Gsfsgp-y---p--------------l-	51	15	51	24	O
+lapas	N	lapa	N-fsg---------n-----------l-	51	26	51	30	B-TERM
+lietošana	N	lietošana	N-fsn---------n-----------l-	51	32	51	40	O
+.	SENT	.	T--------------------------.	51	41	51	41	O
+
+Ja	C	ja	C---------------------f---f-	51	43	51	44	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	51	46	51	53	O
+atgriezties	V	atgriezties	V--------n-----y----------l-	51	55	51	65	O
+lapā	N	lapa	N-fsl---------n-----------l-	51	67	51	70	B-TERM
+,	T	,	T--------------------------,	51	71	51	71	O
+kuru	P	kurš	P-fsa-------r---------f---l-	51	73	51	76	O
+apmeklējāt	V	apmeklēt	Vs-p--2--i----------------l-	51	78	51	87	O
+šajā	P	šis	P-fsl-------d-------------l-	51	89	51	92	O
+sesijā	N	sesija	N-fsl---------n-----------l-	51	94	51	99	B-TERM
+,	T	,	T--------------------------,	51	100	51	100	O
+bet	C	bet	C---------------------c---l-	51	102	51	104	O
+nevēlaties	V	nevēlēties	Vp-p--2--i-----yy---3-----l-	51	106	51	115	O
+atkārtoti	R	atkārtoti	R----p--------------------l-	51	117	51	125	O
+klikšķināt	V	klikšķināt	V--------n----------------l-	51	127	51	136	O
+uz	S	uz	S----------------sgp------l-	51	138	51	139	O
+pogas	N	poga	N-fsg---------n-----------l-	51	141	51	145	B-TERM
+Atpakaļ	R	atpakaļ	R----p--------------------f-	51	147	51	153	O
+vai	C	vai	C---------------------c---l-	51	155	51	157	O
+Uz	S	uz	S----------------sap------f-	51	159	51	160	O
+priekšu	N	priekša	N-fsa---------n-----------l-	51	162	51	168	O
+,	T	,	T--------------------------,	51	169	51	169	O
+lietojiet	V	lietot	V--p--2--m----------------l-	51	171	51	179	O
+izvēlni	N	izvēlne	N-fsa---------n-----------l-	51	181	51	187	B-TERM
+Nesen	R	nesen	R----p--------------------f-	51	189	51	193	O
+apmeklētās	G	apmeklēts	Gsfsgp-y---p--------------l-	51	195	51	204	O
+lapas	N	lapa	N-fpa---------n-----------l-	51	206	51	210	O
+.	SENT	.	T--------------------------.	51	211	51	211	O
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	51	213	51	225	O
+uz	S	uz	S----------------sgp------l-	51	227	51	228	O
+bultiņas	N	bulta	N-fsg---------y-----------l-	51	230	51	237	B-TERM
+,	T	,	T--------------------------,	51	238	51	238	O
+kas	P	kas	P---n-------r---------x---l-	51	240	51	242	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	51	244	51	250	O
+blakus	R	blakus	R----p--------------------l-	51	252	51	257	O
+pogai	N	poga	N-fsd---------n-----------l-	51	259	51	263	B-TERM
+Uz	S	uz	S----------------pdp------f-	51	265	51	266	O
+priekšu	N	priekša	N-fsa---------n-----------l-	51	268	51	274	O
+,	T	,	T--------------------------,	51	275	51	275	O
+un	C	un	C---------------------c---l-	51	277	51	278	O
+pēc tam	-	pēc_tam	----------------------------	51	280	51	286	O
+sarakstā	N	saraksts	N-msl---------n-----------l-	51	288	51	295	B-TERM
+atlasiet	V	atlasīt	V--p--2--m----------------l-	51	297	51	304	O
+lapu	N	lapa	N-fsa---------n-----------l-	51	306	51	309	B-TERM
+.	SENT	.	T--------------------------.	51	310	51	310	O
+
+
+Izvēlne	N	izvēlne	N-fsn---------n-----------f-	52	0	52	6	B-TERM
+Nesen	R	nesen	R----p--------------------f-	52	8	52	12	O
+apmeklētās	G	apmeklēts	Gsfsgp-y---p--------------l-	52	14	52	23	O
+lapas	N	lapa	N-fpn---------n-----------l-	52	25	52	29	B-TERM
+
+
+Meklēšana	N	meklēšana	N-fsn---------n-----------f-	53	0	53	8	B-TERM
+tīmeklī	N	tīmeklis	N-msl---------n-----------l-	53	10	53	16	B-TERM
+
+
+Ņemot	G	ņemot	G----------a-n------------f-	54	0	54	4	O
+vērā	R	vērā	R----p--------------------l-	54	6	54	9	O
+,	T	,	T--------------------------,	54	10	54	10	O
+ka	C	ka	C---------------------p---l-	54	12	54	13	O
+ir	V	būt	Vp----3--i----------7-----l-	54	15	54	16	O
+miljardiem	M	miljards	M-mpd---c-----------------l-	54	18	54	27	O
+vietņu	N	vietne	N-fpg---------n-----------l-	54	29	54	34	B-TERM
+,	T	,	T--------------------------,	54	35	54	35	O
+vajadzīgo	A	vajadzīgs	A-fsap-y------------------l-	54	37	54	45	O
+informāciju	N	informācija	N-fsa---------n-----------l-	54	47	54	57	B-TERM
+nevarētu	V	nevarēt	Vp-------s------y---3-----l-	54	59	54	66	O
+atrast	V	atrast	V--------n----------------l-	54	68	54	73	O
+,	T	,	T--------------------------,	54	74	54	74	O
+ja	C	ja	C---------------------d---l-	54	76	54	77	O
+būtu	V	būt	Vp-------s----------7-----l-	54	79	54	82	O
+jāpārlūko	V	pārlūkot	Vp-------c----------------l-	54	84	54	92	O
+visas	P	viss	P-fpa-------g-------------l-	54	94	54	98	O
+vietnes	N	vietne	N-fpa---------n-----------l-	54	100	54	106	B-TERM
+pēc	S	pēc	S----------------sgt------l-	54	108	54	110	O
+kārtas	N	kārta	N-fsg---------n-----------l-	54	112	54	117	O
+.	SENT	.	T--------------------------.	54	118	54	118	O
+
+Par	S	par	S----------------sap------f-	54	120	54	122	O
+laimi	N	laime	N-fsa---------n-----------l-	54	124	54	128	O
+,	T	,	T--------------------------,	54	129	54	129	O
+ir	V	būt	Vp----3--i----------7-----l-	54	131	54	132	O
+cita	P	cits	P-fsn-------i-------------l-	54	134	54	137	O
+iespēja	N	iespēja	N-fsn---------n-----------l-	54	139	54	145	O
+.	SENT	.	T--------------------------.	54	146	54	146	O
+
+Lai	C	lai	C---------------------k---f-	54	148	54	150	O
+atrastu	V	atrast	Vp-------s----------------l-	54	152	54	158	O
+lapas	N	lapa	N-fpn---------n-----------l-	54	160	54	164	B-TERM
+,	T	,	T--------------------------,	54	165	54	165	O
+kas	P	kas	P---n-------r---------x---l-	54	167	54	169	O
+ir	V	būt	Vp----3--i----------7-----l-	54	171	54	172	O
+visvairāk	R	daudz	R----s--------------------l-	54	174	54	182	O
+saistītas	G	saistīts	Gsfpnp-n---p--------------l-	54	184	54	192	O
+ar	S	ar	S----------------pdp------l-	54	194	54	195	O
+konkrētiem	A	konkrēts	A-mpdp-n------------------l-	54	197	54	206	O
+vārdiem	N	vārds	N-mpd---------n-----------l-	54	208	54	214	B-TERM
+vai	C	vai	C---------------------c---l-	54	216	54	218	O
+frāzēm	N	frāze	N-fpd---------n-----------l-	54	220	54	225	B-TERM
+,	T	,	T--------------------------,	54	226	54	226	O
+var	V	varēt	Vp----3--i----------3-----l-	54	228	54	230	O
+lietot	V	lietot	V--------n----------------l-	54	232	54	237	O
+meklētājprogrammas	N	meklētājprogramma	N-fpa---------n-----------l-	54	239	54	256	B-TERM
+.	SENT	.	T--------------------------.	54	257	54	257	O
+
+
+Galvenās	A	galvenais	A-fsgp-y------------------f-	55	0	55	7	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	55	9	55	15	B-TERM
+meklētājprogrammas	N	meklētājprogramma	N-fpn---------n-----------l-	55	17	55	34	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	55	36	55	37	O
+Google	-	Google	----------------------------	55	39	55	44	O
+,	T	,	T--------------------------,	55	45	55	45	O
+Yahoo	-	Yahoo	----------------------------	55	47	55	51	O
+!	SENT	!	T--------------------------!	55	52	55	52	O
+
+Search	-	Search	----------------------------	55	54	55	59	O
+,	T	,	T--------------------------,	55	60	55	60	O
+MSN	N	MSN	N-fsn---------n-----------u-	55	62	55	64	O
+Search	-	Search	----------------------------	55	66	55	71	O
+,	T	,	T--------------------------,	55	72	55	72	O
+AOL	-	AOL	----------------------------	55	74	55	76	O
+Search	-	Search	----------------------------	55	78	55	83	O
+un	C	un	C---------------------c---l-	55	85	55	86	O
+Ask.com	-	Ask.com	----------------------------	55	88	55	94	O
+.	SENT	.	T--------------------------.	55	95	55	95	O
+
+Tīmeklī	N	tīmeklis	N-msl---------n-----------f-	55	97	55	103	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	55	105	55	107	O
+veikt	V	veikt	V--------n----------------l-	55	109	55	113	O
+meklēšanu	N	meklēšana	N-fsa---------n-----------l-	55	115	55	123	B-TERM
+tieši	R	tieši	R----p--------------------l-	55	125	55	129	O
+no	S	no	S----------------sgp------l-	55	131	55	132	O
+jebkuras	P	jebkurš	P-fsg-------g-------------l-	55	134	55	141	O
+meklētājprogrammas	N	meklētājprogramma	N-fsg---------n-----------l-	55	143	55	160	B-TERM
+vietnes	N	vietne	N-fsg---------n-----------l-	55	162	55	168	I-TERM
+.	SENT	.	T--------------------------.	55	169	55	169	O
+
+Vai	C	vai	C---------------------c---f-	55	171	55	173	O
+,	T	,	T--------------------------,	55	174	55	174	O
+lai	C	lai	C---------------------f---l-	55	176	55	178	O
+vispirms	R	vispirms	R----p--------------------l-	55	180	55	187	O
+meklēšanas	N	meklēšana	N-fpn---------n-----------l-	55	189	55	198	B-TERM
+vietnē	N	vietne	N-fsl---------n-----------l-	55	200	55	205	I-TERM
+saglabātu	V	saglabāt	Vp-------s----------------l-	55	207	55	215	O
+navigācijas	N	navigācija	N-fsg---------n-y---------l-	55	217	55	227	B-TERM
+darbību	N	darbība	N-fsa---------n-----------l-	55	229	55	235	O
+,	T	,	T--------------------------,	55	236	55	236	O
+programmā	N	programma	N-fsl---------n-----------l-	55	238	55	246	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	55	248	55	255	O
+Explorer	N	Explorer	N-fsn---------n-----------f-	55	257	55	264	O
+var	V	varēt	Vp----3--i----------3-----l-	55	266	55	268	O
+lietot	V	lietot	V--------n----------------l-	55	270	55	275	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	55	277	55	286	B-TERM
+lodziņu	N	logs	N-msa---------y-----------l-	55	288	55	294	I-TERM
+.	SENT	.	T--------------------------.	55	295	55	295	O
+
+
+Meklēšanas	N	meklēšana	N-fsg---------n-----------f-	56	0	56	9	B-TERM
+lodziņš	N	logs	N-msn---------y-----------l-	56	11	56	17	I-TERM
+
+
+Pirms	S	pirms	S----------------sgp------f-	57	0	57	4	O
+sākt	V	sākt	V--------n----------3-----l-	57	6	57	9	O
+lietot	V	lietot	V--------n----------------l-	57	11	57	16	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	57	18	57	27	B-TERM
+lodziņu	N	logs	N-msa---------y-----------l-	57	29	57	35	I-TERM
+,	T	,	T--------------------------,	57	36	57	36	O
+izvēlieties	V	izvēlēties	V--p--2--m-----y----------l-	57	38	57	48	O
+noklusēto	G	noklusēts	Gsmsap-y---p--------------l-	57	50	57	58	B-TERM
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	57	60	57	69	I-TERM
+nodrošinātāju	N	nodrošinātājs	N-msa---------n-----------l-	57	71	57	83	I-TERM
+—	T	—	T--------------------------—	57	85	57	85	O
+meklētājprogrammu	N	meklētājprogramma	N-fsa---------n-----------l-	57	87	57	103	B-TERM
+,	T	,	T--------------------------,	57	104	57	104	O
+kuru	P	kurš	P-fpg-------r---------a---l-	57	106	57	109	O
+programma	N	programma	N-fsn---------n-----------l-	57	111	57	119	B-TERM
+Internet	N	Internet	N-fsa---------n-----------f-	57	121	57	128	O
+Explorer	N	Explorer	N-msa---------n-----------f-	57	130	57	137	O
+izmantos	V	izmantot	Vf----3--i----------------l-	57	139	57	146	O
+katru	P	katrs	P-fsa-------g-------------l-	57	148	57	152	O
+reizi	N	reize	N-fsa---------n-----------l-	57	154	57	158	O
+,	T	,	T--------------------------,	57	159	57	159	O
+kad	R	kad	R----p----------------f---l-	57	161	57	163	O
+veiksit	V	veikt	Vf-p--2--i----------------l-	57	165	57	171	O
+meklēšanu	N	meklēšana	N-fsa---------n-----------l-	57	173	57	181	B-TERM
+.	SENT	.	T--------------------------.	57	182	57	182	O
+
+Ja	C	ja	C---------------------f---f-	57	184	57	185	O
+neesat	V	nebūt	Vp-p--2--i------y---1-----l-	57	187	57	192	O
+izvēlējies	G	izvēlējies	Gsmsn--n---a---y----------l-	57	194	57	203	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	57	205	57	214	B-TERM
+nodrošinātāju	N	nodrošinātājs	N-msa---------n-----------l-	57	216	57	228	I-TERM
+,	T	,	T--------------------------,	57	229	57	229	O
+tiek	V	tikt	Vp----3--i----------6-----l-	57	231	57	234	O
+izmantota	G	izmantots	Gsfsnp-n---p--------------l-	57	236	57	244	O
+meklētājprogramma	N	meklētājprogramma	N-fsn---------n-----------l-	57	246	57	262	B-TERM
+Live	-	Live	----------------------------	57	264	57	267	O
+ Search	-	 Search	----------------------------	57	268	57	274	O
+.	T	.	T--------------------------.	57	275	57	275	O
+(	T	(	T--------------------------(	57	277	57	277	O
+Datora	N	dators	N-msg---------n-----------f-	57	278	57	283	B-TERM
+ražotājs	N	ražotājs	N-msn---------n-----------l-	57	285	57	292	I-TERM
+var	V	varēt	Vp----3--i----------3-----l-	57	294	57	296	O
+būt	V	būt	V--------n----------1-----l-	57	298	57	300	O
+iestatījis	G	iestatījis	Gsmsn--n---a--------------l-	57	302	57	311	O
+citu	P	cits	P-fpg-------i-------------l-	57	313	57	316	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	57	318	57	327	B-TERM
+nodrošinātāju	N	nodrošinātājs	N-msa---------n-----------l-	57	329	57	341	I-TERM
+)	T	)	T--------------------------)	57	342	57	342	O
+.	SENT	.	T--------------------------.	57	343	57	343	O
+
+Skatiet	V	skatīt	V--p--2--m----------------f-	57	345	57	351	O
+Meklēšanas	N	meklēšana	N-fsg---------n-----------f-	57	353	57	362	B-TERM
+nodrošinātāja	N	nodrošinātāja	N-fsn---------n-----------l-	57	364	57	376	I-TERM
+maiņa	N	maiņa	N-fsn---------n-----------l-	57	378	57	382	O
+vai	C	vai	C---------------------c---l-	57	384	57	386	O
+izvēle	N	izvēle	N-fsn---------n-----------l-	57	388	57	393	O
+programmā	N	programma	N-fsl---------n-----------l-	57	395	57	403	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	57	405	57	412	O
+Explorer	N	Explorer	N-msl---------n-----------f-	57	414	57	421	O
+.	SENT	.	T--------------------------.	57	423	57	423	O
+
+
+Lai	C	lai	C---------------------k---f-	58	0	58	2	O
+meklētu	V	meklēt	Vp-------s----------------l-	58	4	58	10	O
+tīmeklī	N	tīmeklis	N-msl---------n-----------l-	58	12	58	18	B-TERM
+,	T	,	T--------------------------,	58	19	58	19	O
+lietojot	G	lietojot	G----------a-n------------l-	58	21	58	28	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	58	30	58	39	B-TERM
+lodziņu	N	logs	N-msa---------y-----------l-	58	41	58	47	I-TERM
+
+
+Ierakstiet	V	ierakstīt	V--p--2--m----------------f-	59	0	59	9	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	59	11	59	20	B-TERM
+lodziņā	N	logs	N-msl---------y-----------l-	59	22	59	28	I-TERM
+dažus	P	dažs	P-mpa-------i-------------l-	59	30	59	34	O
+vārdus	N	vārds	N-mpa---------n-----------l-	59	36	59	41	B-TERM
+vai	C	vai	C---------------------c---l-	59	43	59	45	O
+frāzi	N	frāze	N-fsa---------n-----------l-	59	47	59	51	B-TERM
+par	S	par	S----------------sap------l-	59	53	59	55	O
+vajadzīgo	A	vajadzīgs	A-fsap-y------------------l-	59	57	59	65	O
+tēmu	N	tēma	N-fsa---------n-----------l-	59	67	59	70	O
+,	T	,	T--------------------------,	59	71	59	71	O
+piemēram	R	piemēram	R----p--------------------l-	59	73	59	80	O
+,	T	,	T--------------------------,	59	81	59	81	O
+"	T	"	T--------------------------"	59	83	59	83	O
+šokolādes	N	šokolāde	N-fsg---------n-----------l-	59	84	59	92	O
+kūkas	N	kūka	N-fsg---------n-----------l-	59	94	59	98	O
+recepte	N	recepte	N-fsn---------n-----------l-	59	100	59	106	O
+"	T	"	T--------------------------"	59	107	59	107	O
+.	SENT	.	T--------------------------.	59	108	59	108	O
+
+Norādiet	V	norādīt	V--p--2--m----------------f-	59	110	59	117	O
+pēc	S	pēc	S----------------sgp------l-	59	119	59	121	O
+iespējas	N	iespēja	N-fsg---------n-----------l-	59	123	59	130	O
+konkrētākus	A	konkrēts	A-mpac-n------------------l-	59	132	59	142	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	59	144	59	153	B-TERM
+vārdus	N	vārds	N-mpa---------n-----------l-	59	155	59	160	I-TERM
+vai	C	vai	C---------------------c---l-	59	162	59	164	O
+frāzes	N	frāze	N-fpn---------n-----------l-	59	166	59	171	B-TERM
+.	SENT	.	T--------------------------.	59	172	59	172	O
+
+
+Nospiediet	V	nospiest	V--p--2--m----------------f-	60	0	60	9	O
+taustiņu	N	taustiņš	N-msa---------n-----------l-	60	11	60	18	B-TERM
+ENTER	-	ENTER	----------------------------	60	20	60	24	O
+vai	C	vai	C---------------------c---l-	60	26	60	28	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	60	30	60	42	O
+uz	S	uz	S----------------sap------l-	60	44	60	45	O
+pogas	N	poga	N-fsg---------n-----------l-	60	47	60	51	B-TERM
+Meklēt	V	meklēt	V--------n----------------f-	60	53	60	58	O
+
+
+.	SENT	.	T--------------------------.	61	0	61	0	O
+
+
+Tiek	V	tikt	Vp----3--i----------6-----f-	62	0	62	3	O
+parādīta	G	parādīts	Gsfsnp-n---p--------------l-	62	5	62	12	O
+lapa	N	lapa	N-fsn---------n-----------l-	62	14	62	17	B-TERM
+ar	S	ar	S----------------sap------l-	62	19	62	20	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	62	22	62	31	B-TERM
+rezultātiem	N	rezultāts	N-mpd---------n-----------l-	62	33	62	43	I-TERM
+.	SENT	.	T--------------------------.	62	44	62	44	O
+
+Lai	C	lai	C---------------------k---f-	62	46	62	48	O
+atvērtu	V	atvērst	Vs-s--1--i----------------l-	62	50	62	56	O
+vietni	N	vietne	N-fsa---------n-----------l-	62	58	62	63	B-TERM
+,	T	,	T--------------------------,	62	64	62	64	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	62	66	62	78	O
+uz	S	uz	S----------------sgp------l-	62	80	62	81	O
+kāda	P	kāds	P-msg-------r---------o---l-	62	83	62	86	O
+no	S	no	S----------------pdp------l-	62	88	62	89	O
+rezultātiem	N	rezultāts	N-mpd---------n-----------l-	62	91	62	101	B-TERM
+.	SENT	.	T--------------------------.	62	102	62	102	O
+
+Ja	C	ja	C---------------------f---f-	62	104	62	105	O
+meklētais	G	meklēts	Gsmsnp-y---p--------------l-	62	107	62	115	O
+vienums	N	vienums	N-msn---------n-----------l-	62	117	62	123	B-TERM
+netiek	V	netikt	Vp----3--i------y---6-----l-	62	125	62	130	O
+atrasts	G	atrasts	Gsmsnp-n---p--------------l-	62	132	62	138	O
+,	T	,	T--------------------------,	62	139	62	139	O
+lai	C	lai	C---------------------f---l-	62	141	62	143	O
+skatītu	V	skatīt	Vp-------s----------------l-	62	145	62	151	O
+papildu	N	papildu	N-mpg---------n-----------l-	62	153	62	159	O
+rezultātus	N	rezultāts	N-mpa---------n-----------l-	62	161	62	170	B-TERM
+vai	C	vai	C---------------------c---l-	62	172	62	174	O
+mēģinātu	V	mēģināt	Vp-------s----------3-----l-	62	176	62	183	O
+meklēt	V	meklēt	V--------n----------------l-	62	185	62	190	O
+atkārtoti	G	atkārtots	Gsmpnp-n---p--------------l-	62	192	62	200	O
+,	T	,	T--------------------------,	62	201	62	201	O
+lapas	N	lapa	N-fsg---------n-----------l-	62	203	62	207	B-TERM
+apakšā	N	apakša	N-fsl---------n-----------l-	62	209	62	214	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	62	216	62	228	O
+uz	S	uz	S----------------sap------l-	62	230	62	231	O
+Tālāk	R	tālu	R----c--------------------f-	62	233	62	237	O
+.	SENT	.	T--------------------------.	62	238	62	238	O
+
+
+Piezīme	N	piezīme	N-fsn---------n-----------f-	63	0	63	6	O
+.	SENT	.	T--------------------------.	63	7	63	7	O
+
+
+Ņemiet	V	ņemt	V--p--2--m----------------f-	64	0	64	5	O
+vērā	R	vērā	R----p--------------------l-	64	7	64	10	O
+,	T	,	T--------------------------,	64	11	64	11	O
+ka	C	ka	C---------------------p---l-	64	13	64	14	O
+daži	P	dažs	P-mpn-------i-------------l-	64	16	64	19	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	64	21	64	30	B-TERM
+rezultāti	N	rezultāts	N-mpn---------n-----------l-	64	32	64	40	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	64	42	64	43	O
+apmaksātas	G	apmaksāts	Gsfpnp-n---p--------------l-	64	45	64	54	O
+reklāmas	N	reklāma	N-fpn---------n-----------l-	64	56	64	63	O
+.	SENT	.	T--------------------------.	64	64	64	64	O
+
+Tās	P	tas	P-fsg-------d-------------f-	64	66	64	68	O
+parasti	R	parasti	R----p--------------------l-	64	70	64	76	O
+tiek	V	tikt	Vp----3--i----------6-----l-	64	78	64	81	O
+dēvētas	G	dēvēts	Gsfpnp-n---p--------------l-	64	83	64	89	O
+par	S	par	S----------------pdp------l-	64	91	64	93	O
+"	T	"	T--------------------------"	64	95	64	95	O
+Sponsorētajām	G	sponsorēts	Gsfpdp-y---p--------------f-	64	96	64	108	B-TERM
+vietnēm	N	vietne	N-fpd---------n-----------l-	64	110	64	116	I-TERM
+"	T	"	T--------------------------"	64	117	64	117	O
+vai	C	vai	C---------------------c---l-	64	119	64	121	O
+"	T	"	T--------------------------"	64	123	64	123	O
+Sponsorētajām	G	sponsorēts	Gsfpdp-y---p--------------f-	64	124	64	136	B-TERM
+saitēm	N	saite	N-fpd---------n-----------l-	64	138	64	143	I-TERM
+"	T	"	T--------------------------"	64	144	64	144	O
+.	SENT	.	T--------------------------.	64	145	64	145	O
+
+
+Tīmekļa	N	tīmeklis	N-msg---------n-----------f-	65	0	65	6	B-TERM
+lapu	N	lapa	N-fpg---------n-----------l-	65	8	65	11	I-TERM
+saglabāšana	N	saglabāšana	N-fsn---------n-----------l-	65	13	65	23	O
+izlasē	N	izlase	N-fsl---------n-----------l-	65	25	65	30	B-TERM
+
+
+Ja	C	ja	C---------------------f---f-	66	0	66	1	O
+esat	V	būt	Vp-p--2--i----------1-----l-	66	3	66	6	O
+atradis	G	atradis	Gsmsn--n---a--------------l-	66	8	66	14	O
+vietni	N	vietne	N-fsa---------n-----------l-	66	16	66	21	B-TERM
+,	T	,	T--------------------------,	66	22	66	22	O
+ko	P	kas	P---a-------r-------------l-	66	24	66	25	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	66	27	66	34	O
+apmeklēt	V	apmeklēt	V--------n----------------l-	66	36	66	43	O
+regulāri	R	regulāri	R----p--------------------l-	66	45	66	52	O
+,	T	,	T--------------------------,	66	53	66	53	O
+saglabājiet	V	saglabāt	V--p--2--m----------------l-	66	55	66	65	O
+to	P	tas	P-mpg-------d-------------l-	66	67	66	68	O
+programmas	N	programma	N-fsg---------n-----------l-	66	70	66	79	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	66	81	66	88	O
+Explorer	N	Explorer	N-msg---------n-----------f-	66	90	66	97	O
+izlasē	N	izlase	N-fsl---------n-----------l-	66	99	66	104	B-TERM
+.	SENT	.	T--------------------------.	66	105	66	105	O
+
+Tādējādi	R	tādējādi	R----p--------------------f-	66	107	66	114	O
+,	T	,	T--------------------------,	66	115	66	115	O
+kad	R	kad	R----p----------------f---l-	66	117	66	119	O
+vēlēsities	V	vēlēties	Vf-p--2--i-----y----3-----l-	66	121	66	130	O
+atgriezties	V	atgriezties	V--------n-----y----------l-	66	132	66	142	O
+vietnē	N	vietne	N-fsl---------n-----------l-	66	144	66	149	B-TERM
+,	T	,	T--------------------------,	66	150	66	150	O
+atliks	V	atlikt	Vf----3--i----------------l-	66	152	66	157	O
+tikai	Q	tikai	Q-------------------------l-	66	159	66	163	O
+noklikšķināt	V	noklikšķināt	V--------n----------------l-	66	165	66	176	O
+uz	S	uz	S----------------sap------l-	66	178	66	179	O
+tās	P	tas	P-fsg-------d-------------l-	66	181	66	183	O
+nosaukuma	N	nosaukums	N-msg---------n-----------l-	66	185	66	193	B-TERM
+sarakstā	N	saraksts	N-msl---------n-----------l-	66	195	66	202	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	66	204	66	207	O
+izlase	N	izlase	N-fsn---------n-----------l-	66	209	66	214	B-TERM
+,	T	,	T--------------------------,	66	215	66	215	O
+pat	Q	pat	Q-------------------------l-	66	217	66	219	O
+neatceroties	G	neatceroties	G----------a-n-yy---------l-	66	221	66	232	O
+vai	C	vai	C---------------------c---l-	66	234	66	236	O
+neierakstot	G	neierakstot	G----------a-n--y---------l-	66	238	66	248	O
+vietnes	N	vietne	N-fsg---------n-----------l-	66	250	66	256	B-TERM
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	66	258	66	264	I-TERM
+adresi	N	adrese	N-fsa---------n-----------l-	66	266	66	271	I-TERM
+.	SENT	.	T--------------------------.	66	272	66	272	O
+
+
+Tīmekļa	N	tīmeklis	N-msg---------n-----------f-	67	0	67	6	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	67	8	67	12	I-TERM
+saglabāšana	N	saglabāšana	N-fsn---------n-----------l-	67	14	67	24	O
+programmas	N	programma	N-fsg---------n-----------l-	67	26	67	35	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	67	37	67	44	O
+Explorer	N	Explorer	N-msn---------n-----------f-	67	46	67	53	O
+8	D	8	D--p------------------------	67	55	67	55	O
+izlasē	N	izlase	N-fsl---------n-----------l-	67	57	67	62	B-TERM
+
+
+Programmā	N	programma	N-fsl---------n-----------f-	68	0	68	8	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	68	10	68	17	O
+Explorer	N	Explorer	N-msl---------n-----------f-	68	19	68	26	O
+8	D	8	D--p------------------------	68	28	68	28	O
+atveriet	V	atvērt	V--p--2--m----------------l-	68	30	68	37	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	68	39	68	45	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	68	47	68	50	I-TERM
+,	T	,	T--------------------------,	68	51	68	51	O
+ko	P	kas	P---a-------r-------------l-	68	53	68	54	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	68	56	68	63	O
+saglabāt	V	saglabāt	V--------n----------------l-	68	65	68	72	O
+izlasē	N	izlase	N-fsl---------n-----------l-	68	74	68	79	B-TERM
+.	SENT	.	T--------------------------.	68	80	68	80	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	69	0	69	12	O
+uz	S	uz	S----------------pdp------l-	69	14	69	15	O
+pogas	N	poga	N-fsg---------n-----------l-	69	17	69	21	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	69	23	69	26	O
+izlase	N	izlase	N-fsn---------n-----------l-	69	28	69	33	B-TERM
+un	C	un	C---------------------c---l-	69	35	69	36	O
+pēc tam	-	pēc_tam	----------------------------	69	38	69	44	O
+uz	S	uz	S----------------sap------l-	69	46	69	47	O
+Pievienot	V	pievienot	V--------n----------------f-	69	49	69	57	O
+manai	P	mans	P-fsd-------s-------------l-	69	59	69	63	O
+izlasei	N	izlase	N-fsd---------n-----------l-	69	65	69	71	B-TERM
+.	SENT	.	T--------------------------.	69	72	69	72	O
+
+
+Lodziņā	N	logs	N-msl---------y-----------f-	70	0	70	6	B-TERM
+Nosaukums	N	nosaukums	N-msn---------n-----------f-	70	8	70	16	B-TERM
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	70	18	70	27	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	70	29	70	35	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	70	37	70	41	I-TERM
+nosaukumu	N	nosaukums	N-msa---------n-----------l-	70	43	70	51	I-TERM
+un	C	un	C---------------------c---l-	70	53	70	54	O
+pēc tam	-	pēc_tam	----------------------------	70	56	70	62	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	70	64	70	76	O
+uz	S	uz	S----------------sap------l-	70	78	70	79	O
+Pievienot	V	pievienot	V--------n----------------f-	70	81	70	89	O
+.	SENT	.	T--------------------------.	70	90	70	90	O
+
+
+Lai	C	lai	C---------------------k---f-	71	0	71	2	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	71	4	71	10	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	71	12	71	15	I-TERM
+saglabātu	G	saglabāts	Gsmsap-n---p--------------l-	71	17	71	25	O
+Internet	N	Internet	N-fsg---------n-----------f-	71	27	71	34	O
+Explorer	N	Explorer	N-msn---------n-----------f-	71	36	71	43	O
+7	D	7	D--p------------------------	71	45	71	45	O
+izlasē	N	izlase	N-fsl---------n-----------l-	71	47	71	52	B-TERM
+
+
+Programmā	N	programma	N-fsl---------n-----------f-	72	0	72	8	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	72	10	72	17	O
+Explorer	N	Explorer	N-msl---------n-----------f-	72	19	72	26	O
+7	D	7	D--p------------------------	72	28	72	28	O
+atveriet	V	atvērt	V--p--2--m----------------l-	72	30	72	37	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	72	39	72	45	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	72	47	72	50	I-TERM
+,	T	,	T--------------------------,	72	51	72	51	O
+ko	P	kas	P---a-------r-------------l-	72	53	72	54	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	72	56	72	63	O
+saglabāt	V	saglabāt	V--------n----------------l-	72	65	72	72	O
+izlasē	N	izlase	N-fsl---------n-----------l-	72	74	72	79	B-TERM
+.	SENT	.	T--------------------------.	72	80	72	80	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	73	0	73	12	O
+uz	S	uz	S----------------sap------l-	73	14	73	15	O
+pogas	N	poga	N-fsg---------n-----------l-	73	17	73	21	B-TERM
+Pievienot	V	pievienot	V--------n----------------f-	73	23	73	31	O
+mapei	N	mape	N-fsd---------n-----------l-	73	33	73	37	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	73	39	73	42	O
+izlase	N	izlase	N-fsn---------n-----------l-	73	44	73	49	B-TERM
+
+
+un	C	un	C---------------------c---l-	74	0	74	1	O
+pēc tam	-	pēc_tam	----------------------------	74	3	74	9	O
+uz	S	uz	S----------------sap------l-	74	11	74	12	O
+Pievienot	V	pievienot	V--------n----------------f-	74	14	74	22	O
+mapei	N	mape	N-fsd---------n-----------l-	74	24	74	28	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	74	30	74	33	O
+izlase	N	izlase	N-fsn---------n-----------l-	74	35	74	40	B-TERM
+.	SENT	.	T--------------------------.	74	41	74	41	O
+
+
+Lodziņā	N	logs	N-msl---------y-----------f-	75	0	75	6	B-TERM
+Nosaukums	N	nosaukums	N-msn---------n-----------f-	75	8	75	16	B-TERM
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	75	18	75	27	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	75	29	75	35	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	75	37	75	41	I-TERM
+nosaukumu	N	nosaukums	N-msa---------n-----------l-	75	43	75	51	I-TERM
+un	C	un	C---------------------c---l-	75	53	75	54	O
+pēc tam	-	pēc_tam	----------------------------	75	56	75	62	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	75	64	75	76	O
+uz	S	uz	S----------------sap------l-	75	78	75	79	O
+Pievienot	V	pievienot	V--------n----------------f-	75	81	75	89	O
+.	SENT	.	T--------------------------.	75	90	75	90	O
+
+
+Mapē	N	mape	N-fsl---------n-----------f-	76	0	76	3	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	76	5	76	8	O
+izlase	N	izlase	N-fsn---------n-----------l-	76	10	76	15	B-TERM
+ievietotas	G	ievietots	Gsfpnp-n---p--------------l-	76	17	76	26	O
+lapas	N	lapa	N-fsg---------n-----------l-	76	28	76	32	B-TERM
+atvēršana	N	atvēršana	N-fsn---------n-----------l-	76	34	76	42	O
+programmā	N	programma	N-fsl---------n-----------l-	76	44	76	52	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	76	54	76	61	O
+Explorer	N	Explorer	N-msg---------n-----------f-	76	63	76	70	O
+8	D	8	D--p------------------------	76	72	76	72	O
+
+
+Programmā	N	programma	N-fsl---------n-----------f-	77	0	77	8	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	77	10	77	17	O
+Explorer	N	Explorer	N-fsn---------n-----------f-	77	19	77	26	O
+8	D	8	D--p------------------------	77	28	77	28	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	77	30	77	42	O
+uz	S	uz	S----------------sap------l-	77	44	77	45	O
+pogas	N	poga	N-fsg---------n-----------l-	77	47	77	51	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	77	53	77	56	O
+izlase	N	izlase	N-fsn---------n-----------l-	77	58	77	63	B-TERM
+.	SENT	.	T--------------------------.	77	64	77	64	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	78	0	78	12	O
+uz	S	uz	S----------------sap------l-	78	14	78	15	O
+cilnes	N	cilne	N-fsg---------n-----------l-	78	17	78	22	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	78	24	78	27	O
+izlase	N	izlase	N-fsn---------n-----------l-	78	29	78	34	B-TERM
+,	T	,	T--------------------------,	78	35	78	35	O
+ja	C	ja	C---------------------d---l-	78	37	78	38	O
+tā	P	tas	P-fsn-------d-------------l-	78	40	78	41	O
+vēl	V	vēlēt	Vp----3--i----------3-----l-	78	43	78	45	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	78	47	78	49	O
+atlasīta	G	atlasīts	Gsfsnp-n---p--------------l-	78	51	78	58	O
+.	SENT	.	T--------------------------.	78	59	78	59	O
+
+
+Sarakstā	N	saraksts	N-msl---------n-----------f-	79	0	79	7	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	79	9	79	12	O
+izlase	N	izlase	N-fsn---------n-----------l-	79	14	79	19	B-TERM
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	79	21	79	33	O
+uz	S	uz	S----------------sgp------l-	79	35	79	36	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	79	38	79	44	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	79	46	79	50	I-TERM
+,	T	,	T--------------------------,	79	51	79	51	O
+ko	P	kas	P---a-------r-------------l-	79	53	79	54	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	79	56	79	63	O
+atvērt	V	atvērst	Vp-s--2--i----------------l-	79	65	79	70	O
+.	SENT	.	T--------------------------.	79	71	79	71	O
+
+
+Mapē	N	mape	N-fsl---------n-----------f-	80	0	80	3	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	80	5	80	8	O
+izlase	N	izlase	N-fsn---------n-----------l-	80	10	80	15	B-TERM
+ievietotas	G	ievietots	Gsfpnp-n---p--------------l-	80	17	80	26	O
+lapas	N	lapa	N-fsg---------n-----------l-	80	28	80	32	B-TERM
+atvēršana	N	atvēršana	N-fsn---------n-----------l-	80	34	80	42	O
+programmā	N	programma	N-fsl---------n-----------l-	80	44	80	52	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	80	54	80	61	O
+Explorer	N	Explorer	N-msg---------n-----------f-	80	63	80	70	O
+7	D	7	D--p------------------------	80	72	80	72	O
+
+
+Programmā	N	programma	N-fsl---------n-----------f-	81	0	81	8	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	81	10	81	17	O
+Explorer	N	Explorer	N-fsn---------n-----------f-	81	19	81	26	O
+7	D	7	D--p------------------------	81	28	81	28	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	81	30	81	42	O
+uz	S	uz	S----------------sgp------l-	81	44	81	45	O
+pogas	N	poga	N-fsg---------n-----------l-	81	47	81	51	B-TERM
+Manas	P	mans	P-fsg-------s-------------f-	81	53	81	57	O
+izlases	N	izlase	N-fsg---------n-----------l-	81	59	81	65	B-TERM
+centrs	N	centrs	N-msn---------n-----------l-	81	67	81	72	O
+
+
+.	SENT	.	T--------------------------.	82	0	82	0	O
+
+
+Sarakstā	N	saraksts	N-msl---------n-----------f-	83	0	83	7	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	83	9	83	12	O
+izlase	N	izlase	N-fsn---------n-----------l-	83	14	83	19	B-TERM
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	83	21	83	33	O
+uz	S	uz	S----------------sgp------l-	83	35	83	36	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	83	38	83	44	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	83	46	83	50	I-TERM
+,	T	,	T--------------------------,	83	51	83	51	O
+ko	P	kas	P---a-------r-------------l-	83	53	83	54	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	83	56	83	63	O
+atvērt	V	atvērst	Vp-s--2--i----------------l-	83	65	83	70	O
+.	SENT	.	T--------------------------.	83	71	83	71	O
+
+
+Lai	C	lai	C---------------------k---f-	84	0	84	2	O
+apskatītu	V	apskatīt	Vp-------s----------------l-	84	4	84	12	O
+pēdējās	A	pēdējais	A-fpap-y------------------l-	84	14	84	20	O
+20	D	20	D--pg-----------------------	84	22	84	23	O
+dienās	N	diena	N-fpl---------n-----------l-	84	25	84	30	O
+apmeklētās	G	apmeklēts	Gsfpnp-y---p--------------l-	84	32	84	41	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	84	43	84	49	B-TERM
+lapas	N	lapa	N-fpn---------n-----------l-	84	51	84	55	I-TERM
+,	T	,	T--------------------------,	84	56	84	56	O
+var	V	varēt	Vp----3--i----------3-----l-	84	58	84	60	O
+lietot	V	lietot	V--------n----------------l-	84	62	84	67	O
+sarakstu	N	saraksts	N-msa---------n-----------l-	84	69	84	76	B-TERM
+Vēsture	N	vēsture	N-fsn---------n-----------f-	84	78	84	84	B-TERM
+:	T	:	T--------------------------:	84	85	84	85	O
+
+
+Programmā	N	programma	N-fsl---------n-----------f-	85	0	85	8	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	85	10	85	17	O
+Explorer	N	Explorer	N-fsn---------n-----------f-	85	19	85	26	O
+8	D	8	D--p------------------------	85	28	85	28	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	85	30	85	42	O
+uz	S	uz	S----------------sap------l-	85	44	85	45	O
+pogas	N	poga	N-fsg---------n-----------l-	85	47	85	51	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	85	53	85	56	O
+izlase	N	izlase	N-fsn---------n-----------l-	85	58	85	63	B-TERM
+.	SENT	.	T--------------------------.	85	64	85	64	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	86	0	86	12	O
+uz	S	uz	S----------------sgp------l-	86	14	86	15	O
+cilnes	N	cilne	N-fsg---------n-----------l-	86	17	86	22	B-TERM
+Vēsture	N	vēsture	N-fsn---------n-----------f-	86	24	86	30	B-TERM
+,	T	,	T--------------------------,	86	31	86	31	O
+ja	C	ja	C---------------------d---l-	86	33	86	34	O
+tā	P	tas	P-fsn-------d-------------l-	86	36	86	37	O
+vēl	Q	vēl	Q-------------------------l-	86	39	86	41	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	86	43	86	45	O
+atlasīta	G	atlasīts	Gsfsnp-n---p--------------l-	86	47	86	54	O
+.	SENT	.	T--------------------------.	86	55	86	55	O
+
+
+Sarakstā	N	saraksts	N-msl---------n-----------f-	87	0	87	7	B-TERM
+Vēsture	N	vēsture	N-fsn---------n-----------f-	87	9	87	15	B-TERM
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	87	17	87	29	O
+uz	S	uz	S----------------sgp------l-	87	31	87	32	O
+dienas	N	diena	N-fsg---------n-----------l-	87	34	87	39	O
+vai	C	vai	C---------------------c---l-	87	41	87	43	O
+nedēļas	N	nedēļa	N-fsg---------n-----------l-	87	45	87	51	O
+un	C	un	C---------------------c---l-	87	53	87	54	O
+pēc tam	-	pēc_tam	----------------------------	87	56	87	62	O
+uz	S	uz	S----------------sap------l-	87	64	87	65	O
+vietnes	N	vietne	N-fsg---------n-----------l-	87	67	87	73	B-TERM
+nosaukuma	N	nosaukums	N-msg---------n-----------l-	87	75	87	83	I-TERM
+.	SENT	.	T--------------------------.	87	84	87	84	O
+
+Saraksts	N	saraksts	N-msn---------n-----------f-	87	86	87	93	B-TERM
+tiek	V	tikt	Vp----3--i----------6-----l-	87	95	87	98	O
+izvērsts	G	izvērsts	Gsmsnp-n---p--------------l-	87	100	87	107	O
+,	T	,	T--------------------------,	87	108	87	108	O
+lai	C	lai	C---------------------f---l-	87	110	87	112	O
+parādītu	V	parādīt	Vp-------s----------------l-	87	114	87	121	O
+atsevišķās	A	atsevišķs	A-fsgp-y------------------l-	87	123	87	132	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	87	134	87	140	B-TERM
+lapas	N	lapa	N-fpa---------n-----------l-	87	142	87	146	I-TERM
+,	T	,	T--------------------------,	87	147	87	147	O
+ko	P	kas	P---a-------r-------------l-	87	149	87	150	O
+esat	V	būt	Vp-p--2--i----------1-----l-	87	152	87	155	O
+apmeklējis	G	apmeklējis	Gsmsn--n---a--------------l-	87	157	87	166	O
+vietnē	N	vietne	N-fsl---------n-----------l-	87	168	87	173	B-TERM
+.	SENT	.	T--------------------------.	87	174	87	174	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	88	0	88	12	O
+uz	S	uz	S----------------sap------l-	88	14	88	15	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	88	17	88	23	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	88	25	88	29	I-TERM
+,	T	,	T--------------------------,	88	30	88	30	O
+ko	P	kas	P---a-------r-------------l-	88	32	88	33	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	88	35	88	42	O
+atvērt	V	atvērst	Vp-s--2--i----------------l-	88	44	88	49	O
+.	SENT	.	T--------------------------.	88	50	88	50	O
+
+
+Programmas	N	programma	N-fsg---------n-----------f-	89	0	89	9	B-TERM
+Internet	N	Internet	N-fsg---------n-----------f-	89	11	89	18	O
+Explorer	N	Explorer	N-msn---------n-----------f-	89	20	89	27	O
+8	D	8	D--p------------------------	89	29	89	29	O
+saraksts	N	saraksts	N-msn---------n-----------l-	89	31	89	38	B-TERM
+Vēsture	N	vēsture	N-fsn---------n-----------f-	89	40	89	46	B-TERM
+
+
+Lai	C	lai	C---------------------k---f-	90	0	90	2	O
+apskatītu	V	apskatīt	Vp-------s----------------l-	90	4	90	12	O
+pēdējās	A	pēdējais	A-fpap-y------------------l-	90	14	90	20	O
+20	D	20	D--pg-----------------------	90	22	90	23	O
+dienās	N	diena	N-fpl---------n-----------l-	90	25	90	30	O
+apmeklētās	G	apmeklēts	Gsfpnp-y---p--------------l-	90	32	90	41	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	90	43	90	49	B-TERM
+lapas	N	lapa	N-fpn---------n-----------l-	90	51	90	55	I-TERM
+,	T	,	T--------------------------,	90	56	90	56	O
+var	V	varēt	Vp----3--i----------3-----l-	90	58	90	60	O
+lietot	V	lietot	V--------n----------------l-	90	62	90	67	O
+sarakstu	N	saraksts	N-msa---------n-----------l-	90	69	90	76	B-TERM
+Vēsture	N	vēsture	N-fsn---------n-----------f-	90	78	90	84	B-TERM
+:	T	:	T--------------------------:	90	85	90	85	O
+
+
+Programmā	N	programma	N-fsl---------n-----------f-	91	0	91	8	B-TERM
+Internet	N	Internet	N-fsn---------n-----------f-	91	10	91	17	O
+Explorer	N	Explorer	N-fsn---------n-----------f-	91	19	91	26	O
+7	D	7	D--p------------------------	91	28	91	28	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	91	29	91	41	O
+uz	S	uz	S----------------sap------l-	91	43	91	44	O
+pogas	N	poga	N-fsg---------n-----------l-	91	46	91	50	B-TERM
+Manas	P	mans	P-fsg-------s-------------f-	91	52	91	56	O
+izlases	N	izlase	N-fsg---------n-----------l-	91	58	91	64	B-TERM
+centrs	N	centrs	N-msn---------n-----------l-	91	66	91	71	O
+.	SENT	.	T--------------------------.	91	72	91	72	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	92	0	92	12	O
+uz	S	uz	S----------------sgp------l-	92	14	92	15	O
+pogas	N	poga	N-fsg---------n-----------l-	92	17	92	21	B-TERM
+Vēsture	N	vēsture	N-fsn---------n-----------f-	92	23	92	29	B-TERM
+,	T	,	T--------------------------,	92	30	92	30	O
+ja	C	ja	C---------------------d---l-	92	32	92	33	O
+tā	P	tas	P-fsn-------d-------------l-	92	35	92	36	O
+vēl	Q	vēl	Q-------------------------l-	92	38	92	40	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	92	42	92	44	O
+atlasīta	G	atlasīts	Gsfsnp-n---p--------------l-	92	46	92	53	O
+.	SENT	.	T--------------------------.	92	54	92	54	O
+
+
+Sarakstā	N	saraksts	N-msl---------n-----------f-	93	0	93	7	B-TERM
+Vēsture	N	vēsture	N-fsn---------n-----------f-	93	9	93	15	B-TERM
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	93	17	93	29	O
+uz	S	uz	S----------------sgp------l-	93	31	93	32	O
+dienas	N	diena	N-fsg---------n-----------l-	93	34	93	39	O
+vai	C	vai	C---------------------c---l-	93	41	93	43	O
+nedēļas	N	nedēļa	N-fsg---------n-----------l-	93	45	93	51	O
+un	C	un	C---------------------c---l-	93	53	93	54	O
+pēc tam	-	pēc_tam	----------------------------	93	56	93	62	O
+uz	S	uz	S----------------sap------l-	93	64	93	65	O
+vietnes	N	vietne	N-fsg---------n-----------l-	93	67	93	73	B-TERM
+nosaukuma	N	nosaukums	N-msg---------n-----------l-	93	75	93	83	I-TERM
+.	SENT	.	T--------------------------.	93	84	93	84	O
+
+Saraksts	N	saraksts	N-msn---------n-----------f-	93	86	93	93	B-TERM
+tiek	V	tikt	Vp----3--i----------6-----l-	93	95	93	98	O
+izvērsts	G	izvērsts	Gsmsnp-n---p--------------l-	93	100	93	107	O
+,	T	,	T--------------------------,	93	108	93	108	O
+lai	C	lai	C---------------------f---l-	93	110	93	112	O
+parādītu	V	parādīt	Vp-------s----------------l-	93	114	93	121	O
+atsevišķās	A	atsevišķs	A-fsgp-y------------------l-	93	123	93	132	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	93	134	93	140	B-TERM
+lapas	N	lapa	N-fpa---------n-----------l-	93	142	93	146	I-TERM
+,	T	,	T--------------------------,	93	147	93	147	O
+ko	P	kas	P---a-------r-------------l-	93	149	93	150	O
+esat	V	būt	Vp-p--2--i----------1-----l-	93	152	93	155	O
+apmeklējis	G	apmeklējis	Gsmsn--n---a--------------l-	93	157	93	166	O
+vietnē	N	vietne	N-fsl---------n-----------l-	93	168	93	173	B-TERM
+.	SENT	.	T--------------------------.	93	174	93	174	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	94	0	94	12	O
+uz	S	uz	S----------------sap------l-	94	14	94	15	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	94	17	94	23	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	94	25	94	29	I-TERM
+,	T	,	T--------------------------,	94	30	94	30	O
+ko	P	kas	P---a-------r-------------l-	94	32	94	33	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	94	35	94	42	O
+atvērt	V	atvērst	Vp-s--2--i----------------l-	94	44	94	49	O
+.	SENT	.	T--------------------------.	94	50	94	50	O
+
+
+Vairāku	P	vairāki	P-mpg-------i-------------f-	95	0	95	6	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	95	8	95	14	B-TERM
+lapu	N	lapa	N-fpg---------n-----------l-	95	16	95	19	I-TERM
+atvēršana	N	atvēršana	N-fsn---------n-----------l-	95	21	95	29	O
+
+
+Dažreiz	R	dažreiz	R----p--------------------f-	96	0	96	6	O
+ir	V	būt	Vp----3--i----------7-----l-	96	8	96	9	O
+jāatver	V	atvērt	Vp-------c----------------l-	96	11	96	17	O
+otra	M	otrs	M-fsn---c-----------------l-	96	19	96	22	O
+(	T	(	T--------------------------(	96	24	96	24	O
+trešā	M	trešais	M-fsn---o-----------------l-	96	25	96	29	O
+vai	C	vai	C---------------------c---l-	96	31	96	33	O
+ceturtā	M	ceturtais	M-fsn---o-----------------l-	96	35	96	41	O
+)	T	)	T--------------------------)	96	42	96	42	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	96	44	96	50	B-TERM
+lapa	N	lapa	N-fsn---------n-----------l-	96	52	96	55	I-TERM
+,	T	,	T--------------------------,	96	56	96	56	O
+neaizverot	G	neaizverot	G----------a-n--y---------l-	96	58	96	67	O
+pirmo	M	pirmais	M-fsa---o-----------------l-	96	69	96	73	O
+lapu	N	lapa	N-fsa---------n-----------l-	96	75	96	78	B-TERM
+.	SENT	.	T--------------------------.	96	79	96	79	O
+
+Lai	C	lai	C---------------------k---f-	96	81	96	83	O
+to	P	tas	P-fsa-------d-------------l-	96	85	96	86	O
+izdarītu	V	izdarīt	Vp-------s----------------l-	96	88	96	95	O
+,	T	,	T--------------------------,	96	96	96	96	O
+programma	N	programma	N-fsn---------n-----------l-	96	98	96	106	B-TERM
+Internet	N	Internet	N-fsg---------n-----------f-	96	108	96	115	O
+Explorer	N	Explorer	N-fsl---------n-----------f-	96	117	96	124	O
+katrai	P	katrs	P-fsd-------g-------------l-	96	126	96	131	O
+jaunai	A	jauns	A-fsdp-n------------------l-	96	133	96	138	O
+lapai	N	lapa	N-fsd---------n-----------l-	96	140	96	144	B-TERM
+,	T	,	T--------------------------,	96	145	96	145	O
+ko	P	kas	P---a-------r-------------l-	96	147	96	148	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	96	150	96	157	O
+atvērt	V	atvērt	V--------n----------------l-	96	159	96	164	O
+,	T	,	T--------------------------,	96	165	96	165	O
+ļauj	V	ļaut	Vp----3--i----------3-----l-	96	167	96	170	O
+izveidot	V	izveidot	V--------n----------------l-	96	172	96	179	O
+cilni	N	cilne	N-fsa---------n-----------l-	96	181	96	185	B-TERM
+.	SENT	.	T--------------------------.	96	186	96	186	O
+
+Cilnes	N	cilne	N-fpn---------n-----------f-	96	188	96	193	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	96	195	96	197	O
+lietot	V	lietot	V--------n----------------l-	96	199	96	204	O
+,	T	,	T--------------------------,	96	205	96	205	O
+lai	C	lai	C---------------------f---l-	96	207	96	209	O
+ātri	R	ātri	R----p--------------------l-	96	211	96	214	O
+pārslēgtos	V	pārslēgties	Vp-------s-----y----------l-	96	216	96	225	O
+no	S	no	S----------------sgp------l-	96	227	96	228	O
+lapas	N	lapa	N-fsg---------n-----------l-	96	230	96	234	B-TERM
+uz	S	uz	S----------------sap------l-	96	236	96	237	O
+lapu	N	lapa	N-fsa---------n-----------l-	96	239	96	242	B-TERM
+,	T	,	T--------------------------,	96	243	96	243	O
+un	C	un	C---------------------c---l-	96	245	96	246	O
+visas	P	viss	P-fsg-------g-------------l-	96	248	96	252	O
+lapas	N	lapa	N-fpn---------n-----------l-	96	254	96	258	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	96	260	96	262	O
+pat	Q	pat	Q-------------------------l-	96	264	96	266	O
+skatīt	V	skatīt	V--------n----------------l-	96	268	96	273	O
+vienlaikus	R	vienlaikus	R----p--------------------l-	96	275	96	284	O
+.	SENT	.	T--------------------------.	96	285	96	285	O
+
+
+Lai	C	lai	C---------------------k---f-	97	0	97	2	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	97	4	97	10	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	97	12	97	15	I-TERM
+atvērtu	G	atvērts	Gsmsap-n---p--------------l-	97	17	97	23	O
+jaunā	A	jauns	A-fslp-n------------------l-	97	25	97	29	O
+cilnē	N	cilne	N-fsl---------n-----------l-	97	31	97	35	B-TERM
+,	T	,	T--------------------------,	97	36	97	36	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	97	38	97	50	O
+uz	S	uz	S----------------pdp------l-	97	52	97	53	O
+pogas	N	poga	N-fsg---------n-----------l-	97	55	97	59	B-TERM
+Jauna	A	jauns	A-fsnp-n------------------f-	97	61	97	65	O
+cilne	N	cilne	N-fsn---------n-----------l-	97	67	97	71	B-TERM
+:	T	:	T--------------------------:	97	72	97	72	O
+
+
+Poga	N	poga	N-fsn---------n-----------f-	98	0	98	3	B-TERM
+Jauna	A	jauns	A-fsnp-n------------------f-	98	5	98	9	O
+cilne	N	cilne	N-fsn---------n-----------l-	98	11	98	15	B-TERM
+
+
+Tukša	A	tukšs	A-fsnp-n------------------f-	99	0	99	4	O
+lapa	N	lapa	N-fsn---------n-----------l-	99	6	99	9	B-TERM
+jaunā	A	jauns	A-fslp-n------------------l-	99	11	99	15	O
+cilnē	N	cilne	N-fsl---------n-----------l-	99	17	99	21	B-TERM
+
+
+Tagad	R	tagad	R----p--------------------f-	100	0	100	4	O
+var	V	varēt	Vp----3--i----------3-----l-	100	6	100	8	O
+atvērt	V	atvērt	V--------n----------------l-	100	10	100	15	O
+jebkuru	P	jebkurš	P-msa-------g-------------l-	100	17	100	23	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	100	25	100	31	B-TERM
+lapu	N	lapa	N-fsa---------n-----------l-	100	33	100	36	I-TERM
+,	T	,	T--------------------------,	100	37	100	37	O
+ierakstot	G	ierakstot	G----------a-n------------l-	100	39	100	47	O
+vietrādi	N	vietrādis	N-msa---------n-----------l-	100	49	100	56	B-TERM
+URL	-	URL	----------------------------	100	58	100	60	I-TERM
+,	T	,	T--------------------------,	100	61	100	61	O
+lietojot	G	lietojot	G----------a-n------------l-	100	63	100	70	O
+meklēšanas	N	meklēšana	N-fsg---------n-----------l-	100	72	100	81	B-TERM
+lodziņu	N	logs	N-msa---------y-----------l-	100	83	100	89	I-TERM
+vai	C	vai	C---------------------c---l-	100	91	100	93	O
+izvēloties	G	izvēloties	G----------a-n-y----------l-	100	95	100	104	O
+no	S	no	S----------------sgp------l-	100	106	100	107	O
+saraksta	N	saraksts	N-msg---------n-----------l-	100	109	100	116	B-TERM
+Mana	P	mans	P-fsn-------s-------------f-	100	118	100	121	O
+izlase	N	izlase	N-fsn---------n-----------l-	100	123	100	128	B-TERM
+vai	C	vai	C---------------------c---l-	100	130	100	132	O
+saraksta	V	sarakstīt	Vp----3--i----------------l-	100	134	100	141	B-TERM
+Vēsture	N	vēsture	N-fsn---------n-----------f-	100	143	100	149	B-TERM
+.	SENT	.	T--------------------------.	100	150	100	150	O
+
+Kad	R	kad	R----p----------------o---f-	100	152	100	154	O
+ir	V	būt	Vp----3--i----------7-----l-	100	156	100	157	O
+atvērtas	G	atvērts	Gsfpnp-n---p--------------l-	100	159	100	166	O
+vairākas	P	vairāki	P-fpn-------i-------------l-	100	168	100	175	O
+lapas	N	lapa	N-fpa---------n-----------l-	100	177	100	181	B-TERM
+,	T	,	T--------------------------,	100	182	100	182	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	100	184	100	196	O
+uz	S	uz	S----------------sap------l-	100	198	100	199	O
+cilnēm	N	cilne	N-fpd---------n-----------l-	100	201	100	206	B-TERM
+,	T	,	T--------------------------,	100	207	100	207	O
+lai	C	lai	C---------------------f---l-	100	209	100	211	O
+pārslēgtos	V	pārslēgties	Vp-------s-----y----------l-	100	213	100	222	O
+starp	S	starp	S----------------pdp------l-	100	224	100	228	O
+lapām	N	lapa	N-fpd---------n-----------l-	100	230	100	234	B-TERM
+.	SENT	.	T--------------------------.	100	235	100	235	O
+
+
+Lai	C	lai	C---------------------k---f-	101	0	101	2	O
+visas	P	viss	P-fpn-------g-------------l-	101	4	101	8	O
+atvērtās	G	atvērts	Gsfsgp-y---p--------------l-	101	10	101	17	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	101	19	101	25	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	101	27	101	31	I-TERM
+skatītu	V	skatīt	Vp-------s----------------l-	101	33	101	39	O
+vienlaikus	R	vienlaikus	R----p--------------------l-	101	41	101	50	O
+,	T	,	T--------------------------,	101	51	101	51	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	101	53	101	65	O
+uz	S	uz	S----------------pdp------l-	101	67	101	68	O
+pogas	N	poga	N-fsg---------n-----------l-	101	70	101	74	B-TERM
+Ātrās	A	ātrs	A-fsgp-y------------------f-	101	76	101	80	O
+cilnes	N	cilne	N-fsg---------n-----------l-	101	82	101	87	B-TERM
+
+
+.	T	.	T--------------------------.	102	0	102	0	O
+Tiks	V	tikt	Vf----3--i----------6-----f-	102	2	102	5	O
+parādīta	G	parādīts	Gsfsnp-n---p--------------l-	102	7	102	14	O
+neliela	V	nelielīt	Vp----3--i------y---------l-	102	16	102	22	O
+katras	P	katrs	P-fsg-------g-------------l-	102	24	102	29	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	102	31	102	37	B-TERM
+lapas	N	lapa	N-fsg---------n-----------l-	102	39	102	43	I-TERM
+versija	N	versija	N-fsn---------n-----------l-	102	45	102	51	I-TERM
+.	SENT	.	T--------------------------.	102	52	102	52	O
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	102	54	102	66	O
+uz	S	uz	S----------------sgp------l-	102	68	102	69	O
+kādas	P	kāds	P-fsg-------r---------f---l-	102	71	102	75	O
+lapas	N	lapa	N-fsg---------n-----------l-	102	77	102	81	B-TERM
+,	T	,	T--------------------------,	102	82	102	82	O
+lai	C	lai	C---------------------f---l-	102	84	102	86	O
+to	P	tas	P-fsa-------d-------------l-	102	88	102	89	O
+atvērtu	V	atvērt	Vp-------s----------------l-	102	91	102	97	O
+.	SENT	.	T--------------------------.	102	98	102	98	O
+
+
+Lai	C	lai	C---------------------k---f-	103	0	103	2	O
+skatītu	V	skatīt	Vp-------s----------------l-	103	4	103	10	O
+visas	P	viss	P-fpn-------g-------------l-	103	12	103	16	O
+atvērtās	V	atvērsties	Vs----3--i-----y----------l-	103	18	103	25	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	103	27	103	33	B-TERM
+lapas	N	lapa	N-fpa---------n-----------l-	103	35	103	39	I-TERM
+,	T	,	T--------------------------,	103	40	103	40	O
+lietojiet	V	lietot	V--p--2--m----------------l-	103	42	103	50	O
+ātrās	A	ātrs	A-fpap-y------------------l-	103	52	103	56	O
+cilnes	N	cilne	N-fpn---------n-----------l-	103	58	103	63	B-TERM
+.	SENT	.	T--------------------------.	103	64	103	64	O
+
+
+Lai	C	lai	C---------------------k---f-	104	0	104	2	O
+aizvērtu	V	aizvērst	Vs-s--1--i----------------l-	104	4	104	11	O
+cilni	N	cilne	N-fsa---------n-----------l-	104	13	104	17	B-TERM
+,	T	,	T--------------------------,	104	18	104	18	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	104	20	104	32	O
+uz	S	uz	S----------------sgp------l-	104	34	104	35	O
+pogas	N	poga	N-fsg---------n-----------l-	104	37	104	41	B-TERM
+Aizvērt‌	-	Aizvērt?	----------------------------	104	43	104	50	O
+
+
+labajā	A	labs	A-fslp-y------------------l-	105	0	105	5	O
+cilnes	N	cilne	N-fsg---------n-----------l-	105	7	105	12	B-TERM
+pusē	N	puse	N-fsl---------n-----------l-	105	14	105	17	O
+.	SENT	.	T--------------------------.	105	18	105	18	O
+
+
+Paldies	I	paldies	I-------------------------f-	106	0	106	6	O
+!	SENT	!	T--------------------------!	106	7	106	7	O
+
+
+Paldies	I	paldies	I-------------------------f-	107	0	107	6	O
+!	SENT	!	T--------------------------!	107	7	107	7	O
+
+Jūsu	P	jūs	P--pg-2-----p-------------f-	107	9	107	12	O
+atsauksmes	N	atsauksme	N-fpn---------n-----------l-	107	14	107	23	O
+palīdz	V	palīdzēt	Vp----3--i----------------l-	107	25	107	30	O
+mums	P	mēs	P--pd-1-----p-------------l-	107	32	107	35	O
+pastāvīgi	R	pastāvīgi	R----p--------------------l-	107	37	107	45	O
+uzlabot	V	uzlabot	V--------n----------------l-	107	47	107	53	O
+saturu	N	saturs	N-msa---------n-----------l-	107	55	107	60	O
+.	SENT	.	T--------------------------.	107	61	107	61	O
+
+
+1200	D	1200	D--pg-----------------------	108	0	108	3	O
+400	D	400	D--pg-----------------------	108	5	108	7	O
+Kā	C	kā	C---------------------f---f-	108	9	108	10	O
+padarīt	V	padarīt	V--------n----------------l-	108	12	108	18	O
+šo	P	šis	P-fsa-------d-------------l-	108	20	108	21	O
+informāciju	N	informācija	N-fsa---------n-----------l-	108	23	108	33	O
+vēl	Q	vēl	Q-------------------------l-	108	35	108	37	O
+noderīgāku	A	noderīgs	A-fsac-n------------------l-	108	39	108	48	O
+?	SENT	?	T--------------------------?	108	49	108	49	O
+
+Iesniegt	V	iesniegt	V--------n----------------f-	108	51	108	58	O
+Izlaist	V	izlaist	V--------n----------------f-	108	60	108	66	O
+Vai	C	vai	C---------------------c---f-	108	68	108	70	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	108	72	108	79	O
+vēl	Q	vēl	Q-------------------------l-	108	81	108	83	O
+kaut ko	P	kaut_kas	P---a-------g-------------l-	108	85	108	91	O
+pievienot	V	pievienot	V--------n----------------l-	108	93	108	101	O
+?	SENT	?	T--------------------------?	108	102	108	102	O
+
+Iesniegt	V	iesniegt	V--------n----------------f-	108	104	108	111	O
+Nē	Q	nē	Q-------------------------f-	108	113	108	114	O
+,	T	,	T--------------------------,	108	115	108	115	O
+paldies	I	paldies	I-------------------------l-	108	117	108	123	O

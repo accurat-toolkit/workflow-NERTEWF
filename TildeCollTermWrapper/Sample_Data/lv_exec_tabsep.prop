@@ -1,0 +1,58 @@
+﻿######################################
+# The CollTerm execution script ExecuteCollTermOnFile.pl property sample file.
+# Do not remove any properties from the file!
+#
+# The property file supports comments only at the beginning of lines (do not add comments after statements).
+######################################
+
+#This defines, whether the document requires POS-tagging. If the document will be POS-tagged, the results will be saved in an annotated plaintext format.
+execPosTagger = false
+#The POS tagger to use ("Tree" for bg, de, el, en, es, et, fr and it; "Tagger" for et, lt and lv).
+POSTagger = Tagger
+#POS tagger language ("bg", "de", "el", "en", "es", "et", "fr", "it", "lt" or "lv").
+Language = lv
+
+#Parameters of CollTerm 1-gram call.
+exec1 = true
+method1 = tfidf
+len1 = 1
+minFreq1 = 2
+threshold1 = 0.05
+lambda1 = 1
+phrase1 = ./Sample_Data/LV_TERM_POS.txt
+stop1 = ./Sample_Data/STOP_LV.txt
+idfFile1 = ./Sample_Data/LV_IDF.txt
+pos1 = 0 3 2
+#Parameters of CollTerm 2-gram call.
+exec2 = true
+method2 = mi
+len2 = 2
+minFreq2 = 1
+threshold2 = 0.2
+lambda2 = 1
+phrase2 = ./Sample_Data/LV_TERM_POS.txt
+stop2 = ./Sample_Data/STOP_LV.txt
+idfFile2 = ./Sample_Data/LV_IDF.txt
+pos2 = 0 3 2
+#Parameters of CollTerm 3-gram call.
+exec3 = true
+method3 = mi
+len3 = 3
+minFreq3 = 1
+threshold3 = 0
+lambda3 = 1
+phrase3 = ./Sample_Data/LV_TERM_POS.txt
+stop3 = ./Sample_Data/STOP_LV.txt
+idfFile3 = ./Sample_Data/LV_IDF.txt
+pos3 = 0 3 2
+#Parameters of CollTerm 4-gram call.
+exec4 = true
+method4 = mi
+len4 = 4
+minFreq4 = 2
+threshold4 = 0
+lambda4 = 1
+phrase4 = ./Sample_Data/LV_TERM_POS.txt
+stop4 = ./Sample_Data/STOP_LV.txt
+idfFile4 = ./Sample_Data/LV_IDF.txt
+pos4 = 0 3 2

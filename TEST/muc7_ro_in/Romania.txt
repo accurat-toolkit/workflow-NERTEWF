@@ -1,0 +1,1108 @@
+﻿<ENAMEX TYPE="LOCATION">România</ENAMEX> .
+De la <ENAMEX TYPE="LOCATION">Wikipedia</ENAMEX> , enciclopedia liberă .
+Pagina „ <ENAMEX TYPE="PRODUCT">România</ENAMEX> ” trimite aici .
+Pentru alte sensuri vedeți <ENAMEX TYPE="PERSON">România</ENAMEX> ( dezambiguizare ) .
+<ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Drapel .
+Stemă .
+Imn național : .
+Deșteaptă -te , <ENAMEX TYPE="ORGANIZATION">române</ENAMEX> ! .
+Amplasarea <ENAMEX TYPE="PERSON">României</ENAMEX> ( verde închis ) : . — în cadrul <ENAMEX TYPE="LOCATION">Europei</ENAMEX> ( verde deschis și gri închis ) .
+— în cadrul Uniunii Europene ( verde deschis ) .
+Capitală .
+București .
+44 � � � 25′N 26 � � � 06′E .
+Limbi oficiale .
+română .
+Limbile minorităților mari .
+maghiară , români .
+Grupuri etnice .
+89,5 % români ;
+6,6 % maghiari ;
+2,5 % romi ;
+1,4 % alte minorității etnice .
+Etnonim .
+român , româncă , români .
+Aderare <ENAMEX TYPE="ORGANIZATION">UE</ENAMEX> .
+1 ianuarie <TIMEX TYPE="DATE">2007</TIMEX> .
+Sistem politic .
+republică unitară semi-prezidențială .
+- .
+Președinte .
+<ENAMEX TYPE="PERSON">Traian Băsescu</ENAMEX> .
+- .
+<ENAMEX TYPE="PERSON">Prim- Ministru</ENAMEX> .
+<ENAMEX TYPE="PERSON">Emil Boc</ENAMEX> .
+Independență .
+față de Imperiul Otoman .
+- . declarată .
+9 mai <TIMEX TYPE="DATE">1877</TIMEX> ( <ENAMEX TYPE="ORGANIZATION">SV</ENAMEX> ) .
+- .
+recunoscută .
+13 iulie <TIMEX TYPE="DATE">1878</TIMEX> .
+Suprafață .
+- .
+Total .
+238 391 km² ( locul 82 ) .
+- .
+Apă ( % ) .
+3 .
+Populație .
+- .
+Estimare 1 iulie <TIMEX TYPE="DATE">2009</TIMEX> .
+21 469 959 [ 1 ] ( locul 52 ) .
+- .
+Recensământ 2002 .
+21 680 974 [ 2 ] .
+- .
+Densitate .
+93 loc / km² ( locul 104 ) .
+<ENAMEX TYPE="PERSON">PIB</ENAMEX> ( <ENAMEX TYPE="ORGANIZATION">PPC</ENAMEX> ) .
+estimări 2007 .
+- .
+Total .
+254,2 miliarde <ENAMEX TYPE="PERSON">USD</ENAMEX> [ 3 ] ( locul 48 [ 3 ] ) .
+- .
+Pe cap de locuitor .
+11 600 <ENAMEX TYPE="PERSON">USD</ENAMEX> [ 3 ] ( locul 96 [ 3 ] ) .
+<ENAMEX TYPE="PERSON">PIB</ENAMEX> ( nominal ) .
+estimări 2007 .
+- .
+Total .
+165,983 miliarde <ENAMEX TYPE="PERSON">USD</ENAMEX> ( locul 38 ) .
+- .
+Pe cap de locuitor .
+7697 <ENAMEX TYPE="PERSON">USD</ENAMEX> ( locul 58 ) .
+Gini ( 2005 ) .
+31 ( coborât ) .
+<ENAMEX TYPE="PERSON">IDU</ENAMEX> ( 2005 ) .
+0,813 ( ridicat ) ( locul 60 ) .
+Monedă .
+leu .
+Prefix telefonic .
++ 40 .
+Domeniu .
+Internet .
+ro1 .
+Fus orar .
+<ENAMEX TYPE="PERSON">EET</ENAMEX> ( <ENAMEX TYPE="ORGANIZATION">UTC</ENAMEX> + 2 ) .
+- .
+Vară ( <ENAMEX TYPE="ORGANIZATION">ODV</ENAMEX> ) .
+<ENAMEX TYPE="PERSON">EEST</ENAMEX> ( <ENAMEX TYPE="ORGANIZATION">UTC</ENAMEX> + 3 ) .
+1 :
+Se poate folosi și domeniul .
+eu , întrucât <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> face parte din Uniunea Europeană .
+modifică .
+<ENAMEX TYPE="PERSON">România</ENAMEX> este o țară situată în sud-estul <ENAMEX TYPE="ORGANIZATION">Europei Centrale</ENAMEX> , pe cursul inferior al <ENAMEX TYPE="LOCATION">Dunării</ENAMEX> , la nord de peninsula Balcanică și la țărmul nord-vestic al Mării Negre .
+[ 4 ] Pe teritoriul ei este situată aproape toată suprafața Deltei <ENAMEX TYPE="LOCATION">Dunării</ENAMEX> și partea sudică și centrală a Munților Carpați .
+Se învecinează cu <ENAMEX TYPE="PRODUCT">Bulgaria</ENAMEX> la sud , <ENAMEX TYPE="PRODUCT">Serbia</ENAMEX> la sud-vest , <ENAMEX TYPE="PRODUCT">Ungaria</ENAMEX> la nord-vest , <ENAMEX TYPE="PERSON">Ucraina</ENAMEX> la nord și est și Republica Moldova la est , iar țărmul Mării Negre se găsește la sud-est .
+De- a lungul istoriei , diferite porțiuni ale teritoriului de astăzi al <ENAMEX TYPE="LOCATION">României</ENAMEX> au fost în componența sau sub administrația <ENAMEX TYPE="LOCATION">Daciei</ENAMEX> , Imperiului <ENAMEX TYPE="LOCATION">Roman</ENAMEX> , Imperiului Otoman , Imperiului <ENAMEX TYPE="LOCATION">Rus</ENAMEX> sau a celui Austro-Ungar .
+<ENAMEX TYPE="LOCATION">România</ENAMEX> a devenit stat suveran în 1859 prin unirea dintre <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> și Țara Românească condusă de <ENAMEX TYPE="ORGANIZATION">Alexandru Ioan Cuza</ENAMEX> și a fost recunoscută ca țară independentă 19 ani mai târziu .
+În 1918 , <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> , <ENAMEX TYPE="LOCATION">Bucovina</ENAMEX> și <ENAMEX TYPE="PERSON">Basarabia</ENAMEX> s- au unit cu <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> formând <ENAMEX TYPE="LOCATION">România Mare</ENAMEX> sau <ENAMEX TYPE="LOCATION">România</ENAMEX> interbelică , care a avut extinderea teritorială maximă din istoria <ENAMEX TYPE="PERSON">României</ENAMEX> ( 295.641 km2 ) .
+În ajunul celui de- al <ENAMEX TYPE="LOCATION">Doilea Război Mondial</ENAMEX> ( 1940 ) , <ENAMEX TYPE="LOCATION">România Mare</ENAMEX> ( Întregită ) , sub presiunea <ENAMEX TYPE="LOCATION">Germaniei</ENAMEX> condusă de <ENAMEX TYPE="LOCATION">Hitler</ENAMEX> și colaborarea guvernului pro-nazist condus de <ENAMEX TYPE="LOCATION">Gigurtu</ENAMEX> , a încetat să mai existe prin cedarea de teritorii <ENAMEX TYPE="PERSON">Ungariei</ENAMEX> ( nordul <ENAMEX TYPE="LOCATION">Transilvaniei</ENAMEX> ) , <ENAMEX TYPE="PERSON">Bulgariei</ENAMEX> ( <ENAMEX TYPE="LOCATION">Cadrilaterul</ENAMEX> ) și Uniunii Sovietice ( <ENAMEX TYPE="ORGANIZATION">Basarabia</ENAMEX> , Herța și <ENAMEX TYPE="PRODUCT">Bucovina</ENAMEX> de nord ) .
+După abolirea regimului lui <ENAMEX TYPE="ORGANIZATION">Antonescu</ENAMEX> de la 23 august <TIMEX TYPE="DATE">1944</TIMEX> și întoarcerea armelor contra Puterilor Axei , <ENAMEX TYPE="LOCATION">România</ENAMEX> s- a alăturat Puterilor Aliate ( <ENAMEX TYPE="PERSON">Anglia</ENAMEX> , Statele Unite , Franța și Uniunea Sovietică ) și a recuperat nordul <ENAMEX TYPE="PRODUCT">Transilvaniei</ENAMEX> , fapt definitivat prin Tratatul de pace de la <ENAMEX TYPE="LOCATION">Paris</ENAMEX> semnat la 10 februarie <TIMEX TYPE="DATE">1947</TIMEX> .
+La momentul destrămării Uniunii Sovietice și a înlăturării regimului comunist instalat în <ENAMEX TYPE="LOCATION">România</ENAMEX> ( 1989 ) , țara a inițiat o serie de reforme economice și politice .
+După un deceniu de probleme economice , <ENAMEX TYPE="PERSON">România</ENAMEX> a introdus noi reforme economice de ordin general ( precum cota unică de impozitare , în 2005 ) și a aderat la Uniunea Europeană la 1 ianuarie <TIMEX TYPE="DATE">2007</TIMEX> .
+<ENAMEX TYPE="PERSON">România</ENAMEX> este o republică semi-prezidențială .
+Este a noua țară după suprafața teritoriului ( 238 391 km² ) și a șaptea după numărul populației ( peste 22 milioane locuitori ) [ 5 ] dintre statele membre ale Uniunii Europene .
+Capitală țării , București , este și cel mai mare oraș al ei și al șaselea oraș din <ENAMEX TYPE="LOCATION">UE</ENAMEX> după populație ( 1,9 milioane locuitori ) .
+În 2007 , orașul <ENAMEX TYPE="LOCATION">Sibiu</ENAMEX> a fost ales Capitală Europeană a Culturii [ 6 ] .
+<ENAMEX TYPE="PERSON">România</ENAMEX> este membru al <ENAMEX TYPE="ORGANIZATION">NATO</ENAMEX> ( din 29 martie <TIMEX TYPE="DATE">2004</TIMEX> ) , al Uniunii Europene ( de la 1 ianuarie <TIMEX TYPE="DATE">2007</TIMEX> ) , al Uniunii Latine , al Francofoniei și al <ENAMEX TYPE="ORGANIZATION">OSCE</ENAMEX> .
+Cuprins .
+[ ascunde ] 1 Etimologie .
+2 Istorie 2.1 <ENAMEX TYPE="PERSON">Dacia</ENAMEX> și Imperiul <ENAMEX TYPE="LOCATION">Roman</ENAMEX> .
+2.2 Perioada principatelor și Epocă fanariotă .
+2.3 Unirea și Regatul <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+2.4 <ENAMEX TYPE="LOCATION">România</ENAMEX> comunistă .
+2.5 <ENAMEX TYPE="PERSON">România</ENAMEX> după 1989 .
+3 Geografie 3.1 Relief .
+3.2 Faună și floră .
+3.3 Climă .
+4 Demografie 4.1 Religie .
+4.2 Educație .
+4.3 Aglomerări urbane .
+5 Politică 5.1 Relațiile externe .
+5.2 Administrație .
+6 Economie 6.1 Transport .
+6.2 Turism .
+7 Cultură 7.1 Artă .
+7.2 Știință .
+7.3 Cinematografie .
+7.4 Patrimoniul Mondial .
+8 Armată 8.1 Dotări .
+8.2 Istoric .
+9 Sport 9.1 Oină .
+9.2 Fotbal .
+9.3 Alte sporturi și Jocurile Olimpice .
+10 Referințe 10.1 Note .
+10.2 Bibliografie .
+11 Legături externe .
+[ modificare ] Etimologie .
+Pentru detalii , vezi :
+etimologia termenilor „ român ” și „ <ENAMEX TYPE="PRODUCT">România</ENAMEX> ” .
+Numele de „ <ENAMEX TYPE="PRODUCT">România</ENAMEX> ” provine de la „ român ” , cuvânt derivat din latinescul romanus .
+[ 7 ] .
+Cel mai vechi indiciu referitor la existența numelui de „ român ” ar putea fi conținut de <ENAMEX TYPE="PERSON">Cântecul Nibelungilor</ENAMEX> :
+„ Ducele <ENAMEX TYPE="LOCATION">Ramunch</ENAMEX> din țara Valahilor / cu șapte sute de luptători aleargă în întâmpinarea ei / ca păsările sălbatice , îi vedeai galopând ” .
+[ 8 ] <ENAMEX TYPE="PRODUCT">Ramunch</ENAMEX> ar putea fi o transliterație a numelui „ Român ” reprezentând în acest context un conducător simbolic al românilor .
+[ 9 ] .
+Scrisoarea lui Neacșu .
+Cele mai vechi atestări documentare ale termenului de „ rumân / român ” cunoscute în mod cert sunt conținute în relatări , jurnale și rapoarte de călătorie redactate de umaniști renascentiști din secolul al <ENAMEX TYPE="ORGANIZATION">XVI</ENAMEX> -lea care , fiind în majoritate trimiși ai Sfântului Scaun , au călătorit în <ENAMEX TYPE="LOCATION">Țara Românească</ENAMEX> , <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> și <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> .
+Astfel , <ENAMEX TYPE="LOCATION">Tranquillo Andronico</ENAMEX> notează în 1534 , că valahii „ se numesc români ” .
+[ 10 ] <ENAMEX TYPE="PERSON">Francesco della Valle</ENAMEX> scrie în 1532 că valahii „ se denumesc români în limba lor ” .
+Mai departe , el citează chiar și o scurtă expresie românească :
+„ <ENAMEX TYPE="PRODUCT">Sti</ENAMEX> rominest ?
+” .
+[ 11 ] După o călătorie prin Țara Românească , <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> și <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> , <ENAMEX TYPE="PERSON">Ferrante Capecci</ENAMEX> relatează prin 1575 că locuitorii acestor provincii se numesc pe ei înșiși „ români ” ( romanesci ) .
+[ 12 ] <ENAMEX TYPE="PERSON">Pierre Lescalopier</ENAMEX> scrie în 1574 că cei care locuiesc în <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> , Țara Românească și cea mai mare parte a <ENAMEX TYPE="LOCATION">Transilvaniei</ENAMEX> , „ se consideră adevărați urmași ai romanilor și- și numesc limba � � � românește � � � , adică română ” .
+[ 13 ] .
+Mărturii suplimentare despre endonimul de „ rumân / român ” furnizează și autori care au venit în mod prelungit în contact direct cu românii .
+Astfel , umanistul sas <ENAMEX TYPE="PERSON">Johann Lebel</ENAMEX> relatează în 1542 că „ românii [ … ] se numesc pe ei înșiși � � � <ENAMEX TYPE="PERSON">Romuini</ENAMEX> � � � ” .
+[ 14 ] Istoricul polonez <ENAMEX TYPE="PERSON">Orichovius</ENAMEX> ( <ENAMEX TYPE="PERSON">Stanisław Orzechowski</ENAMEX> ) scrie în 1554 că românii „ se numesc pe limba lor romini după români , iar pe limba noastră ( poloneză ) sunt numiți valahi , după italieni ” , [ 15 ] în timp ce primatul și diplomatul ungar <ENAMEX TYPE="PERSON">Anton Verancsics</ENAMEX> scrie în 1570 că „ românii se numesc români ” , [ 16 ] iar eruditul maghiar transilvan <ENAMEX TYPE="PERSON">Martinus Szent-Ivany</ENAMEX> citează în 1699 expresii românești ca :
+„ Sie noi sentem Rumeni ” și „ Noi sentem di sânge Rumena ” .
+[ 17 ] .
+Cel mai vechi indiciu cunoscut asupra unei denumiri geografice cu mențiunea „ rumânesc ” este conținută de unele versiuni ale operei Getica de <ENAMEX TYPE="LOCATION">Iordanes</ENAMEX> :
+„ .
+<ENAMEX TYPE="PERSON">Sclavini</ENAMEX> a civitate nova et <ENAMEX TYPE="PERSON">Sclavino Rumunense</ENAMEX> et lacu qui appellantur <ENAMEX TYPE="LOCATION">Mursianus</ENAMEX> .
+” .
+[ 18 ] Denumirea <ENAMEX TYPE="PERSON">Rumunense</ENAMEX> constituie o transliterație latinizantă a unei pronunții slave pentru „ rumânesc ” .
+Deși mențiunea <ENAMEX TYPE="PERSON">Sclavino Rumunense</ENAMEX> s- a dovedit a fi apocrifă , ea fiind o interpolare ulterioară în textul lui <ENAMEX TYPE="PERSON">Iordanes</ENAMEX> , relevanța ei istorică rămâne considerabilă , interpolarea neputând fi mai târzie de secolele al <ENAMEX TYPE="ORGANIZATION">X</ENAMEX> -lea – al <ENAMEX TYPE="ORGANIZATION">XI</ENAMEX> -lea .
+O hartă a ipoteticei Rumânii ( <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> ) , datată 1855 , realizată de <ENAMEX TYPE="PERSON">Cezar Bolliac</ENAMEX> .
+Cea mai veche atestare documentară cunoscută a numelui de țară este Scrisoarea lui Neacșu din 1521 , ce conține mențiunea cěra rumŭněskŭ ( Țeara Rumânească ) .
+<ENAMEX TYPE="PERSON">Miron Costin</ENAMEX> insistă asupra denumirii de „ român , adică roman ” ce o poartă românii din Principatele Române .
+[ 19 ] La fel , <ENAMEX TYPE="PERSON">Constantin Cantacuzino</ENAMEX> explică pe larg în Istoria Țării Rumânești originile și semnificația denumirii de „ român , românesc ” dată Țărilor Române .
+[ 20 ] <ENAMEX TYPE="PERSON">Dimitrie Cantemir</ENAMEX> denumește în mod sistematic toate cele trei Principate locuite de români ca „ Țări Românești ” .
+[ 21 ] Termenul de „ <ENAMEX TYPE="PRODUCT">România</ENAMEX> ” în accepțiunea să modernă este atestat documentar în al doilea deceniu al secolului al <ENAMEX TYPE="ORGANIZATION">XIX</ENAMEX> -lea .
+[ 22 ] .
+Până în secolul al <ENAMEX TYPE="ORGANIZATION">XIX</ENAMEX> -lea au coexistat pentru spațiul dintre <ENAMEX TYPE="LOCATION">Nistru</ENAMEX> și Tisa denumirile de „ Rumânia ” și „ <ENAMEX TYPE="PERSON">România</ENAMEX> ” , precum și endonimul „ rumâni ” alături de „ români ” , formă scrisă cu „ u ” fiind predominantă .
+[ 23 ] Din termenul „ rumân ” s- a format la finele secolului <ENAMEX TYPE="ORGANIZATION">XVIII</ENAMEX> exonimul modern a poporului român și a statului român în cazul principalelor limbi europene :
+„ <ENAMEX TYPE="PRODUCT">Rumänen</ENAMEX> / <ENAMEX TYPE="PRODUCT">Rumänien</ENAMEX> ” ( germană ) , „ <ENAMEX TYPE="PRODUCT">Roumains</ENAMEX> / <ENAMEX TYPE="PRODUCT">Roumanie</ENAMEX> ” ( franceză ) , „ <ENAMEX TYPE="PRODUCT">Rumanians</ENAMEX> / <ENAMEX TYPE="PRODUCT">Rumania</ENAMEX> ” ( denumirea învechită din engleză ) , „ <ENAMEX TYPE="PRODUCT">Rumuni</ENAMEX> / <ENAMEX TYPE="PRODUCT">Rumunija</ENAMEX> ” ( în sârbă ;
+totuși , în cazul românilor timoceni s- a păstrat exonimul de „ vlahi ” , vechiul exonim al tuturor românilor [ 24 ] , până în ziua de azi , chiar dacă se autodefinesc în limba maternă drept „ rumâni ” [ 25 ] [ 26 ] ) etc.
+În ultimele decenii , în mai multe limbi s- a trecut la înlocuirea formei care derivă din „ rumân ” în cea care derivă din „ român ” .
+Astfel , în limba engleză formă „ <ENAMEX TYPE="PRODUCT">Rumania</ENAMEX> ” a fost în locuită cu „ <ENAMEX TYPE="PRODUCT">România</ENAMEX> ” .
+În limba italiană denumirea „ <ENAMEX TYPE="PRODUCT">Rumania</ENAMEX> ” a fost înlocuită cu „ <ENAMEX TYPE="PRODUCT">România</ENAMEX> ” , iar în limba portugheză se folosesc formele „ <ENAMEX TYPE="PRODUCT">Romenia</ENAMEX> ” ( pentru a desemna statul român ) și „ <ENAMEX TYPE="PRODUCT">Romeno</ENAMEX> ” pentru a desemna poporul român .
+[ 23 ] .
+[ modificare ] Istorie .
+Pentru detalii , vezi :
+istoria <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Prin istoria <ENAMEX TYPE="PERSON">României</ENAMEX> se înțelege , în mod convențional , istoria regiunii geografice românești , a popoarelor care au locuit -o precum și a statului Român modern .
+Una dintre cele mai dezbătute probleme din istoriografia românească , problemă care de fapt indică însuși drumul parcurs de această , este problema originilor .
+[ 27 ] [ 28 ] [ 29 ] [ 30 ] Astfel , originile românilor sunt disputate , existând mai multe teorii .
+[ 31 ] .
+[ modificare ] <ENAMEX TYPE="PRODUCT">Dacia</ENAMEX> și Imperiul <ENAMEX TYPE="LOCATION">Roman</ENAMEX> .
+Pentru detalii , vezi :
+Daci și <ENAMEX TYPE="LOCATION">Dacia</ENAMEX> romană .
+Se consideră că triburile creatoare ale culturii bronzului pe teritoriul <ENAMEX TYPE="PERSON">României</ENAMEX> aparțin grupului indo-european al tracilor .
+[ 32 ] [ 33 ] [ 34 ] <ENAMEX TYPE="PERSON">Strabon</ENAMEX> în „ Geografia ” menționa că geții aveau aceeași limbă cu tracii , iar dacii aceeași limbă cu geții .
+[ 35 ] Totuși , prima relatare despre geți aparține lui <ENAMEX TYPE="PERSON">Herodot</ENAMEX> .
+[ 36 ] [ 37 ] Cucerirea <ENAMEX TYPE="LOCATION">Daciei</ENAMEX> de către români conduce la contopirea celor două culturi :
+daco-romanii sunt strămoșii poporului român .
+[ 38 ] După ce <ENAMEX TYPE="ORGANIZATION">Dacia</ENAMEX> a devenit provincie a Imperiul <ENAMEX TYPE="PERSON">Roman</ENAMEX> s- au impus elemente de cultură și civilizație romană , inclusiv latină vulgară care a stat la baza formării limbii române .
+[ 39 ] [ 40 ] [ 41 ] .
+<ENAMEX TYPE="LOCATION">Decebal</ENAMEX> .
+Columna lui <ENAMEX TYPE="PERSON">Traian</ENAMEX> .
+Pe baza informațiilor din inscripția de la <ENAMEX TYPE="ORGANIZATION">Dionysopolis</ENAMEX> [ 42 ] [ 43 ] [ 44 ] și de la <ENAMEX TYPE="LOCATION">Iordanes</ENAMEX> , se știe că sub stăpânirea lui <ENAMEX TYPE="PERSON">Burebista</ENAMEX> , ajutat de marele preot <ENAMEX TYPE="ORGANIZATION">Deceneu</ENAMEX> , s- a format primul stat geto-dac .
+[ 45 ] [ 46 ] În anul 44 î .
+Hr .
+, <ENAMEX TYPE="PERSON">Burebista</ENAMEX> este asasinat de unul dintre slujitorii săi .
+[ 47 ] După moartea lui , statul geto-dac se va destrăma în 4 , apoi în 5 regate .
+[ 48 ] Nucleul statal se menține în zona munților <ENAMEX TYPE="PERSON">Șureanu</ENAMEX> , unde domnesc succesiv <ENAMEX TYPE="PERSON">Deceneu</ENAMEX> , <ENAMEX TYPE="LOCATION">Comosicus</ENAMEX> și <ENAMEX TYPE="LOCATION">Coryllus</ENAMEX> .
+[ 49 ] Statul centralizat dac va atinge apogeul dezvoltării sale sub <ENAMEX TYPE="LOCATION">Decebal</ENAMEX> .
+[ 50 ] În această perioadă se mențin o serie de conflicte cu Imperiul <ENAMEX TYPE="LOCATION">Roman</ENAMEX> , o partea a statului dac fiind cucerită în 106 d.
+Hr .
+de împăratul roman <ENAMEX TYPE="LOCATION">Traian</ENAMEX> .
+[ 51 ] Între anii 271-275 d.
+Hr .
+are loc retragerea aureliană .
+[ 52 ] .
+[ modificare ] Perioada principatelor și Epocă fanariotă .
+Pentru detalii , vezi :
+Statele medievale românești și Epocă fanariotă .
+În primul mileniu , peste teritoriul <ENAMEX TYPE="PERSON">României</ENAMEX> au trecut valuri de popoare migratoare :
+goții în secolul <ENAMEX TYPE="ORGANIZATION">III</ENAMEX> - <ENAMEX TYPE="ORGANIZATION">IV</ENAMEX> [ 53 ] , hunii în secolul <ENAMEX TYPE="ORGANIZATION">IV</ENAMEX> [ 54 ] , gepizii în secolul <ENAMEX TYPE="ORGANIZATION">V</ENAMEX> [ 55 ] [ 56 ] , avarii în secolul VI [ 57 ] , slavii în secolul <ENAMEX TYPE="ORGANIZATION">VII</ENAMEX> , ungurii în secolul <ENAMEX TYPE="ORGANIZATION">IX</ENAMEX> , pecenegii [ 58 ] , cumanii [ 59 ] , uzii și alanii în secolele <ENAMEX TYPE="ORGANIZATION">X</ENAMEX> - <ENAMEX TYPE="PRODUCT">XII</ENAMEX> și tătarii în secolul <ENAMEX TYPE="ORGANIZATION">XIII</ENAMEX> .
+În secolul al <ENAMEX TYPE="ORGANIZATION">XIII</ENAMEX> -lea sunt atestate primele cnezate la sud de Carpați .
+[ 60 ] Mai <ENAMEX TYPE="PERSON">apoi</ENAMEX> , în contextul cristalizării relațiilor feudale , ca urmare a creării unor condiții interne și externe favorabile ( slăbirea presiunii ungare și diminuarea dominației tătarilor ) iau ființă la sud și est de Carpați statele feudale de sine stătătoare Țara Românească ( 1310 ) , sub <ENAMEX TYPE="LOCATION">Basarab I</ENAMEX> și <ENAMEX TYPE="PERSON">Moldova</ENAMEX> ( 1359 ) , sub <ENAMEX TYPE="LOCATION">Bogdan I</ENAMEX> .
+[ 50 ] Dintre domnitorii ce au avut un rol mai important , pot fi amintiți :
+<ENAMEX TYPE="PERSON">Alexandru</ENAMEX> cel Bun , <ENAMEX TYPE="PERSON">Ștefan</ENAMEX> cel Mare , Petru Rareș și <ENAMEX TYPE="PERSON">Dimitrie Cantemir</ENAMEX> în <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> , <ENAMEX TYPE="PERSON">Mircea</ENAMEX> cel Bătrân , Vlad Țepeș și <ENAMEX TYPE="PERSON">Constantin Brâncoveanu</ENAMEX> în <ENAMEX TYPE="LOCATION">Țara Românească</ENAMEX> și <ENAMEX TYPE="PRODUCT">Iancu de Hunedoara</ENAMEX> în <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> .
+Începând cu sfârșitul secolului al <ENAMEX TYPE="ORGANIZATION">XV -lea cele două principate</ENAMEX> intră treptat în sfera de influență a Imperiului Otoman .
+<ENAMEX TYPE="PERSON">Alexandru Ioan Cuza</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> , parte de- a lungul Evului Mediu a Regatului <ENAMEX TYPE="ORGANIZATION">Ungariei</ENAMEX> [ 61 ] , guvernată de voievozi , devine un principat de sine stătător , vasal Imperiului Otoman din 1526 .
+La cumpăna secolelor al <ENAMEX TYPE="ORGANIZATION">XVI</ENAMEX> -lea și al <ENAMEX TYPE="ORGANIZATION">XVII -lea Mihai Viteazul</ENAMEX> domnește pentru o foarte scurtă perioadă de vreme peste o bună parte din teritoriul <ENAMEX TYPE="PRODUCT">României de astăzi</ENAMEX> .
+[ 62 ] .
+În secolul al <ENAMEX TYPE="ORGANIZATION">XVIII</ENAMEX> -lea , <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> și Țara Românească și- au păstrat în continuare autonomia internă , dar în 1711 și 1716 respectiv , începe perioada domnitorilor fanarioți , [ 63 ] numiți direct de turci din rândul familiilor nobile de greci din <ENAMEX TYPE="LOCATION">Constantinopol</ENAMEX> .
+Prin încheierea pactului dualist în 1867 , <ENAMEX TYPE="PERSON">Transilvania</ENAMEX> și- a pierdut la scurtă vreme resturile autonomiei sale politice , fiind înglobată din punct de vedere politic și administrativ <ENAMEX TYPE="LOCATION">Ungariei</ENAMEX> .
+[ 64 ] .
+[ modificare ] Unirea și Regatul <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Pentru detalii , vezi :
+Renașterea națională a <ENAMEX TYPE="LOCATION">României</ENAMEX> și Principatele Unite ale <ENAMEX TYPE="LOCATION">Moldovei</ENAMEX> și Țării Românești .
+Statul modern român a fost creat prin unirea principatelor <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> și <ENAMEX TYPE="PERSON">Muntenia</ENAMEX> ( sau Țara Românească ) , în anul 1859 , odată cu alegerea concomitentă ca domnitor în ambele state a lui <ENAMEX TYPE="PERSON">Alexandru Ioan Cuza</ENAMEX> .
+[ 65 ] [ 66 ] [ 67 ] Acesta a fost obligat să abdice în anul 1866 de către o largă coaliție a partidelor vremii , denumită și Monstruoasa Coaliție , <ENAMEX TYPE="PERSON">Cuza</ENAMEX> fiind obligat să părăsească țara .
+[ 68 ] În 1877 , <ENAMEX TYPE="PERSON">România</ENAMEX> își obține independența iar în 1881 , <ENAMEX TYPE="PERSON">Carol I este încoronat</ENAMEX> ca Rege al <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+[ 69 ] În 1913 , <ENAMEX TYPE="PERSON">România</ENAMEX> a intră în război împotriva <ENAMEX TYPE="LOCATION">Bulgariei</ENAMEX> , la capătul căruia a obținut <ENAMEX TYPE="PERSON">Cadrilaterul</ENAMEX> .
+[ 70 ] [ 71 ] [ 72 ] În 1914 , regele <ENAMEX TYPE="LOCATION">Carol I moare</ENAMEX> , rege al <ENAMEX TYPE="LOCATION">României</ENAMEX> devenind <ENAMEX TYPE="LOCATION">Ferdinand I</ENAMEX> .
+[ 68 ] .
+În 1916 <ENAMEX TYPE="PERSON">România</ENAMEX> a intrat în <ENAMEX TYPE="LOCATION">Primul Război Mondial</ENAMEX> de partea Antantei .
+[ 73 ] Deși forțele române nu s- au descurcat bine din punct de vedere militar , până la sfârșitul războiului , Imperiile Austriac și Rus s- au dezintegrat ;
+Adunarea Națională în <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> , și Sfatul Țării în <ENAMEX TYPE="LOCATION">Basarabia</ENAMEX> și <ENAMEX TYPE="PERSON">Bucovina</ENAMEX> și- au proclamat Unirea cu <ENAMEX TYPE="LOCATION">România</ENAMEX> , [ 74 ] iar <ENAMEX TYPE="PERSON">Ferdinand</ENAMEX> s- a încoronat rege al <ENAMEX TYPE="LOCATION">României la Albă Iulia</ENAMEX> în 1922 .
+[ 75 ] Tratatul de la <ENAMEX TYPE="ORGANIZATION">Versailles</ENAMEX> a recunoscut toate proclamațiile de unire în conformitate cu dreptul la autodeterminare stabilit de Declarația celor 14 puncte ale președintelui american <ENAMEX TYPE="PERSON">Thomas Woodrow Wilson</ENAMEX> .
+[ 76 ] .
+În 1938 , regele <ENAMEX TYPE="ORGANIZATION">Carol al II</ENAMEX> -lea își asumă puteri dictatoriale .
+Odată cu venirea să la putere , <ENAMEX TYPE="PERSON">Ion Gigurtu</ENAMEX> , președinte al Consiliului de Miniștri , între 4 iulie și 4 septembrie <TIMEX TYPE="DATE">1940</TIMEX> , a declarat că va duce o politică nazistă pro-Axa <ENAMEX TYPE="PERSON">Berlin</ENAMEX> – <ENAMEX TYPE="PRODUCT">Roma</ENAMEX> , antisemită și fascist-totalitară [ 77 ] [ 78 ] [ 79 ] .
+În urma Pactului <ENAMEX TYPE="ORGANIZATION">Ribbentrop-Molotov</ENAMEX> din 1939 , prin acceptarea arbitrajului lui <ENAMEX TYPE="PERSON">Hitler</ENAMEX> asupra <ENAMEX TYPE="LOCATION">Transilvaniei</ENAMEX> ( după ce <ENAMEX TYPE="PERSON">Gigurtu</ENAMEX> a declarat la radio că <ENAMEX TYPE="LOCATION">România</ENAMEX> trebuie să facă sacrificii teritoriale pentru a justifica orientarea să nazistă și aderarea totală a <ENAMEX TYPE="LOCATION">României la Axa Berlin</ENAMEX> – <ENAMEX TYPE="LOCATION">Roma</ENAMEX> ) , <ENAMEX TYPE="PERSON">România</ENAMEX> a cedat <ENAMEX TYPE="PERSON">Ungariei nordul Transilvaniei</ENAMEX> , inclusiv orașul <ENAMEX TYPE="LOCATION">Cluj</ENAMEX> .
+[ 80 ] [ 81 ] [ 82 ] Vastele teritorii din <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> care au fost cedate de <ENAMEX TYPE="PERSON">Ion Gigurtu</ENAMEX> în favoarea <ENAMEX TYPE="LOCATION">Ungariei</ENAMEX> conțineau importante resurse naturale , inclusiv mine de aur .
+[ 83 ] <ENAMEX TYPE="PERSON">Ion Gigurtu</ENAMEX> a fost de acord și cu cedarea a 8000 km2 din <ENAMEX TYPE="LOCATION">Dobrogea</ENAMEX> de sud în favoarea <ENAMEX TYPE="LOCATION">Bulgariei</ENAMEX> [ 84 ] și Uniunii Sovietice , Basarabia Herța și <ENAMEX TYPE="PRODUCT">Bucovina de Nord</ENAMEX> .
+[ 81 ] .
+Față de retragerea haotică din <ENAMEX TYPE="LOCATION">Basarabia</ENAMEX> , cedările teritoriale , nemulțumirea opiniei publice și protestele liderilor politici , regele <ENAMEX TYPE="LOCATION">Carol al II</ENAMEX> -lea suspendă Constituția <ENAMEX TYPE="PRODUCT">României</ENAMEX> și îl numește ca prim- ministru pe Generalul <ENAMEX TYPE="PERSON">Ion Antonescu</ENAMEX> .
+Această , sprijinit de <ENAMEX TYPE="LOCATION">Gardă de Fier</ENAMEX> , cere regelui să abdice în favoarea fiului său , <ENAMEX TYPE="LOCATION">Mihai</ENAMEX> .
+Apoi , <ENAMEX TYPE="PERSON">Antonescu</ENAMEX> își asumă puteri dictatoriale și devine șef de stat precum și președinte al consiliului de miniștri .
+În 1941 , ca aliat al <ENAMEX TYPE="LOCATION">Germaniei</ENAMEX> , <ENAMEX TYPE="PERSON">România</ENAMEX> declară război Uniunii Sovietice .
+[ 85 ] [ 86 ] .
+[ modificare ] <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> comunistă .
+Pentru detalii , vezi :
+<ENAMEX TYPE="ORGANIZATION">România</ENAMEX> socialistă .
+La data de 23 august <TIMEX TYPE="DATE">1944</TIMEX> , armată sovietică fiind deja în <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> de nord încă din luna martie , regele <ENAMEX TYPE="PRODUCT">Mihai</ENAMEX> își dă acordul pentru înlăturarea prin forță a mareșalului <ENAMEX TYPE="LOCATION">Antonescu</ENAMEX> dacă acesta va refuza semnarea armistițiului cu Națiunile Unite .
+[ 87 ] În urma refuzului net al lui <ENAMEX TYPE="PERSON">Antonescu</ENAMEX> , Regele <ENAMEX TYPE="PERSON">Mihai</ENAMEX> l- a destituit și l- a arestat , iar <ENAMEX TYPE="PERSON">România</ENAMEX> a trecut de partea Aliaților .
+[ 87 ] .
+La mai puțin de 3 ani de la Ocupația sovietică a <ENAMEX TYPE="LOCATION">României</ENAMEX> , în 1947 , regele Mihai I este forțat să abdice [ 88 ] și e proclamată Republica Populară Română - stat al democrației populare .
+Regimul instaurat , condus de <ENAMEX TYPE="LOCATION">Partidul Muncitoresc Român</ENAMEX> , își întărește poziția printr- o politică stalinistă de descurajare a oricărei opoziții politice și de distrugere a structurilor economico-sociale ale vechiului regim .
+[ 89 ] [ 90 ] La începutul anilor 1960 , guvernul român a început să -și afirme o anumită independență față de Uniunea Sovietică , [ 91 ] fără însă să renunțe la „ cuceririle revoluționare ” .
+[ 89 ] În 1965 moare principalul lider comunist <ENAMEX TYPE="PERSON">Gheorghe Gheorghiu-Dej</ENAMEX> , după care <ENAMEX TYPE="PERSON">România</ENAMEX> intră într- o perioadă de schimbări .
+[ 92 ] După o scurtă luptă pentru putere , în fruntea partidului comunist a venit Nicolae Ceaușescu , [ 92 ] care a devenit secretar general al Partidului Comunist Român în 1965 , președinte al Consiliului de <ENAMEX TYPE="LOCATION">Stat</ENAMEX> în 1967 și președinte al Republicii Socialiste <ENAMEX TYPE="PERSON">România</ENAMEX> în 1974 .
+Conducerea lungă de câteva decenii a președintelui Nicolae Ceaușescu a devenit din ce în ce mai opresivă în anii 1980 .
+[ 91 ] .
+Revoluția română din 1989 .
+[ modificare ] <ENAMEX TYPE="PERSON">România</ENAMEX> după 1989 .
+Pentru detalii , vezi :
+<ENAMEX TYPE="PERSON">România</ENAMEX> după 1989 și Revoluția română din 1989 .
+După căderea comunismului în tot restul <ENAMEX TYPE="PRODUCT">Europei de Est</ENAMEX> , un protest început la mijlocul lunii decembrie 1989 la Timișoara s- a transformat rapid într- un protest național împotriva regimului lui Ceaușescu , înlăturându -l pe dictator de la putere .
+[ 93 ] .
+O organizație interimară formată din foste oficialități comuniste a preluat controlul guvernului , iar <ENAMEX TYPE="PERSON">Ion Iliescu</ENAMEX> a devenit președintele provizoriu al țării .
+Noul guvern a revocat multe din politicile oprimante [ 94 ] [ 95 ] [ 96 ] și a închis câțiva dintre conducătorii regimului comunist .
+Din 2007 , <ENAMEX TYPE="PERSON">România</ENAMEX> este membră a Uniunii Europene .
+În mai 1990 s- au organizat alegeri ale partidelor pentru legislatură și președinție .
+<ENAMEX TYPE="PERSON">Iliescu</ENAMEX> a fost ales președinte , iar partidul său , Frontul Salvării Naționale , a câștigat controlul legislativ .
+<ENAMEX TYPE="PERSON">Petre Roman</ENAMEX> a devenit prim- ministru .
+Alegerile însă nu au pus punct demonstrațiilor antiguvernamentale .
+Dezlănțuirile minerilor au dus la demiterea guvernului <ENAMEX TYPE="PERSON">Roman</ENAMEX> în septembrie 1991 .
+În octombrie , fostul ministru de finanțe , <ENAMEX TYPE="PERSON">Theodor Stolojan</ENAMEX> i- a urmat lui <ENAMEX TYPE="PERSON">Roman</ENAMEX> ca prim- ministru și a format un nou cabinet .
+[ 97 ] În alegerile naționale din 1992 , <ENAMEX TYPE="PERSON">Ion Iliescu</ENAMEX> și- a câștigat dreptul la un nou mandat .
+Cu sprijin parlamentar de la partidele parlamentare naționaliste <ENAMEX TYPE="ORGANIZATION">PUNR</ENAMEX> , <ENAMEX TYPE="ORGANIZATION">PRM</ENAMEX> și fostul partid comunist <ENAMEX TYPE="ORGANIZATION">PSM</ENAMEX> , a fost format un guvern în noiembrie 1992 , sub prim- ministrul <ENAMEX TYPE="PERSON">Nicolae Văcăroiu</ENAMEX> .
+[ 98 ] .
+<ENAMEX TYPE="PERSON">Emil Constantinescu</ENAMEX> din coaliția electorală Convenția Democrată Română ( <ENAMEX TYPE="ORGANIZATION">CDR</ENAMEX> ) l- a învins în 1996 pe președintele <ENAMEX TYPE="PERSON">Iliescu</ENAMEX> , după un al doilea scrutin și l- a înlocuit la șefia statului .
+<ENAMEX TYPE="PRODUCT">Victor Ciorbea</ENAMEX> a fost numit prim- ministru .
+<ENAMEX TYPE="PERSON">Ciorbea</ENAMEX> a rămas în această funcție până în martie 1998 , când a fost înlocuit de <ENAMEX TYPE="PERSON">Radu Vasile</ENAMEX> și mai târziu de <ENAMEX TYPE="PERSON">Mugur Isărescu</ENAMEX> .
+[ 98 ] Alegerile din 2000 au fost câștigate de <ENAMEX TYPE="PRODUCT">PSD</ENAMEX> și <ENAMEX TYPE="PRODUCT">Ion Iliescu</ENAMEX> , iar <ENAMEX TYPE="PRODUCT">Adrian Năstase</ENAMEX> a fost numit prim- ministru .
+[ 99 ] În 2004 , alegerile l- au dat învingător pe <ENAMEX TYPE="PERSON">Traian Băsescu</ENAMEX> în funcția de Președinte al statului , în fruntea unei coaliții formată din <ENAMEX TYPE="LOCATION">PNL</ENAMEX> și <ENAMEX TYPE="ORGANIZATION">PD</ENAMEX> , alături de <ENAMEX TYPE="PERSON">UDMR</ENAMEX> și <ENAMEX TYPE="PRODUCT">PUR</ENAMEX> , iar în funcția de prim- ministru a fost numit <ENAMEX TYPE="PRODUCT">Călin Popescu Tăriceanu</ENAMEX> .
+[ 100 ] .
+Din 2004 <ENAMEX TYPE="PERSON">România</ENAMEX> este membru <ENAMEX TYPE="LOCATION">NATO</ENAMEX> , iar din 2007 a devenit membră a Uniunii Europene .
+[ 101 ] [ 102 ] În urma alegerilor legislative din noiembrie 2008 , Partidul <ENAMEX TYPE="ORGANIZATION">Democrat-Liberal</ENAMEX> a obținut cele mai multe mandate , fiind urmat de alianța dintre <ENAMEX TYPE="PRODUCT">PSD</ENAMEX> și <ENAMEX TYPE="PRODUCT">PC</ENAMEX> , <ENAMEX TYPE="PRODUCT">PNL</ENAMEX> și <ENAMEX TYPE="LOCATION">UDMR</ENAMEX> .
+[ 103 ] Ulterior se formează un guvern de alianță , între <ENAMEX TYPE="LOCATION">PSD</ENAMEX> + <ENAMEX TYPE="PRODUCT">PC</ENAMEX> și <ENAMEX TYPE="LOCATION">PD</ENAMEX> -L , condus de <ENAMEX TYPE="LOCATION">Emil Boc</ENAMEX> , [ 104 ] pentru ca din decembrie 2009 , în urma votului Parlamentului , <ENAMEX TYPE="PERSON">PD</ENAMEX> -L , <ENAMEX TYPE="LOCATION">UDMR</ENAMEX> și grupul parlamentar al independenților ( devenit <ENAMEX TYPE="LOCATION">UNPR</ENAMEX> ) să alcătuiască cabinetul Boc 2 .
+[ modificare ] Geografie .
+Sfinxul din <ENAMEX TYPE="LOCATION">Bucegi</ENAMEX> , aflat pe platoul Munților <ENAMEX TYPE="LOCATION">Bucegi</ENAMEX> , la 2216 metri altitudine , măsoară 8 metri în înălțime și 12 metri în lățime .
+Pentru detalii , vezi :
+geografia <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Teritoriul actual al <ENAMEX TYPE="PRODUCT">României</ENAMEX> mai este numit și spațiul carpato-danubiano-pontic , deoarece <ENAMEX TYPE="PERSON">România</ENAMEX> se suprapune unui sistem teritorial european , conturat după formă cercului Carpaților Românești și a regiunilor limitrofe impuse și subordonate complementar Carpaților , fiind mărginită în partea de sud de fluviul <ENAMEX TYPE="LOCATION">Dunărea</ENAMEX> , iar în partea de est de Marea Neagră .
+Pe Glob , <ENAMEX TYPE="PERSON">România</ENAMEX> este situată în emisferă nordică , la intersecția paralelei 45 � � � latitudine nordică și meridianului de 25 � � � longitudine estică , iar în <ENAMEX TYPE="LOCATION">Europa</ENAMEX> în partea central sud-estică la distanțe aproximativ egale față de extremitățile continentului european .
+[ 105 ] <ENAMEX TYPE="PERSON">România</ENAMEX> se învecinează la nord cu <ENAMEX TYPE="ORGANIZATION">Ucraina</ENAMEX> , granița de sud este formată cu <ENAMEX TYPE="PERSON">Bulgaria</ENAMEX> ( o mare parte fiind frontieră acvatică , cu <ENAMEX TYPE="LOCATION">Dunărea</ENAMEX> ) , în vest cu <ENAMEX TYPE="LOCATION">Ungaria</ENAMEX> , în sud-vest cu <ENAMEX TYPE="LOCATION">Serbia</ENAMEX> , iar în est cu Republica Moldova ( formată în totalitate de <ENAMEX TYPE="LOCATION">Prut</ENAMEX> ) .
+Frontierele <ENAMEX TYPE="ORGANIZATION">României</ENAMEX> se întind pe 3150 km , din care 1876 km au devenit , în 2007 , granițe ale Uniunii Europene ( spre <ENAMEX TYPE="LOCATION">Serbia</ENAMEX> , <ENAMEX TYPE="PERSON">Moldova</ENAMEX> și <ENAMEX TYPE="LOCATION">Ucraina</ENAMEX> ) , în timp ce cu Marea Neagră , granița formată are o lungime de 194 km pe platforma continentală ( 245 km de țărm ) .
+Suprafața <ENAMEX TYPE="PERSON">României</ENAMEX> este de 238 391 km² , la care se adaugă 23 700 km² din platforma Mării Negre .
+[ modificare ] Relief .
+Hartă topografică a <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Hartă generală a <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Relieful <ENAMEX TYPE="PERSON">României</ENAMEX> este caracterizat prin patru elemente :
+varietate , proporționalitate , complementaritate și dispunere simetrică , dat fiind numărul mare de forme de relief , repartiția aproximativ egală a principalelor unități de relief ( 35% munți , 35% dealuri și podișuri și 30% câmpii ) și gruparea reliefului .
+[ 105 ] Carpații Românești se extind ca un inel , ce închide o mare depresiune în centrul țării , cea a <ENAMEX TYPE="LOCATION">Transilvaniei</ENAMEX> .
+[ 105 ] Sunt munți cu altitudine mijlocie , fragmentați , cu un etaj alpin , pășuni alpine și întinse suprafețe de eroziune , a căror altitudine maximă se atinge în vârful <ENAMEX TYPE="PERSON">Moldoveanu</ENAMEX> ( din Munții Făgăraș ) , la 2 544 de metri .
+Pe teritoriul <ENAMEX TYPE="PERSON">României</ENAMEX> , Munții Carpați au o lungime de 910 km.
+[ 106 ] .
+La exterior Munților Carpați se află un inel de dealuri — Subcarpații și Dealurile de <ENAMEX TYPE="LOCATION">Vest</ENAMEX> — locurile cele mai populate , [ 105 ] datorită bogatelor resurse de subsol ( petrol , cărbuni , sare ) și condițiilor favorabile culturii viței-de-vie și pomilor fructiferi .
+În est și sud se extind trei mari podișuri ( <ENAMEX TYPE="LOCATION">Moldovei</ENAMEX> , <ENAMEX TYPE="PERSON">Dobrogei</ENAMEX> și Getic ) , dar și Podișul Mehedinți , în timp ce în sud și vest se întind două mari câmpii , Câmpia Română ( îngustată spre est ) și Câmpia de <ENAMEX TYPE="LOCATION">Vest</ENAMEX> .
+<ENAMEX TYPE="PERSON">Delta Dunării</ENAMEX> este cea mai joasă regiune a țării , sub 10 m altitudine , cu întinderi de mlaștini , lacuri și stuf .
+[ 105 ] Ceva mai înălțate sunt grindurile fluviale și maritime ( <ENAMEX TYPE="PERSON">Letea</ENAMEX> , <ENAMEX TYPE="LOCATION">Caraorman</ENAMEX> , Sărăturile ) pe care se grupează satele de pescari .
+Este un teritoriu descris din Antichitate de numeroși oameni de știință ai vremurilor , printre care <ENAMEX TYPE="PRODUCT">Herodot</ENAMEX> , <ENAMEX TYPE="LOCATION">Strabon</ENAMEX> , <ENAMEX TYPE="LOCATION">Ptolemeu</ENAMEX> sau <ENAMEX TYPE="LOCATION">Plinius cel Bătrân</ENAMEX> .
+[ 107 ] <ENAMEX TYPE="PERSON">Delta Dunării</ENAMEX> a fost introdusă în lista patrimoniului mondial al <ENAMEX TYPE="ORGANIZATION">UNESCO</ENAMEX> în 1991 ca rezervație naturală a biosferei .
+[ 108 ] .
+<ENAMEX TYPE="PERSON">România</ENAMEX> beneficiază de toate tipurile de unități acvatice :
+fluvii și râuri , lacuri , ape subterane , ape marine .
+Particularitățile hidrografice și hidrologice ale <ENAMEX TYPE="LOCATION">României</ENAMEX> sunt determinate , în principal , de poziția geografică a țării în zona climatului temperat-continental și de prezența arcului carpatic .
+Factorul antropic a contribuit la unele modificări ale acestor particularități .
+[ 109 ] .
+[ modificare ] Faună și floră .
+Pentru detalii , vezi :
+faună <ENAMEX TYPE="LOCATION">României</ENAMEX> și floră <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Pelicani zburând deasupra <ENAMEX TYPE="LOCATION">Dunării</ENAMEX> în <ENAMEX TYPE="LOCATION">Deltă</ENAMEX> .
+Pe teritoriul <ENAMEX TYPE="PERSON">României</ENAMEX> au fost identificate 3700 de specii de plante din care până în prezent 23 au fost declarate monumente ale naturii , 74 dispărute , 39 periclitate , 171 vulnerabile și 1253 sunt considerate rare .
+[ 110 ] Cele trei mari zone de vegetație în <ENAMEX TYPE="LOCATION">România</ENAMEX> sunt zona alpină , zona de pădure și zona de stepă .
+[ 111 ] Vegetația este distribuită etajat , în concordanță cu caracteristicile de sol și climă , [ 112 ] dar și în funcție de altitudine , astfel :
+stejarul , gârnița , teiul , frasinul ( în zonele de stepă și dealuri joase ) ;
+fagul , gorunul ( între 500 și 1200 de metri ) ;
+molidul , bradul , pinul ( între 1200 și 1800 de metri ) ;
+ienupărul , jneapănul și arborii pitici ( într 1800 și 2000 de metri ) ;
+pajiștile alpine formate din ierburi mărunte ( peste 2000 de metri ) .
+[ 105 ] În largul văilor mari , datorită umezelii persistente , apare o vegetație specifică de luncă , cu stuf , papură , rogoz și adesea cu pâlcuri de sălcii , plopi și arini .
+În <ENAMEX TYPE="LOCATION">Delta Dunării</ENAMEX> predomină vegetația de mlaștină .
+[ 113 ] .
+Faună <ENAMEX TYPE="PERSON">României</ENAMEX> este în special repartizată în funcție de vegetație .
+Astfel , pentru etajul stepei și silvostepei sunt specifice următoarele specii :
+iepurele , hârciogul , popândăul , fazanul , dropia , prepelița , crapul , carasul , știuca , șalăul , somnul ;
+pentru etajul pădurilor de foioase ( stejar și fag ) :
+mistrețul , lupul , vulpea , mreanul , ciocănitoarea , cinteza ;
+pentru etajul pădurilor de conifere :
+păstrăvul , lostrița , râsul , cerbul , iar specifice faunei alpine sunt caprele negre și vulturii pleșuvi .
+[ 105 ] .
+În particular , <ENAMEX TYPE="PERSON">Delta Dunării</ENAMEX> este sălașul a sute de specii de păsări , incluzând pelicani , lebede , gâște sălbatice și păsări flamingo , protejate de lege ( așa cum sunt de altfel și porcii sălbatici și lincșii ) .
+De asemenea <ENAMEX TYPE="ORGANIZATION">Delta</ENAMEX> reprezintă un popas sezonal pentru păsările migratorii .
+Câteva dintre speciile rare de păsări aflate în zona <ENAMEX TYPE="PERSON">Dobrogei</ENAMEX> sunt pelicanul creț , cormoranul mic , lopătarul , gâsca cu piept roșu și gârlița mare , dar și lebăda de iarnă .
+[ 114 ] .
+[ modificare ] Climă .
+Pentru detalii , vezi :
+climă <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+<ENAMEX TYPE="PERSON">Delta Dunării</ENAMEX> .
+Climă <ENAMEX TYPE="PERSON">României</ENAMEX> este determinată în primul rând de poziția să pe glob , precum și de poziția să geografică pe continentul european .
+Aceste particularități conferă climei un caracter temperat continental cu nuanțe de tranziție .
+[ 115 ] .
+Extinderea teritoriului țării pe aproape 5 � � � de latitudine impune diferențieri mai mari între sudul și nordul țării în ceea ce privește temperatura decât extinderea pe circa 10 � � � <ENAMEX TYPE="ORGANIZATION">C</ENAMEX> de longitudine , astfel dacă temperatura medie anuală în sudul țării se ridică la circa 11 � � � <ENAMEX TYPE="LOCATION">C</ENAMEX> , în nordul țării , la altitudini comparabile , valorile acestui parametru sunt mai coborâte cu circa 3 � � � <ENAMEX TYPE="PERSON">C</ENAMEX> .
+Între extremitatea vestică și cea estică a teritoriului național , diferența termică se reduce la 1 � � � <ENAMEX TYPE="PERSON">C</ENAMEX> ( 10 � � � <ENAMEX TYPE="PERSON">C</ENAMEX> în vest , 9 � � � <ENAMEX TYPE="PERSON">C</ENAMEX> în est ) .
+[ 115 ] .
+Relieful țării are un rol esențial în delimitarea zonelor și etajelor climatice .
+Munții Carpați formează o barieră care separă climatele continentale aspre din est de cele din vest de tip oceanic și adriatic .
+În concluzie , climă <ENAMEX TYPE="PERSON">României</ENAMEX> este una de tip temperat-continentală , cu patru anotimpuri și este marcată de influențe ale climatelor stepice din est , adriatice din sud-vest , oceanice din vest și nord-vest , păstrându -și totuși identitatea climatului carpato-ponto-danubian .
+[ 115 ] .
+Precipitațiile sunt moderate , variind de la insuficientă cantitate de 400 mm din <ENAMEX TYPE="LOCATION">Dobrogea</ENAMEX> la 500 mm în <ENAMEX TYPE="LOCATION">Câmpia Română</ENAMEX> și până la 600 mm în cea de <ENAMEX TYPE="LOCATION">Vest</ENAMEX> .
+Odată cu altitudinea , precipitațiile cresc , depășind pe alocuri 1000 mm pe an .
+<ENAMEX TYPE="PERSON">Primele înregistrări</ENAMEX> climatice în <ENAMEX TYPE="LOCATION">România</ENAMEX> s- au făcut odată cu înființarea <ENAMEX TYPE="LOCATION">Institutului Meteorologic Central</ENAMEX> ( în 1884 ) și cu apariția lucrărilor elaborate de <ENAMEX TYPE="PERSON">Ștefan Hepites</ENAMEX> .
+După 1960 are loc o dezvoltare a rețelei de stații meteorologice , apărând și importante lucrări referitoare la caracteristicile climatice ale spațiului montan , litoral , urban , rural , etc.
+[ 109 ] .
+[ modificare ] Demografie .
+Răspândirea celor patru dialecte ale limbii române .
+Pentru detalii , vezi :
+populația <ENAMEX TYPE="LOCATION">României</ENAMEX> , românime și Comunități etnice în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Conform recensământului din 2002 , <ENAMEX TYPE="PERSON">România</ENAMEX> are o populație de 21 680 974 de locuitori [ 116 ] [ 117 ] și este de așteptat ca în următorii ani să se înregistreze o scădere lentă a populației ca urmare a sporului natural negativ .
+[ 118 ] Principalul grup etnic în <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> îl formează românii .
+[ 116 ] Ei reprezintă , conform recensământului din 2002 , 89,5 % din numărul total al populației .
+[ 116 ] După români , următoarea comunitate etnică importantă este cea a maghiarilor , care reprezintă 6,6 % din populație , respectiv un număr de aproximativ 1 400 000 de cetățeni .
+[ 119 ] După datele oficiale , în <ENAMEX TYPE="LOCATION">România</ENAMEX> trăiesc 535 250 de romi .
+[ 120 ] Alte comunități importante sunt cele ale germanilor , ucrainenilor , lipovenilor , turcilor , tătarilor , sârbilor , slovacilor , bulgarilor , croaților , grecilor , rutenilor , evreilor , cehilor , polonezilor , italienilor și armenilor .
+[ 121 ] [ 116 ] Din cei 745 421 de germani câți erau în <ENAMEX TYPE="LOCATION">România</ENAMEX> în 1930 , [ 122 ] [ 123 ] în prezent au mai rămas aproximativ 60 000 .
+[ 124 ] [ 125 ] De asemenea , în 1924 , în <ENAMEX TYPE="LOCATION">Regatul României</ENAMEX> erau 796 056 de evrei , [ 126 ] însă la recensământul din 2002 au fost numărați 6 179 .
+[ 116 ] .
+Târgul Drăgaica - <ENAMEX TYPE="PERSON">Carol Popp de Szathmáry</ENAMEX> .
+Numărul românilor ori al persoanelor cu strămoși născuți în <ENAMEX TYPE="LOCATION">România</ENAMEX> care trăiesc în afara granițelor țării este de aproximativ 12 milioane .
+[ 127 ] [ 128 ] Puțin timp după revoluția din decembrie 1989 , populația <ENAMEX TYPE="PERSON">României</ENAMEX> a fost de pește 23 000 000 de locuitori .
+Însă începând cu 1991 , această a intrat într- o tendință de scădere treptată , [ 129 ] [ 130 ] ajungând actualmente la circa 21 000 000 de locuitori .
+Acest fapt se datorează liberei circulații în statele din afara granițelor <ENAMEX TYPE="LOCATION">României</ENAMEX> , [ 131 ] dar și ratei natalității destul de scăzute .
+[ 132 ] [ 133 ] .
+Limba oficială a <ENAMEX TYPE="LOCATION">României</ENAMEX> este limba română [ 134 ] ce aparține grupei limbilor romanice de est și este înrudită cu italiană , franceză , spaniolă , portugheză , catalana [ 135 ] și , mai departe , cu majoritatea limbilor europene .
+Româna este limba cu cel mai mare număr de vorbitori nativi ce reprezintă 91% din totalul populației <ENAMEX TYPE="LOCATION">României</ENAMEX> , [ 116 ] fiind urmată de limbile vorbite de cele două minorități etnice principale , maghiarii și romii .
+Astfel , maghiara este vorbită de un procent de 6,7% iar români de respectiv 1,1% din numărul total al populației țării .
+[ 116 ] Până în anii ' 90 , în <ENAMEX TYPE="LOCATION">România</ENAMEX> a existat o numeroasă comunitate de vorbitori de limbă germană , reprezentată în cea mai mare parte de sași .
+[ 136 ] Deși cei mai mulți dintre membrii acestei comunități au emigrat în <ENAMEX TYPE="LOCATION">Germania</ENAMEX> , [ 137 ] au rămas totuși în prezent într- un număr semnificativ de 45 000 de vorbitori nativi de limbă germană în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+[ 138 ] În localitățile unde o anumită minoritate etnică reprezintă mai mult de 20% din populație , limba respectivei minorități poate fi utilizată în administrația publică și în sistemul judiciar .
+[ 139 ] [ 140 ] Engleză și franceză sunt principalele limbi străine predate în școlile din <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+[ 141 ] Limba engleză este vorbită de un număr de 5 milioane de români în timp ce franceză de circa 4-5 milioane , [ 142 ] iar germană , italiană și spaniolă de câte 1-2 milioane fiecare .
+În trecut , limba franceză era cea mai cunoscută limbă străină în <ENAMEX TYPE="LOCATION">România</ENAMEX> , [ 143 ] însă de curând , engleză tinde să câștige teren .
+De obicei , cunoscătorii de limbă engleză sunt în special tinerii .
+În orice caz , <ENAMEX TYPE="PERSON">România</ENAMEX> este membru cu drepturi depline a Francofoniei , iar în 2006 a găzduit la București un important summit al acestei organizații .
+[ 144 ] Limba germană a fost predată în special în <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> , datorită tradițiilor ce s- au păstrat în această regiune din timpul dominației Austro-Ungare .
+[ 145 ] .
+[ modificare ] Religie .
+Mănăstirea „ Sfânta <ENAMEX TYPE="PRODUCT">Ana</ENAMEX> ” - <ENAMEX TYPE="PERSON">Rohia</ENAMEX> , Maramureș .
+Pentru detalii , vezi :
+religia în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Viața religioasă în <ENAMEX TYPE="LOCATION">România</ENAMEX> se desfășoară conform principiului libertății credințelor religioase , principiu enunțat la articolul 29 din Constituția <ENAMEX TYPE="LOCATION">României</ENAMEX> , alături de libertatea gândirii și a opiniilor .
+[ 146 ] Chiar dacă nu se definește explicit ca stat laic , <ENAMEX TYPE="PERSON">România</ENAMEX> nu are nicio religie națională , respectând principiul de secularitate :
+autoritățile publice sunt obligate la neutralitate față de asociațiile și cultele religioase .
+[ 147 ] .
+Biserica Ortodoxă Română este instituția religioasă din <ENAMEX TYPE="LOCATION">România</ENAMEX> cu cel mai mare număr de credincioși .
+Ea este o biserică autocefală care se află în comuniune cu celelalte biserici ortodoxe .
+Cea mai mare parte a populației <ENAMEX TYPE="PERSON">României</ENAMEX> , respectiv 86,7 % , s- a declarat că fiind de confesiune creștin ortodoxă , conform recensământului din 2002 , [ 148 ] [ 149 ] deși metodologia [ 150 ] favorizează mărirea în mod artificial a numărului credincioșilor prin nesepararea persoanelor practicante de cele non-practicante .
+Ponderea comunităților religioase aparținătoare altor ramuri ale creștinismului este următoarea :
+romano-catolici ( 4,7 % ) , reformați ( 3,7 % ) , penticostali ( 1,5 % ) și români uniți ( 0,9 % ) .
+[ 151 ] Astfel , populația creștină din <ENAMEX TYPE="LOCATION">România</ENAMEX> reprezintă 99,3 % din totalul populației țării .
+În <ENAMEX TYPE="LOCATION">Dobrogea</ENAMEX> există și o minoritate islamică compusă majoritar din turci și tătari .
+[ 152 ] De asemenea , la recensământul din 2002 , în <ENAMEX TYPE="LOCATION">România</ENAMEX> existau 6 179 de persoane de religie mozaică , 21 349 de aței sau persoane fără religie și 11 734 de persoane care nu și- au declarat religia .
+[ 151 ] .
+Până la <ENAMEX TYPE="ORGANIZATION">Unirea</ENAMEX> din 1918 , cea mai mare parte a populației din <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> era formată din credincioși ai Bisericii Române Unite cu <ENAMEX TYPE="LOCATION">Roma</ENAMEX> , [ 153 ] ca urmare a trecerii unei mari părți a românilor , până atunci ortodocși , la <ENAMEX TYPE="LOCATION">Biserica Romei</ENAMEX> , la sfârșitul secolului al <ENAMEX TYPE="ORGANIZATION">XVII</ENAMEX> -lea .
+[ 154 ] Catolicismul și protestantismul sunt prezente mai ales în <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> și Crișana .
+[ 151 ] În <ENAMEX TYPE="LOCATION">Bihor</ENAMEX> , de pildă , se află centrul cultului baptist din <ENAMEX TYPE="LOCATION">România</ENAMEX> , [ 155 ] comunitatea de aici numărând 22 294 de adepți .
+De asemenea , în <ENAMEX TYPE="LOCATION">România</ENAMEX> există și alte culte , precum ortodocșii pe stil vechi , cultul armean și altele asemenea .
+În august 2010 , în <ENAMEX TYPE="LOCATION">România</ENAMEX> existau 18.300 de biserici [ 156 ] .
+[ modificare ] Educație .
+Pentru detalii , vezi :
+educația în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Învățământul urmărește realizarea idealului educațional întemeiat pe valorile democrației , ale diversității culturale , pe aspirațiile individuale , sociale și contribuie la păstrarea identității naționale în contextul valorilor europene .
+Idealul educațional al școlii românești constă în dezvoltarea liberă și armonioasă a personalității individului în vederea unei integrări eficiente în societatea bazată pe cunoaștere .
+[ 157 ] .
+Universitatea din București .
+Încă de la Revoluția română din 1989 , sistemul de învățământ românesc a fost într- un continuu proces de reorganizare care a fost atât lăudat cât și criticat .
+[ 158 ] În conformitate cu legea educației ( adoptată în 1995 ) , sistemul educativ românesc este reglementat de către Ministerul Educației , Cercetării și Inovării ( MECI ) .
+[ 159 ] Fiecare nivel are propria să formă de organizare și este subiectul legislației în vigoare .
+[ 157 ] Grădinița este opțională între 3 și 6 ani .
+Școlarizarea începe la vârsta de 7 ani ( câteodată la 6 ani ) și este obligatorie până în clasa a 10 -a ( de obicei , care corespunde cu vârsta de 16 sau 17 ) .
+[ 158 ] Învățământul primar și secundar este împărțit în 12 sau 13 clase .
+[ 157 ] Învățământul superior este aliniat la spațiul european al învățământului superior .
+Sistemul oferă următoarele diplome :
+de absolvire ( absolvirea școlii generale , fără examen ) , <ENAMEX TYPE="PERSON">Bacalaureat</ENAMEX> ( absolvirea liceului , după examenul de Bacalaureat ) , licență ( Cadru de absolvirea a Universității , după un examen și / sau a tezei ) , Masterat ( diplomă de master , după o teză și , eventual , un examen ) , Doctorat ( doctor , după o teză ) .
+[ 160 ] .
+<ENAMEX TYPE="PERSON">Primii patru ani</ENAMEX> sunt predați de către un singur profesor ( învățător ) , pentru majoritatea elevilor .
+[ 161 ] Alte cadre didactice sunt folosite numai pentru câteva discipline de specialitate ( de limbi Străine , informatică , etc. ) .
+[ 161 ] Cursurile sunt reconfigurate la sfârșitul clasei a parta , pe baza performanțelor academice .
+Selecția pentru clase se face pe baza testelor locale .
+Începând cu clasa a 5 -a , elevii au un alt profesor pentru fiecare materie .
+[ 161 ] În plus , fiecare clasă are un profesor desemnat pentru a fi îndrumătorul clasei ( diriginte ) .
+Studiile liceale sunt de patru ani , doi obligatorii ( a 9 -a și a 10 -a ) , doi neobligatorii ( a 11 -a și a 12 -a ) .
+[ 161 ] Nu există examene între a 10 -a și a 11 -a ani .
+Sistemul național de învățământ superior este structurat pe 3 niveluri de studii universitare :
+studii universitare de licență , de masterat și doctorat .
+[ 162 ] .
+Clădirea rectoratului Universității Politehnică .
+În 2004 , aproximativ 4,4 milioane din populație era înscrisă la școală .
+Dintre aceștea , 650.000 , în grădiniță , 3,11 milioane ( 14% din populație ) , în învățământul primar și secundar și 650.000 ( 3% din populație ) la nivel terțiar ( universități ) .
+[ 163 ] [ 164 ] În același an , rata de alfabetizare a adulților români era de 97,3% ( al 45 -lea la nivel mondial ) , în timp ce raportul combinat brut de înscriere în sistemul educațional primar , secundar și terțiar a fost de 75% ( al 52 -a din întreaga lume ) .
+[ 165 ] .
+Asociația <ENAMEX TYPE="PERSON">Ad Astra a cercetătorilor</ENAMEX> români a publicat ediția din 2007 a topului universităților din <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Acest top , aflat la a 3 -a ediție , cuprinde un clasament general , respectiv un clasament pe domenii științifice , care reflectă pregătirea și performanța științifică a cadrelor didactice ale universităților .
+Clasamentele sunt realizate pe baza articolelor științifice publicate de personalul universităților în reviste științifice recunoscute pe plan internațional .
+În clasamentul general , pe primele locuri se situează Universitatea Alexandru Ioan Cuza din Iași ( locul 1 ) , Universitatea Babeș-Bolyai din Cluj ( locul 2 ) și Universitatea din București ( locul 3 ) .
+[ 166 ] Comparativ cu țările <ENAMEX TYPE="LOCATION">UE</ENAMEX> , competitivitatea forței de muncă din <ENAMEX TYPE="LOCATION">România</ENAMEX> din punct de vedere al educației și competențelor ( abilităților ) este încă redusă .
+În cadrul PISA , aproximativ 70% din elevii de 15 ani din <ENAMEX TYPE="LOCATION">România</ENAMEX> au avut performanțe situate sub nivelul cerut pentru un loc de muncă modern , față de 37% din elevii de 15 ani din Uniunea Europeană .
+Nivelul indicatorilor privind educația în <ENAMEX TYPE="LOCATION">România</ENAMEX> este scăzut comparativ cu al celor din <ENAMEX TYPE="LOCATION">UE</ENAMEX> .
+[ 167 ] .
+[ modificare ] Aglomerări urbane .
+Pentru detalii , vezi :
+Lista orașelor din <ENAMEX TYPE="LOCATION">România</ENAMEX> și Zone metropolitane în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+București este cel mai mare oraș și totodată capitală <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+[ 168 ] La recensământul din 2002 , populația orașului depășea 1,9 milioane de locuitori , în timp ce zona metropolitană București concentrează o populație de aproximativ 2,2 milioane de locuitori .
+Pe viitor , sunt prevăzute planuri de extindere a granițelor ariei metropolitane București .
+[ 169 ] [ 170 ] .
+În <ENAMEX TYPE="LOCATION">România</ENAMEX> mai există încă cinci orașe care au o populație numeroasă ( în jur de 300.000 de locuitori ) și care se înscriu în clasamentul celor mai populate orașe din Uniunea Europeană .
+Acestea sunt :
+Iași , <ENAMEX TYPE="LOCATION">Cluj-Napoca</ENAMEX> , Timișoara , Constanța și <ENAMEX TYPE="LOCATION">Craiova</ENAMEX> .
+Alte orașe cu o populație ce depășește 200.000 de locuitori sunt :
+Galați , Brașov , Ploiești , <ENAMEX TYPE="LOCATION">Brăila</ENAMEX> și <ENAMEX TYPE="LOCATION">Oradea</ENAMEX> .
+De asemenea , există încă alte 13 orașe care concentrează un număr mai mare de 100.000 de locuitori .
+[ 5 ] .
+În prezent , o parte din cele mai mari orașe sunt incluse într- o zonă metropolitană :
+Constanța ( 450.000 de locuitori ) , Brașov , Iași ( ambele cu o populație de aproximativ 400.000 de oameni ) și <ENAMEX TYPE="PERSON">Oradea</ENAMEX> ( 260.000 de locuitori ) , iar altele sunt planificate :
+Brăila-Galați ( 600.000 de locuitori ) , Timișoara ( 400.000 de locuitori ) , <ENAMEX TYPE="PERSON">Cluj-Napoca</ENAMEX> ( 400.000 de locuitori ) , <ENAMEX TYPE="PERSON">Craiova</ENAMEX> ( 370.000 de locuitori ) , <ENAMEX TYPE="LOCATION">Bacău</ENAMEX> și Ploiești .
+[ 171 ] .
+Cele mai mari orașe din <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+București .
+Iași .
+Loc .
+Oraș .
+Județ .
+<ENAMEX TYPE="LOCATION">Pop</ENAMEX> .
+Loc .
+Oraș .
+Județ .
+<ENAMEX TYPE="LOCATION">Pop</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">Cluj-Napoca</ENAMEX> .
+Timișoara .
+1 .
+București .
+- . 1.926.334 .
+11 .
+<ENAMEX TYPE="LOCATION">Oradea</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Bihor</ENAMEX> .
+206.614 .
+2 .
+Iași .
+Iași .
+320.888 .
+12 .
+<ENAMEX TYPE="LOCATION">Bacău</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Bacău</ENAMEX> .
+175.500 .
+3 .
+<ENAMEX TYPE="ORGANIZATION">Cluj-Napoca</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Cluj</ENAMEX> .
+317.953 .
+13 .
+<ENAMEX TYPE="LOCATION">Arad</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Arad</ENAMEX> .
+172.827 .
+4 .
+Timișoara .
+Timiș .
+317.660 .
+14 .
+Pitești .
+Argeș .
+168.465 .
+5 .
+Constanța .
+Constanța .
+310.471 .
+15 .
+<ENAMEX TYPE="LOCATION">Sibiu</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Sibiu</ENAMEX> .
+154.892 .
+6 .
+<ENAMEX TYPE="LOCATION">Craiova</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Dolj</ENAMEX> .
+302.601 .
+16 .
+Târgu Mureș .
+Mureș .
+150.041 .
+7 .
+Galați .
+Galați .
+298.861 .
+17 .
+Baia Mare .
+Maramureș .
+137.921 .
+8 .
+Brașov .
+Brașov .
+284.596 .
+18 .
+<ENAMEX TYPE="LOCATION">Buzău</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Buzău</ENAMEX> .
+134.227 .
+9 .
+Ploiești .
+<ENAMEX TYPE="LOCATION">Prahova</ENAMEX> .
+232.527 .
+19 .
+<ENAMEX TYPE="LOCATION">Satu Mare</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Satu Mare</ENAMEX> .
+115.142 .
+10 .
+<ENAMEX TYPE="LOCATION">Brăila</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Brăila</ENAMEX> .
+216.292 .
+20 .
+Botoșani .
+Botoșani .
+115.070 .
+Populația <ENAMEX TYPE="PRODUCT">României</ENAMEX> pe localități , recensământul din 2002 [ 172 ] .
+[ modificare ] Politică .
+Președintele <ENAMEX TYPE="LOCATION">României</ENAMEX> , .
+<ENAMEX TYPE="PERSON">Traian Băsescu</ENAMEX> .
+Pentru detalii , vezi :
+politica <ENAMEX TYPE="LOCATION">României</ENAMEX> și lista șefilor de stat ai <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Constituția <ENAMEX TYPE="ORGANIZATION">României</ENAMEX> se bazează pe modelul Constituției celei de a cincea Republici Franceze , [ 173 ] și a fost ratificată prin referendum național la data de 8 decembrie , <TIMEX TYPE="DATE">1991</TIMEX> .
+[ 173 ] [ 174 ] În anul 2003 a avut loc un plebiscit [ 175 ] prin care Constituției i- au fost aduse 79 de amendamente , devenind astfel conformă cu legislația Uniunii Europene .
+[ 173 ] Conform Constituției , <ENAMEX TYPE="PERSON">România</ENAMEX> este un stat național , suveran și independent , unitar și indivizibil .
+Formă de guvernământ a statului român este republică semiprezidențială .
+Statul se organizează potrivit principiului separației și echilibrului puterilor — legislativă , executivă și judecătorească — în cadrul unei democrații constituționale .
+[ 176 ] Președintele este ales prin vot universal , egal , direct , secret și liber exprimat .
+[ 177 ] În urma amendamentelor din 2003 , mandatul de președinte a fost prelungit de la 4 la 5 ani .
+[ 173 ] Președintele numește primul-ministru , care la rândul său numește Guvernul .
+[ 173 ] În timp ce șeful statului își are reședința la <ENAMEX TYPE="LOCATION">Palatul Cotroceni</ENAMEX> , [ 178 ] primul-ministru împreună cu Guvernul își desfășoară activitatea la <ENAMEX TYPE="LOCATION">Palatul Victoria</ENAMEX> .
+[ 179 ] .
+Parlamentul <ENAMEX TYPE="PERSON">României</ENAMEX> este bicameral , [ 180 ] [ 181 ] fiind alcătuit din Senat , cu 137 de membri , și Camera Deputaților , cu 314 de membri .
+Un număr de 18 locuri suplimentare în Camera Deputaților sunt rezervate reprezentanților minorităților naționale .
+[ 182 ] [ 183 ] [ 184 ] Parlamentul are rol legislativ , discutând și votând legile ordinare și organice , atât în comisiile de specialitate cât și în plen .
+Membrii parlamentului sunt aleși prin vot uninominal mixt , universal , direct și secret .
+Sistemul electoral este unul proporțional ( membrii parlamentului se aleg din toate partidele care au depășit pragul electoral de 5 % din totalul sufragiilor exprimate , în baza unui algoritm ) .
+Alegerile se țin o dată la 4 ani , ultimele având loc la 30 noiembrie <TIMEX TYPE="DATE">2008</TIMEX> .
+Palatul Parlamentului găzduiește din anul 1994 sediul Camerei Deputaților , iar din anul 2004 și sediul Senatului .
+[ 181 ] .
+Guvernul <ENAMEX TYPE="PERSON">României</ENAMEX> este autoritatea publică a puterii executive , care funcționează pe baza votului de încredere acordat de <ENAMEX TYPE="LOCATION">Parlament</ENAMEX> și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice .
+Numirea Guvernului se face de Președintele României , pe baza votului de încredere acordat Guvernului de <ENAMEX TYPE="LOCATION">Parlament</ENAMEX> .
+[ 185 ] Guvernul este alcătuit din primul-ministru și miniștri .
+Primul-ministru conduce Guvernul și coordonează activitatea membrilor acestuia , cu respectarea atribuțiilor legale care le revin .
+De asemenea , Guvernul adoptă hotărâri și ordonanțe .
+[ 186 ] .
+Potrivit principiului separării puterilor în stat , sistemul judiciar din <ENAMEX TYPE="LOCATION">România</ENAMEX> este independent de celelalte ramuri ale guvernului și este compus dintr- o structură de instanțe organizate ierarhic .
+În <ENAMEX TYPE="LOCATION">România</ENAMEX> , justiția se înfăptuiește numai de către Înalta Curte de Casație și Justiție și celelalte instanțe judecătorești , respectiv curțile de apel , tribunalele , tribunalele specializate și judecătoriile .
+[ 187 ] Înalta Curte de Casație și Justiție este instanța cea mai înaltă în grad , [ 188 ] iar rolul său fundamental este de a asigura interpretarea și aplicarea unitară a legii de către celelalte instanțe judecătorești .
+Sistemul judiciar românesc este puternic influențat de modelul francez .
+[ 173 ] [ 189 ] Curtea Constituțională este unica autoritate de jurisdicție constituțională în <ENAMEX TYPE="LOCATION">România</ENAMEX> , independentă față de orice altă autoritate publică și care are , conform Constituției <ENAMEX TYPE="LOCATION">României</ENAMEX> , rolul de garant al supremației Constituției .
+[ 190 ] Constituția , introdusă în 1991 , poate fi amendată doar printr- un referendum public , iar ultimul referendum de modificăre a fost organizat în 2003 .
+De atunci , de la acea modificare , Parlamentul nu mai are dreptul să treacă peste deciziile Curții Constituționale , indiferent de majoritate .
+Integrarea <ENAMEX TYPE="PERSON">României</ENAMEX> în Uniunea Europeană din 2007 [ 191 ] a avut o influență semnificativă asupra politicii interne a țării .
+Ca parte a acestui proces , <ENAMEX TYPE="PERSON">România</ENAMEX> a inițiat reforme , inclusiv reforma din justiție , a intensificat cooperarea judiciară cu alte state membre și a luat măsuri împotriva corupției .
+Cu toate acestea , în raportul de țară din 2006 , <ENAMEX TYPE="LOCATION">România</ENAMEX> și <ENAMEX TYPE="PERSON">Bulgaria</ENAMEX> au fost descrise ca fiind cele mai corupte țări ale Uniunii Europene .
+[ 192 ] [ 193 ] .
+[ modificare ] Relațiile externe .
+Pentru detalii , vezi :
+relațiile externe ale <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+După decembrie 1989 , <ENAMEX TYPE="PERSON">România</ENAMEX> și- a reorientat politica pe calea întăririi legăturilor cu occidentul , în mod special cu Statele Unite și Uniunea Europeană .
+Dacă , în 1972 , <ENAMEX TYPE="PERSON">România</ENAMEX> devenea membră a Băncii Mondiale și a <ENAMEX TYPE="LOCATION">FMI</ENAMEX> și de asemenea a Organizației Mondiale a Comerțului , [ 194 ] în 2004 ea a devenit membră a <ENAMEX TYPE="ORGANIZATION">NATO</ENAMEX> [ 195 ] iar din 2007 face parte din Uniunea Europeană .
+[ 196 ] .
+<ENAMEX TYPE="PERSON">Traian Băsescu</ENAMEX> și <ENAMEX TYPE="PERSON">George W. Bush</ENAMEX> , 9 martie <TIMEX TYPE="DATE">2005</TIMEX> .
+Liderii <ENAMEX TYPE="ORGANIZATION">României</ENAMEX> postdecembriste au făcut declarații publice în ceea ce privește strângerea relațiilor cu alte țări europene și , de asemenea , în ceea ce privește ajutorul dat acestora în procesul integrării euro-atlantice , în special în cazul <ENAMEX TYPE="LOCATION">Moldovei</ENAMEX> , <ENAMEX TYPE="LOCATION">Ucrainei</ENAMEX> și <ENAMEX TYPE="LOCATION">Georgiei</ENAMEX> .
+[ 197 ] [ 198 ] Liderii români au declarat public în mai multe ocazii că se așteaptă ca într- o perioadă de aproximativ 10 ani , toate țările democratice postsovietice din <ENAMEX TYPE="LOCATION">Europa Răsăriteană</ENAMEX> și din <ENAMEX TYPE="LOCATION">Caucaz</ENAMEX> să acceadă în <ENAMEX TYPE="LOCATION">UE</ENAMEX> și <ENAMEX TYPE="LOCATION">NATO</ENAMEX> .
+[ 199 ] În decembrie 2005 , președintele <ENAMEX TYPE="LOCATION">Traian Băsescu</ENAMEX> și secretarul de stat <ENAMEX TYPE="LOCATION">SUA Condoleezza Rice</ENAMEX> au semnat un acord care permite instalarea de baze militare americane în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+[ 200 ] .
+<ENAMEX TYPE="PERSON">România</ENAMEX> și- a arătat în mod public sprijinul pentru <ENAMEX TYPE="PRODUCT">Turcia</ENAMEX> și Croația în eforturile făcute de aceste țări pentru aderarea la Uniunea Europeană .
+[ 199 ] Relațiile economice turco-române au statut privilegiat .
+[ 201 ] În același timp , relațiile româno-maghiare s- au aflat tot timpul la nivelul cel mai înalt , <ENAMEX TYPE="PERSON">Ungaria</ENAMEX> sprijinind eforturile <ENAMEX TYPE="PRODUCT">României</ENAMEX> de aderare la <ENAMEX TYPE="LOCATION">UE</ENAMEX> .
+[ 202 ] [ 203 ] .
+Relațiile României cu Republica Moldova au un statut special , [ 199 ] având în vedere că cele două țări folosesc practic aceași limbă și au un fond istoric comun .
+<ENAMEX TYPE="PERSON">România</ENAMEX> a fost primul stat care a recunoscut independența Republicii Moldova , la numai câteva ore după proclamarea independenței noului stat ( 27 august <TIMEX TYPE="DATE">1991</TIMEX> ) .
+Din declarația guvernului român , făcută cu acest prilej , reiese clar că , în viziunea autorităților de la București , independența <ENAMEX TYPE="PERSON">Moldovei</ENAMEX> era considerată o formă de emancipare de sub tutela <ENAMEX TYPE="LOCATION">Moscovei</ENAMEX> și un pas spre reunificarea cu <ENAMEX TYPE="PERSON">România</ENAMEX> .
+[ 204 ] În prezent , <ENAMEX TYPE="PERSON">România</ENAMEX> concepe relația să cu Republica Moldova pe două coordonate majore :
+afirmarea caracterului special al acestei relații , conferit de comunitatea de limbă , istorie , cultură , tradiții - realități ce nu pot fi eludate sau negate ;
+dimensiunea europeană a cooperării bilaterale , având la bază obiectivul strategic al ambelor state de integrare în Uniunea Europeană .
+[ 205 ] În aprilie 2009 relațiile dintre <ENAMEX TYPE="LOCATION">România</ENAMEX> și Republica Moldova s- au înrăutățit prin introducerea de vize cetățenilor români și expulzarea ambasadorului României la Chișinău .
+Fostul Președinte al Republicii Moldova , <ENAMEX TYPE="PERSON">Vladimir Voronin</ENAMEX> a acuzat <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> de intervenții în politica internă a Republicii Moldova .
+[ 206 ] [ 207 ] .
+<ENAMEX TYPE="PERSON">România</ENAMEX> a avut neînțelegeri cu <ENAMEX TYPE="LOCATION">Ucraina</ENAMEX> în legătură cu Insula Șerpilor și cu platformă continentală a Mării Negre la est de <ENAMEX TYPE="LOCATION">Sulina</ENAMEX> , miză principală fiind zăcămintele de petrol și de gaze din zonă .
+Problemă a fost prezentată în fața Curții Internaționale de Justiție .
+Astfel , <ENAMEX TYPE="ORGANIZATION">CIJ</ENAMEX> , prin decizia nr. <TIMEX TYPE="DATE">2009</TIMEX> / 9 din 3 februarie 2009 a acordat 79,34% din zona în dispută <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+<ENAMEX TYPE="PERSON">României</ENAMEX> îi revin 9.700 km² iar <ENAMEX TYPE="PERSON">Ucrainei</ENAMEX> îi revin 2.300 km² [ 208 ] [ 209 ] [ 210 ] Prin decizia <ENAMEX TYPE="PRODUCT">CIJ Insula Șerpilor</ENAMEX> rămâne în componența <ENAMEX TYPE="LOCATION">Ucrainei</ENAMEX> .
+Această a fost a 100 -a decizie a <ENAMEX TYPE="ORGANIZATION">CIJ</ENAMEX> de la înființarea să .
+O altă problemă dintre cele două țări este cea a construcției Canalului <ENAMEX TYPE="LOCATION">Bâstroe</ENAMEX> .
+[ 211 ] [ 212 ] .
+[ modificare ] Administrație .
+<ENAMEX TYPE="ORGANIZATION">AB</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">AR.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">AG.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">BC</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">BH</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">BN</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">BT</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">BV</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">BR</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">BZ</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">CS</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">CL.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">CJ</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">CT</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">CV</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">DB</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">DJ</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">GL</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">GR.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">GJ</ENAMEX> .
+HR .
+<ENAMEX TYPE="ORGANIZATION">HD</ENAMEX> .
+ÎL .
+<ENAMEX TYPE="ORGANIZATION">IS</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">IF</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">MM.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">MH</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">MS.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">NT</ENAMEX> .
+OT .
+<ENAMEX TYPE="ORGANIZATION">PH</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">SM</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">SJ</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">SB</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">SV</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">TR</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">TM</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">TL</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">VS</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">VL</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">VN</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">B.</ENAMEX> Pentru detalii , vezi :
+împărțirea administrativă a <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Printre obiectivele Uniunii Europene se află promovarea progresului economic și social , echilibrat și durabil , prin întărirea coeziunii între țările membre .
+Regiunea ( Unitatea Administrativ Teritorială ) este privită , în accepțiunea Consiliului Europei , ca unitate situată imediat sub nivelul statului cu autoritate aleasă a Administrației Publice și mijloace financiare proprii .
+<ENAMEX TYPE="PERSON">România</ENAMEX> este împărțită în mai multe unități administrativ-teritoriale denumite județe .
+Pentru a putea fi aplicată politica de dezvoltare regională , pe teritoriul <ENAMEX TYPE="PERSON">României</ENAMEX> s- au înființat 8 regiuni de dezvoltare ca un rezultat al unui acord liber între consiliile județene și cele locale .
+[ 213 ] .
+Conform Constituției , teritoriul <ENAMEX TYPE="PERSON">României</ENAMEX> este organizat , sub aspect administrativ , în comune , orașe și județe .
+[ 214 ] În condițiile legii , unele orașe sunt declarate municipii .
+[ 215 ] Din punct de vedere istoric , există 3 provincii tradiționale :
+<ENAMEX TYPE="ORGANIZATION">Valahia</ENAMEX> ( formată din regiunile <ENAMEX TYPE="ORGANIZATION">Oltenia</ENAMEX> , <ENAMEX TYPE="PERSON">Muntenia</ENAMEX> și <ENAMEX TYPE="ORGANIZATION">Dobrogea</ENAMEX> ) , <ENAMEX TYPE="ORGANIZATION">Moldova</ENAMEX> și <ENAMEX TYPE="PERSON">Transilvania</ENAMEX> ( formată din regiunile <ENAMEX TYPE="LOCATION">Banat</ENAMEX> , Crișana , Maramureș și <ENAMEX TYPE="LOCATION">Ardeal</ENAMEX> ) .
+[ 216 ] .
+Comună , unitatea elementară de organizare administrativă , este formată dintr- unul sau mai multe sate și este condusă de un consiliu local și un primar ales .
+[ 217 ] <ENAMEX TYPE="PERSON">România</ENAMEX> are 2 685 de comune însumând 13 285 de sate , respectiv cu o medie de cinci sate pe comună .
+[ 218 ] .
+Orașul este unitatea administrativă condusă de un consiliu local și un primar ales .
+[ 219 ] Orașele mai importante pot fi declarate municipii .
+<ENAMEX TYPE="PERSON">România</ENAMEX> are 263 de orașe , dintre care 82 sunt municipii .
+[ 218 ] .
+Regiunile de dezvoltare ale <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Județul este unitatea administrativă condusă de un consiliu județean și un prefect .
+[ 220 ] Consiliul județean este ales pentru a coordona activitatea consiliilor comunale și orășenești , având ca scop concentrarea interesului asupra serviciilor publice de importanță la nivel județean .
+Guvernul numește un prefect în fiecare județ pentru a fi reprezentantul său local .
+[ 221 ] <ENAMEX TYPE="PERSON">România</ENAMEX> are 41 de județe plus municipiul-capitală București , [ 222 ] care are un statut similar cu acela de județ .
+Un județ are , în medie , o suprafață de 5 800 km2 și o populație de 500 000 de locuitori .
+[ 223 ] București este considerat și el municipiu , [ 224 ] dar este singurul care nu face parte din niciun județ .
+Nu are consiliu județean , dar are un prefect .
+[ 225 ] Cetățenii Bucureștiului aleg un primar general și un consiliu general .
+[ 226 ] Fiecare din cele șase sectoare ale Bucureștiului aleg și ele un primar și un consiliu local .
+[ 227 ] .
+În afară de împărțirea pe județe , <ENAMEX TYPE="PERSON">România</ENAMEX> este împărțită și în opt regiuni de dezvoltare , corespondente nivelului <ENAMEX TYPE="PRODUCT">NUTS-2</ENAMEX> de diviziuni al <ENAMEX TYPE="ORGANIZATION">UE</ENAMEX> , dar fără a avea capacități administrative .
+Regiunile de dezvoltare se referă la subdiviziunile regionale ale <ENAMEX TYPE="LOCATION">României</ENAMEX> creeate în 1998 [ 228 ] și sunt folosite în special pentru coordonarea proiectelor de dezvoltare regională .
+[ 229 ] Regiunile de dezvoltare nu sunt unități administrativ-teritoriale , nu au personalitate juridică , fiind rezultatul unui acord liber între consiliile județene și cele locale .
+[ 230 ] Regiunile de dezvoltare ale <ENAMEX TYPE="ORGANIZATION">României</ENAMEX> , numite după poziția geografică în țară , sunt :
+Nord-Vest , Nord-Est , Sud-Vest , Sud-Est , Sud , Vest , Centru , București și <ENAMEX TYPE="LOCATION">Ilfov</ENAMEX> .
+[ 231 ] .
+Împărțirea <ENAMEX TYPE="PERSON">României</ENAMEX> în județe este atestată documentar la 8 ianuarie <TIMEX TYPE="DATE">1392</TIMEX> , când domnitorul <ENAMEX TYPE="ORGANIZATION">Mircea cel Bătrân</ENAMEX> printr- un hrisov numește „ ținutul <ENAMEX TYPE="PRODUCT">Vâlcii</ENAMEX> ” județ .
+Astfel , județul <ENAMEX TYPE="PERSON">Vâlcea</ENAMEX> este primul județ atestat documentar de pe teritoriul actual al <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+[ 232 ] <ENAMEX TYPE="LOCATION">Ultima reformă</ENAMEX> administrativ-teritorială majoră din <ENAMEX TYPE="LOCATION">România</ENAMEX> a avut loc în anul 1968 [ 233 ] când s- a trecut de la împărțirea pe regiuni și raioane la reîmpărțirea pe județe , desființată de autoritățile comuniste după 1948 .
+[ 234 ] .
+[ modificare ] Economie .
+Camera de Comerț și Industrie a <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Pentru detalii , vezi :
+economia <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Cu un <ENAMEX TYPE="ORGANIZATION">PIB</ENAMEX> estimat de 404,7 miliarde de lei și de 18.791 lei pe cap de locuitor în 2007 [ 235 ] , <ENAMEX TYPE="PERSON">România</ENAMEX> este o țară cu un venit mediu-superior .
+[ 236 ] Produsul intern brut al <ENAMEX TYPE="LOCATION">României</ENAMEX> a urcat în ultimul trimestru din 2008 cu 2,9% , temperând creșterea pe întregul an la 7,1% .
+Valoarea <ENAMEX TYPE="ORGANIZATION">PIB</ENAMEX> în 2008 a fost de 503,959 miliarde lei ( 136,8 miliarde euro ) .
+[ 237 ] .
+După căderea regimului comunist , țara a cunoscut un deceniu de instabilitate și profund declin economic , consecințe provocate de o administrare defectuoasă și coruptă și de lipsă unor reale reforme structurale .
+De la începutul mileniului , economia <ENAMEX TYPE="PERSON">României</ENAMEX> s- a transformat într- o economie relativ stabilă , caracterizată de o creștere vizibilă , dublată de reducerea șomajului și a inflației .
+În 2006 , conform Institutului Național de Statistică , <ENAMEX TYPE="ORGANIZATION">PIB</ENAMEX> -ul a cunoscut o creștere în termeni reali de 7,9% , una dintre cele mai ridicate din <ENAMEX TYPE="LOCATION">Europa</ENAMEX> și a egalat <ENAMEX TYPE="PERSON">PIB</ENAMEX> pe locuitor realizat de <ENAMEX TYPE="LOCATION">România</ENAMEX> în 1988 .
+[ 238 ] Șomajul în <ENAMEX TYPE="LOCATION">România</ENAMEX> a fost de 3,9% în septembrie 2007 , [ 239 ] un procent scăzut dacă se compară cu cel al altor țări mijlocii și mari din <ENAMEX TYPE="LOCATION">Europa</ENAMEX> precum <ENAMEX TYPE="PERSON">Polonia</ENAMEX> , Franța , <ENAMEX TYPE="LOCATION">Germania</ENAMEX> și <ENAMEX TYPE="LOCATION">Spania</ENAMEX> .
+Datoria externă a <ENAMEX TYPE="LOCATION">României</ENAMEX> este relativ mică , reprezentând 20,3% din <ENAMEX TYPE="LOCATION">PIB</ENAMEX> .
+[ 3 ] .
+Principalele industrii ale <ENAMEX TYPE="LOCATION">României</ENAMEX> sunt cea textilă și de încălțăminte , industria metalurgică , de mașini ușoare și de asamblare de mașini , minieră , de prelucrare a lemnului , a materialelor de construcții , chimică , alimentară și cea de rafinare a petrolului .
+O importanță secundară o au industriile farmaceutică , a mașinilor grele și a aparatelor electrocasnice .
+[ 240 ] În prezent , industria constructoare de mașini este foarte dinamică , fiind susținuta în principal de producătorul de autovehicule <ENAMEX TYPE="LOCATION">Dacia</ENAMEX> .
+Industria românească de <ENAMEX TYPE="ORGANIZATION">IT</ENAMEX> cunoaște de asemenea o creștere anuală constantă .
+[ 240 ] În general , <ENAMEX TYPE="PERSON">România</ENAMEX> întreține un comerț intens cu țări din Uniunea Europeană , în special cu <ENAMEX TYPE="PERSON">Germania</ENAMEX> [ 241 ] și <ENAMEX TYPE="LOCATION">Italia</ENAMEX> , [ 242 ] care sunt unii dintre cei mai importanți parteneri comerciali ai <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Tower Center Internațional .
+După o serie de privatizări și reforme de la sfârșitul anilor ' 90 și începutul anilor 2000 , [ 243 ] intervenția guvernului în economia țării a fost destul de absentă , în comparație cu economiile celorlalte state din <ENAMEX TYPE="LOCATION">Europa</ENAMEX> .
+[ 244 ] În 2005 , <ENAMEX TYPE="PERSON">România</ENAMEX> a înlocuit sistemul progresiv de impozitare în care cota maximă era de 40% , cu o cotă unică de 16% .
+În 2007 , această era cea mai mică cotă din <ENAMEX TYPE="LOCATION">UE</ENAMEX> .
+[ 245 ] Însă , în 2008 , <ENAMEX TYPE="PERSON">România</ENAMEX> a fost eclipsată de <ENAMEX TYPE="PERSON">Bulgaria</ENAMEX> care are acum o cotă unică de 10% și de <ENAMEX TYPE="ORGANIZATION">Republica Cehă</ENAMEX> , unde s- a introdus recent o cotă de 15% .
+[ 246 ] [ 247 ] .
+Economia este , predominant , bazată pe servicii , care reprezintă 55% din <ENAMEX TYPE="LOCATION">PIB</ENAMEX> , iar industria și agricultură au de asemenea o contribuție importantă de 35% , respectiv 10% din <ENAMEX TYPE="LOCATION">PIB</ENAMEX> .
+În schimb , 32% din populația tării este angajată în agricultură și producție , una dintre cele mai mari rate din <ENAMEX TYPE="LOCATION">Europa</ENAMEX> .
+[ 3 ] Începând cu anul 2000 , <ENAMEX TYPE="PERSON">România</ENAMEX> a atras tot mai mulți investitori străini , devenind cea mai importantă destinație de investiții străine în <ENAMEX TYPE="LOCATION">Europa Centrală</ENAMEX> și de <ENAMEX TYPE="ORGANIZATION">Sud-Est</ENAMEX> .
+
+
+
+
+
+
+
+
+
+
+
+[ 248 ] Un aport însemnat în economia românească îl reprezintă sumele de bani trimise de cetățenii români care lucrează în alte țări ale lumii .
+Conform ultimelor estimări ale Băncii Mondiale , această sumă s- a ridicat în anul 2008 la 9 miliarde dolari [ 249 ] .
+Printre problemele economiei în <ENAMEX TYPE="LOCATION">România</ENAMEX> se numără :
+o populație aproximativ jumătate rurală și nefiscalizată , prea mulți asistați sociali , prea mulți bani cheltuiți pe medicamente scumpe , evaziune fiscală ridicată [ 250 ] .
+Potrivit unui raport din 2006 al Băncii Mondiale , economia <ENAMEX TYPE="ORGANIZATION">României</ENAMEX> se clasează pe locul 49 dintr- un număr total de 175 economii naționale în privința ușurinței de a face afaceri , înregistrând astfel o poziție mai bună decât alte țări din regiune , precum <ENAMEX TYPE="PERSON">Ungaria</ENAMEX> și <ENAMEX TYPE="LOCATION">Cehia</ENAMEX> .
+[ 251 ] În plus , același studiu a considerat că <ENAMEX TYPE="PERSON">România</ENAMEX> a fost în 2006 a doua țară din lume ca ritm al reformelor mediului de afaceri , după <ENAMEX TYPE="LOCATION">Georgia</ENAMEX> [ 252 ] .
+Pe de altă parte în România rata corupției continuă să rămână la un nivel îngrijorător de mare .
+Salariul mediu brut în <ENAMEX TYPE="LOCATION">România</ENAMEX> , în lună ianuarie 2009 , a fost de 1.839 lei [ 253 ] .
+[ modificare ] Transport .
+Hartă cu rețeaua rutieră din <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Pentru detalii , vezi :
+transportul în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Prin așezarea să geografică , <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> reprezintă o zonă de intersecție a mai multor magistrale de transport , care leagă nordul de sudul <ENAMEX TYPE="LOCATION">Europei</ENAMEX> și vestul de estul acesteia .
+Pe de altă parte , rețeaua de transport din <ENAMEX TYPE="LOCATION">România</ENAMEX> asigură legătura între rețeaua de transport comunitară și rețeaua de transport a statelor necomunitare vecine din Europa de Est și <ENAMEX TYPE="LOCATION">Asia</ENAMEX> .
+[ 254 ] Totuși , datorită investițiilor , reparațiilor și întreținerii insuficiente , infrastructură de transport nu satisface nevoile economiei actuale , fiind mult în urma <ENAMEX TYPE="LOCATION">Europei de Vest</ENAMEX> .
+[ 255 ] [ 256 ] .
+În ultima perioadă se fac eforturi pentru a aduce principalele șosele din <ENAMEX TYPE="LOCATION">România</ENAMEX> la nivelul rețelei de coridoare europene .
+[ 257 ] Au fost începute mai multe proiecte de modernizare a rețelei de coridoare europene , finanțate din fonduri <ENAMEX TYPE="ORGANIZATION">ISPA</ENAMEX> [ 258 ] și din împrumuturi garantate de stat de la instituțiile financiare internaționale .
+Guvernul urmărește finanțarea externă sau parteneriate public-private pentru alte modernizări ale rețelei rutiere , și în special ale autostrăzilor .
+[ 259 ] În martie 2009 , <ENAMEX TYPE="PERSON">România</ENAMEX> are finalizați 280 km de autostradă .
+[ 260 ] Singurele autostrăzi din <ENAMEX TYPE="LOCATION">România</ENAMEX> sunt :
+<TIMEX TYPE="DATE">A1</TIMEX> , de la Pitești la București și <ENAMEX TYPE="LOCATION">A2</ENAMEX> , de la București la Cernavodă .
+[ 261 ] Se ia în discuție construirea unei autostrăzi prin <ENAMEX TYPE="PRODUCT">Transilvania</ENAMEX> .
+[ 262 ] Alte tronsoane care se află în diferite stadii sunt :
+autostradă <ENAMEX TYPE="PERSON">Transilvania</ENAMEX> , care leagă Brașovul de Oradea ( PCTF Borș ) , București - Brașov , <ENAMEX TYPE="PERSON">Cernavodă</ENAMEX> - Constanța , <ENAMEX TYPE="PERSON">Turda</ENAMEX> - <ENAMEX TYPE="PERSON">Dej</ENAMEX> , <ENAMEX TYPE="PERSON">Nădlac</ENAMEX> - <ENAMEX TYPE="PERSON">Arad</ENAMEX> - Timișoara , București - Roșiori de <ENAMEX TYPE="LOCATION">Vede</ENAMEX> - <ENAMEX TYPE="PERSON">Craiova</ENAMEX> .
+[ 263 ] [ 264 ] .
+Compania națională de transport feroviar este Căile Ferate Române .
+[ 265 ] În 2004 infrastructură feroviară cuprindea 22.247 km de căi ferate , din care aproximativ 8.585 km electrificate și 2.617 km linii duble , majoritatea la ecartament standard de 1.435 mm , [ 266 ] [ 267 ] rețeaua <ENAMEX TYPE="PRODUCT">CFR</ENAMEX> fiind a patra ca mărime de <ENAMEX TYPE="LOCATION">Europa</ENAMEX> .
+[ 268 ] În perioada 1990 - 2002 , numărul de pasageri transportați pe calea ferată pe rute interne și internaționale a înregistrat o scădere continuă , mai accentuată între 1990 și 1994 și mai lentă după 1994 .
+[ 269 ] Cauzele care au condus la reducerea continuă a călătorilor expediați și a parcursului călătoriilor sunt legate de situația generală economică și socială din țară , de reducerea veniturilor populației , de creșterea șomajului ( în cazul navetiștilor ) , precum și de creșterea numărului de autoturisme personale .
+Transportul feroviar de călători se asigură cu un număr de 817 locomotive , din care mai mult de jumătate au vechimi mai mari de 20 de ani .
+[ 270 ] Începând cu anul 2005 , a fost liberalizat transportul feroviar de călători , mai multe linii secundare fiind concesionate operatorilor privați .
+[ 271 ] .
+Stația de metrou Titan .
+Rețeaua de aeroporturi destinate traficului aerian public este formată din 17 aeroporturi civile , [ 272 ] toate fiind deschise traficului internațional .
+12 dintre ele sunt deschise permanent , iar restul la cerere .
+Din cele 17 aeroporturi , 4 funcționează sub autoritatea <ENAMEX TYPE="ORGANIZATION">MTCT</ENAMEX> , 12 sub autoritatea consiliilor județene și un aeroport a fost privatizat .
+[ 273 ] Ca o observație generală , flotă aeriană din <ENAMEX TYPE="LOCATION">România</ENAMEX> se află într- un amplu proces de modernizare .
+Flotă de aeronave destinate traficului comercial s- a redus de la 55 de aeronave în anul 1991 la 34 de aeronave în anul 2004 , prin scoaterea din exploatare a aeronavelor vechi .
+[ 274 ] .
+Căile Ferate Române .
+După ce <ENAMEX TYPE="ORGANIZATION">Traian Vuia</ENAMEX> , <ENAMEX TYPE="PERSON">Aurel Vlaicu</ENAMEX> și Henri <ENAMEX TYPE="PERSON">Coandă</ENAMEX> au contribuit prin rezultate de pionierat la dezvoltarea aviației , în 1920 a luat ființă Compania de Navigație Aeriană Franco-Română , care oferea servicii de transport aerian de pasageri , mărfuri și poștă , fiind prima companie aeriană din lume care a efectuat zboruri transcontinentale .
+[ 275 ] În anii următori au fost inființate companiile <ENAMEX TYPE="ORGANIZATION">LARES</ENAMEX> ( Liniile Aeriene Române ) , <ENAMEX TYPE="PERSON">SARTA</ENAMEX> ( Societatea Română de <ENAMEX TYPE="LOCATION">Transporturi Aeriene</ENAMEX> ) , TARS ( Transporturile Aeriene Româno-Sovietice ) .
+[ 275 ] .
+La 18 septembrie <TIMEX TYPE="DATE">1954</TIMEX> s- a înființat compania <ENAMEX TYPE="ORGANIZATION">TAROM</ENAMEX> ( Transporturile Aeriene Române ) , [ 276 ] care mai funcționează și astăzi .
+La câțiva ani după lansare , <ENAMEX TYPE="ORGANIZATION">TAROM</ENAMEX> opera deja zboruri către aproape toate țările europene , iar din 1966 efectuează zboruri peste <ENAMEX TYPE="PERSON">Atlantic</ENAMEX> .
+Începând cu anul 1974 a realizat zboruri către <ENAMEX TYPE="LOCATION">Sydney via Calcutta</ENAMEX> și a introdus curse regulate spre <ENAMEX TYPE="LOCATION">New York</ENAMEX> și <ENAMEX TYPE="LOCATION">Beijing</ENAMEX> .
+[ 277 ] Pe piața autohtonă sunt prezente cele mai mari companii aeriene europene clasice ( <ENAMEX TYPE="PRODUCT">Lufthansa</ENAMEX> și <ENAMEX TYPE="PERSON">Air France</ENAMEX> ) și low-cost ( <ENAMEX TYPE="PRODUCT">Easyjet</ENAMEX> și <ENAMEX TYPE="LOCATION">Ryanair</ENAMEX> ) .
+În 2004 s- a înființat <ENAMEX TYPE="PERSON">Blue Air</ENAMEX> , prima companie românească de transporturi aeriene cu tarif redus .
+[ 278 ] .
+Transportul fluvial românesc se află încă la un nivel foarte redus ( sub un procent ) dar având potențial de creștere mare datorită râurilor navigabile dar și a fluviului <ENAMEX TYPE="LOCATION">Dunărea</ENAMEX> .
+În 2006 , în <ENAMEX TYPE="LOCATION">România</ENAMEX> existau 1.731 km de ape navigabile .
+<ENAMEX TYPE="PERSON">România</ENAMEX> are 2.251 de nave fluviale de categoria <ENAMEX TYPE="PRODUCT">I</ENAMEX> , care pot efectua misiuni economice pe apele fluviale internaționale și circa 587 , care pot naviga doar pe partea românească a <ENAMEX TYPE="LOCATION">Dunării</ENAMEX> și pe râurile interioare .
+Cele mai multe nave înmatriculate sunt cele de agrement , circa 13.246 , turismul de agrement pe <ENAMEX TYPE="LOCATION">Dunăre</ENAMEX> și cel în apele maritime ale <ENAMEX TYPE="LOCATION">României</ENAMEX> dezvoltându -se în ultimii ani .
+[ 279 ] Important pentru <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> este Canalul <ENAMEX TYPE="ORGANIZATION">Dunăre-Marea Neagră</ENAMEX> ce leagă portul <ENAMEX TYPE="LOCATION">Cernavodă</ENAMEX> cu portul maritim Constanța , scurtând cu aproximativ 400 de km rută mărfurilor de la Marea Neagră până la porturile dunărene din <ENAMEX TYPE="LOCATION">Europa Centrală</ENAMEX> .
+[ 280 ] .
+Principalele mijloace de transport în comun sunt autobuzele , troleibuzele , tramvaiele și microbuzele , în general operate de regii autonome administrate de autoritățile locale ( de exemplu , Regia Autonomă de Transport București ) .
+Singurul oraș care dispune de un sistem de metrou este București .
+Metroul din București a fost deschis în 1979 , fiind astăzi cel mai folosit mijloc de transport din București , cu peste 650.000 de pasageri zilnic .
+[ 281 ] .
+[ modificare ] Turism .
+Pentru detalii , vezi :
+turismul în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Traversată de apele <ENAMEX TYPE="PERSON">Dunării</ENAMEX> , <ENAMEX TYPE="PERSON">România</ENAMEX> are un relief variat , incluzând împăduriții Munți Carpați , coastă Mării Negre și <ENAMEX TYPE="PERSON">Delta Dunării</ENAMEX> , cea mai bine păstrată deltă europeană [ 282 ] .
+Satele românești păstrează în general un mod de viață tradițional .
+<ENAMEX TYPE="ORGANIZATION">România</ENAMEX> se bucură de o abundență a arhitecturii religioase și păstrează câteva orașe medievale și castele .
+[ 283 ] .
+<ENAMEX TYPE="LOCATION">Sibiu</ENAMEX> .
+Turismul în <ENAMEX TYPE="LOCATION">România</ENAMEX> se concentrează asupra peisajelor naturale și a istoriei sale bogate , având de asemenea o contribuție importantă la economia țării .
+În 2006 , turismul intern și internațional a asigurat 4,8% din <ENAMEX TYPE="LOCATION">PIB</ENAMEX> și aproximativ o jumătate de milion de locuri de muncă ( 5,8% din totalul locurilor de muncă ) .
+[ 284 ] După comerț , turismul este cea de- a doua ramură importantă din sectorul de servicii .
+Dintre sectoarele economice ale <ENAMEX TYPE="LOCATION">României</ENAMEX> , turismul este unul dinamic și în curs rapid de dezvoltare , fiind de asemenea caracterizat de un mare potențial de extindere .
+[ 285 ] După estimările <ENAMEX TYPE="PRODUCT">World Travel and Tourism Council</ENAMEX> , <ENAMEX TYPE="PRODUCT">România</ENAMEX> ocupă locul 4 în topul țărilor care cunosc o dezvoltare rapidă a turismului , cu o creștere anuală a potențialului turistic de 8% din 2007 până în 2016 .
+[ 286 ] Numărul turiștilor a crescut de la 4,8 milioane în 2002 , la 6,6 milioane în 2004 .
+De asemenea , în 2005 , turismul românesc a atras investiții de 400 milioane de euro .
+[ 287 ] .
+În ultimii ani , <ENAMEX TYPE="PERSON">România</ENAMEX> a devenit o destinație preferată pentru mulți europeni ( mai mult de 60 % [ 288 ] dintre turiștii străini provin din țările membre <ENAMEX TYPE="LOCATION">UE</ENAMEX> ) , rivalizând și fiind la concurență cu țări precum <ENAMEX TYPE="PERSON">Bulgaria</ENAMEX> , <ENAMEX TYPE="LOCATION">Grecia</ENAMEX> , <ENAMEX TYPE="LOCATION">Italia</ENAMEX> sau <ENAMEX TYPE="LOCATION">Spania</ENAMEX> .
+Stațiuni precum <ENAMEX TYPE="LOCATION">Mangalia</ENAMEX> , <ENAMEX TYPE="PERSON">Saturn</ENAMEX> , <ENAMEX TYPE="PERSON">Venus</ENAMEX> , <ENAMEX TYPE="PERSON">Neptun</ENAMEX> , <ENAMEX TYPE="PERSON">Olimp</ENAMEX> și <ENAMEX TYPE="PERSON">Mamaia</ENAMEX> ( numite uneori și Riviera Română ) sunt printre principale atracții turistice pe timp de vară .
+[ 289 ] În timpul iernii , stațiunile de schi de pe Valea <ENAMEX TYPE="PERSON">Prahovei</ENAMEX> și din Poiana Brașov sunt destinațiile preferate ale turiștilor străini .
+[ 290 ] [ 291 ] Pentru atmosferă lor medievală sau pentru castelele aflate în apropiere , numeroase orașe transilvănene precum <ENAMEX TYPE="PERSON">Sibiu</ENAMEX> , Brașov , Sighișoara , <ENAMEX TYPE="LOCATION">Cluj-Napoca</ENAMEX> sau Târgu Mureș au devenit importante puncte de atracție pentru turiști .
+De curând s- a dezvoltat și turismul rural ce se concentrează asupra promovării folclorului și tradițiilor .
+[ 292 ] Principalele puncte de atracție le reprezintă Castelul <ENAMEX TYPE="PERSON">Bran</ENAMEX> , mănăstirile pictate din nordul <ENAMEX TYPE="LOCATION">Moldovei</ENAMEX> , bisericile de lemn din Transilvania ori Cimitirul Vesel din Săpânța .
+[ 293 ] <ENAMEX TYPE="ORGANIZATION">România</ENAMEX> oferă și atracții turistice naturale , precum <ENAMEX TYPE="PERSON">Delta Dunării</ENAMEX> , Porțile de <ENAMEX TYPE="LOCATION">Fier</ENAMEX> , Peștera Scărișoara și alte peșteri din Munții Apuseni .
+[ 294 ] .
+Vedere peste satul Brădet cu biserica de lemn .
+Prin funcțiile sale complexe , prin poziția în cadrul țării și prin numeroasele obiective cu valoare istorică , arhitectonică și de altă natură , Bucureștiul reprezintă unul dintre principalele centre turistice ale <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+[ 295 ] [ 294 ] Bucureștiul se remarcă prin de amestecul eclectic de stiluri arhitecturale , începând de la Curtea Veche , rămășițele palatului din secolul al XV -lea al lui Vlad Țepeș - cel care a fost fondatorul orașului și , totodată , sursă de inspirație pentru personajul <ENAMEX TYPE="PERSON">Dracula</ENAMEX> - , la biserici ortodoxe , la vile în stil <ENAMEX TYPE="PERSON">Second Empire</ENAMEX> , la arhitectură greoaie stalinistă din perioada comunistă și terminând cu Palatul Parlamentului , o clădire colosală cu șase mii de încăperi , a doua ca mărime în lume după Pentagon .
+[ 296 ] .
+Printre cele mai importante obiectivele turistice ale municipiului București se numără :
+Ateneul Român , Arcul de <ENAMEX TYPE="LOCATION">Triumf</ENAMEX> , Palatul Băncii Naționale , Teatrul Național , Universitatea București , Parcul Cișmigiu , Grădina Botanică , Parcul <ENAMEX TYPE="LOCATION">Herăstrău</ENAMEX> , Muzeul Satului , Muzeul Național de Artă al României , Muzeul Național de Istorie al României , Muzeul Național de Istorie Naturală „ <ENAMEX TYPE="PRODUCT">Grigore Antipa</ENAMEX> ” , Biserica <ENAMEX TYPE="LOCATION">Stavropoleos</ENAMEX> , Hanul lui <ENAMEX TYPE="PERSON">Manuc</ENAMEX> .
+[ 297 ] [ 298 ] De asemenea , aici se organizează , în fiecare an , Târgul de <ENAMEX TYPE="ORGANIZATION">Turism al României</ENAMEX> .
+[ 299 ] [ 300 ] .
+<ENAMEX TYPE="PERSON">Bucovina</ENAMEX> este situată în partea de nord a <ENAMEX TYPE="LOCATION">României</ENAMEX> , în nord-vestul <ENAMEX TYPE="LOCATION">Moldovei</ENAMEX> .
+Regiune montană pitorească , cu tradiții etnografice ce dăinuie nealterate , <ENAMEX TYPE="PERSON">Bucovina</ENAMEX> se remarcă printr- o activitate turistică dinamică , datorată în primul rând mănăstirilor .
+Cele cinci mănăstiri cu pictură exterioară , intrate în patrimoniul turistic mondial , își păstrează caracteristicile după mai bine de 450 de ani .
+[ 301 ] [ 302 ] .
+[ modificare ] Cultură .
+<ENAMEX TYPE="PERSON">Mihai Eminescu</ENAMEX> .
+Pentru detalii , vezi :
+cultură <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+<ENAMEX TYPE="PERSON">România</ENAMEX> are o cultură unică datorită așezării sale geografice și a evoluției istorice distincte .
+[ 303 ] Este fundamental definită ca fiind un punct de întâlnire a trei regiuni :
+<ENAMEX TYPE="ORGANIZATION">Europa Centrală</ENAMEX> , Europa de Est și <ENAMEX TYPE="PRODUCT">Europa de Sud-Est</ENAMEX> , dar nu poate fi cu adevărat inclusă în nici una dintre ele .
+[ 304 ] Identitatea românească a fost formată pe un substrat din amestecul elementelor dacice și romane , cu multe alte influențe .
+[ 305 ] .
+<ENAMEX TYPE="PERSON">I.L. Caragiale</ENAMEX> .
+Cultură de tip folcloric din spațiul românesc funcționează în cea mai mare parte ca sinteză a elementelor împrumutate de la alte populații , originalitatea ei constând în modul de îmbinare și selectarea acestora .
+[ 306 ] În antichitate și în evul mediu , cele mai importante influențe au fost din partea popoarelor slave care au migrat în spațiul carpato-dunărean și care s- au format în vecinătatea ei — <ENAMEX TYPE="PERSON">Bulgaria</ENAMEX> , <ENAMEX TYPE="LOCATION">Serbia</ENAMEX> , <ENAMEX TYPE="LOCATION">Ucraina</ENAMEX> , <ENAMEX TYPE="LOCATION">Polonia</ENAMEX> și <ENAMEX TYPE="LOCATION">Rusia</ENAMEX> — , din partea grecilor din Imperiul Bizantin și mai apoi , sub protecție turcă , din Fanar , din partea Imperiului Otoman , de la maghiari , precum și de la germanii care trăiesc în <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> .
+[ 307 ] Cultură modernă română a apărut și s- a dezvoltat în aproximativ ultimii 250 ani sub o puternică influență din partea culturilor din vestul <ENAMEX TYPE="LOCATION">Europei</ENAMEX> , în special cea franceză [ 308 ] și cea germană .
+[ 309 ] [ 310 ] [ 311 ] În plus , sub influența tradiției bizantine și slavone , românii sunt , de asemenea , singurul popor creștin ortodox dintre popoarele latine .
+[ 312 ] [ 313 ] .
+[ modificare ] Artă .
+Pentru detalii , vezi :
+Artă românească .
+Umanismul a apărut în <ENAMEX TYPE="LOCATION">Moldova</ENAMEX> în secolul al <ENAMEX TYPE="ORGANIZATION">XVII -lea venit</ENAMEX> , în general , pe filieră poloneză .
+[ 314 ] Cel mai important reprezentant al său , <ENAMEX TYPE="PERSON">Miron Costin</ENAMEX> , a scris o cronică a istoriei <ENAMEX TYPE="LOCATION">Moldovei</ENAMEX> .
+[ 315 ] [ 316 ] Alți umaniști au fost <ENAMEX TYPE="PRODUCT">Dimitrie Cantemir</ENAMEX> [ 317 ] și <ENAMEX TYPE="PERSON">Constantin Brâncoveanu</ENAMEX> .
+[ 318 ] Principalii reprezentanți ai Iluminismului au fost <ENAMEX TYPE="PERSON">Gheorghe Asachi</ENAMEX> , <ENAMEX TYPE="LOCATION">Ion Budai Deleanu</ENAMEX> și <ENAMEX TYPE="PERSON">Dinicu Golescu</ENAMEX> .
+[ 319 ] Unirea Principatelor Române din 1859 a dat un impuls deosebit societății și culturii românești .
+[ 320 ] Pe baza unor înalte școli deja existente au fost întemeiate universități la Iași [ 321 ] și la București , [ 322 ] iar numărul de instituții culturale și științifice a crescut semnificativ .
+[ 323 ] Un mare impact în literatura română l- a avut cercul literar <ENAMEX TYPE="PERSON">Junimea</ENAMEX> , fondat de un grup de personalități în jurul criticului literar <ENAMEX TYPE="PRODUCT">Titu Maiorescu</ENAMEX> , în 1863 .
+[ 324 ] Acesta a tipărit revistă Convorbiri literare , unde au publicat , printre alții , <ENAMEX TYPE="PERSON">Mihai Eminescu</ENAMEX> , poetul național al <ENAMEX TYPE="LOCATION">României</ENAMEX> , <ENAMEX TYPE="PERSON">Ion Creangă</ENAMEX> , <ENAMEX TYPE="PERSON">Vasile Alecsandri</ENAMEX> și <ENAMEX TYPE="PERSON">Ion Luca Caragiale</ENAMEX> , cel mai important dramaturg român .
+[ 324 ] [ 325 ] În aceeași perioadă , <ENAMEX TYPE="PERSON">Nicolae Grigorescu</ENAMEX> a fost unul dintre fondatorii picturii române moderne .
+[ 326 ] .
+<ENAMEX TYPE="PERSON">Nicolae Grigorescu</ENAMEX> - Car cu boi ( 1899 ) - Galeria Națională , București .
+<ENAMEX TYPE="PERSON">Prima jumătate a secolului al XX</ENAMEX> -lea este un moment important pentru cultura română , această atingând nivelul său maxim de afirmare internațională în armonie cu tendințele culturale europene .
+[ 327 ] Cel mai de seamă artist plastic , care a ocupat un loc deosebit și în istoria artei mondiale , a fost sculptorul Constantin Brâncuși , o figură centrală a mișcării artistice de avangardă și un pionier al captărilor , inovator în sculptură mondială prin imersiunea în sursele primordiale ale creației populare .
+[ 328 ] Începutul secolului al <ENAMEX TYPE="ORGANIZATION">XX</ENAMEX> -lea a fost , de asemenea , o perioadă importantă pentru proza românească , în care au activat personalități precum romancierii <ENAMEX TYPE="PERSON">Liviu Rebreanu</ENAMEX> , <ENAMEX TYPE="PERSON">Mihail Sadoveanu</ENAMEX> și <ENAMEX TYPE="PERSON">Camil Petrescu</ENAMEX> .
+În dramaturgie , un talent aparte a fost <ENAMEX TYPE="PERSON">Mihail Sebastian</ENAMEX> , iar Lucia <ENAMEX TYPE="PERSON">Sturdza Bulandra</ENAMEX> a fost actrița cea mai reprezentativă pentru această perioadă .
+[ 320 ] .
+Coloana infinitului , construită de Constantin Brâncuși în <ENAMEX TYPE="LOCATION">Târgu Jiu</ENAMEX> .
+Poezia interbelică va ajunge să se sincronizeze cu marea poezie europeană .
+Cei mai însemnați poeți din această perioadă sunt :
+<ENAMEX TYPE="PERSON">George Bacovia</ENAMEX> , [ 329 ] <ENAMEX TYPE="PRODUCT">Tudor Arghezi</ENAMEX> și <ENAMEX TYPE="PERSON">Ion Barbu</ENAMEX> .
+[ 330 ] De asemenea , <ENAMEX TYPE="PERSON">Tristan Tzara</ENAMEX> , unul dintre fondatorii mișcării dadaiste , era originar din <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+[ 331 ] De asemenea , în timpul acestei epoci s- au ivit și în filozofia română figuri ca <ENAMEX TYPE="PERSON">Lucian Blaga</ENAMEX> , <ENAMEX TYPE="PERSON">Dimitrie Gusti</ENAMEX> , <ENAMEX TYPE="PERSON">Tudor Vianu</ENAMEX> și <ENAMEX TYPE="LOCATION">Vasile Conta</ENAMEX> .
+[ 320 ] În domeniul istoriei , perioada a fost dominată de marele erudit <ENAMEX TYPE="PRODUCT">Nicolae Iorga</ENAMEX> .
+[ 320 ] .
+După cel de- al <ENAMEX TYPE="ORGANIZATION">Doilea Război Mondial</ENAMEX> , regimul comunist a introdus o cenzură aspră și a folosit cultură ca pe un mijloc de control și subordonare a poporului .
+Libertatea de exprimare a fost constant restricționată pe diverse căi .
+În această perioadă , personalități dintre cele mai reprezentative au fost :
+scriitorii <ENAMEX TYPE="ORGANIZATION">Marin Predă</ENAMEX> , <ENAMEX TYPE="PERSON">Nicolae Breban</ENAMEX> , poeții <ENAMEX TYPE="PERSON">Nichita Stănescu</ENAMEX> , <ENAMEX TYPE="PERSON">Marin Sorescu</ENAMEX> , precum și criticii literari <ENAMEX TYPE="PRODUCT">Nicolae Manolescu</ENAMEX> și <ENAMEX TYPE="PERSON">Eugen Simion</ENAMEX> .
+[ 332 ] O altă consecință a atitudinii comuniste față de elite , în general , a fost apariția , pentru prima dată în istoria <ENAMEX TYPE="LOCATION">României</ENAMEX> , a unei diaspore adevărate incluzând mari personalități ale vieții științifice și culturale :
+<ENAMEX TYPE="PERSON">George Emil Palade</ENAMEX> ( laureat al Premiului <ENAMEX TYPE="PERSON">Nobel</ENAMEX> în <ENAMEX TYPE="LOCATION">Biologie</ENAMEX> ) ;
+<ENAMEX TYPE="PERSON">Mircea Eliade</ENAMEX> , renumitul istoric al religiilor ;
+<ENAMEX TYPE="PERSON">Eugen Ionescu</ENAMEX> , dramaturg al absurdului și <ENAMEX TYPE="PERSON">Emil Cioran</ENAMEX> .
+[ 311 ] Alți membri al diasporei , au fost <ENAMEX TYPE="PRODUCT">Sergiu Celibidache</ENAMEX> și <ENAMEX TYPE="PERSON">Ionel Perlea</ENAMEX> , renumiți dirijori .
+România Revoluționară .
+<ENAMEX TYPE="PERSON">C.D. Rosenthal</ENAMEX> .
+Muzică românească cuprinde totalitatea creațiilor muzicale elaborate de către români și strămoșii acestora .
+Posibilitatea de a trata muzică daco-geților și a protoromânilor este foarte limitată din pricina documentației minime păstrate .
+Începând cu Evul Mediu , situarea la confluența dintre est și vest a determinat o diferențiere între muzicile apreciate în primele state românești :
+cele așezate în apus beneficiază de influențe vestice , în vreme ce statele situate în est preiau elemente din muzicile bizantină , slavă și , mai târziu , turcească .
+Aceste influențe au acționat atât asupra muzicii folclorice , cât și a muzicii erudite ( muzică religioasă – gregoriană în apus și bizantină în răsărit – și muzică cultă laică ) .
+[ 333 ] Folclorul muzical românesc cuprinde toate creațiile culturii spirituale populare românești din domeniul artei sunetelor .
+Se face referire la moștenirea muzicală a românilor de la sat dintotdeauna și a popoarelor din care ei au luat naștere .
+[ 334 ] Sub delimitarea folcloristicii , [ 335 ] folclorul muzical constituie o ramură a creației tradiționale românești , alături de :
+folclorul literar , dans și teatrul popular .
+[ 336 ] [ 337 ] La începutul secolului <ENAMEX TYPE="ORGANIZATION">XX</ENAMEX> se remarcă compozitorul <ENAMEX TYPE="PERSON">George Enescu</ENAMEX> , primul creator român ce realizează o sinteză organică , profundă între muzică folclorică românească și tendințele muzicii culte ale vremii sale ( este epocă romantismului târziu ) ;
+[ 338 ] el folosește un limbaj muzical modern și experimentează în ariile modală și microtonală .
+[ 339 ] <ENAMEX TYPE="PERSON">Enescu</ENAMEX> este considerat cel mai valoros compozitor român din toate timpurile .
+[ 340 ] .
+[ modificare ] Știință .
+În domeniul tehnic se pot nota realizări spectaculoase în domeniul aviației , făcute de <ENAMEX TYPE="LOCATION">Traian Vuia</ENAMEX> , <ENAMEX TYPE="PERSON">Aurel Vlaicu</ENAMEX> , <ENAMEX TYPE="PERSON">Aurel Persu</ENAMEX> și Henri <ENAMEX TYPE="LOCATION">Coandă</ENAMEX> .
+[ 341 ] [ 342 ] Unul dintre întemeietorii ingineriei românești este <ENAMEX TYPE="PRODUCT">Anghel Saligny</ENAMEX> — - remarcabil inginer constructor , realizatorul multor invenții și premergător mondial al științei construcțiilor metalice și de beton armat .
+[ 343 ] În arhitectură , printre realizările semnificative , putem cita :
+Biserica Neagră , Castelul <ENAMEX TYPE="LOCATION">Bran</ENAMEX> , Castelul <ENAMEX TYPE="LOCATION">Huniazilor</ENAMEX> și Castelul Peleș .
+[ 344 ] În epocă modernă , <ENAMEX TYPE="PERSON">Ion Mincu</ENAMEX> este fondatorul școlii române de arhitectură .
+[ 345 ] În medicină , o mare contribuție adusă societății umane a fost rolul jucat în descoperirea insulinei de către omul de știință român <ENAMEX TYPE="PRODUCT">Nicolae Paulescu</ENAMEX> .
+[ 346 ] De asemenea , <ENAMEX TYPE="PERSON">Gheorghe Marinescu</ENAMEX> a fost un important neurolog , iar Victor Babeș a fost unul dintre primii bacteriologi .
+[ 347 ] Gheorghe Țițeica a fost unul dintre cei mai remarcabili matematicieni români .
+[ 348 ] .
+[ modificare ] Cinematografie .
+Cinematograful a apărut în <ENAMEX TYPE="LOCATION">România</ENAMEX> la 27 mai <TIMEX TYPE="DATE">1896</TIMEX> iar primele proiecții au avut loc în București la sediul ziarului de limbă franceză L ’ <ENAMEX TYPE="PRODUCT">Indépendance Roumaine</ENAMEX> .
+[ 349 ] Printre cei mai importanți regizori români , se numără :
+<ENAMEX TYPE="PERSON">Jean Georgescu</ENAMEX> , <ENAMEX TYPE="PERSON">Victor Iliu</ENAMEX> , <ENAMEX TYPE="PERSON">Liviu Ciulei</ENAMEX> , <ENAMEX TYPE="PERSON">Ion Popescu-Gopo</ENAMEX> , <ENAMEX TYPE="PERSON">Lucian Pintilie</ENAMEX> , Dan Pița , <ENAMEX TYPE="PERSON">Alexandru Tatos</ENAMEX> , <ENAMEX TYPE="PERSON">Mircea Daneliuc</ENAMEX> și <ENAMEX TYPE="PERSON">Sergiu Nicolaescu</ENAMEX> .
+Dintre filmele românești cu distincții internaționale pot fi amintite :
+Pădurea spânzuraților , Răscoala , A fost sau n- a fost ?
+și <ENAMEX TYPE="PERSON">California Dreamin</ENAMEX> ' ( Nesfârșit ) .
+Alte filme din ultimii ani care s- au bucurat de succes internațional sunt :
+Moartea domnului <ENAMEX TYPE="PERSON">Lăzărescu</ENAMEX> , regizat de <ENAMEX TYPE="PERSON">Cristi Puiu</ENAMEX> și 4 luni , 3 săptămâni și 2 zile realizat de <ENAMEX TYPE="LOCATION">Cristian Mungiu</ENAMEX> și premiat cu Palme d ’ Or la <ENAMEX TYPE="LOCATION">Cannes</ENAMEX> .
+[ 350 ] Printre cei mai talentați actori români , se numără :
+<ENAMEX TYPE="PERSON">Radu Beligan</ENAMEX> , <ENAMEX TYPE="PERSON">Constantin Tănase</ENAMEX> , <ENAMEX TYPE="PERSON">Florin Piersic</ENAMEX> , <ENAMEX TYPE="PERSON">Gheorghe Dinică</ENAMEX> , <ENAMEX TYPE="ORGANIZATION">Toma Caragiu</ENAMEX> , <ENAMEX TYPE="PERSON">Jean Constantin</ENAMEX> , Dem <ENAMEX TYPE="LOCATION">Rădulescu</ENAMEX> , <ENAMEX TYPE="PERSON">Puiu Călinescu</ENAMEX> , <ENAMEX TYPE="PERSON">Tamara Buciuceanu Botez</ENAMEX> , Dragă <ENAMEX TYPE="PRODUCT">Olteanu Matei</ENAMEX> , <ENAMEX TYPE="PERSON">Marin Moraru</ENAMEX> , <ENAMEX TYPE="PERSON">Stela Popescu</ENAMEX> , <ENAMEX TYPE="PERSON">Amza Pellea</ENAMEX> , <ENAMEX TYPE="PERSON">Ștefan Bănică</ENAMEX> , <ENAMEX TYPE="PERSON">Costel Băloiu</ENAMEX> , <ENAMEX TYPE="PERSON">Ilarion Ciobanu</ENAMEX> , <ENAMEX TYPE="PERSON">Nae Lăzărescu</ENAMEX> , <ENAMEX TYPE="PERSON">Sebastian Papaiani</ENAMEX> , Florian Pittiș , <ENAMEX TYPE="PERSON">Mircea Diaconu</ENAMEX> , Marcel Iureș , Maia <ENAMEX TYPE="LOCATION">Morgenstern</ENAMEX> și Alexandru Arșinel .
+[ modificare ] Patrimoniul Mondial .
+Pentru detalii , vezi :
+Patrimoniul mondial <ENAMEX TYPE="ORGANIZATION">UNESCO din România</ENAMEX> .
+Lista Patrimoniului Mondial <ENAMEX TYPE="ORGANIZATION">UNESCO</ENAMEX> include monumente din <ENAMEX TYPE="LOCATION">România</ENAMEX> precum :
+așezările săsești cu biserici fortificate din <ENAMEX TYPE="LOCATION">Transilvania</ENAMEX> , bisericile pictate din nordul <ENAMEX TYPE="LOCATION">Moldovei</ENAMEX> , bisericile de lemn din Maramureș , Mănăstirea <ENAMEX TYPE="LOCATION">Horezu</ENAMEX> , Cetatea Sighișoarei , fortărețele dacice din Munții Orăștiei și <ENAMEX TYPE="PERSON">Delta Dunării</ENAMEX> .
+[ 351 ] [ 108 ] De asemenea , în 2007 , orașul <ENAMEX TYPE="LOCATION">Sibiu</ENAMEX> a fost capitală europeană a culturii împreună cu <ENAMEX TYPE="PERSON">Luxemburg</ENAMEX> .
+[ 352 ] .
+[ modificare ] Armată .
+Paradă militară de Ziua Națională a <ENAMEX TYPE="LOCATION">României</ENAMEX> .
+Pentru detalii , vezi :
+Armată Română .
+Armată Română este formată din trei categorii de arme :
+Forțele Terestre , Forțele Aeriene și Forțele Navale , aflate sub comanda Statului Major General , direct subordonat Ministerului Apărării Naționale .
+Pe timp de război , Președintele <ENAMEX TYPE="PERSON">României</ENAMEX> este comandatul suprem al Forțelor Armatei .
+Ministerul Apărării Naționale are prevăzute , potrivit proiectului pe 2009 , cheltuieli în valoare de 7,65 miliarde de lei , respectiv 1,3% din <ENAMEX TYPE="LOCATION">PIB</ENAMEX> , [ 353 ] ceea ce reprezintă cu aproximativ două miliarde de lei mai puțin față de suma prevazută în proiectul fostului Guvern <ENAMEX TYPE="LOCATION">Tăriceanu</ENAMEX> .
+[ 354 ] Modernizarea armatei române necesită , în următorii 10 ani , 13 miliarde euro , doar pentru programele mari de înzestrare , planificate atât pentru forțele aeriene , cât și pentru cele terestre și navale .
+[ 355 ] În prezent , numărul total de efective participante la misiuni internaționale este de 1601 .
+[ 356 ] Momentan , sunt trupe române în <ENAMEX TYPE="LOCATION">Bosnia</ENAMEX> și Herțegovina , <ENAMEX TYPE="LOCATION">Kosovo</ENAMEX> , <ENAMEX TYPE="LOCATION">Irak</ENAMEX> și <ENAMEX TYPE="LOCATION">Afganistan</ENAMEX> .
+[ 357 ] Serviciul militar obligatoriu a fost eliminat din 2007 .
+[ 358 ] [ 359 ] [ 360 ] .
+[ modificare ] Dotări .
+Ca urmare a aderării <ENAMEX TYPE="LOCATION">României la NATO</ENAMEX> în 2004 , a urmat o perioadă de pregătiri intensive pentru transformarea armatei într- o instituție profesionistă până în anul 2007 , urmând a avea 90.000 de angajați , dintre care aproximativ 75.000 de militari și 15.000 civili .
+[ 361 ] Dintre cei 75.000 , circa 45.800 vor reprezenta forțele terestre , circa 13.250 forțele aeriene și 6.800 forțele navale , restul de 8.800 având alte sarcini .
+[ 362 ] În prezent Armată Română trece printr- un proces de restructurare în trei stagii .
+<ENAMEX TYPE="PERSON">Primul stagiu</ENAMEX> va fi completat în 2007 .
+Anul 2015 va marca sfârșitul celui de- al doilea stagiu , când forțele armate vor fi reduse la 80.000 de oameni .
+Întregul proces este estimat să fie completat în 2025 .
+Aceste modificări au ca scop modernizarea structurii forțelor armate , prin reducerea personalului și achiziționarea de tehnologie nouă și îmbunătățită , compatibilă cu standardele <ENAMEX TYPE="ORGANIZATION">NATO</ENAMEX> .
+[ 363 ] .
+Trupe române în <ENAMEX TYPE="LOCATION">Afganistan</ENAMEX> .
+Potrivit unui material difuzat de Ministerul Apărării Naționale ( <ENAMEX TYPE="ORGANIZATION">MApN</ENAMEX> ) , prioritatea în domeniul achizițiilor de echipamente moderne o dețin forțele aeriene .
+[ 364 ] O realizare a Forțelor Aeriene a fost modernizarea elicopterului <ENAMEX TYPE="PERSON">IAR</ENAMEX> - 330 <ENAMEX TYPE="PERSON">SOCAT</ENAMEX> , realizată cu ajutorul unei firme israeliene , care a dus la asigurarea interoperabilității cu sistemele <ENAMEX TYPE="PERSON">NATO</ENAMEX> [ 364 ] Tancul mijlociu românesc <ENAMEX TYPE="PERSON">TR-85 M1</ENAMEX> a intrat recent în dotarea Forțelor Terestre ale armatei române , el fiind variantă modernizată a principalului vehicul de luptă al infanteriei .
+[ 364 ] Obiectivul principal al Statului Major al Forțelor Navale a fost și este achiziția , revitalizarea și modernizarea fregatelor Regele <ENAMEX TYPE="LOCATION">Ferdinand</ENAMEX> și Regină <ENAMEX TYPE="LOCATION">Maria</ENAMEX> .
+[ 364 ] .
+[ modificare ] Istoric .
+La 12 / 24 noiembrie 1859 , Prin Înaltul Ordin de <ENAMEX TYPE="PERSON">Zi</ENAMEX> nr. 83 , al domnitorului <ENAMEX TYPE="PERSON">Alexandru Ioan Cuza</ENAMEX> , este înființat Statul Major General .
+[ 365 ] Bazele moderne ale constituirii și consacrării Forțelor Terestre pot fi plasate în timp din cea de- a doua jumătate a secolului al <ENAMEX TYPE="ORGANIZATION">XIX</ENAMEX> -lea .
+[ 366 ] Aviația militară română a luat ființă în anul 1910 datorită colaborării societății civile cu Ministerul de <ENAMEX TYPE="LOCATION">Război</ENAMEX> , iar primul avion militar de concepție și construcție românească , proiectat de inginerul aviator <ENAMEX TYPE="PERSON">Aurel Vlaicu</ENAMEX> și realizat la <ENAMEX TYPE="LOCATION">Arsenalul Armatei</ENAMEX> , a zburat la 17 iunie <TIMEX TYPE="DATE">1910</TIMEX> .
+[ 367 ] .
+Academia Militară cu Monumentul Eroilor Patriei .
+După unirea Principatelor Române , în anul 1859 , s- a acționat pentru contopirea flotelor din <ENAMEX TYPE="PRODUCT">Moldova</ENAMEX> și <ENAMEX TYPE="PRODUCT">Muntenia</ENAMEX> și organizarea unei structuri navale unitare ce s- a numit Corpul Flotilei .
+<ENAMEX TYPE="PERSON">Prima flotilă</ENAMEX> militară a statului român a avut în compunere 6 șalupe-canoniere și era dispusă în 6 baze , în porturile <ENAMEX TYPE="LOCATION">Chilia</ENAMEX> , <ENAMEX TYPE="LOCATION">Ismail</ENAMEX> , Galați , <ENAMEX TYPE="LOCATION">Brăila</ENAMEX> , <ENAMEX TYPE="LOCATION">Giurgiu</ENAMEX> și Calafat .
+[ 368 ] <ENAMEX TYPE="PERSON">NMS Delfinul</ENAMEX> este numele a primului din cele două submersibile cu acest nume ale Marinei Militare Române .
+[ 369 ] Cel actual , numit tot „ Delfinul ” în memoria primului , a fost construit în <ENAMEX TYPE="LOCATION">URSS</ENAMEX> .
+[ 370 ] Marină militară Română mai avea înainte de al <ENAMEX TYPE="ORGANIZATION">Doilea Război Mondial</ENAMEX> alte două submarine :
+Rechinul și Marsuinul .
+[ 371 ] .
+În <ENAMEX TYPE="LOCATION">Armată României</ENAMEX> , uniformele militare sunt purtate conform unui regulament .
+[ 372 ] Toți militarii , indiferent de grad , inclusiv cei în rezervă și în retragere care au aprobare de a purta ținută militară , sunt obligați să cunoască și să aplice prevederile acestuia privind ținutele .
+[ 372 ] Etapele de evoluție a uniformelor militare românești sunt legate de momente ale organizării armatei și reflectă caracterele epocii .
+[ 372 ] Distincțiile militare onorifice sunt însemne care simbolizează aprecierea faptelor deosebite săvârșite în timpul îndeplinirii misiunilor militare .
+Ele cuprind embleme , insigne onorifice , plachete , denumiri onorifice și distincții de serviciu .
+[ 373 ] .
+Clubul sportiv al armatei , Steaua , a fost înființat la 6 iunie <TIMEX TYPE="DATE">1947</TIMEX> , pentru a continua într- un cadru instituționalizat vechea tradiție a practicării sportului în <ENAMEX TYPE="LOCATION">Armată României</ENAMEX> .
+În cei 60 de ani de existență , sportivii clubului s- au aflat în permanență printre protagoniștii întrecerilor naționale și internaționale .
+[ 374 ] În fiecare an , pe 25 octombrie <ENAMEX TYPE="PERSON">se</ENAMEX> sărbătorește Ziua Armatei , [ 375 ] iar pe 1 decembrie , de Ziua Națională a <ENAMEX TYPE="LOCATION">României</ENAMEX> , în București și la <ENAMEX TYPE="LOCATION">Albă-Iulia</ENAMEX> au loc numeroase parade militare .
+[ 376 ] În București se află Universitatea Naționala de Apărare [ 377 ] și Muzeul Militar Național .
+[ 378 ] .
+[ modificare ] Sport .
+Pentru detalii , vezi :
+sportul în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Primele asociații sportive din <ENAMEX TYPE="LOCATION">România</ENAMEX> au fost înființate la mijlocul secolului al <ENAMEX TYPE="ORGANIZATION">XIX</ENAMEX> -lea .
+Una din primele s- a numit „ Societatea de dare la semn ” ( înființată în timpul domniei lui Al .
+<ENAMEX TYPE="PERSON">I. Cuza</ENAMEX> ) .
+[ 379 ] În primii ani ai secolului al <ENAMEX TYPE="ORGANIZATION">XX</ENAMEX> -lea s- au extins sporturi precum boxul , ciclismul și mai târziu jocurile de echipă .
+<ENAMEX TYPE="PERSON">Primul meci</ENAMEX> de fotbal oficial s- a jucat la Timișoara în 1902 iar în 1910 a fost înființat primul club de rugby în București .
+<TIMEX TYPE="TIME">Doi ani</TIMEX> mai târziu a fost înființată în capitală Federația Societăților Sportive din <ENAMEX TYPE="LOCATION">România</ENAMEX> , fiind urmată de înființarea Comitetului Olimpic Român în 1914 .
+[ 380 ] Prima instituție de învățământ superior în acest domeniu , Institutul Național de Educație Fizică , și- a deschis porțile în 1923 .
+În perioada dintre cele două războaie mondiale sportivii români au obținut primele victorii în concursurile internaționale .
+[ 379 ] .
+[ modificare ] Oină .
+<ENAMEX TYPE="PERSON">Adrian Mutu</ENAMEX> .
+Pentru detalii , vezi :
+Oină .
+Oina — sau hoina cum i se mai spunea — este socotită un joc sportiv național pentru români , având , pe pământul românesc , o vechime de cel puțin 6 secole , așa cum menționează cronici și hrisoave care îi subliniază popularitatea de care se bucură printre copii și tineri , oșteni și voievozi .
+În timpul lui <ENAMEX TYPE="PERSON">Vlaicu Vodă</ENAMEX> , anul 1364 , oina se juca în <ENAMEX TYPE="LOCATION">Țara Românească</ENAMEX> , ea pătrunzând peste tot :
+în sate , în comune , în viața oamenilor .
+[ 381 ] Jocul de oină amintește de o veche îndeletnicire a daco-romanilor , păstoritul .
+A „ oina ” oile înseamnă a le coborî toamnă de la munte la șesul verde , într- o zonă sau localitate din apropierea unui râu , fenomen numit transhumanță .
+[ 382 ] .
+[ modificare ] Fotbal .
+Pentru detalii , vezi :
+Fotbalul în <ENAMEX TYPE="LOCATION">România</ENAMEX> .
+Stadionul Național Lia Manoliu , București .
+Echipa națională de fotbal a <ENAMEX TYPE="LOCATION">României</ENAMEX> își începe activitatea prin meciul de la 8 iunie <ENAMEX TYPE="ORGANIZATION">1922</ENAMEX> de la <ENAMEX TYPE="LOCATION">Belgrad</ENAMEX> , contra <ENAMEX TYPE="LOCATION">Iugoslaviei</ENAMEX> , scorul fiindu -i favorabil cu 2-1 .
+La 20 mai <TIMEX TYPE="DATE">1923</TIMEX> Comisia de <ENAMEX TYPE="LOCATION">Fotbal a FSSR</ENAMEX> ( Federația Societăților Sportive din <ENAMEX TYPE="LOCATION">România</ENAMEX> ) este admisă la <ENAMEX TYPE="ORGANIZATION">Congresul</ENAMEX> de la <ENAMEX TYPE="LOCATION">Zürich</ENAMEX> ca membră a <ENAMEX TYPE="ORGANIZATION">FIFA</ENAMEX> .
+În această calitate de membră a <ENAMEX TYPE="LOCATION">FIFA</ENAMEX> , <ENAMEX TYPE="PERSON">România</ENAMEX> participă la <ENAMEX TYPE="LOCATION">Turneul Olimpic de Fotbal</ENAMEX> de la Jocurile Olimpice din 1924 desfășurate la <ENAMEX TYPE="LOCATION">Paris</ENAMEX> .
+Federația Română de <ENAMEX TYPE="PERSON">Fotbal</ENAMEX> este membră fondatoare a <ENAMEX TYPE="ORGANIZATION">UEFA</ENAMEX> în 1954 .
+Din august 1990 , <ENAMEX TYPE="ORGANIZATION">FRF</ENAMEX> a devenit organ independent de conducere al mișcării fotbalistice din <ENAMEX TYPE="LOCATION">România</ENAMEX> , primul președinte ales fiind <ENAMEX TYPE="PRODUCT">Mircea Sandu</ENAMEX> .
+[ 383 ] .
+La nivel internațional , selecționata de fotbal a <ENAMEX TYPE="PERSON">României</ENAMEX> a participat până acum la 7 Campionate Mondiale de <ENAMEX TYPE="LOCATION">Fotbal</ENAMEX> .
+Cele mai mari succese le- a înregistrat pe parcursul anilor ' 90 .
+În 1994 , la Campionatul Mondial din Statele Unite , echipa <ENAMEX TYPE="ORGANIZATION">României</ENAMEX> a reușit să ajungă până în sferturi , clasându -se atunci pe poziția 6 în clasamentul <ENAMEX TYPE="ORGANIZATION">FIFA</ENAMEX> .
+Liderul generației de aur [ 384 ] a fotbalului românesc este <ENAMEX TYPE="PRODUCT">Gheorghe Hagi</ENAMEX> .
+[ 385 ] În prezent , dintre fotbaliștii români celebri pot fi amintiți <ENAMEX TYPE="PERSON">Adrian Mutu</ENAMEX> și <ENAMEX TYPE="PERSON">Cristian Chivu</ENAMEX> .
+Cel mai cunoscut club de fotbal din <ENAMEX TYPE="LOCATION">România</ENAMEX> este Steaua București , care în 1986 a fost prima echipă din estul <ENAMEX TYPE="PERSON">Europei</ENAMEX> și singură din <ENAMEX TYPE="LOCATION">România</ENAMEX> ce a câștigat Cupă Campionilor Europeni .
+[ 386 ] De asemenea , în 1989 a mai jucat o finală a Cupei Campionilor Europeni .
+[ 386 ] Altă echipă de succes din fotbalul românesc este Dinamo București care a jucat o semifinală a Cupei Campionilor Europeni în 1984 , iar în 1990 semifinala Cupei Cupelor <ENAMEX TYPE="ORGANIZATION">UEFA</ENAMEX> .
+[ 387 ] .
+[ modificare ] Alte sporturi și Jocurile Olimpice .
+Pentru detalii , vezi :
+<ENAMEX TYPE="ORGANIZATION">România la Jocurile Olimpice</ENAMEX> .
+<ENAMEX TYPE="PERSON">Prima participare a României</ENAMEX> al Jocurile Olimpice a fost în 1900 când a participat doar cu un singur sportiv .
+Mai apoi , delegația <ENAMEX TYPE="PERSON">României</ENAMEX> a fost prezentă la toate edițiile Jocurilor Olimpice începând cu anul 1924 , excepție făcând două ediții de vară , cele din 1932 și 1948 și una de iarnă , cea din 1960 .
+<ENAMEX TYPE="PERSON">România</ENAMEX> are un palmares de 292 de medalii ( din care 86 de aur , 89 de argint și 117 de bronz ) [ 388 ] câștigate de sportivi la <ENAMEX TYPE="LOCATION">Jocurile Olimpice</ENAMEX> de vară , de la prima ediție , <ENAMEX TYPE="LOCATION">Paris</ENAMEX> , 1924 până la ediția <ENAMEX TYPE="PRODUCT">Beijing 2008</ENAMEX> .
+[ 380 ] <ENAMEX TYPE="PERSON">Prima medalie</ENAMEX> olimpică , una de bronz , a fost câștigată la <ENAMEX TYPE="LOCATION">Paris</ENAMEX> în 1924 de către echipa de rugby .
+Ea a fost urmată de una de argint la cursele de cai la <ENAMEX TYPE="LOCATION">Olimpiada din Berlin</ENAMEX> din 1936 .
+[ 379 ] <ENAMEX TYPE="PERSON">Primele titluri</ENAMEX> de campion mondial au fost câștigate în 1934 și 1936 la sanie , în timp ce boxul românesc obținea primul titlu european în 1930 prin <ENAMEX TYPE="PRODUCT">Lucian Popescu</ENAMEX> .
+În anii ' 50 s- au înregistrat succese notabile la tenis de masă feminin , tir , box , lupte și haltere .
+[ 379 ] Dintre sportivii din această perioadă pot fi amintiți <ENAMEX TYPE="PERSON">Iosif Sîrbu</ENAMEX> și Iolanda Balaș .
+La caiac-canoe <ENAMEX TYPE="PERSON">România</ENAMEX> s- a remarcat prin <ENAMEX TYPE="PRODUCT">Ivan Patzaichin</ENAMEX> [ 389 ] iar la canotaj prin <ENAMEX TYPE="PRODUCT">Elisabeta Lipă</ENAMEX> .
+[ 390 ] .
+Sandra Izbașa .
+Gimnastică românească a avut un număr semnificativ de succese fapt pentru care <ENAMEX TYPE="PERSON">România</ENAMEX> a devenit cunoscută în întreaga lume .
+<ENAMEX TYPE="PERSON">Nadia Comaneci</ENAMEX> , prin performanțele sale răsunătoare consemnate de istoria sportului ca expresie a perfecțiunii este recunoscută peste ani de mișcarea olimpică ca sportivă secolului al <ENAMEX TYPE="ORGANIZATION">XX</ENAMEX> -lea .
+[ 391 ] .
+La 2 mai <TIMEX TYPE="DATE">1910</TIMEX> se înființează grupare polisportiva „ Tenis Club <ENAMEX TYPE="PRODUCT">Roman</ENAMEX> ” ( <ENAMEX TYPE="ORGANIZATION">TCR</ENAMEX> ) .
+Această reunea mai multe discipline :
+sporturi atletice , canotaj , footbal-rugby ( denumirea englezească a rugby -ului ) , fotbal , înot , patinaj , sporturi de iarnă , scrimă , tenis și tir .
+Culorile noului club erau alb și verde , iar numărul membrilor se apropia de 350 .
+Jocul de rugby avea să apară în cadrul acestui club peste doi-trei ani , printre promotorii acestei discipline numărându -se <ENAMEX TYPE="PERSON">Grigore Caracostea</ENAMEX> și <ENAMEX TYPE="PERSON">Mircea Iconomu</ENAMEX> .
+[ 392 ] La fel cum s- a întâmplat și cu jocul de fotbal , primele noțiuni legate de rugby , precum și cele dintâi baloane de joc , au fost aduse la București de către tineri români care studiaseră la <ENAMEX TYPE="LOCATION">Paris</ENAMEX> .
+Acest proces s- a petrecut pe la începutul secolului al <ENAMEX TYPE="ORGANIZATION">XX</ENAMEX> -lea .
+[ 393 ] [ 394 ] [ 395 ] [ 396 ] .
+Jocul de baschet se răspândește în <ENAMEX TYPE="LOCATION">Europa</ENAMEX> la începutul secolului al <ENAMEX TYPE="ORGANIZATION">XX</ENAMEX> -lea , fiind prezentat demonstrativ la <ENAMEX TYPE="LOCATION">Jocurile Olimpice</ENAMEX> din 1904 , de la <ENAMEX TYPE="LOCATION">St</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Louis</ENAMEX> .
+În 1932 se constituie Federația Internațională de Baschet Amator ( <ENAMEX TYPE="ORGANIZATION">F.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">I.B.A.</ENAMEX> ) .
+<ENAMEX TYPE="PERSON">România</ENAMEX> s- a aflat printre cele 8 țări membre fondatoare ale forului mondial alături de <ENAMEX TYPE="PERSON">Anglia</ENAMEX> , <ENAMEX TYPE="LOCATION">Argentina</ENAMEX> , <ENAMEX TYPE="LOCATION">Cehoslovacia</ENAMEX> , <ENAMEX TYPE="LOCATION">Grecia</ENAMEX> , <ENAMEX TYPE="LOCATION">Italia</ENAMEX> , <ENAMEX TYPE="LOCATION">Lituania</ENAMEX> , Elveția și <ENAMEX TYPE="LOCATION">Portugalia</ENAMEX> .
+Din 1935 se dispută campionatele europene ( la care a participat și o echipă din această țară ) .
+În <ENAMEX TYPE="LOCATION">România</ENAMEX> , primele demonstrații de baschet au fost efectuate în 1920 .
+Până în 1923 , baschetul se practică în special în liceele din capitală , organizându -se sporadic competiții interșcolare .
+Federația Română de <ENAMEX TYPE="PERSON">Baschet</ENAMEX> și Volei ia ființă în 1931 .
+Dintre performanțele <ENAMEX TYPE="PRODUCT">României</ENAMEX> pe plan internațional menționăm clasarea de 3 ori pe locul <ENAMEX TYPE="ORGANIZATION">IV</ENAMEX> la campionatele feminine europene ( 1964,1966 , 1968 ) și de 2 ori pe locul <ENAMEX TYPE="ORGANIZATION">V</ENAMEX> la cele masculine ( 1957,1967 ) .
+În 1981 , la <ENAMEX TYPE="ORGANIZATION">Campionatele Mondiale Universitare</ENAMEX> echipa de fețe a <ENAMEX TYPE="LOCATION">României</ENAMEX> s- a clasat pe locul <ENAMEX TYPE="LOCATION">III</ENAMEX> , cucerind medalia de bronz , iar echipa masculină a ocupat locul <ENAMEX TYPE="ORGANIZATION">IV</ENAMEX> .
+[ 397 ] .
+Constantina Diță-Tomescu .
+Cu <ENAMEX TYPE="PERSON">Ion Țiriac</ENAMEX> și <ENAMEX TYPE="PERSON">Ilie Năstase</ENAMEX> ( ultimul fiind câștigătorul marelui premiu <ENAMEX TYPE="ORGANIZATION">FILT</ENAMEX> în 1972 și 1973 ) <ENAMEX TYPE="PERSON">România</ENAMEX> a fost de trei ori finalistă în <ENAMEX TYPE="LOCATION">Cupă Davis</ENAMEX> , fără însă a o câștiga vreodată .
+[ 379 ] Echipa masculină de handbal a câștigat 4 titluri mondiale .
+[ 398 ] .
+În <ENAMEX TYPE="LOCATION">România</ENAMEX> , scrima este rezultatul împletirii mânuirii armelor și activităților militare organizate cu influența străină pătrunsă prin intermediul războaielor și schimburilor economice și culturale , fiecare epocă aducându -și contribuția la scrima sportivă de astăzi .
+În perimetrul țării această activitate s- a aflat printre primele discipline sportive .
+<ENAMEX TYPE="LOCATION">Prima participare</ENAMEX> românească la un concurs internațional de scrimă are loc în 1910 , în Franța , <ENAMEX TYPE="PRODUCT">Mihai Savu</ENAMEX> ocupând locul <ENAMEX TYPE="LOCATION">I.</ENAMEX> În 1911 , la <ENAMEX TYPE="LOCATION">Paris</ENAMEX> , românul <ENAMEX TYPE="LOCATION">Dinu Cesianu</ENAMEX> cucerește primul loc la un concurs internațional de spadă .
+În 1932 , forul sportiv U.F.S.R. recunoște oficial Federația Română de <ENAMEX TYPE="LOCATION">Scrimă</ENAMEX> .
+[ 399 ] .
+Atletismul apare în <ENAMEX TYPE="LOCATION">România</ENAMEX> la sfârșitul secolului al <ENAMEX TYPE="ORGANIZATION">XIX</ENAMEX> -lea , la inițiativa studenților care studiau în țările occidentale .
+În timpul vacanțelor , aceștia promovau atletismul organizând competiții de alergări , sărituri și aruncări .
+Primele Campionate Naționale ale <ENAMEX TYPE="LOCATION">României</ENAMEX> sunt organizate în 1914 , la 16 probe , și se adresează doar bărbaților .
+Un an mai târziu , în 1915 , se inaugurează la București primul teren de atletism , pe locul care devine ulterior Stadionul Tineretului .
+<ENAMEX TYPE="PERSON">Primul concurs</ENAMEX> organizat de atletism are loc în 1882 la București , cu participarea elevilor de la liceele <ENAMEX TYPE="PERSON">Sf. Sava</ENAMEX> și <ENAMEX TYPE="PERSON">Matei Basarab</ENAMEX> .
+[ 400 ] La atletism , <ENAMEX TYPE="PERSON">Gabriela Szabó</ENAMEX> a fost , de asemenea , de trei ori campioană mondială .
+[ 401 ] .

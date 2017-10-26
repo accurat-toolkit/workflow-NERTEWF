@@ -1,0 +1,24 @@
+Microsoft Corporation (NASDAQ indeksas MSFT) – JAV programinės įrangos kūrimo kompanija, kurios pagrindinė būstinė yra Redmonde (Sietlo rytinis priemiestis), Vašingtono valstijoje. Tai didžiausia pasaulyje programinės įrangos gamintoja, 2006 metais kompanijoje dirbo virš 71 000 žmonių. 2008 metais kompanijoje dirbo 89 809 žmonių 105 valstybėse.[1]
+Turinys [slėpti]
+1 Produkcija
+2 Istorija
+3 Lietuvoje
+4 Konkurentai
+5 Nuorodos
+[taisyti]Produkcija
+
+Populiariausias Microsoft gaminamas produktas – Microsoft Windows operacinių sistemų grupė. Taip pat plačiai paplitę yra biuro programų paketas Microsoft Office ir naršyklė Internet Explorer.
+[taisyti]Istorija
+
+Kompanija „Micro - soft“ įkurta 1975 metais Albukerkėje, Naujosios Meksikos valstijoje, siekiant kurti ir parduoti BASIC kalbos interpretatorių Altair 8800 kompiuteriams. Ją įkūrė Bilas Geitsas (Bill Gates) ir Polas Alenas (Paul Allen), prieš tai kartu turėję kompaniją „Traf-O-Data“. Pavadinimas kilo iš žodžių junginio „microcomputer software“, pirmą kartą šis pavadinimas paminėtas Bilo Geitso laiške P. Alenui 1975 lapkričio 29. Pavadinimas „Microsoft“ (be brūkšnelio) tapo registruotu prekės ženklu 1976 lapkričio 26. Antras kompanijos kurtas produktas buvo Fortran kalbos kompiliatorius CP/M mašinoms, išleistas 1977 rugpjūtį. Vėliau leistas COBOL kalbos kompiliatorius.
+Svarbus Microsoft kompanijai laikotarpis buvo aštuntojo dešimtmečio pabaiga, kai IBM planavo įeiti į asmeninių kompiuterių rinką su IBM PC. Tuo metu IBM atstovai domėjosi Microsoft BASIC kalba bei operacine sistema, tačiau Microsoft neturėdami operacinės sistemos nukreipė juos į CP/M gamintojus, bet šie nesutiko su IBM sąlygom, todėl IBM grįžo pas Microsoft, kurie licencijavo QDOS (Quick and Dirty Operating System) ir pardavė ją IBM. Vėliau Microsoft nusipirko visas teises į QDOS už $50000, bei pervadino produktą į MS-DOS (Microsoft Disk Operating System).
+Devintojo dešimtmečio pradžioje daugeliui kompiuterių gamintojų kopijuojant IBM PC, Microsoft pradėjo agresyvią pardavimų gamintojams politiką, taip užsitikrindami nemažą rinkos dalį.
+1986 vasarį Microsoft persikėlė į Redmondą, kur šiuo metu kompanijos būstinę sudaro pastatai, kurių bendras plotas – 750 000 m², čia dirba apie 28 000 darbuotojų.
+[taisyti]Lietuvoje
+
+2003 metais Microsoft įsteigė savo atstovybę Lietuvoje – UAB „Microsoft Lietuva“. Pagrindinės jos veiklos kryptys – programinės įrangos platinimo organizavimas ir IT paslaugų teikimas.
+2006 metais Microsoft inicijavo Lietuvos valdžios institucijų tyrimą – ar Lietuvos Vyriausybė teisingai pasirenka ilgalaikes šalies vystymo strategijas programinės įrangos naudojimo srityje. Vien pirmai tyrimų stadijai skiriama daugiau kaip 50 000 litų. Kritikų teigimu, aiškius finansinius interesus turinčios bendrovės apmokamas tyrimas greičiausiai nebus labai objektyvus ir jo išvados pirmiausia bus nukreiptos prieš didėjantį atviro kodo populiarumą [1]. Tyrimą vykdys Vilniaus Universitetas ir Lietuvos laisvosios rinkos institutas.
+[taisyti]Konkurentai
+
+Dėl didelio Microsoft parduodamų bei gaminamų programinės ir aparatūrinės įrangos produktų kiekio su šia korporacija konkuruoja labai daug kompanijų bei laisvos programinės įrangos gamintojų, tarp jų duomenų bazių sistemų gamintojai Oracle, IBM, PostgreSQL ir MySQL; operacinių sistemų gamintojai Sun Microsystems (Solaris OS), IBM (įvairios OS Linux pagrindu), Novell (Suse Linux OS), Redhat, Canonical Ltd. (Ubuntu OS); biuro programinės įrangos gamintojai SUN (StarOffice biuro paketas), laisvas OpenOffice.org biuro paketo projektas, Corel (WordPerfect Office biuro paketas); interneto naršyklių bei el. pašto programų gamintojai Mozilla korporacija, Opera Software ir t. t.
+Pastaruoju metu Microsoft aktyviai veržiasi ir į aparatūrinės įrangos, pvz žaidimų kompiuterių rinką, kurioje konkuruoja su Sony PlayStation bei kitais gamintojais.

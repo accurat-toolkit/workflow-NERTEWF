@@ -1,0 +1,3 @@
+﻿./TEST/muc7_en_in/Apple.txt	./TEST/muc7_ro_in/Apple.txt	0
+./TEST/muc7_en_in/Latvia.txt	./TEST/muc7_ro_in/Latvia.txt	0
+./TEST/muc7_en_in/Microsoft.txt	./TEST/muc7_ro_in/Microsoft.txt	0

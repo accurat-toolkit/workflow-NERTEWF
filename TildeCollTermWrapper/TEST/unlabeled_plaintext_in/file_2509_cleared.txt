@@ -1,0 +1,70 @@
+Šis raksts palīdzēs jums iemācīties datorā atrast, organizēt un lietot failus un mapes.
+Kas ir faili un mapes?
+Fails ir ļoti līdzīgs rakstītam dokumentam, ko varat atrast uz kāda rakstāmgalda vai kartotēkā; tas ir vienums, kurā ir apkopota saistīta informācija. Datora failu piemēri ir teksta dokumenti, izklājlapas, ciparattēli un pat dziesmas. Piemēram, katram attēlam, kas tiek uzņemts ar ciparkameru, ir atsevišķs fails, un mūzikas kompaktdiskā var būt neskaitāmi atsevišķi dziesmu faili.
+Dators failus attēlo ikonu veidā. Apskatot faila ikonu, tūlīt var noteikt faila veidu. Dažas biežāk sastopamo failu ikonas:
+Pēc ikonas izskata var noteikt, kādam faila veidam tā atbilst
+Mapi var aptuveni salīdzināt ar konteineru, kurā tiek glabāti faili. Ja uz rakstāmgalda novietotu tūkstošiem papīra dokumentu, konkrētu dokumentu vajadzības gadījumā atrast būtu gandrīz neiespējami. Tāpēc cilvēki papīra dokumentus bieži uzglabā kartotēku mapēs. Dokumentu sakārtošana loģiskās grupās ļauj viegli noteikt katra konkrētā dokumenta atrašanās vietu.
+Datora mapes pilda to pašu funkciju. Tāpēc arī tipiska mapes ikona izskatās šādi:
+Tukša mape (pa kreisi); mape, kurā ir faili (pa labi)
+Mapēs var glabāt ne tikai failus, bet arī citas mapes. Mape, kas atrodas mapē, parasti tiek saukta par apakšmapi. Var izveidot neierobežoti daudz apakšmapju, un katrā no tām var atrasties neierobežoti daudz failu un papildu apakšmapju.
+Kā sistēma Windows organizē failus un mapes
+Faili un mapes nav jāsāk organizēt no tukšas vietas. Sistēmas Windows komplektā ir dažas bieži izmantojamas mapes, kuras var izmantot kā enkurus, lai sāktu organizēt failus. Lūk, saraksts ar dažām biežāk izmantojamām mapēm, kurās var uzglabāt failus un mapes:
+Dokumenti. Lietojiet šo mapi teksta apstrādes failu, izklājlapu, prezentāciju un citu ar darbu saistītu failu uzglabāšanai.
+Attēli. Lietojiet šo mapi ciparattēlu uzglabāšanai neatkarīgi no tā, vai tie iegūti no kameras, skenera vai saņemti no citiem cilvēkiem pa e‑pastu.
+Mūzika. Lietojiet šo mapi, lai saglabātu visus ciparmūzikas ierakstus, piemēram, dziesmas, ko kopējat no audio kompaktdiska vai lejupielādējat no interneta.
+Video. Lietojiet šo mapi, lai uzglabātu videoierakstus, piemēram, ar ciparkameru vai videokameru uzņemtus klipus vai no interneta lejupielādētus video failus.
+Lejupielādes. Lietojiet šo mapi tādu programmu un failu uzglabāšanai, kurus lejupielādējat no tīkla Web.
+Šīs mapes var atrast vairākos veidos. Visvienkāršāk ir atvērt personisko mapi, kur vienā vietā ir apkopotas visas bieži izmantojamās mapes. Personiskā mape īstenībā netiek saukta par "personisko" — tā tiek apzīmēta ar lietotājvārdu, kas tiek izmantots, piesakoties datorā. Lai to atvērtu, noklikšķiniet uz pogas Sākt
+un pēc tam izvēlnes Sākt labās rūts augšpusē noklikšķiniet uz sava lietotājvārda.
+Bieži izmantojamās mapes var atvērt no izvēlnes Sākt
+Mapes Dokumenti, Attēli un Mūzika var atrast arī izvēlnē Sākt personiskajā mapē.
+Atcerieties, ka jebkurā no šīm mapēm varat izveidot apakšmapes, lai palīdzētu labāk organizēt failus. Piemēram, mapē Attēli varat izveidot apakšmapes, lai organizētu attēlus pēc datuma, notikuma, attēlos redzamo cilvēku vārdiem vai jebkuras citas shēmas, kas palīdz strādāt efektīvāk.
+Par mapes daļām
+Darbvirsmā atverot mapi, parādās mapes logs. Mapes logā līdztekus mapes saturam ir redzamas dažādas daļas, kas var palīdzēt naviģēt sistēmā Windows vai atvieglot darbu ar failiem un mapēm. Lūk, tipiska mape un visas tās daļas:
+Mape Dokumenti
+Adrešu josla
+Lietojiet adrešu joslu, lai navigētu uz citu mapi, neaizverot pašreiz atvērtās mapes logu. Plašāku informāciju skatiet Navigācija, lietojot adrešu joslu .
+Pogas Atpakaļ un Uz priekšu
+Lietojiet pogas Atpakaļ un Uz priekšu, lai navigētu uz citām jau atvērtajām mapēm, neaizverot pašreizējo logu. Šīs pogas darbojas kopā ar adrešu joslu. Piemēram, pēc tam, kad adrešu josla ir lietota, lai mainītu mapes, var izmantot pogu Atpakaļ, lai atgrieztos pie sākotnējās mapes.
+Lodziņš Meklēt
+Lai meklētu failu vai apakšmapi, kas atrodas pašreizējā mapē, lodziņā Meklēt ierakstiet vārdu vai frāzi. Meklēšana tiek sākta, tiklīdz sākat rakstīt. Piemēram, ja ierakstāt B, mapes faila sarakstā parādās visi faili, kas sākas ar burtu B. Plašāku informāciju skatiet Faila vai mapes atrašana .
+Rīkjosla
+Rīkjosla ļauj veikt parastos uzdevumus, piemēram, mainīt failu un mapju izskatu, kopēt failus kompaktdiskā vai sākt ciparattēlu slaidrādi. Rīkjoslas pogas mainās, lai tiktu rādītas tikai derīgās komandas. Piemēram, ja noklikšķināt uz attēla faila, rīkjoslā tiek parādītas citādas pogas nekā tās, kas tiktu parādītas, ja jūs noklikšķinātu uz mūzikas faila.
+Navigācijas rūts
+Līdzīgi kā adrešu josla arī navigācijas rūts ļauj mainīt skatu uz citām mapēm. No sadaļas Manas izlases saites var viegli pārslēgties uz bieži izmantojamo mapi vai sākt iepriekš saglabātā vienuma meklēšanu. Ja bieži dodaties uz vienu mapi, varat to pārvilkt uz navigācijas rūti, lai izveidotu to par vienu no savām izlases saitēm. Plašāku informāciju skatiet Darbs ar navigācijas rūti .
+Failu saraksts
+Failu sarakstā tiek parādīts faktiskās mapes saturs. Ja lodziņā Meklēt kaut ko ierakstāt, lai atrastu failu, tiks parādīti tikai tie faili, kas atbilst meklēšanas kritērijiem. Plašāku informāciju skatiet Padomi, kā atrast failus .
+Kolonnu virsraksti
+Lietojiet kolonnu virsrakstus, lai failus un failu sarakstus organizētu savādāk. Failus var kārtot, grupēt vai likt kaudzē pašreizējā skatā. Plašāku informāciju skatiet Padomi, kā atrast failus .
+Detalizētas informācijas rūts
+Detalizētas informācijas rūtī ir parādīti bieži izmantojamie rekvizīti, kas saistīti ar atlasīto failu. Faila rekvizīti ir informācija par failu, piemēram, autors, datums, kad pēdējo reizi failā veiktas izmaiņas, kā arī visas aprakstošāsetiķetes, kuras pievienojat failam. Plašāku informāciju skatiet Etiķešu vai citu rekvizītu pievienošana failiem .
+Priekšskatījuma rūts
+Priekšskatījuma rūtī var skatīt dažādu failu saturu. Ja, piemēram, atlasāt e‑pasta ziņojumu, teksta failu vai attēlu, tad varat skatīt tā saturu, neatverot to programmā. Vairākumā mapju pēc noklusējuma priekšskatījuma rūts rādīta netiek. Lai to skatītu, rīkjoslā noklikšķiniet uz pogas Organizēt, Izkārtojums un pēc tam uz Priekšskatījuma rūts.
+Mapes failu apskatīšana
+Atverot mapi un apskatot failus, jūs varat dot priekšroku lielākām (vai mazākām) ikonām vai izkārtojumam, kas dod iespēju par katru failu skatīt atšķirīgu informāciju. Lai veiktu šīs izmaiņas, rīkjoslā lietojiet pogu Skati.
+Ikreiz, kad noklikšķināt uz pogas Skati, mapes logā tiek mainīts failu un mapju ikonu parādīšanas veids — pārmaiņus ir redzamas lielas ikonas, mazāku ikonu skats, ko dēvē par Mozaīku, kā arī skats Detaļas, kurā ir redzamas vairākas faila informācijas kolonnas.
+Ja noklikšķināt uz bultiņas blakus pogai Skati, tiek piedāvāts pat vēl vairāk izvēļu. Lai precīzi regulētu failu un mapju ikonu lielumu, velciet slīdni uz augšu vai leju. Pārvietojot slīdni, ir redzams, kā ikonas maina lielumu.
+Pogas Skati opcijas
+Failu atrašana
+Kad jāatrod konkrēts fails, jūs bieži zināt, ka tas atrodas kādā no bieži izmantojamām mapēm, piemēram, Dokumenti vai Attēli. Diemžēl, lai atrastu vajadzīgo failu, dažkārt ir jāpārlūko simtiem failu un apakšmapju. Tas nav vienkāršs uzdevums. Lai ietaupītu laiku un pūles, faila atrašanai lietojiet lodziņu Meklēt.
+Lodziņš Meklēt
+Lodziņš Meklēt atrodas katras mapes augšpusē. Lai atrastu failu, atveriet mapi, kurā atrodas vajadzīgais fails, noklikšķiniet uz lodziņa Meklēt un sāciet rakstīt. Meklēšanas lodziņš filtrē pašreizējo skatu atkarībā no ievadītā teksta. Ja meklējamais termins atbilst faila nosaukumam, tagiem vai citiem faila rekvizītiem, faili tiek parādīti kā meklēšanas rezultāti. Ja meklējamais termins tiek atrasts kādā tekstā, kas atrodas dokumentā, tiek parādīts teksta dokuments. Meklēšana tiek veikta pašreizējā mapē, kā arī visās apakšmapēs.
+Ja nezināt, kur failu meklēt, varat izvērst meklēšanu, ietverot tajā ne tikai atsevišķu mapi, bet visu datoru. Plašāku informāciju skatiet Faila vai mapes atrašana .
+Failu un mapju kopēšana un pārvietošana
+Laiku pa laikam var būt nepieciešams mainīt failu glabāšanas vietu datorā. Piemēram, failus, iespējams, vēlaties pārvietot uz citu mapi vai iekopēt noņemamajos datu nesējos (piemēram, kompaktdiskos vai atmiņas kartēs), lai koplietotu tos ar citu personu.
+Lielākā daļa lietotāju kopē un pārvieto failus, izmantojot paņēmienu, kuru sauc par vilkšana un nomešana. Vispirms atveriet mapi, kurā atrodas fails vai mape, ko vēlaties pārvietot. Pēc tam atveriet mapi, kurā vēlaties to pārvietot. Novietojiet mapju logus darbvirsmā tā, lai varētu redzēt abu mapju saturu.
+Pēc tam velciet failu vai mapi no vienas mapes uz otru mapi. Līdz ar to šis process ir pabeigts.
+Lai failu nokopētu vai pārvietotu, velciet to no vienas mapes uz otru mapi
+Pievērsiet uzmanību, ka, lietojot vilkšanas un nomešanas metodi, dažreiz fails vai mape tiek kopēta, savukārt citreiz tā tiek pārvietota. Kāpēc tas tā notiek? Vienumi tiek pārvietoti, ja velkat tos no vienas mapes uz otru un abas mapes atrodas vienā cietajā diskā, tādējādi vienā cietajā diskā netiek izveidotas divas viena faila vai mapes kopijas. Vienumi tiek pārvietoti, ja velkat tos no vienas mapes uz otru un abas mapes atrodas vienā cietajā diskā, tādējādi vienā cietajā diskā netiek izveidotas divas viena faila vai mapes kopijas. Šādi fails vai mape netiek noņemta no sākotnējās atrašanās vietas.
+Failu izveide un dzēšana
+Visbiežāk jaunus failus var veidot, lietojot programmu. Piemēram, teksta dokumentu var veidot tekstapstrādes programmā un filmas failu — video rediģēšanas programmā.
+Dažas programmas izveido failu, tās atverot. Piemēram, atverot programmu Bloknots, tā sākas ar tukšu lappusi. Šī lappuse atbilst tukšam nesaglabātam failam. Sāciet rakstīt un, kad esat gatavs darbu saglabāt, izvēlņu joslā noklikšķiniet uz Fails un pēc tam uz Saglabāt kā. Redzamajā dialoglodziņā ierakstiet faila nosaukumu, kas palīdzēs atrast failu vēlāk, un pēc tam noklikšķiniet uz Saglabāt.
+Lielākā daļa programmu pēc noklusējuma saglabā failus bieži lietotās mapēs, piemēram, Dokumenti, Attēli un Mūzika, kas nākamajā reizē atvieglo failu atrašanu. Plašāku informāciju par jaunu failu veidošanu skatiet Faila saglabāšana .
+Kad fails vairs nav nepieciešams, to no datora cietā diska var noņemt, lai taupītu vietu un nepārblīvētu datoru ar nevajadzīgiem failiem. Lai failu izdzēstu, atveriet mapi, kurā tas atrodas, un pēc tam atlasiet failu. Nospiediet taustiņu Delete un pēc tam dialoglodziņā Dzēst failu noklikšķiniet uz Jā.
+Pēc faila dzēšanas tas īslaicīgi tiek uzglabāts mapē Atkritne. Atkritne ir kā drošības mape, kas palīdz atgūt nejauši izdzēstos failus vai mapes. Lai atbrīvotu vietu cietajā diskā, ko aizņem nevajadzīgie faili, laiku pa laikam mape Atkritne ir jāiztukšo. Lai uzzinātu, kā jāiztukšo mape Atkritne, skatiet Neatgriezeniska mapes Atkritne failu dzēšana .
+Esoša faila atvēršana
+Lai atvērtu failu, veiciet uz tā dubultklikšķi. Fails tiks atvērts programmā, kuru izmantojāt šī faila izveidei vai rediģēšanai. Ja tas ir teksta fails, tad tas tiks atvērts tekstapstrādes programmā.
+Tomēr pastāv arī izņēmumi. Piemēram, veicot dubultklikšķi uz ciparattēla, tas parasti tiks atvērts attēlu skatītājā. Lai attēlu varētu rediģēt, ir jālieto cita programma. Ar peles labo pogu noklikšķiniet uz faila, noklikšķiniet uz Atvērt ar un pēc tam uz tās programmas nosaukuma, kuru lietosit.
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

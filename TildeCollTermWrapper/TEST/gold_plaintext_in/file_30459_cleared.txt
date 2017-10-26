@@ -1,0 +1,92 @@
+﻿<TENAME>Tastatūras</TENAME> lietošana
+Neatkarīgi no tā, vai rakstāt <TENAME>vēstuli</TENAME> vai ievadāt <TENAME>skaitliskos datus</TENAME>, <TENAME>tastatūra</TENAME> ir galvenais <TENAME>līdzeklis</TENAME>, kā ievadīt <TENAME>informāciju</TENAME> <TENAME>datorā</TENAME>. Bet vai jūs zināt, ka <TENAME>tastatūru</TENAME> var arī lietot, lai vadītu <TENAME>datoru</TENAME>? Dažu vienkāršu <TENAME>tastatūras komandu</TENAME> (<TENAME>datora instrukciju</TENAME>) iegaumēšana var palīdzēt jums strādāt efektīvāk. Šajā rakstā tiek aplūkoti <TENAME>tastatūras</TENAME> darbības pamati un jūs tiekat sagatavots darbam ar <TENAME>tastatūras komandām</TENAME>.
+<TENAME>Taustiņu</TENAME> organizācija
+<TENAME>Tastatūras taustiņus</TENAME>, pamatojoties uz to <TENAME>funkcijām</TENAME>, var iedalīt vairākās grupās:
+Rakstīšanas (<TENAME>burtciparu</TENAME>) <TENAME>taustiņi</TENAME>. Šo <TENAME>taustiņu</TENAME> skaitā ir tie paši <TENAME>burtu</TENAME>, <TENAME>ciparu</TENAME>, <TENAME>punktuācijas</TENAME> un <TENAME>simbolu taustiņi</TENAME>, kas tradicionālajā rakstāmmašīnā.
+<TENAME>Kontroltaustiņi</TENAME>. Šie <TENAME>taustiņi</TENAME> tiek lietoti atsevišķi vai kombinācijā ar citiem <TENAME>taustiņiem</TENAME>, lai veiktu noteiktas darbības. Visbiežāk lietotie <TENAME>kontroltaustiņi</TENAME> ir: CTRL, ALT, Windows <TENAME>logotipa taustiņš</TENAME>
+un ESC.
+<TENAME>Funkciju taustiņi</TENAME>. <TENAME>Funkciju taustiņi</TENAME> tiek lietoti specifisku <TENAME>uzdevumu</TENAME> izpildei. Tie ir apzīmēti ar F1, F2, F3 un tā tālāk līdz F12. Šo <TENAME>taustiņu funkcionalitāte</TENAME> dažādās <TENAME>programmās</TENAME> atšķiras.
+<TENAME>Navigācijas taustiņi</TENAME>. Šie <TENAME>taustiņi</TENAME> tiek lietoti, lai pārvietotos <TENAME>dokumentos</TENAME> vai <TENAME>Web lapās</TENAME> un rediģētu <TENAME>tekstu</TENAME>. To skaitā ir <TENAME>bulttaustiņi</TENAME>, <TENAME>taustiņi</TENAME> HOME, END, PAGE UP, PAGE DOWN, DELETE un INSERT.
+<TENAME>Cipartastatūra</TENAME>. <TENAME>Cipartastatūru</TENAME> ir parocīgi izmantot ātrai <TENAME>ciparu ievadīšanai</TENAME>. <TENAME>Taustiņi</TENAME> ir sagrupēti vienā <TENAME>blokā</TENAME> tāpat kā parastajā kalkulatorā vai skaitļošanas mašīnā.
+Šajā <TENAME>attēlā</TENAME> ir parādīts, kā šie <TENAME>taustiņi</TENAME> ir sakārtoti <TENAME>tipiskā tastatūrā</TENAME>. Jūsu <TENAME>tastatūras izkārtojums</TENAME> var būt citāds.
+<TENAME>Taustiņu izkārtojums</TENAME> <TENAME>tastatūrā</TENAME>
+Vienmēr, kad kaut kas būs jāieraksta <TENAME>programmā</TENAME>, <TENAME>e‑pasta ziņojumā</TENAME> vai <TENAME>tekstlodziņā</TENAME>, būs redzama mirgojoša vertikāla līnija (
+).  Tas ir <TENAME>kursors</TENAME>, kas tiek saukts arī par <TENAME>ievietošanas punktu</TENAME>. <TENAME>Kursors</TENAME> norāda vietu, kur jāsākas <TENAME>tekstam</TENAME>, ko rakstīsit. <TENAME>Kursoru</TENAME> var pārvietot, noklikšķinot ar <TENAME>peli</TENAME> vajadzīgajā vietā vai lietojot <TENAME>navigācijas taustiņus</TENAME> (skatiet šī raksta sadaļu "<TENAME>Navigācijas taustiņu</TENAME> lietošana").
+Līdztekus <TENAME>burtiem</TENAME>, <TENAME>cipariem</TENAME>, <TENAME>pieturzīmēm</TENAME> un <TENAME>simboliem</TENAME> pie <TENAME>rakstīšanas taustiņiem</TENAME> pieder arī <TENAME>taustiņi</TENAME> SHIFT, CAPS LOCK, TAB, ENTER, kā arī <TENAME>atstarpes</TENAME> un <TENAME>atpakaļatkāpes taustiņš</TENAME>.
+<TENAME>Taustiņa</TENAME> nosaukums
+SHIFT
+Nospiežot SHIFT kombinācijā ar <TENAME>burtu</TENAME>, tiek ievadīts <TENAME>lielais burts</TENAME>. Nospiežot SHIFT kombinācijā ar citu <TENAME>taustiņu</TENAME>, tiek ievadīts <TENAME>simbols</TENAME>, kas redzams šī <TENAME>taustiņa</TENAME> augšējā daļā.
+CAPS LOCK
+Nospiežot CAPS LOCK vienreiz, visi <TENAME>burti</TENAME> tiek ievadīti kā <TENAME>lielie burti</TENAME>. Nospiežot CAPS LOCK vēlreiz, šī <TENAME>funkcija</TENAME> tiek izslēgta. <TENAME>Tastatūrai</TENAME> var būt <TENAME>indikators</TENAME>, kas norāda, vai CAPS LOCK ir ieslēgts.
+TAB
+Nospiežot <TENAME>taustiņu</TENAME> TAB, <TENAME>kursors</TENAME> tiek pārvietots vairākas <TENAME>atstarpes</TENAME> uz priekšu. <TENAME>Taustiņu</TENAME> TAB var nospiest arī, lai <TENAME>formā</TENAME> pārvietotos uz nākamo <TENAME>tekstlodziņu</TENAME>.
+ENTER
+<TENAME>Atstarpes taustiņš</TENAME>
+<TENAME>Atpakaļatkāpes taustiņš</TENAME>
+<TENAME>Tastatūras īsinājumtaustiņu</TENAME> lietošana
+<TENAME>Īsinājumtaustiņi</TENAME> ir līdzeklis, kas palīdz izpildīt darbības, lietojot <TENAME>tastatūru</TENAME>. Tie tiek saukti par <TENAME>saīsnēm</TENAME>, jo palīdz ātrāk veikt darbu. Būtībā gandrīz visas <TENAME>darbības</TENAME> un <TENAME>komandas</TENAME>, kuras var veikt, izmantojot <TENAME>peli</TENAME>, ātrāk var paveikt, izmantojot vienu vai vairākus <TENAME>tastatūras taustiņus</TENAME>.
+<TENAME>Palīdzības</TENAME> tēmās <TENAME>pluszīme</TENAME> (+) starp diviem vai vairākiem <TENAME>taustiņiem</TENAME> norāda, ka šie <TENAME>taustiņi</TENAME> jāspiež kombinācijā. Piemēram, CTRL+A nozīmē, ka vispirms jānospiež un jātur <TENAME>taustiņš</TENAME> CTRL un pēc tam jānospiež A. CTRL+SHIFT+A nozīmē, ka vispirms jānospiež un jātur <TENAME>taustiņi</TENAME> CTRL un SHIFT un pēc tam jānospiež A.
+<TENAME>Programmu saīšņu</TENAME> atrašana
+Ar lielāko daļu <TENAME>programmu</TENAME> var strādāt, lietojot <TENAME>tastatūru</TENAME>. Lai apskatītu <TENAME>īsinājumtaustiņu komandas</TENAME>, atveriet <TENAME>izvēlni</TENAME>. <TENAME>Saīsnes</TENAME> (ja tādas ir pieejamas) tiek parādītas blakus <TENAME>izvēlnes elementiem</TENAME>.
+<TENAME>Īsinājumtaustiņi</TENAME> ir redzami blakus <TENAME>izvēlnes elementiem</TENAME>
+<TENAME>Izvēlņu</TENAME>, <TENAME>komandu</TENAME> un <TENAME>opciju izvēle</TENAME>
+Lietojot <TENAME>tastatūru</TENAME>, var atvērt <TENAME>izvēlnes</TENAME>, izvēlēties <TENAME>komandas</TENAME> un citas <TENAME>opcijas</TENAME>. <TENAME>Programmā</TENAME>, kurā ir <TENAME>izvēlnes</TENAME>, nospiežot <TENAME>taustiņu</TENAME> ALT, viens <TENAME>burts</TENAME> katrā <TENAME>izvēlnes nosaukumā</TENAME> tiek pasvītrots. Lai atvērtu atbilstošo <TENAME>izvēlni</TENAME>, nospiediet pasvītroto <TENAME>burtu</TENAME>. Lai izvēlētos šo <TENAME>komandu</TENAME>, nospiediet <TENAME>izvēlnes elementa</TENAME> pasvītroto burtu.
+Lai atvērtu <TENAME>izvēlni</TENAME> <TENAME>Fails</TENAME>, nospiediet ALT+F un pēc tam, lai izvēlētos <TENAME>komandu</TENAME> Drukāt, nospiediet P
+Šis paņēmiens darbojas arī <TENAME>dialoglodziņos</TENAME>. Vienmēr, kad <TENAME>dialoglodziņa opcijai</TENAME> ir redzams pievienots pasvītrots <TENAME>burts</TENAME>, tas nozīmē, ka šo <TENAME>opciju</TENAME> var izvēlēties, nospiežot <TENAME>taustiņu</TENAME> ALT un šo <TENAME>burtu</TENAME>.
+Noderīgas <TENAME>saīsnes</TENAME>
+Nospiediet
+ALT+F4
+CTRL+S
+CTRL+C
+F1
+<TENAME>Windows logotipa taustiņš</TENAME>
+ESC
+<TENAME>Lietojumprogrammas taustiņu</TENAME>
+Atvērt <TENAME>komandu izvēlni</TENAME>, kuras saistītas ar <TENAME>atlases</TENAME> veikšanu <TENAME>programmā</TENAME>. Tas pats rezultāts tiek iegūts, ja uz <TENAME>atlases</TENAME> noklikšķina ar <TENAME>peles labo pogu</TENAME>.
+<TENAME>Navigācijas taustiņu</TENAME> lietošana
+<TENAME>Navigācijas taustiņi</TENAME> ļauj pārvietot <TENAME>kursoru</TENAME>, pārvietoties <TENAME>dokumentos</TENAME> un <TENAME>Web lapās</TENAME>, kā arī rediģēt <TENAME>tekstu</TENAME>. Šajā <TENAME>tabulā</TENAME> ir uzskaitītas dažas funkcijas, kas šiem <TENAME>taustiņiem</TENAME> ir kopīgas.
+Nospiediet
+Kreiso, labo, augšupvērsto vai <TENAME>lejupvērsto bultiņu</TENAME>
+Pārvietot <TENAME>kursoru</TENAME> vai <TENAME>atlasi</TENAME> par vienu <TENAME>atstarpi</TENAME> vai <TENAME>rindu</TENAME> <TENAME>bultiņas</TENAME> virzienā vai ritināt <TENAME>Web lapu</TENAME> <TENAME>bultiņas</TENAME> virzienā
+HOME
+END
+CTRL+HOME
+PAGE DOWN
+DELETE
+Dzēst <TENAME>rakstzīmi</TENAME> pēc <TENAME>kursora</TENAME> vai <TENAME>atlasīto tekstu</TENAME>; <TENAME>sistēmā</TENAME> Windows dzēst <TENAME>atlasīto vienumu</TENAME> un pārvietot to uz <TENAME>atkritni</TENAME>
+INSERT
+Ieslēgt vai izslēgt <TENAME>ievietošanas režīmu</TENAME>. Kad <TENAME>ievietošanas režīms</TENAME> ir ieslēgts, rakstītais <TENAME>teksts</TENAME> tiek ievietots pie <TENAME>kursora</TENAME>. Kad <TENAME>ievietošanas režīms</TENAME> ir izslēgts, rakstītais <TENAME>teksts</TENAME> aizstāj esošās <TENAME>rakstzīmes</TENAME>.
+<TENAME>Cipartastatūras</TENAME> lietošana
+<TENAME>Cipartastatūrā</TENAME>, līdzīgi kā kalkulatorā vai skaitļošanas mašīnā, ir sakārtoti <TENAME>cipari</TENAME> no 0 līdz 9, <TENAME>aritmētiskie operatori</TENAME> + (<TENAME>saskaitīšana</TENAME>), - (<TENAME>atņemšana</TENAME>), * (<TENAME>reizināšana</TENAME>) un / (<TENAME>dalīšana</TENAME>), kā arī <TENAME>komats</TENAME>. Šīs <TENAME>rakstzīmes</TENAME>, protams, <TENAME>tastatūrā</TENAME> ir dublētas citur, taču <TENAME>papildtastatūras</TENAME> sakārtojums ļauj ātri ar vienu roku ievadīt <TENAME>skaitliskos datus</TENAME> vai <TENAME>matemātiskās darbības</TENAME>.
+<TENAME>Cipartastatūra</TENAME>
+Lai <TENAME>ciparu</TENAME> ievadīšanai varētu lietot <TENAME>cipartastatūru</TENAME>, jānospiež <TENAME>taustiņš</TENAME> NUM LOCK. Lielākajai daļai <TENAME>cipartastatūru</TENAME> ir <TENAME>indikators</TENAME>, kas norāda, vai <TENAME>taustiņš</TENAME> NUM LOCK ir ieslēgts vai izslēgts. Kad <TENAME>taustiņš</TENAME> NUM LOCK ir izslēgts, <TENAME>cipartastatūra</TENAME> veic otra <TENAME>navigācijas taustiņu</TENAME> komplekta <TENAME>funkcijas</TENAME> (šīs <TENAME>funkcijas</TENAME> ir parādītas uz <TENAME>taustiņiem</TENAME> blakus <TENAME>cipariem</TENAME> vai <TENAME>simboliem</TENAME>).
+<TENAME>Cipartastatūru</TENAME> var lietot, lai veiktu vienkāršus <TENAME>aprēķinus</TENAME> ar <TENAME>kalkulatoru</TENAME>.
+, pēc tam uz Visas <TENAME>programmas</TENAME>, uz Piederumi un uz <TENAME>Kalkulators</TENAME>.
+Pārbaudiet <TENAME>tastatūras indikatoru</TENAME>, lai pārliecinātos, vai <TENAME>taustiņš</TENAME> NUM LOCK ir ieslēgts. Ja tas nav ieslēgts, nospiediet NUM LOCK.
+Lietojot <TENAME>cipartastatūru</TENAME>, ievadiet pirmo <TENAME>aprēķina ciparu</TENAME>.
+Ievadiet <TENAME>papildtastatūrā</TENAME> +, lai pieskaitītu, -, lai atņemtu, *, lai reizinātu vai / dalītu.
+Ievadiet nākamo <TENAME>aprēķina skaitli</TENAME>.
+Trīs īpašie <TENAME>taustiņi</TENAME>
+Iepriekš tika aplūkoti gandrīz visi <TENAME>taustiņi</TENAME>, kurus jums, iespējams, būs jālieto. Bet patiesi zinātkārajiem ir iespēja iepazīties ar trīs noslēpumainākajiem <TENAME>tastatūras taustiņiem</TENAME>: PRINT SCREEN, SCROLL LOCK un PAUSE/BREAK.
+PRINT SCREEN (vai PRT SCN)
+Senāk šis <TENAME>taustiņš</TENAME> veica savā nosaukumā ietverto funkciju — tas nosūtīja pašreizējā teksta <TENAME>ekrānu</TENAME> uz <TENAME>printeri</TENAME>. Mūsdienās, nospiežot <TENAME>taustiņu</TENAME> PRINT SCREEN, tiek uzņemts visa <TENAME>ekrāna attēls</TENAME> (<TENAME>ekrānuzņēmums</TENAME>), un tas tiek kopēts <TENAME>datora atmiņas starpliktuvē</TENAME>. No šīs vietas to var ielīmēt (nospiežot <TENAME>taustiņu kombināciju</TENAME> CTRL+V) <TENAME>programmā</TENAME> Microsoft Molberts vai citā <TENAME>programmā</TENAME>, kā arī izdrukāt no šīs <TENAME>programmas</TENAME>.
+Mazāk skaidra ir SYS RQ nozīme, kas dažās <TENAME>tastatūrās</TENAME> atrodas uz viena <TENAME>taustiņa</TENAME> ar PRINT SCREEN. Vēsturiski SYS RQ bija paredzēts kā "<TENAME>sistēmas pieprasījums</TENAME>", taču <TENAME>sistēmā</TENAME> Windows šī <TENAME>komanda</TENAME> nav iespējota.
+Padoms
+SCROLL LOCK (vai SCR LK)
+Lielākajā daļā <TENAME>programmu</TENAME> pēc SCROLL LOCK nospiešanas nekas nenotiek. Dažās <TENAME>programmās</TENAME>, nospiežot SCROLL LOCK, tiek mainīta <TENAME>bulttaustiņu</TENAME> un <TENAME>taustiņu</TENAME> PAGE UP un PAGE DOWN darbība. Nospiežot šos <TENAME>taustiņus</TENAME>, <TENAME>dokuments</TENAME> tiek ritināts, nemainot <TENAME>kursora</TENAME> vai <TENAME>atlases pozīciju</TENAME>. <TENAME>Tastatūrai</TENAME> var būt <TENAME>indikators</TENAME>, kas norāda, vai SCROLL LOCK ir ieslēgts.
+PAUSE/BREAK
+Šis <TENAME>taustiņš</TENAME> tiek izmantots retos gadījumos. Dažās vecākās <TENAME>programmās</TENAME>, nospiežot šo <TENAME>taustiņu</TENAME>, <TENAME>programma</TENAME> tika pauzēta vai, nospiežot kombinācijā ar <TENAME>taustiņu</TENAME> CTRL, tika apturēta tās darbība.
+Citi <TENAME>taustiņi</TENAME>
+Dažu mūsdienīgo <TENAME>tastatūru</TENAME> komplektā ir "<TENAME>karstie taustiņi</TENAME>" vai <TENAME>pogas</TENAME>, kas sniedz ātru <TENAME>piekļuvi</TENAME> <TENAME>programmām</TENAME>, <TENAME>failiem</TENAME> vai <TENAME>komandām</TENAME>, tikai vienreiz noklikšķinot ar <TENAME>peles pogu</TENAME>. Citiem <TENAME>tastatūru modeļiem</TENAME> ir <TENAME>skaļuma vadīklas</TENAME>, <TENAME>ritināšanas ritenīši</TENAME>, <TENAME>tālummaiņas ritenīši</TENAME> un citi <TENAME>sīkrīki</TENAME>. Lai iegūtu sīkāku <TENAME>informāciju</TENAME> par šiem <TENAME>līdzekļiem</TENAME>, skatiet <TENAME>dokumentāciju</TENAME>, ko saņēmāt kopā ar <TENAME>tastatūru</TENAME> vai <TENAME>datoru</TENAME>, vai apmeklējiet <TENAME>ražotāja vietni</TENAME>.
+Padomi drošai <TENAME>tastatūras</TENAME> lietošanai
+Pareiza <TENAME>tastatūras</TENAME> lietošana var palīdzēt izvairīties no sāpēm, plaukstu locītavu, plaukstu un roku savainošanas, īpaši, ja dators jālieto bieži. Lūk, daži padomi, kas palīdzēs izvairīties no problēmām:
+Novietojiet <TENAME>tastatūru</TENAME> vienā līmenī ar elkoņiem. Roku augšējām daļām ir jābūt atslābinātām.
+Centrējiet <TENAME>tastatūru</TENAME> sev priekšā. Ja <TENAME>tastatūrai</TENAME> ir <TENAME>cipartastatūra</TENAME>, kā <TENAME>centrējuma punktu</TENAME> var lietot <TENAME>atstarpes taustiņu</TENAME>.
+Rakstiet, mainot plaukstu un plaukstu locītavu atrašanās vietu virs <TENAME>tastatūras</TENAME>, lai attālo taustiņu sasniegšanai nebūtu jāizstiepj pirksti, bet varētu izmantot visu roku.
+Rakstīšanas laikā neatbalstiet delnas vai plaukstu locītavas uz kādas virsmas. Ja <TENAME>tastatūrai</TENAME> ir <TENAME>plaukstu balsts</TENAME>, lietojiet to vienīgi rakstīšanas pārtraukumos.
+Rakstīšanas laikā viegli pieskarieties <TENAME>taustiņiem</TENAME> un plaukstu locītavas turiet taisni izstieptas.
+Kad nerakstāt, atslābiniet rokas un plaukstas.
+Ik pēc 15–20 minūtēm īsu brīdi atpūtieties no <TENAME>datora</TENAME>.
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

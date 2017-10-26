@@ -1,0 +1,109 @@
+Šī informācija attiecas uz sistēmas Windows pārlūkprogrammu Internet Explorer 7 un sistēmas Windows pārlūkprogrammu Internet Explorer 8.
+Internets ir tīkls, kas visā pasaulē savieno miljoniem datoru. Nesenā pagātnē tikai daži cilvēki kaut ko zināja par internetu. Mūsdienās internets ir radikāli mainījis datoru lietošanas veidu. Daudzi cilvēki no tā ir atkarīgi, jo internets ikdienā ir nepieciešams, lai sazinātos ar citiem un saņemtu vajadzīgo informāciju. Dators nav obligāti jāpievieno internetam, taču pēc datora pievienošanas internetam, iespējams, brīnīsities, kā bez tā varējāt dzīvot.
+Kas ir tīmeklis?
+Internets, ko pazīst lielākā daļa no mums, ir globālais tīmeklis (parasti tiek dēvēts par tīmekli). Tīmeklis ir tik populārs, ka cilvēki bieži jauc terminus internets un tīmeklis, domājot vienu un to pašu. Taču internetā ir iekļauti arī citi pakalpojumi, piemēram, e‑pasts, intereškopas un failu koplietošana. Var sūtīt e‑pasta ziņojumu vai piedalīties intereškopā, nelietojot tīmekli.
+Tīmeklī informācija tiek parādīta krāsainā, ārēji pievilcīgā formā. Virsraksti, teksts un attēli var būt apvienoti vienā tīmekļa lapā (vai lapā), kas ir ļoti līdzīga žurnāla lappusei — tikai ar pievienotu skaņu un animāciju. Tīmekļa vietne (vai vietne) ir savstarpēji saistītu tīmekļa lapu kolekcija. Tīmeklī ir miljoniem vietņu un miljardiem tīmekļa lapu!
+Tīmekļa lapas piemērs (Microsoft Game Studios)
+Tīmekļa lapas ir savstarpēji saistītas ar hipersaitēm (parasti tiek dēvētas vienkārši par saitēm), kas var būt gan kā teksts, gan kā attēli. Noklikšķinot lapā uz saites, tiek atvērta cita lapa. Pārvietošanās no lapas uz lapu, izmantojot saites, dažkārt tiek dēvēta par klejošanu tīmeklī.
+Ko var darīt internetā?
+Meklēt informāciju. Tīmeklī ir milzīgi daudz informācijas, kas daudzkārt pārsniedz pasaules lielākajās bibliotēkās atrodamo informācijas apjomu. Piemēram, var lasīt jaunākās ziņas un filmu recenzijas, salīdzināt aviolīniju sarakstus, apskatīt ceļu kartes, uzzināt laika prognozi savai pilsētai vai pārbaudīt veselības stāvokli. Plaši ir pieejami arī uzziņu avoti, piemēram, vārdnīcas un enciklopēdijas, kā arī vēsturiski dokumenti un klasiskā literatūra.
+Lielākajai daļai uzņēmumu, valsts iestāžu, bezpeļņas organizāciju, muzeju un bibliotēku ir savas vietnes, kurās atrodama informācija par to precēm, pakalpojumiem vai krātuvēm. Daudzi cilvēki publicē vietnes ar personiskajiem žurnāliem, kas tiek dēvēti par emuāriem (sinonīms terminam tīmekļa žurnāli), par saviem vaļaspriekiem un interesēm.
+Piezīme.
+Lai arī tīmeklis ir lieliski izmantojams meklēšanai, ne visai informācijai, kas tajā atrodas, var uzticēties. Dažās vietnēs informācija var būt kļūdaina, novecojusi vai nepilnīga. Pirms uzticēties informācijai, pārliecinieties, vai tās avots ir autoritatīvs, un salīdzinājumam pārbaudiet citus informācijas avotus.
+Sazināties. E‑pasts ir viens no izplatītākajiem interneta lietošanas veidiem. E‑pasta ziņojumu var sūtīt ikvienam, kam ir e‑pasta adrese, un tas adresāta e‑pasta iesūtnē nonāk gandrīz acumirklī, pat ja viņš dzīvo citā pasaules daļā. Skatiet Darba sākšana ar e‑pastu .
+Tūlītējā ziņojumapmaiņa (IM) ļauj reāllaikā sarunāties ar citu personu vai personu grupu. Rakstot un sūtot tūlītējo ziņojumu, tas nekavējoties kļūst redzams visiem sarunas dalībniekiem. Atšķirībā no e‑pasta visiem dalībniekiem ir jāatrodas tiešsaistē (jālieto dators, kas pievienots internetam) un vienā laikā jābūt pie datora.
+Intereškopas un tīmekļa forumi ļauj piedalīties rakstveida diskusijās ar citu personu grupām, kurām interesē attiecīgā tēma. Piemēram, ja jums rodas problēmas ar kādas programmas lietošanu, tad šīs programmas lietotāju diskusiju grupā varat ievietot savu jautājumu.
+Koplietot failus. Varat augšupielādēt (kopēt) attēlus no ciparkameras uz fotoattēlu koplietošanas vietni. Uzaicinātie draugi un ģimenes locekļi var apmeklēt vietni un apskatīt fotoalbumus.
+Iepirkties. Tīmeklis ir pasaulē lielākais tirdzniecības centrs. Varat apskatīt un iegādāties preces — grāmatas, mūziku, rotaļlietas, apģērbu, elektropreces un vēl daudz ko citu — daudzu mazumtirgotāju vietnēs (parasti ir nepieciešama kredītkarte). Vietnēs, kas organizē izsoles, var arī pirkt un pārdot lietotas preces.
+Spēlēt spēles un atskaņot multividi. Tīmeklī var spēlēt visādas spēles, bieži arī pret citiem spēlētājiem — neatkarīgi no tā, kurā pasaules daļā viņi atrodas. Daudzas spēles ir par brīvu, un tās var lejupielādēt bez maksas. Var arī klausīties interneta radiostacijas, skatīties filmu klipus un lejupielādēt vai iegādāties mūziku, videoklipus un pat televīzijas pārraižu ierakstus.
+Savienojuma izveide ar internetu
+Lai datorā izveidotu savienojumu ar internetu, vispirms ir jānoslēdz līgums ar interneta pakalpojumu sniedzēju (Internet service provider — ISP). ISP parasti sniedz piekļuvi internetam par mēneša maksu. Lai pieteiktu lietotāja kontu, ar ISP jānoslēdz līgums, tāpat kā ar tālruņu pakalpojumu vai komunālo pakalpojumu sniedzējiem. Lai atrastu ISP, kas darbojas jūsu rajonā, meklējiet informāciju tālruņu kataloga sadaļā "Interneta pakalpojumu sniedzēji".
+Dažādi interneta pakalpojumu sniedzēji piedāvā dažādus savienojuma veidus un ātrumus. Ir divi savienojumu tipi:
+Platjoslas savienojums. Platjoslas savienojums ir liela ātruma interneta savienojums. Ja ir platjoslas savienojums, dators ir pievienots internetam visu laiku un apskatīt tīmekļa lapas un lejupielādēt failus var ļoti ātri. Divas populārākās platjoslas tehnoloģijas ir ciparu abonentlīnija (Digital Subscriber Line — DSL) un kabeļu tehnoloģija. Šīm tehnoloģijām ir nepieciešams DSL vai kabeļa modems, ko bieži nodrošina ISP.
+Iezvane. Iezvanes savienojumam tiek izmantots iezvanes modems, lai datoru varētu savienot ar internetu, izmantojot parasto tālruņa līniju. Daudziem datoriem iezvanes modems ir jau instalēts. Atšķirībā no platjoslas tehnoloģijām iezvanes savienojums darbojas lēnāk, un katru reizi, kad vēlaties lietot internetu, ir jāizveido jauns savienojums. Tomēr iezvanes savienojums, salīdzinot ar platjoslas savienojumu, ir lētāks, un dažās vietās tā ir vienīgā iespēja piekļūt internetam.
+Kad ir noslēgts līgums ar ISP un dators ir aprīkots ar modemu, var izveidot savienojumu ar internetu. Interneta savienojuma izveides vednis palīdz veikt nepieciešamās darbības.
+Atveriet vedni Izveidot savienojumu ar internetu, noklikšķinot uz pogas Sākt
+, pēc tam uz Vadības panelis, uz Tīkls un internets, uz Tīkla un koplietošanas centrs, uz Iestatīt savienojumu vai tīklu un uz Izveidot savienojumu ar internetu.
+Darba sākšana tīmeklī
+Tiklīdz ir izveidots savienojums ar internetu, tīmeklim var piekļūt, lietojot programmu Internet Explorer — sistēmā Windows iekļauto tīmekļa pārlūkprogrammu. Var lietot arī jebkuru citu tīmekļa pārlūkprogrammu, kas ir instalēta datorā.
+Lai startētu programmu Internet Explorer
+Atveriet Internet Explorer, noklikšķinot uz pogas Sākt
+un pēc tam uz Internet Explorer.
+Startējot programmu Internet Explorer, tā atver tīmekļa lapu, kas ir iestatīta kā sākumlapa. Pēc noklusējuma iestatītā sākumlapa ir MSN.com, kas ir korporācijas Microsoft vietne ar saitēm uz dažādiem informācijas avotiem un pakalpojumiem. (Datora ražotājs var būt iestatījis citu sākumlapu.) Tomēr par sākumlapu var izvēlēties jebkuru lapu (vai tukšu lapu). Skatiet Programmas Internet Explorer sākumlapas maiņa .
+Padoms
+programmā Internet Explorer.
+Tīmekļa adreses ievadīšana
+Tāpat kā katrai dzīvesvietai ir unikāla ielas adrese, tīmekļa lapai ir sava tīmekļa adrese. Šo adresi dēvē par vienoto resursu vietrādi (URL). Piemēram, korporācijas Microsoft galvenās vietnes vietrādis URL ir http://www.microsoft.com.
+Ja zināt lapas vietrādi URL, varat to tieši ierakstīt programmā Internet Explorer:
+Lodziņā Adrese ierakstiet vietrādi URL.
+Lai atvērtu vietni, noklikšķiniet uz pogas Aiziet! vai nospiediet tastatūras taustiņu ENTER.
+Vietrāžus URL rakstiet adrešu lodziņā
+Padomi
+http:// nav jāraksta. Piemēram, var rakstīt www.microsoft.com, un programma Internet Explorer paveiks pārējo.
+Lai ātri ievadītu vietrādi URL, kas beidzas ar ".com", ierakstiet adreses daļu, kas atrodas starp "www." un ".com", un pēc tam nospiediet taustiņu kombināciju CTRL+ENTER.
+Pamatnavigācija
+Saišu lietošana. Lielākai daļai tīmekļa lapu ir desmitiem un pat simtiem saišu. Lai no vienas lapas atvērtu citu lapu, noklikšķiniet uz jebkuras saites. Tomēr ne vienmēr ir viegli noteikt, kādi vienumi lapā ir saites. Saites var būt teksts, attēli vai abu apvienojums. Teksta saites bieži ir krāsainas un pasvītrotas, taču saišu stils vietnēs var atšķirties.
+Lai pārbaudītu, vai kāds vienums ir saite vai ne, norādiet uz to. Ja tā ir saite:
+Peles rādītājs pārvēršas par roku ar izstieptu rādītājpirkstu.
+Tīmekļa pārlūkprogrammas statusa joslā parādās vietrādis URL. Tas rāda vietni, kas tiks atvērta, noklikšķinot uz saites.
+Norādot uz saiti, peles rādītājs pārvēršas un statusa joslā tiek parādīts tīmekļa lapas vietrādis URL
+Pogu Atpakaļ un Uz priekšu lietošana. Pārvietojoties no vienas lapas uz citu, programma Internet Explorer saglabā informāciju par apmeklētajām lapām. Lai atgrieztos iepriekšējā lapā, noklikšķiniet uz pogas Atpakaļ. Lai atgrieztos lapās, kas tika atvērtas vēl agrāk, noklikšķiniet uz pogas Atpakaļ vairākas reizes. Pēc tam, kad esat noklikšķinājis uz pogas Atpakaļ, varat noklikšķināt uz pogas Uz priekšu, lai virzītos pa lapām uz priekšu.
+Poga Atpakaļ (pa kreisi); poga Uz priekšu (pa labi)
+Izvēlnes Nesen apmeklētās lapas lietošana. Ja vēlaties atgriezties lapā, kuru apmeklējāt šajā sesijā, bet nevēlaties atkārtoti klikšķināt uz pogas Atpakaļ vai Uz priekšu, lietojiet izvēlni Nesen apmeklētās lapas. Noklikšķiniet uz bultiņas, kas atrodas blakus pogai Uz priekšu, un pēc tam sarakstā atlasiet lapu.
+Izvēlne Nesen apmeklētās lapas
+Meklēšana tīmeklī
+Ņemot vērā, ka ir miljardiem vietņu, vajadzīgo informāciju nevarētu atrast, ja būtu jāpārlūko visas vietnes pēc kārtas. Par laimi, ir cita iespēja. Lai atrastu lapas, kas ir visvairāk saistītas ar konkrētiem vārdiem vai frāzēm, var lietot meklētājprogrammas.
+Galvenās tīmekļa meklētājprogrammas ir Google, Yahoo! Search, MSN Search, AOL Search un Ask.com. Tīmeklī var veikt meklēšanu tieši no jebkuras meklētājprogrammas vietnes. Vai, lai vispirms meklēšanas vietnē saglabātu navigācijas darbību, programmā Internet Explorer var lietot meklēšanas lodziņu.
+Meklēšanas lodziņš
+Pirms sākt lietot meklēšanas lodziņu, izvēlieties noklusēto meklēšanas nodrošinātāju — meklētājprogrammu, kuru programma Internet Explorer izmantos katru reizi, kad veiksit meklēšanu. Ja neesat izvēlējies meklēšanas nodrošinātāju, tiek izmantota meklētājprogramma Live Search. (Datora ražotājs var būt iestatījis citu meklēšanas nodrošinātāju). Skatiet Meklēšanas nodrošinātāja maiņa vai izvēle programmā Internet Explorer .
+Lai meklētu tīmeklī, lietojot meklēšanas lodziņu
+Ierakstiet meklēšanas lodziņā dažus vārdus vai frāzi par vajadzīgo tēmu, piemēram, "šokolādes kūkas recepte". Norādiet pēc iespējas konkrētākus meklēšanas vārdus vai frāzes.
+Nospiediet taustiņu ENTER vai noklikšķiniet uz pogas Meklēt
+.
+Tiek parādīta lapa ar meklēšanas rezultātiem. Lai atvērtu vietni, noklikšķiniet uz kāda no rezultātiem. Ja meklētais vienums netiek atrasts, lai skatītu papildu rezultātus vai mēģinātu meklēt atkārtoti, lapas apakšā noklikšķiniet uz Tālāk.
+Piezīme.
+Ņemiet vērā, ka daži meklēšanas rezultāti ir apmaksātas reklāmas. Tās parasti tiek dēvētas par "Sponsorētajām vietnēm" vai "Sponsorētajām saitēm".
+Tīmekļa lapu saglabāšana izlasē
+Ja esat atradis vietni, ko vēlaties apmeklēt regulāri, saglabājiet to programmas Internet Explorer izlasē. Tādējādi, kad vēlēsities atgriezties vietnē, atliks tikai noklikšķināt uz tās nosaukuma sarakstā Mana izlase, pat neatceroties vai neierakstot vietnes tīmekļa adresi.
+Tīmekļa lapas saglabāšana programmas Internet Explorer 8 izlasē
+Programmā Internet Explorer 8 atveriet tīmekļa lapu, ko vēlaties saglabāt izlasē.
+Noklikšķiniet uz pogas Mana izlase un pēc tam uz Pievienot manai izlasei.
+Lodziņā Nosaukums ierakstiet tīmekļa lapas nosaukumu un pēc tam noklikšķiniet uz Pievienot.
+Lai tīmekļa lapu saglabātu Internet Explorer 7 izlasē
+Programmā Internet Explorer 7 atveriet tīmekļa lapu, ko vēlaties saglabāt izlasē.
+Noklikšķiniet uz pogas Pievienot mapei Mana izlase
+un pēc tam uz Pievienot mapei Mana izlase.
+Lodziņā Nosaukums ierakstiet tīmekļa lapas nosaukumu un pēc tam noklikšķiniet uz Pievienot.
+Mapē Mana izlase ievietotas lapas atvēršana programmā Internet Explorer 8
+Programmā Internet Explorer 8 noklikšķiniet uz pogas Mana izlase.
+Noklikšķiniet uz cilnes Mana izlase, ja tā vēl nav atlasīta.
+Sarakstā Mana izlase noklikšķiniet uz tīmekļa lapas, ko vēlaties atvērt.
+Mapē Mana izlase ievietotas lapas atvēršana programmā Internet Explorer 7
+Programmā Internet Explorer 7 noklikšķiniet uz pogas Manas izlases centrs
+.
+Sarakstā Mana izlase noklikšķiniet uz tīmekļa lapas, ko vēlaties atvērt.
+Lai apskatītu pēdējās 20 dienās apmeklētās tīmekļa lapas, var lietot sarakstu Vēsture:
+Programmā Internet Explorer 8 noklikšķiniet uz pogas Mana izlase.
+Noklikšķiniet uz cilnes Vēsture, ja tā vēl nav atlasīta.
+Sarakstā Vēsture noklikšķiniet uz dienas vai nedēļas un pēc tam uz vietnes nosaukuma. Saraksts tiek izvērsts, lai parādītu atsevišķās tīmekļa lapas, ko esat apmeklējis vietnē.
+Noklikšķiniet uz tīmekļa lapas, ko vēlaties atvērt.
+Programmas Internet Explorer 8 saraksts Vēsture
+Lai apskatītu pēdējās 20 dienās apmeklētās tīmekļa lapas, var lietot sarakstu Vēsture:
+Programmā Internet Explorer 7noklikšķiniet uz pogas Manas izlases centrs.
+Noklikšķiniet uz pogas Vēsture, ja tā vēl nav atlasīta.
+Sarakstā Vēsture noklikšķiniet uz dienas vai nedēļas un pēc tam uz vietnes nosaukuma. Saraksts tiek izvērsts, lai parādītu atsevišķās tīmekļa lapas, ko esat apmeklējis vietnē.
+Noklikšķiniet uz tīmekļa lapas, ko vēlaties atvērt.
+Vairāku tīmekļa lapu atvēršana
+Dažreiz ir jāatver otra (trešā vai ceturtā) tīmekļa lapa, neaizverot pirmo lapu. Lai to izdarītu, programma Internet Explorer katrai jaunai lapai, ko vēlaties atvērt, ļauj izveidot cilni. Cilnes var lietot, lai ātri pārslēgtos no lapas uz lapu, un visas lapas var pat skatīt vienlaikus.
+Lai tīmekļa lapu atvērtu jaunā cilnē, noklikšķiniet uz pogas Jauna cilne:
+Poga Jauna cilne
+Tukša lapa jaunā cilnē
+Tagad var atvērt jebkuru tīmekļa lapu, ierakstot vietrādi URL, lietojot meklēšanas lodziņu vai izvēloties no saraksta Mana izlase vai saraksta Vēsture. Kad ir atvērtas vairākas lapas, noklikšķiniet uz cilnēm, lai pārslēgtos starp lapām.
+Lai visas atvērtās tīmekļa lapas skatītu vienlaikus, noklikšķiniet uz pogas Ātrās cilnes
+. Tiks parādīta neliela katras tīmekļa lapas versija. Noklikšķiniet uz kādas lapas, lai to atvērtu.
+Lai skatītu visas atvērtās tīmekļa lapas, lietojiet ātrās cilnes.
+Lai aizvērtu cilni, noklikšķiniet uz pogas Aizvērt‌
+labajā cilnes pusē.
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

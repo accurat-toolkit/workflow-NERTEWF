@@ -1,0 +1,63 @@
+2010.gada 29.decembrī ir stājušies spēkā 21.12.2010. MK noteikumi Nr.1163 “Grozījumi Ministru kabineta 2005.gada 28.jūnija noteikumos Nr.473 “Elektronisko dokumentu izstrādāšanas, noformēšanas, glabāšanas un aprites kārtība valsts un pašvaldību iestādēs un kārtība, kādā notiek elektronisko dokumentu aprite starp valsts un pašvaldību iestādēm vai starp šīm iestādēm un fiziskajām un juridiskajām personām”".
+Grozījumi nosaka, ka elektroniskos dokumentus, kuri iesniedzami valsts un pašvaldību iestādēm, var izstrādāt un noformēt, izmantojot atvērto dokumentu formātu (ODF) biroja lietotnēm. Tāpat arī noteikumi ietver prasību valsts un pašvaldību iestādēm, sūtot elektroniskos dokumentus, pievienot informāciju par bezmaksas rīkiem, ar ko atvērt elektronisko dokumentu un lasīt tā saturu, ja iestāde nosūta dokumentu formātā, kas atšķiras no iesniedzēja atsūtītā.
+28.06.2005. MK noteikumu Nr.473 “Elektronisko dokumentu izstrādāšanas, noformēšanas, glabāšanas un aprites kārtība valsts un pašvaldību iestādēs un kārtība, kādā notiek elektronisko dokumentu aprite starp valsts un pašvaldību iestādēm vai starp šīm iestādēm un fiziskajām un juridiskajām personām” aktuālā redakcija pieejama “Latvijas Vēstneša” tiesību akta vortālā www.likumi.lv .
+Latvijas atvērto tehnoloģiju asociācija ielūdz
+pašvaldību un valsts iestāžu pārstāvjus, uzņēmumu un nozaru asociāciju pārstāvjus, IKT speciālistus un atvērtā pirmkoda entuziastus
+uz Latvijas atvērto tehnoloģiju konferenci 2011
+2011. gada 18. janvārī Tallink Hotel Riga, Elizabetes ielā 24/1, Rīgā.
+Šīs konferences tēma ir atvērtās tehnoloģijas pašvaldībās. Konferences laikā tiks prezentēta Latvijas un citu valstu pieredze atvērto tehnoloģiju izmantošanā dažādās organizācijās, tiks norādīti ieguvumi un riski, kā arī tiks sniegtas rekomendācijas un ieteikumi, kā rīkoties nākotnē. Sadarbībā ar Latvijas Pašvaldību savienību konferences dalībnieki tiks iepazīstināti ar ES atbalstīto projektu “Atvērtā koda programmatūras izmantošanas veicināšana Eiropas publiskajā pārvaldē” .
+Aicinām konferencē bez pašvaldību pārstāvjiem piedalīties arī uzņēmumu un citu valsts iestāžu pārstāvjus. Konferencē prezentētie pieredzes stāsti ļaus  izprast ieguvumus no atvērtu tehnoloģiju izmantošanas. Iegūtās zināšanas būs noderīgas, lai padarītu efektīvāku un produktīvāku jebkuras organizācijas darbu. IKT speciālistiem piedāvāsim tehniska satura lekcijas, taču atvērtā pirmkoda entuziastiem aizraujoša būs pasaules līdera brīvās programmatūras jomā Simon Phipps uzstāšanās.
+Konference ir bezmaksas, taču vietu skaits ir ierobežots, tāpēc lūdzam reģistrēties http://lata.org.lv/webreg/ .
+Konferences programma pieejama šeit .
+SIA „Baltijas datoru Akadēmija” sadarbībā ar SIA „World Technology Frontier” (Latvija), LATA (Latvija), NVA (Latvija) un BCS Koolitus (Igaunija), KTU Panevezys institutas (Lietuva) realizē projektu „ Bezmaksas programmatūras lietošanas veicināšanas Baltijas valstīs”.
+Lai noskaidrotu atvērto programmatūru izmantošanas izplatību darbā un mājās, aicinām Jūs aizpildīt anketu. Lai aizpildītu anketu spiediet šeit: http://www.visidati.lv/aptauja/441971667/ . Aptaujas aizpildīšana aizņems aptuveni piecas minūtes Jūsu laika. Aptauja ir anonīma.
+Projekta ietvaros tiks izstrādāts apmācību materiāls par atvērtā koda programmatūras izmantošanu, kas būs pieejams e-kursa formātā.
+Baltijas Datoru Akadēmija sadarbībā ar Latvijas, Lietuvas un Igaunijas partneriem un Eiropas Savienības Mūžizglītības programmas Leonardo da Vinci sektorālās programmas līdzfinansējumu ir uzsākusi projekta „Bezmaksas programmatūras lietošanas veicināšana Baltijas valstīs” ieviešanu.
+Projekta mērķis ir paplašināt iedzīvotāju zināšanas par bezmaksas programmatūras risinājumiem kā alternatīvu maksas IT risinājumiem un veicināt iedzīvotāju prasmes izmantot bezmaksas programmatūru savām un darba vajadzībām, lai nodrošinātu viņu brīvas izvēles iespējas programmatūras lietošanā, samazinātu IT izmantošanas izmaksas un paaugstinātu konkurētspēju darba tirgū.
+Projekta gaitā tiks izstrādāta bezmaksas apmācību programma – apmācībām klasē, kā arī e-kurss par bezmaksas programmatūras izmantošanu, kas būs brīvi pieejams jebkuram interesentam.
+Projekta īstenotāji:
+Informatīvie partneri: Latvijas Atvērto tehnoloģiju asociācija (LATA), Nodarbinātības valsts aģentūra (NVA)
+SIA “Odo” sadarbībā ar Attīstības un inovāciju mācību centru piedāvā bezmaksas kursus par atvērtā pirmkoda programmatūru:
+Biroja programmatūra OpenOffice (ar vai bez priekšzināšanām), 82 akadēmiskās stundas
+Ubuntu Linux operētājsistēmas lietošana, 32 akadēmiskās stundas
+Bezmaksas atvērtā koda programmatūra darbam, mācībām, izklaidei, 32 akadēmiskās stundas
+Datu bāzu tehnoloģijas, 32 akadēmiskās stundas
+Tīmekļa 2.0 tehnoloģijas, 36 akadēmiskās stundas
+Grāmatvedības pamati, izmantojot atvērtā koda grāmatvedības programmu Gnucash, 82 akadēmiskās stundas
+Kursi notiks Ogrē, sākot ar 2011. gada janvāri, ESF un Nodarbinātības valsts aģentūras (NVA) projekta “Mūžizglītības pasākumi nodarbinātām personām” ietvaros. NVA apmaksā jūsu mācības, ja:
+esat vecāks par 25 gadiem,
+esat darba attiecībās vai pašnodarbināta persona,
+12 mēnešus neesat mācījies.
+Ievietoja LATA oktobris 15, 2010 sadaļā Latvijas notikumi
+2010. gada 30. septembrī Reģionālās attīstības un pašvaldību lietu ministrija sadarbībā ar LATA rīkoja semināru par IT drošības risinājumiem un to nozīmi valsts sektorā. Seminārā piedalīties bija aicināti valsts sektora iestāžu vadītāji un atbildīgie drošības speciālisti.
+Šajā pus dienas seminārā aptuveni 50 tā dalībniekiem bija iespēja uzzināt par  aktualitātēm ar IT drošību saistītā likumdošanā, iegūt plašu informāciju par iekšējiem un ārējiem IT drošības draudiem, jaunākajām tendencēm pasaulē, kas balstītas uz IT drošības pētījumiem, kā arī uzzināt par konkrētiem risinājumiem IT drošības palielināšanai un izmaksu optimizēšanai iestādēs.
+Semināra prezentācijas pieejamas šeit .
+Ievietoja LATA septembris 23, 2010 sadaļā Latvijas notikumi
+Apzinoties informācijas tehnoloģiju (IT) stratēģisko nozīmi Latvijas Republikas tautsaimniecības attīstībā un ilgtspējīgā valsts iedzīvotāju labklājības nodrošināšanā, Latvijas atvērto tehnoloģiju asociācija (LATA) ir parakstījusi sadarbības memorandus ar politisko apvienību “Par Labu Latviju!” un politisko partiju apvienībām “Saskaņas Centrs” un “Vienotība”. Memorandu mērķis ir deklarēt un pamatot vienotu pozīciju ar IT attīstību saistītos jautājumos, kā arī radīt ietvaru turpmākai, efektīvai sadarbībai. Sadarbības memorandi paredz vienošanos:
+īstenot centralizētu IT pārvaldības procesu visam publiskajam sektoram;
+veicināt atvērtu, starptautiski atzītu standartu izmantošanu valsts informācijas sistēmu un e-pārvaldes risinājumu izveidē un paredzamajā saskarnē ar lietotājiem un citām informācijas sistēmām;
+veicināt valsts informācijas atkalizmantošanu – gan datu, gan informācijas sistēmu līmenī;
+veikt valsts IT sistēmu un resursu konsolidāciju un centralizāciju, apsverot iespēju daļu valsts IT funkciju pēc to sakārtošanas un optimizācijas nodot ārpakalpojumā ar nosacījumu, ka tiek novērtēti un ievēroti riski, kas ar to saistīti;
+sekmēt kvalitatīvas un mūsdienīgas IT izglītības pieejamību pamata, vidējā un augstākajā izglītībā, t.sk. veicināt augstākās izglītības un pētniecības iestāžu dalību dažādu nozaru projektos, lai celtu studiju kvalitāti un zināšanu pārnesi ražošanā;
+stiprināt godīgu, brīvu un atklātu konkurenci valsts un pašvaldību IT iepirkumos;
+veicināt ekonomiskā izdevīguma principa ievērošanu IT iepirkumu vērtēšanā, ņemot vērā vietējo IT uzņēmumu pievienoto vērtību risinājumu piegādē, īpašumtiesību jautājumu attiecībā uz risinājumā izmantoto standarta programmatūru un risinājumiem un to iespējamo eksporta potenciālu;
+izvērtēt IT risinājumu un to platformu izvēlē uz atvērtā pirmkoda balstītas programmatūras izvēles ekonomisko ietekmi;
+veicināt regulāru un savlaicīgu informācijas publiskošanu par paredzamajiem valsts nozīmes projektiem, ieviešot publisku informācijas pieprasījumu procedūru pirms iepirkuma konkursu materiālu sagatavošanas;
+turpināt un paplašināt sadarbību IT nozares politikas veidošanā, stratēģijas plānošanā un likumdošanas aktu sagatavošanā.
+Ievietoja LATA jūlijs 13, 2010 sadaļā Latvijas notikumi
+2010.gada 14.jūlijā plkst. 11:00 Rīgā, Hotel Bergs telpās notiks Latvijas atvērto tehnoloģiju asociācijas (LATA) un politisko partiju pārstāvju diskusija “Kas sagaida Informācijas Tehnoloģiju (IT) nozari nākamajos 4 gados?”
+Diskusijas mērķi ir:
+Noskaidrot vadošo politisko partiju un to apvienību pozīciju attiecībā uz IT nozares attīstību un nozīmi Latvijas Republikas tautsaimniecībā pēc 10.Saeimas vēlēšanām
+Iepazīstināt vadošo politisko partiju un to apvienību pārstāvjus un plašāku sabiedrību ar LATA biedru un citu IT nozares uzņēmumu viedokli par IT nozares attīstību Latvijas Republikā tuvākajiem 4 gadiem un pēc tam
+Diskusijas dalībnieki:
+Guntis Kalniņš, Oracle ﬁliāles vadītājs Latvijā
+Jānis Treijs, LATA valdes priekšsēdētājs
+Leo Trukšāns, LU Linux Centra vadītājs
+Uģis Bisenieks, RAPLM
+Uldis Kanders, “Zaļo un Zemnieku Savienība”
+Ģirts Lapiņš, “VL/TB/LNNK”
+LATA atzinīgi vērtē Reģionālas attīstības un pašvaldību lietu ministrijas (RAPLM) uzsākto diskusiju ar nozaru ministrijām un sociālajiem partneriem par IT infrastruktūras optimizēšanas iespējām. LATA piekrīt RAPLM izteiktajam viedoklim, ka valsts pārvaldes iestāžu IT resursu apvienošana nodrošinātu gan biroja programmatūras, gan infrastruktūras (serveru) programmatūras kopējo izmaksu samazināšanu. Vairāk informācijas RAPLM mājas lapā .
+LATA piedalījās diskusijas ietvaros RAPLM rīkotajā seminārā „IT konsolidācija un tehnisko resursu optimizēšana valsts pārvaldes iestādēs” 2010. gada 14.maijā. Uzrunājot semināra dalībniekus, LATA pārstāvji īpaši akcentēja atvērtu standartu nozīmīgumu IT infrastruktūras konsolidācijas risinājumos.
+Seminārā tika diskutēts par Microsoft infrastruktūras programmatūras izmantošanas un informācijas tehnoloģiju infrastruktūras optimizācijas iespējām ministrijās un to padotības iestādēs. Semināra materiāli – informācija par IT optimizēšanas iespējām, sociālo partneru, tostarp LATA, sagatavotās prezentācijas un labās prakses piemēri pieejami RAPLM mājas lapā .
+Novērtējot mikro un mazās uzņēmējdarbības nozīmi Latvijas IT nozares un vistas tautsaimniecības attīstībā, LATA piedalījās uzņēmējdarbības konferencē “Baltic Spark” . LATA pārstāvji uzstājās blokā “IT risinājumi efektīvai uzņēmējdarbībai”, savās lekcijās akcentējot ieguvumus un priekšrocības no atvērtā pirmkoda programmatūras izmantošanas mikro un mazos uzņēmumos. LATA prezentācijas pieejamas sadaļā Pasākumi .
+Starptautiska mēroga konference “Baltic Spark” notika no 16. līdz 17. aprīlim Rīgā, pulcējot dalībniekus no Latvijas, Lietuvas un Igaunijas.

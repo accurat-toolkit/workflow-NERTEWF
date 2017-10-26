@@ -1,0 +1,25 @@
+Microsoft
+Vikipēdijas raksts
+Microsoft
+
+Veids	akciju sabiedrīa
+Dibināts	<TIMEX TYPE="DATE">1975. gada 4. aprīlis</TIMEX> (Albuquerque, <ENAMEX TYPE="PRODUCT">New Mexico</ENAMEX>)
+Galvenais birojs	Redmonda, <ENAMEX TYPE="LOCATION">Vašingtona</ENAMEX>, <ENAMEX TYPE="LOCATION">ASV</ENAMEX>
+Vadība	
+<ENAMEX TYPE="PERSON">Bils Geitss</ENAMEX>, <ENAMEX TYPE="PERSON">Stīvs Balmers</ENAMEX>, <ENAMEX TYPE="PERSON">Rejs Ozijs</ENAMEX>
+Darbinieki	93 000 vairāk nekā 100 valstīs (2009)
+Apgrozījums	$<NUMEX TYPE="MONEY">58.437 miljardi</NUMEX> (2009)
+Nozare	Informācijas tehnoloģijas
+Produkti	programatūra
+Mājaslapa	http://www.microsoft.com
+<ENAMEX TYPE="PRODUCT">Microsoft Corporation</ENAMEX> ir starptautiska datoru tehnoloģiju korporācija, kura galvenais birojs atrodas <ENAMEX TYPE="LOCATION">ASV</ENAMEX>, <ENAMEX TYPE="LOCATION">Vašingtonas štatā</ENAMEX>. Tā nemitīgi attīsta, izstrādā, licencē un uztur plašu programmatūras produktu klāstu, kuras galvenokārt paredzētas skaitļošanas ierīcēm.[1][2] Microsoft vislabāk pārdotais produkts ir <ENAMEX TYPE="PRODUCT">Microsoft Windows</ENAMEX> operētājsistēma un Microsoft Office programmnodrošinājuma komplekts.
+Microsoft ir pasaulē lielākā datorprogrammatūras ražotājfirma.[nepieciešama atsauce] <ENAMEX TYPE="PERSON">Korporāciju Microsoft</ENAMEX> dibināja <ENAMEX TYPE="PERSON">Bils Geitss</ENAMEX>.
+Dibināta Albuquerque, New Mexico <TIMEX TYPE="DATE">1975. gada 4.aprīlī</TIMEX>.
+Vēsture [izmainīt šo sadaļu]
+
+1975-1984: Dibināšana
+Pēc Altair 8800 izgudrošanas <ENAMEX TYPE="PERSON">Viljams Henrijs Geits III</ENAMEX> (<ENAMEX TYPE="PERSON">Bils Geitss</ENAMEX>) saicināja darbiniekus no (MITS) piedāvājot demonstrēt BASIC programmēšanas valodas sistēmu. Pēc demonstrācijas MITS darbinieki piekrita izplatīt <ENAMEX TYPE="PRODUCT">Altair BASIC</ENAMEX>. Geitss pameta Hāvardas universitāti un pārvācās uz Albuquerque, New Mexico, kur atradās MITS un tur viņš izveidoja Microsoft. Pirmais ofiss, kurš atradās ārzemēs bija <ENAMEX TYPE="LOCATION">Japānā</ENAMEX> (<TIMEX TYPE="DATE">1. novembris 1978. gads</TIMEX>), kura nosaukums bija "ASCII Microsoft" (tagad "<ENAMEX TYPE="PRODUCT">Microsoft Japan</ENAMEX>"). <TIMEX TYPE="DATE">1979. gada</TIMEX> 1. Janvārī kompānija no Albuquerque pārcēlās uz jaunām mājām Bellevue, Washington. Stīvs Balmers pievienojās kompānijai <TIMEX TYPE="DATE">11. jūnijā 1980. gadā</TIMEX> un vēlāk <ENAMEX TYPE="PERSON">Bilu Geitsu</ENAMEX> iecēla par izpild direktoru.
+Starp pre-IBM-PC produktiem bija programmas pakas TASC (<ENAMEX TYPE="PRODUCT">The AppleSoft Compiler</ENAMEX>), kas kompilēja BASIC programmu <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> sistēmas valodā un <ENAMEX TYPE="PRODUCT">Microsoft Softcard</ENAMEX> aparatūras produkti, pievienojumi Z80 procesoru kartēm priekš <ENAMEX TYPE="ORGANIZATION">Apple II</ENAMEX> un saderīgiem datoriem kuri atļāv pielietot CP/M operētājsistēmu nevis AppleSoft un <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> DOS. <TIMEX TYPE="DATE">1980. gadā</TIMEX> <ENAMEX TYPE="ORGANIZATION">Microsoft</ENAMEX> izveidoja paši savu operētājsistēmas biznesu ar savas versijas Unix, kuru sauca Xenix, un bija licencēti priekš dažādām datoru sistēmām.
+DOS (Diska operētājsistēma) bija pirmā operētājsistēma, kas kompānijai nesa pirmos lielos panākumus. <TIMEX TYPE="DATE">1981. gada 12. augustā</TIMEX> sarunas ar Digital Research izgāzās, <ENAMEX TYPE="ORGANIZATION">IBM</ENAMEX> piedāvāja līgumu Microsoft, lai nodrošinātu CP/M operētājsistēmu, <ENAMEX TYPE="ORGANIZATION">IBM</ENAMEX> ražotajiem Persionālajiem datoriem (PC). Pēc līguma noslēgšanas Microsoft iegādājās CP/M klonu 86-DOS no <ENAMEX TYPE="PRODUCT">Seattle Computer Products</ENAMEX>, kuru IBM pārdēvēja par PC-DOS. Vēlāk, notika liels pieprsījums pēc IBM PC kloniem, pēc Columbia Data Products veiksmīgi klonēja <ENAMEX TYPE="ORGANIZATION">IBM BIOS</ENAMEX>, un pēc agresīva tirgus Microsoft no mazas kompānijas kļuva par programmatūras gigantu, mājas datoru industrijā. Kompānija izpletās jaunās trigus daļās ar savu ražojumu <ENAMEX TYPE="ORGANIZATION">Microsoft Mouse</ENAMEX> <TIMEX TYPE="DATE">1983. gadā</TIMEX>.
+1985—1994: IPO, OS/2 un <ENAMEX TYPE="PRODUCT">Windows</ENAMEX>
+<TIMEX TYPE="DATE">1985. gada augustā</TIMEX>, Microsoft un <ENAMEX TYPE="ORGANIZATION">IBM</ENAMEX> sadarbojās citas operētājsistēmas izveides projektā OS/2. <TIMEX TYPE="DATE">1985. gada 20. novembrī</TIMEX>, Microsoft izlaida savu pirmo mazumtirdzniecības versiju <ENAMEX TYPE="PRODUCT">Microsoft Windows</ENAMEX>, oriģināli grafiskais papildinājums MS-DOS operētājsistēmai. <TIMEX TYPE="DATE">1987. gadā</TIMEX> <ENAMEX TYPE="ORGANIZATION">Microsoft</ENAMEX> izlaida savu OS/2 versiju.

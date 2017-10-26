@@ -1,0 +1,187 @@
+﻿Chemieunternehmen der Welt
+chemical company
+0.030303
+
+stellvertretende Vorstände
+deputy members
+1
+
+CorruptedEntry 1 EN
+CorruptedEntry 1 DE
+CorruptedEntry 1 DE
+1
+
+Häufigkeit auftritt
+large steam
+0.030303
+
+weiße Dampf-heiz-generator
+large steam
+0.030303
+
+nicht fortgeführten Aktivitäten
+Shock absorber for Cars
+0.030303
+
+beleuchtetem Crash-Energie-Absorber
+steam
+0.030303
+
+CorruptedEntry 2 EN
+1
+
+Cross-Currency-Swap
+cross-currency-swap
+0.030303
+
+Dampf-heiz-erzeugung
+steam
+0.030303
+
+Diamant-Bohrer
+diamond drill bits
+0.666667
+
+Adhoc
+Ad-hoc disclosures
+1
+
+
+CorruptedEntry 3 EN
+CorruptedEntry 3 DE
+
+als stellvertretende Vorstände
+as deputy members
+1
+
+Das -System bietet neben AM- /
+In addition to AM /
+1
+
+Wiener Dritter-Gang-Leitung
+third speed line
+1
+
+Dritter-Gang-Hauptzahnrad
+main third-speed gear
+1
+
+super Dreistellungs-Kupplungen ,
+3-position clutches
+0.5
+
+schwache Drehmoment-Eingangsglied (
+torque input member (
+0.5
+
+Downsizing-Konzepten
+downsizing concepts
+0.272727
+
+Download ( ZIP ,
+Download ( ZIP ,
+0.941176
+
+Diesel-Technik
+Diesel technology
+0.4
+
+Diesel-Fahrzeugen
+diesel vehicles
+0.0869565
+
+Diesel Systems “
+Diesel Systems “
+1
+
+Deutschen Marketing-Preis
+German Marketing Prize
+1
+
+Definition der neuen Ertragskennzahl
+definition of the new earnings indicator
+1
+
+Dampfturbinen-Kraftwerk (
+power (
+0.333333
+
+( As )
+( As )
+1
+
+Darlehen - ThyssenKrupp Geschäftsbericht 2006 _
+loans - ThyssenKrupp Annual Report 2006 _
+1
+
+Dampfhämmer ,
+steam hammers ,
+1
+
+Dritter-Gang-Hauptzahnräder
+main third-speed gear
+1
+
+Dampf für konventionelle Dampfturbinen
+steam for the conventional steam turbines
+0.5
+
+DampTronic
+DampTronic
+1
+
+weißer Dampf für konventionellen Häuserbau
+steam for the conventional steam turbines
+0.5
+
+amit
+" Diesel Day "
+0.5
+
+Damit
+Accordingly
+0.0218978
+
+DampTronic-Stoßdämpfern
+DampTronic shock absorbers
+0.5
+
+Dampf .
+steam .
+0.3
+
+Dampf beheizte Trockenzylinder
+steam-heated dryer rolls
+0.25
+
+Dampf beheizte Trockenzylinder
+steam-heated dryer
+0.25
+
+Dampf für konventionelle
+steam for the conventional
+1
+
+Dampf für
+steam for the
+1
+
+Dampf
+steam -
+0.2
+
+Dampfantrieb
+engine house , marked here
+0.5
+
+Dampfdruck
+vapour pressure
+1
+
+Dampfturbinen-Anlage der BASF
+styrene value adding chain begins
+0.0833333
+
+Dampfturbinen-Anlage der BASF
+styrene value adding chain
+0.0833333

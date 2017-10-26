@@ -1,0 +1,3 @@
+﻿./TEST/plain_en_in/Apple.txt	./TEST/plain_lv_in/Apple.txt	0
+./TEST/plain_en_in/Latvia.txt	./TEST/plain_lv_in/Latvia.txt	0
+./TEST/plain_en_in/Microsoft.txt	./TEST/plain_lv_in/Microsoft.txt	0

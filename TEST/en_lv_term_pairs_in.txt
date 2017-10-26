@@ -1,0 +1,3 @@
+﻿./TEST/term_en_in/Apple.txt	./TEST/term_lv_in/Apple.txt	0
+./TEST/term_en_in/Latvia.txt	./TEST/term_lv_in/Latvia.txt	0
+./TEST/term_en_in/Microsoft.txt	./TEST/term_lv_in/Microsoft.txt	0

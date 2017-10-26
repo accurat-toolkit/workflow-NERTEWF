@@ -1,0 +1,2 @@
+﻿./TEST/list_plaintext_in.txt	./TEST/list_annotated_plaintext_out.txt
+./TEST/list_plaintext2_in.txt	./TEST/list_annotated_plaintext2_out.txt

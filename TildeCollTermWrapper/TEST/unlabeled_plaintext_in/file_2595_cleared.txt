@@ -1,0 +1,57 @@
+Izvēlne Sākt (pārskats)
+Izvēlne Sākt ir galvenā vārteja uz datora programmām, mapēm un iestatījumiem. Tā tiek saukta par izvēlni, jo tajā ir sniegts izvēļu saraksts. Kā liecina nosaukums "Sākt", tā ir vieta, kur doties, lai startētu vai atvērtu elementus.
+Lietojiet izvēlni Sākt, lai veiktu šādas vispārīgas darbības:
+Startētu programmas;
+Pielāgotu datora iestatījumus;
+Izslēgtu datoru;
+Darba sākšana izvēlnē Sākt
+ekrāna kreisajā apakšējā stūrī. Vai nospiediet sistēmas Windows logotipa taustiņu
+tastatūrā. Tiek parādīta izvēlne Sākt.
+Poga Sākt un izvēlne Sākt
+Izvēlne Sākt ir sadalīta trīs pamatdaļās:
+Lielajā kreisajā rūtī ir parādīts īss datora programmu saraksts. Datora ražotājs šo sarakstu var pielāgot, tāpēc tā izskats dažādos datoros ir atšķirīgs. Noklikšķinot uz Visas programmas, tiek parādīts pilns programmu saraksts (papildinformāciju par to skatiet tālāk).
+Kreisajā apakšējā stūrī atrodas meklēšanas lodziņš, kas datorā ļauj meklēt programmas un failus, ierakstot meklēšanas terminus.
+Labajā rūtī ir sniegta piekļuve bieži lietotajām mapēm, failiem, iestatījumiem un līdzekļiem. Uz šo rūti ir arī jādodas, lai atteiktos no darba sistēmā Windows vai izslēgtu datoru.
+Programmu atvēršana izvēlnē Sākt
+Izvēlne Sākt visbiežāk tiek lietota, lai atvērtu datorā instalētās programmas. Lai atvērtu programmu, kas parādīta izvēlnes Sākt kreisajā rūtī, noklikšķiniet uz tās. Programma tiek atvērta, bet izvēlne Sākt tiek aizvērta.
+Ja programma, kas jāatver, nav redzama, kreisās rūts apakšdaļā noklikšķiniet uz Visas programmas. Kreisajā rūtī tūlīt alfabētiskā secībā tiek parādīts garš programmu saraksts, un pēc tam - mapju saraksts:
+Izvēlne Sākt pēc noklikšķināšanas uz Visas programmas
+Noklikšķinot uz kādas no programmas ikonām, programma tiek palaista un izvēlne Sākt tiek aizvērta. Kas atrodas mapēs? Papildu programmas. Piemēram, noklikšķiniet uz Piederumi, un tiek parādīts to programmu saraksts, kas tiek glabātas šajā mapē. Lai atvērtu jebkuru programmu, noklikšķiniet uz tās. Lai nokļūtu atpakaļ pie programmām, kuras redzējāt, pirmo reizi atverot izvēlni Sākt, izvēlnes apakšdaļā noklikšķiniet uz Atpakaļ.
+Noklikšķinot uz mapes Piederumi, tiek parādītas programmas, kas tajā atrodas
+Ja kādreiz nezināt, kādas funkcijas veic programma, pārvietojiet rādītāju virs tās ikonas vai nosaukuma. Tiek parādīts lodziņš, kurā bieži ir programmas apraksts. Piemēram, norādot uz ikonu Kalkulators, tiek parādīts ziņojums: "Izpilda pamata aritmētiskos uzdevumus, izmantojot ekrāna kalkulatoru". Šo paņēmienu var izmantot arī elementiem, kas atrodas izvēlnes Sākt labajā rūtī.
+Norādot uz elementu, par to tiek parādīta informācija.
+Jūs varat pamanīt, ka laika gaitā programmu saraksts izvēlnē Sākt mainās. Tam ir divi iemesli. Pirmkārt, instalējot jaunas programmas, tās tiek pievienotas sarakstam Visas programmas. Otrkārt, izvēlne Sākt nosaka, kuras programmas lietojat visbiežāk, un novieto šīs programmas kreisajā rūtī, lai tām varētu ātri piekļūt.
+Meklēšanas lodziņš
+Meklēšanas lodziņš ir viens no ērtākajiem līdzekļiem, kuru var izmantot, lai datorā atrastu informāciju. Vienumu precīza atrašanās vieta nav svarīga—meklēšanas lodziņš pārmeklēs programmas un visas mapes jūsu personiskajā mapē (tā ietver mapi Dokumenti, Attēli, Mūzika, Darbvirsma un citas bieži izmantotās atrašanās vietas). Tas pārmeklēs arī e‑pasta ziņojumus, saglabātos tūlītējos ziņojumus, tikšanās un kontaktpersonas.
+Izvēlnes Sākt meklēšanas lodziņš
+Lai lietotu meklēšanas lodziņu, atveriet izvēlni Sākt un sāciet rakstīt. Lodziņā vispirms nav jānoklikšķina. Rakstot, meklēšanas rezultāti ir redzami izvēlnes Sākt kreisās rūts meklēšanas lodziņa augšdaļā.
+Programma, fails vai mape tiek parādīta kā meklēšanas rezultāts, ja:
+Kāds vārds tā nosaukumā sakrīt vai sākas ar meklējamo terminu.
+Kāds teksts esošā faila saturā—piemēram, teksts teksta apstrādes dokumentā, —atbilst meklējamam terminam vai ar to sākas.
+Kāds vārds faila rekvizītā, piemēram, autors, atbilst meklējamam terminam vai ar to sākas. (Papildinformāciju par faila rekvizītiem skatiet Faila rekvizītu skatīšana .)
+Lai atvērtu jebkuru meklēšanas rezultātu, noklikšķiniet uz tā. Vai noklikšķiniet uz pogas Notīrīt,
+lai notīrītu meklēšanas rezultātus un atgrieztos pie galvenā programmu saraksta. Var arī noklikšķināt uz Skatīt visus rezultātus, lai parādītu meklēšanas rezultātus mapē ar papildu opcijām vai uz Pārlūkot internetu, lai atvērtu interneta pārlūkprogrammu un tajā meklētu terminu. Ja meklēšana nesniedz rezultātus, var noklikšķināt uz Meklēt visur, lai meklētu visā datorā.
+Papildus programmām, failiem, mapēm un sakariem meklēšanas lodziņš pārmeklē arī jūsu interneta izlasi un apmeklēto vietņu vēsturi. Ja kādā no šīm Web lapām atrodas meklēšanas termins, tās tiek parādītas zem virsraksta, kura nosaukums ir "Mana izlase un vēsture".
+Kas atrodas labajā rūtī?
+Izvēlnes Sākt labajā rūtī ir saites uz sistēmas Windows daļām, kuras jums, iespējams, būs bieži jāizmanto. Lūk, to uzskaitījums secībā no augšas uz leju:
+Personiskā mape. Atver personisko mapi, kas nosaukta tās personas vārdā, kura pašlaik pieteikusies sistēmā Windows. Piemēram, ja pašreizējais lietotājs ir Ieva Kalniņa, mapes nosaukums ir Ieva Kalniņa. Šajā mapē atrodas konkrētā lietotāja faili, tai skaitā mape Dokumenti, Mūzika, Attēli un Video.
+Dokumenti. Atver mapi Dokumenti, kurā var saglabāt un atvērt teksta failus, izklājlapas, prezentācijas un cita veida dokumentus.
+Attēli. Atver mapi Attēli, kurā var saglabāt un apskatīt ciparattēlus un grafiskos failus.
+Mūzika. Atver mapi Mūzika, kurā var saglabāt un atskaņot mūziku un citus audio failus.
+Spēles. Atver mapi Spēles, no kuras var piekļūt visām spēlēm, kas atrodas datorā.
+Meklēt. Atver logu, no kura var veikt meklēšanu datorā, izmantojot papildu opcijas.
+Nesenie vienumi. Atver nesen atvērto failu sarakstu. Lai atvērtu kādu no failiem, noklikšķiniet uz tā sarakstā.
+Dators. Atver logu, no kura var piekļūt diskdziņiem, kamerām, printeriem, skeneriem un citai aparatūrai, kas pievienota datoram.
+Tīkls. Atver logu, no kura var piekļūt datoriem un ierīcēm, kas atrodas tīklā.
+Izveidot savienojumu ar. Atver logu, kurā var izveidot savienojumu ar jaunu tīklu.
+Vadības panelis. Atver vadības paneli, kurā var pielāgot datora izskatu un funkcionalitāti, pievienot vai noņemt programmas, iestatīt tīkla savienojumus un pārvaldīt lietotāja kontus.
+Noklusētās programmas. Atver logu, kurā var izvēlēties, kuras programmas sistēmai Windows jāizmanto tādām darbībām kā tīkla Web pārlūkošana, attēlu rediģēšana, e‑pasta sūtīšana un mūzikas un video atskaņošana.
+Palīdzība un atbalsts. Atver sistēmas Windows palīdzības un atbalsta sadaļu, kur var pārlūkot un meklēt palīdzības tēmas par sistēmas Windows un datora lietošanu. Skatiet Palīdzības saņemšana .
+Labās rūts apakšdaļā ir divas pogas: barošanas poga un poga Slēgt. Noklikšķiniet uz barošanas pogas, lai datoru izslēgtu, vai noklikšķiniet uz pogas Slēgt, lai datoru slēgtu, to neizslēdzot. Kad dators ir slēgts, to var atsākt lietot tikai pēc atslēgšanas ar paroli.
+Noklikšķinot uz bultiņas blakus slēgšanas pogai, tiek parādīta izvēlne ar lietotāju pārslēgšanas, atteikšanās, restartēšanas vai beidzēšanas papildu opcijām. Papildinformāciju skatiet Atteikšanās no darba sistēmā Windows un Datora izslēgšana: bieži uzdotie jautājumi .
+Piezīme
+Izvēlnes Sākt pielāgošana
+Lietotājs var izvēlēties, kurus vienumus parādīt izvēlnē Sākt. Piemēram, izvēlnei Sākt var pievienot izlases programmu ikonas, lai tām varētu viegli piekļūt, vai noņemt programmas no saraksta. Var arī izvēlēties paslēpt vai rādīt noteiktus elementus labajā rūtī. Skatiet Izvēlnes Sākt pielāgošana .
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

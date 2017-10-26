@@ -1,0 +1,25 @@
+﻿Microsoft
+Vikipēdijas raksts
+Microsoft
+
+Veids	akciju sabiedrīa
+Dibināts	1975. gada 4. aprīlis (Albuquerque, New Mexico)
+Galvenais birojs	Redmonda, Vašingtona, ASV
+Vadība	
+Bils Geitss, Stīvs Balmers, Rejs Ozijs
+Darbinieki	93 000 vairāk nekā 100 valstīs (2009)
+Apgrozījums	$58.437 miljardi (2009)
+Nozare	Informācijas tehnoloģijas
+Produkti	programatūra
+Mājaslapa	http://www.microsoft.com
+Microsoft Corporation ir starptautiska datoru tehnoloģiju korporācija, kura galvenais birojs atrodas ASV, Vašingtonas štatā. Tā nemitīgi attīsta, izstrādā, licencē un uztur plašu programmatūras produktu klāstu, kuras galvenokārt paredzētas skaitļošanas ierīcēm.[1][2] Microsoft vislabāk pārdotais produkts ir Microsoft Windows operētājsistēma un Microsoft Office programmnodrošinājuma komplekts.
+Microsoft ir pasaulē lielākā datorprogrammatūras ražotājfirma.[nepieciešama atsauce] Korporāciju Microsoft dibināja Bils Geitss.
+Dibināta Albuquerque, New Mexico 1975. gada 4.aprīlī.
+Vēsture [izmainīt šo sadaļu]
+
+1975-1984: Dibināšana
+Pēc Altair 8800 izgudrošanas Viljams Henrijs Geits III (Bils Geitss) saicināja darbiniekus no (MITS) piedāvājot demonstrēt BASIC programmēšanas valodas sistēmu. Pēc demonstrācijas MITS darbinieki piekrita izplatīt Altair BASIC. Geitss pameta Hāvardas universitāti un pārvācās uz Albuquerque, New Mexico, kur atradās MITS un tur viņš izveidoja Microsoft. Pirmais ofiss, kurš atradās ārzemēs bija Japānā (1. novembris 1978. gads), kura nosaukums bija "ASCII Microsoft" (tagad "Microsoft Japan"). 1979. gada 1. Janvārī kompānija no Albuquerque pārcēlās uz jaunām mājām Bellevue, Washington. Stīvs Balmers pievienojās kompānijai 11. jūnijā 1980. gadā un vēlāk Bilu Geitsu iecēla par izpild direktoru.
+Starp pre-IBM-PC produktiem bija programmas pakas TASC (The AppleSoft Compiler), kas kompilēja BASIC programmu Apple sistēmas valodā un Microsoft Softcard aparatūras produkti, pievienojumi Z80 procesoru kartēm priekš Apple II un saderīgiem datoriem kuri atļāv pielietot CP/M operētājsistēmu nevis AppleSoft un Apple DOS. 1980. gadā Microsoft izveidoja paši savu operētājsistēmas biznesu ar savas versijas Unix, kuru sauca Xenix, un bija licencēti priekš dažādām datoru sistēmām.
+DOS (Diska operētājsistēma) bija pirmā operētājsistēma, kas kompānijai nesa pirmos lielos panākumus. 1981. gada 12. augustā sarunas ar Digital Research izgāzās, IBM piedāvāja līgumu Microsoft, lai nodrošinātu CP/M operētājsistēmu, IBM ražotajiem Persionālajiem datoriem (PC). Pēc līguma noslēgšanas Microsoft iegādājās CP/M klonu 86-DOS no Seattle Computer Products, kuru IBM pārdēvēja par PC-DOS. Vēlāk, notika liels pieprsījums pēc IBM PC kloniem, pēc Columbia Data Products veiksmīgi klonēja IBM BIOS, un pēc agresīva tirgus Microsoft no mazas kompānijas kļuva par programmatūras gigantu, mājas datoru industrijā. Kompānija izpletās jaunās trigus daļās ar savu ražojumu Microsoft Mouse 1983. gadā.
+1985—1994: IPO, OS/2 un Windows
+1985. gada augustā, Microsoft un IBM sadarbojās citas operētājsistēmas izveides projektā OS/2. 1985. gada 20. novembrī, Microsoft izlaida savu pirmo mazumtirdzniecības versiju Microsoft Windows, oriģināli grafiskais papildinājums MS-DOS operētājsistēmai. 1987. gadā Microsoft izlaida savu OS/2 versiju.

@@ -1,0 +1,2 @@
+﻿./TEST/list_tabsep_in.pos	./TEST/list_annotated_tabsep_out.pos
+./TEST/list_tabsep2_in.pos	./TEST/list_annotated_tabsep2_out.pos

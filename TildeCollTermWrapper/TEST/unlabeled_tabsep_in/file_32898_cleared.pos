@@ -1,0 +1,1585 @@
+Atjauninājumi	N	atjauninājums	N-mpn---------n-----------f-	0	0	0	12
+:	T	:	T--------------------------:	0	13	0	13
+bieži	R	bieži	R----p--------------------l-	0	15	0	19
+uzdotie	G	uzdots	Gsmpnp-y---p--------------l-	0	21	0	27
+jautājumi	N	jautājums	N-mpn---------n-----------l-	0	29	0	37
+
+
+Piedāvājam	V	piedāvāt	Vp-p--1--i----------------f-	1	0	1	9
+atbildes	N	atbilde	N-fpn---------n-----------l-	1	11	1	18
+uz	S	uz	S----------------pdp------l-	1	20	1	21
+tipiskiem	A	tipisks	A-mpdp-n------------------l-	1	23	1	31
+jautājumiem	N	jautājums	N-mpd---------n-----------l-	1	33	1	43
+par	S	par	S----------------pdp------l-	1	45	1	47
+atjauninājumiem	N	atjauninājums	N-mpd---------n-----------l-	1	49	1	63
+.	SENT	.	T--------------------------.	1	64	1	64
+
+Informāciju	N	informācija	N-fsa---------n-----------f-	1	66	1	76
+par	S	par	S----------------pdp------l-	1	78	1	80
+atjauninājumiem	N	atjauninājums	N-mpd---------n-----------l-	1	82	1	96
+un	C	un	C---------------------c---l-	1	98	1	99
+konfidencialitāti	N	konfidencialitāte	N-fsa---------n-----------l-	1	101	1	117
+lasiet	V	lasīt	V--p--2--m----------------l-	1	119	1	124
+Windows	N	Windows	N-fsl---------n-----------f-	1	126	1	132
+atjaunināšanas	N	atjaunināšana	N-fsg---------n-----------l-	1	134	1	147
+paziņojumā	N	paziņojums	N-msl---------n-----------l-	1	149	1	158
+par	S	par	S----------------sap------l-	1	160	1	162
+konfidencialitāti	N	konfidencialitāte	N-fsa---------n-----------l-	1	164	1	180
+tiešsaistē	N	tiešsaiste	N-fsl---------n-----------l-	1	182	1	191
+.	SENT	.	T--------------------------.	1	192	1	192
+
+
+Programmatūras	N	programmatūra	N-fsg---------n-----------f-	2	0	2	13
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	2	15	2	27
+periodiski	R	periodiski	R----p--------------------l-	2	29	2	38
+informē	V	informēt	Vp----3--i----------------l-	2	40	2	46
+par	S	par	S----------------pdp------l-	2	48	2	50
+jaunajām	A	jauns	A-fpdp-y------------------l-	2	52	2	59
+programmām	N	programma	N-fpd---------n-----------l-	2	61	2	70
+,	T	,	T--------------------------,	2	71	2	71
+kas	P	kas	P---n-------r---------x---l-	2	73	2	75
+var	V	varēt	Vp----3--i----------3-----l-	2	77	2	79
+uzlabot	V	uzlabot	V--------n----------------l-	2	81	2	87
+darbu	N	darbs	N-msa---------n-----------l-	2	89	2	93
+ar	S	ar	S----------------sap------l-	2	95	2	96
+datoru	N	dators	N-msa---------n-----------l-	2	98	2	103
+un	C	un	C---------------------c---l-	2	105	2	106
+internetu	N	internets	N-msa---------n-----------l-	2	108	2	116
+.	SENT	.	T--------------------------.	2	117	2	117
+
+Var	V	varēt	Vp----3--i----------3-----f-	2	119	2	121
+izvēlēties	V	izvēlēties	V--------n-----y----------l-	2	123	2	132
+saņemt	V	saņemt	V--------n----------------l-	2	134	2	139
+detalizētus	A	detalizēts	A-mpap-n------------------l-	2	141	2	151
+ziņojumus	N	ziņojums	N-mpa---------n-----------l-	2	153	2	161
+par	S	par	S----------------sap------l-	2	163	2	165
+to	P	tas	P-msa-------d-------------l-	2	167	2	168
+,	T	,	T--------------------------,	2	169	2	169
+kad	R	kad	R----p----------------f---l-	2	171	2	173
+programma	N	programma	N-fsn---------n-----------l-	2	175	2	183
+ir	V	būt	Vp----3--i----------7-----l-	2	185	2	186
+pieejama	G	pieejams	Gpfsnp-n---p--------------l-	2	188	2	195
+lejupielādei	N	lejupielāde	N-fsd---------n-----------l-	2	197	2	208
+un	C	un	C---------------------c---l-	2	210	2	211
+instalēšanai	N	instalēšana	N-fsd---------n-----------l-	2	213	2	224
+.	SENT	.	T--------------------------.	2	225	2	225
+
+Pēc	S	pēc	S----------------sgp------f-	2	227	2	229
+ziņojuma	N	ziņojums	N-msg---------n-----------l-	2	231	2	238
+saņemšanas	N	saņemšana	N-fsg---------n-----------l-	2	240	2	249
+varat	V	varēt	Vp-p--2--i----------3-----l-	2	251	2	255
+pārskatīt	V	pārskatīt	V--------n----------------l-	2	257	2	265
+piedāvājumu	N	piedāvājums	N-msa---------n-----------l-	2	267	2	277
+un	C	un	C---------------------c---l-	2	279	2	280
+iegūt	V	iegūt	V--------n----------------l-	2	282	2	286
+papildinformāciju	N	papildinformācija	N-fsa---------n-----------l-	2	288	2	304
+.	SENT	.	T--------------------------.	2	305	2	305
+
+Varat	V	varēt	Vp-p--2--i----------3-----f-	2	307	2	311
+instalēt	V	instalēt	V--------n----------------l-	2	313	2	320
+vajadzīgās	A	vajadzīgs	A-fpap-y------------------l-	2	322	2	331
+programmas	N	programma	N-fpa---------n-----------l-	2	333	2	342
+.	SENT	.	T--------------------------.	2	343	2	343
+
+Paziņojums	N	paziņojums	N-msn---------n-----------f-	2	345	2	354
+tiek	V	tikt	Vp----3--i----------6-----l-	2	356	2	359
+parādīts	G	parādīts	Gsmsnp-n---p--------------l-	2	361	2	368
+ierobežotā	G	ierobežots	Gsmsgp-y---p--------------l-	2	370	2	379
+laika	N	laiks	N-msg---------n-----------l-	2	381	2	385
+posmā	N	posms	N-msl---------n-----------l-	2	387	2	391
+un	C	un	C---------------------c---l-	2	393	2	394
+,	T	,	T--------------------------,	2	395	2	395
+ja	C	ja	C---------------------d---l-	2	397	2	398
+neesat	V	nebūt	Vp-p--2--i------y---1-----l-	2	400	2	405
+ieinteresēts	A	ieinteresēts	A-msnp-n------------------l-	2	407	2	418
+,	T	,	T--------------------------,	2	419	2	419
+varat	V	varēt	Vp-p--2--i----------3-----l-	2	421	2	425
+to	P	tas	P-msa-------d-------------l-	2	427	2	428
+aizvērt	V	aizvērt	V--------n----------------l-	2	430	2	436
+.	SENT	.	T--------------------------.	2	437	2	437
+
+Lai	C	lai	C---------------------k---f-	2	439	2	441
+ieslēgtu	V	ieslēgt	Vp-------s----------------l-	2	443	2	450
+vai	C	vai	C---------------------c---l-	2	452	2	454
+izslēgtu	V	izslēgt	Vp-------s----------------l-	2	456	2	463
+paziņojumus	N	paziņojums	N-mpa---------n-----------l-	2	465	2	475
+par	S	par	S----------------sap------l-	2	477	2	479
+programmatūru	N	programmatūra	N-fsa---------n-----------l-	2	481	2	493
+,	T	,	T--------------------------,	2	494	2	494
+rīkojieties	V	rīkoties	V--p--2--m-----y----------l-	2	496	2	506
+šādi	R	šādi	R----p--------------------l-	2	508	2	511
+:	T	:	T--------------------------:	2	512	2	512
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	3	0	3	7
+Windows	N	Windows	N-fsl---------n-----------f-	3	9	3	15
+atjaunināšanu	N	atjaunināšana	N-fsa---------n-----------l-	3	17	3	29
+,	T	,	T--------------------------,	3	30	3	30
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	3	32	3	43
+uz	S	uz	S----------------sgp------l-	3	45	3	46
+pogas	N	poga	N-fsg---------n-----------l-	3	48	3	52
+Sākt	V	sākt	V--------n----------3-----f-	3	54	3	57
+
+
+.	T	.	T--------------------------.	4	0	4	0
+Meklēšanas	N	meklēšana	N-fsg---------n-----------f-	4	2	4	11
+lodziņā	N	logs	N-msl---------y-----------l-	4	13	4	19
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	4	21	4	30
+Atjaunināšana	N	atjaunināšana	N-fsn---------n-----------f-	4	32	4	44
+un	C	un	C---------------------c---l-	4	46	4	47
+pēc tam	-	pēc_tam	----------------------------	4	49	4	55
+rezultātu	N	rezultāts	N-msa---------n-----------l-	4	57	4	65
+sarakstā	N	saraksts	N-msl---------n-----------l-	4	67	4	74
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	4	76	4	88
+uz	S	uz	S----------------sgp------l-	4	90	4	91
+Windows	N	Windows	N-fsg---------n-----------f-	4	93	4	99
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	4	101	4	113
+.	SENT	.	T--------------------------.	4	114	4	114
+
+
+Kreisajā	A	kreiss	A-fslp-y------------------f-	5	0	5	7
+rūtī	N	rūts	N-fsl---------n-----------l-	5	9	5	12
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	5	14	5	26
+uz	S	uz	S----------------sap------l-	5	28	5	29
+Mainīt	V	mainīt	V--------n----------------f-	5	31	5	36
+iestatījumus	N	iestatījums	N-mpa---------n-----------l-	5	38	5	49
+.	SENT	.	T--------------------------.	5	50	5	50
+
+
+Veiciet	V	veikt	V--p--2--m----------------f-	6	0	6	6
+kādu	P	kāds	P-fsa-------g---------f---l-	6	8	6	11
+no	S	no	S----------------pdp------l-	6	13	6	14
+šīm	P	šis	P-fpd-------d-------------l-	6	16	6	18
+darbībām	N	darbība	N-fpd---------n-----------l-	6	20	6	27
+:	T	:	T--------------------------:	6	28	6	28
+
+
+Lai	C	lai	C---------------------k---f-	7	0	7	2
+ieslēgtu	V	ieslēgt	Vp-------s----------------l-	7	4	7	11
+jaunus	A	jauns	A-mpap-n------------------l-	7	13	7	18
+paziņojumus	N	paziņojums	N-mpa---------n-----------l-	7	20	7	30
+par	S	par	S----------------sap------l-	7	32	7	34
+Microsoft	N	Microsoft	N-fsg---------n-----------f-	7	36	7	44
+programmatūru	N	programmatūra	N-fsa---------n-----------l-	7	46	7	58
+,	T	,	T--------------------------,	7	59	7	59
+atzīmējiet	V	atzīmēt	V--p--2--m----------------l-	7	61	7	70
+izvēles	N	izvēle	N-fsg---------n-----------l-	7	72	7	78
+rūtiņu	N	rūtiņa	N-fsa---------n-----------l-	7	80	7	85
+Rādīt	V	rādīt	V--------n----------------f-	7	87	7	91
+detalizētus	A	detalizēts	A-mpap-n------------------l-	7	93	7	103
+paziņojumus	N	paziņojums	N-mpa---------n-----------l-	7	105	7	115
+,	T	,	T--------------------------,	7	116	7	116
+kad	R	kad	R----p----------------f---l-	7	118	7	120
+ir	V	būt	Vp----3--i----------7-----l-	7	122	7	123
+pieejama	G	pieejams	Gpfsnp-n---p--------------l-	7	125	7	132
+jauna	A	jauns	A-msgp-n------------------l-	7	134	7	138
+Microsoft	N	Microsoft	N-fsg---------n-----------f-	7	140	7	148
+programmatūra	N	programmatūra	N-fsn---------n-----------l-	7	150	7	162
+.	SENT	.	T--------------------------.	7	163	7	163
+
+
+Lai	C	lai	C---------------------k---f-	8	0	8	2
+izslēgtu	V	izslēgt	Vp-------s----------------l-	8	4	8	11
+jaunus	A	jauns	A-mpap-n------------------l-	8	13	8	18
+paziņojumus	N	paziņojums	N-mpa---------n-----------l-	8	20	8	30
+par	S	par	S----------------sap------l-	8	32	8	34
+Microsoft	N	Microsoft	N-fsg---------n-----------f-	8	36	8	44
+programmatūru	N	programmatūra	N-fsa---------n-----------l-	8	46	8	58
+,	T	,	T--------------------------,	8	59	8	59
+notīriet	V	notīrīt	V--p--2--m----------------l-	8	61	8	68
+izvēles	N	izvēle	N-fsg---------n-----------l-	8	70	8	76
+rūtiņu	N	rūtiņa	N-fsa---------n-----------l-	8	78	8	83
+Rādīt	V	rādīt	V--------n----------------f-	8	85	8	89
+detalizētus	A	detalizēts	A-mpap-n------------------l-	8	91	8	101
+paziņojumus	N	paziņojums	N-mpa---------n-----------l-	8	103	8	113
+,	T	,	T--------------------------,	8	114	8	114
+kad	R	kad	R----p----------------f---l-	8	116	8	118
+ir	V	būt	Vp----3--i----------7-----l-	8	120	8	121
+pieejama	G	pieejams	Gpfsnp-n---p--------------l-	8	123	8	130
+jauna	A	jauns	A-msgp-n------------------l-	8	132	8	136
+Microsoft	N	Microsoft	N-fsg---------n-----------f-	8	138	8	146
+programmatūra	N	programmatūra	N-fsn---------n-----------l-	8	148	8	160
+.	SENT	.	T--------------------------.	8	161	8	161
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	9	0	9	12
+uz	S	uz	S----------------sgp------l-	9	14	9	15
+Labi	R	labi	R----p--------------------f-	9	17	9	20
+.	SENT	.	T--------------------------.	9	21	9	21
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	10	0	10	7
+Windows	N	Windows	N-fsl---------n-----------f-	10	9	10	15
+atjaunināšanu	N	atjaunināšana	N-fsa---------n-----------l-	10	17	10	29
+,	T	,	T--------------------------,	10	30	10	30
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	10	32	10	43
+uz	S	uz	S----------------sgp------l-	10	45	10	46
+pogas	N	poga	N-fsg---------n-----------l-	10	48	10	52
+Sākt	V	sākt	V--------n----------3-----f-	10	54	10	57
+
+
+.	T	.	T--------------------------.	11	0	11	0
+Meklēšanas	N	meklēšana	N-fsg---------n-----------f-	11	2	11	11
+lodziņā	N	logs	N-msl---------y-----------l-	11	13	11	19
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	11	21	11	30
+Atjaunināšana	N	atjaunināšana	N-fsn---------n-----------f-	11	32	11	44
+un	C	un	C---------------------c---l-	11	46	11	47
+pēc tam	-	pēc_tam	----------------------------	11	49	11	55
+rezultātu	N	rezultāts	N-msa---------n-----------l-	11	57	11	65
+sarakstā	N	saraksts	N-msl---------n-----------l-	11	67	11	74
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	11	76	11	88
+uz	S	uz	S----------------sgp------l-	11	90	11	91
+Windows	N	Windows	N-fsg---------n-----------f-	11	93	11	99
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	11	101	11	113
+.	SENT	.	T--------------------------.	11	114	11	114
+
+
+Kreisajā	A	kreiss	A-fslp-y------------------f-	12	0	12	7
+rūtī	N	rūts	N-fsl---------n-----------l-	12	9	12	12
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	12	14	12	26
+uz	S	uz	S----------------sap------l-	12	28	12	29
+Pārbaudīt	V	pārbaudīt	V--------n----------------f-	12	31	12	39
+,	T	,	T--------------------------,	12	40	12	40
+vai	C	vai	C---------------------c---l-	12	42	12	44
+nav	V	nebūt	Vp----3--i------y---1-----l-	12	46	12	48
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	12	50	12	62
+.	SENT	.	T--------------------------.	12	63	12	63
+
+
+Iesakām	V	iesacīt	Vp-p--1--i----------------f-	13	0	13	6
+ieslēgt	V	ieslēgt	V--------n----------------l-	13	8	13	14
+automātisko	A	automātisks	A-fsap-y------------------l-	13	16	13	26
+atjaunināšanu	N	atjaunināšana	N-fsa---------n-----------l-	13	28	13	40
+,	T	,	T--------------------------,	13	41	13	41
+lai	C	lai	C---------------------f---l-	13	43	13	45
+Windows	N	Windows	N-fpn---------n-----------f-	13	47	13	53
+instalētu	V	instalēt	Vp-------s----------------l-	13	55	13	63
+pēdējos	A	pēdējais	A-mpap-y------------------l-	13	65	13	71
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	13	73	13	86
+,	T	,	T--------------------------,	13	87	13	87
+tiklīdz	C	tiklīdz	C---------------------t---l-	13	89	13	95
+tie	P	tas	P-mpn-------d-------------l-	13	97	13	99
+ir	V	būt	Vp----3--i----------7-----l-	13	101	13	102
+pieejami	A	pieejams	A-mpnp-n------------------l-	13	104	13	111
+.	SENT	.	T--------------------------.	13	112	13	112
+
+Papildinformāciju	N	papildinformācija	N-fsa---------n-----------f-	13	114	13	130
+skatiet	V	skatīt	V--p--2--m----------------l-	13	132	13	138
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	13	140	13	145
+Automātiskās	A	automātisks	A-fsgp-y------------------f-	13	147	13	158
+atjaunināšanas	N	atjaunināšana	N-fsg---------n-----------l-	13	160	13	173
+ieslēgšana	N	ieslēgšana	N-fsn---------n-----------l-	13	175	13	184
+vai	C	vai	C---------------------c---l-	13	186	13	188
+izslēgšana	N	izslēgšana	N-fsn---------n-----------l-	13	190	13	199
+.	SENT	.	T--------------------------.	13	201	13	201
+
+
+Lai	C	lai	C---------------------k---f-	14	0	14	2
+saņemtu	V	saņemt	Vp-------s----------------l-	14	4	14	10
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	14	12	14	25
+,	T	,	T--------------------------,	14	26	14	26
+kas	P	kas	P---n-------r---------x---l-	14	28	14	30
+paredzēti	G	paredzēts	Gsmpnp-n---p--------------l-	14	32	14	40
+Microsoft	N	Microsoft	N-msl---------n-----------f-	14	42	14	50
+Office	N	Office	N-fsa---------n-----------f-	14	52	14	57
+sistēmai	N	sistēma	N-fsd---------n-----------l-	14	59	14	66
+un	C	un	C---------------------c---l-	14	68	14	69
+citai	P	cits	P-fsd-------i-------------l-	14	71	14	75
+Microsoft	N	Microsoft	N-fsn---------n-----------f-	14	77	14	85
+programmatūrai	N	programmatūra	N-fsd---------n-----------l-	14	87	14	100
+,	T	,	T--------------------------,	14	101	14	101
+atveriet	V	atvērt	V--p--2--m----------------l-	14	103	14	110
+Microsoft	N	Microsoft	N-fpl---------n-----------f-	14	112	14	120
+atjaunināšanas	N	atjaunināšana	N-fsg---------n-----------l-	14	122	14	135
+vietni	N	vietne	N-fsa---------n-----------l-	14	137	14	142
+.	SENT	.	T--------------------------.	14	143	14	143
+
+Kad	R	kad	R----p----------------o---f-	14	145	14	147
+Microsoft	N	Microsoft	N-fsg---------n-----------f-	14	149	14	157
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	14	159	14	171
+būs	V	būt	Vf----3--i----------1-----l-	14	173	14	175
+ieslēgta	G	ieslēgts	Gsfsnp-n---p--------------l-	14	177	14	184
+,	T	,	T--------------------------,	14	185	14	185
+tiks	V	tikt	Vf----3--i----------6-----l-	14	187	14	190
+atvērta	V	atvērst	Vs----3--i----------------l-	14	192	14	198
+Windows	N	Windows	N-fsg---------n-----------f-	14	200	14	206
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	14	208	14	220
+,	T	,	T--------------------------,	14	221	14	221
+kur	R	kur	R----p----------------f---l-	14	223	14	225
+varēsit	V	varēt	Vf-p--2--i----------3-----l-	14	227	14	233
+meklēt	V	meklēt	V--------n----------------l-	14	235	14	240
+jaunus	A	jauns	A-mpap-n------------------l-	14	242	14	247
+Microsoft	N	Microsoft	N-mpg---------n-----------f-	14	249	14	257
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	14	259	14	272
+.	SENT	.	T--------------------------.	14	273	14	273
+
+Lai	C	lai	C---------------------k---f-	14	275	14	277
+atrastu	V	atrast	Vp-------s----------------l-	14	279	14	285
+citu	P	cits	P-fsa-------i-------------l-	14	287	14	290
+programmu	N	programma	N-fsa---------n-----------l-	14	292	14	300
+un	C	un	C---------------------c---l-	14	302	14	303
+ierīču	N	ierīce	N-fpg---------n-----------l-	14	305	14	310
+izmantojamos	G	izmantojams	Gpmpap-y---p--------------l-	14	312	14	323
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	14	325	14	338
+,	T	,	T--------------------------,	14	339	14	339
+apmeklējiet	V	apmeklēt	V--p--2--m----------------l-	14	341	14	351
+izdevēja	N	izdevējs	N-msg---------n-----------l-	14	353	14	360
+vai	C	vai	C---------------------c---l-	14	362	14	364
+ražotāja	N	ražotāja	N-fsn---------n-----------l-	14	366	14	373
+vietni	N	vietne	N-fsa---------n-----------l-	14	375	14	380
+.	SENT	.	T--------------------------.	14	381	14	381
+
+
+Pēc	S	pēc	S----------------pdp------f-	15	0	15	2
+noklusējuma	N	noklusējums	N-msg---------n-----------l-	15	4	15	14
+sistēma	N	sistēma	N-fsn---------n-----------l-	15	16	15	22
+Windows	N	Windows	N-fsn---------n-----------f-	15	24	15	30
+ļauj	V	ļaut	Vp----3--i----------9-----l-	15	32	15	35
+instalēt	V	instalēt	V--------n----------------l-	15	37	15	44
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	15	46	15	59
+tikai	Q	tikai	Q-------------------------l-	15	61	15	65
+lietotājiem	N	lietotājs	N-mpd---------n-----------l-	15	67	15	77
+,	T	,	T--------------------------,	15	78	15	78
+kuriem	P	kurš	P-mpd-------r---------a---l-	15	80	15	85
+ir	V	būt	Vp----3--i----------7-----l-	15	87	15	88
+administratora	N	administrators	N-msg---------n-----------l-	15	90	15	103
+konts	N	konts	N-msn---------n-----------l-	15	105	15	109
+.	SENT	.	T--------------------------.	15	110	15	110
+
+Varat	V	varēt	Vp-p--2--i----------3-----f-	15	112	15	116
+ļaut	V	ļaut	V--------n----------9-----l-	15	118	15	121
+instalēt	V	instalēt	V--------n----------------l-	15	123	15	130
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	15	132	15	145
+arī	Q	arī	Q-------------------------l-	15	147	15	149
+lietotājiem	N	lietotājs	N-mpd---------n-----------l-	15	151	15	161
+ar	S	ar	S----------------sap------l-	15	163	15	164
+standarta	N	standarts	N-msg---------n-----------l-	15	166	15	174
+kontu	N	konts	N-msa---------n-----------l-	15	176	15	180
+.	SENT	.	T--------------------------.	15	181	15	181
+
+Tas	P	tas	P-msn-------d-------------f-	15	183	15	185
+var	V	varēt	Vp----3--i----------3-----l-	15	187	15	189
+būt	V	būt	V--------n----------1-----l-	15	191	15	193
+noderīgi	R	noderīgi	R----p--------------------l-	15	195	15	202
+,	T	,	T--------------------------,	15	203	15	203
+ja	C	ja	C---------------------d---l-	15	205	15	206
+izmantojat	V	izmantot	Vp-p--2--i----------------l-	15	208	15	217
+ģimenes	N	ģimene	N-fsg---------n-----------l-	15	219	15	225
+datoru	N	dators	N-msa---------n-----------l-	15	227	15	232
+,	T	,	T--------------------------,	15	233	15	233
+kurā	P	kurš	P-msl-------r---------f---l-	15	235	15	238
+vairākumam	N	vairākums	N-msd---------n-----------l-	15	240	15	249
+lietotāju	N	lietotājs	N-msa---------n-----------l-	15	251	15	259
+ir	V	būt	Vp----3--i----------7-----l-	15	261	15	262
+standarta	N	standarts	N-msg---------n-----------l-	15	264	15	272
+konti	N	konts	N-mpn---------n-----------l-	15	274	15	278
+,	T	,	T--------------------------,	15	279	15	279
+kas	P	kas	P---n-------r---------x---l-	15	281	15	283
+uzlabo	V	uzlabot	Vp----3--i----------------l-	15	285	15	290
+interneta	N	internets	N-msg---------n-----------l-	15	292	15	300
+drošību	N	drošība	N-fsa---------n-----------l-	15	302	15	308
+vai	C	vai	C---------------------c---l-	15	310	15	312
+vecāku	A	vecs	A-fsac-n------------------l-	15	314	15	319
+kontroli	N	kontrole	N-fsa---------n-----------l-	15	321	15	328
+.	SENT	.	T--------------------------.	15	329	15	329
+
+Izmantojot	G	izmantojot	G----------a-n------------f-	15	331	15	340
+šo	P	šis	P-fsa-------d-------------l-	15	342	15	343
+opciju	N	opcija	N-fsa---------n-----------l-	15	345	15	350
+,	T	,	T--------------------------,	15	351	15	351
+varat	V	varēt	Vp-p--2--i----------3-----l-	15	353	15	357
+atļaut	V	atļaut	V--------n----------------l-	15	359	15	364
+standarta	N	standarts	N-msg---------n-----------l-	15	366	15	374
+lietotājiem	N	lietotājs	N-mpd---------n-----------l-	15	376	15	386
+,	T	,	T--------------------------,	15	387	15	387
+kas	P	kas	P---n-------r---------x---l-	15	389	15	391
+nav	V	nebūt	Vp----3--i------y---1-----l-	15	393	15	395
+administratori	N	administratore	N-fsa---------n-----------l-	15	397	15	410
+,	T	,	T--------------------------,	15	411	15	411
+instalēt	V	instalēt	V--------n----------------l-	15	413	15	420
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	15	422	15	435
+manuāli	R	manuāli	R----p--------------------l-	15	437	15	443
+.	SENT	.	T--------------------------.	15	444	15	444
+
+
+Lai	C	lai	C---------------------k---f-	16	0	16	2
+lietotājiem	N	lietotājs	N-mpd---------n-----------l-	16	4	16	14
+atļautu	V	atļaut	Vp-------s----------------l-	16	16	16	22
+instalēt	V	instalēt	V--------n----------------l-	16	24	16	31
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	16	33	16	46
+,	T	,	T--------------------------,	16	47	16	47
+rīkojieties	V	rīkoties	V--p--2--m-----y----------l-	16	49	16	59
+šādi	R	šādi	R----p--------------------l-	16	61	16	64
+:	T	:	T--------------------------:	16	65	16	65
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	17	0	17	7
+Windows	N	Windows	N-fsl---------n-----------f-	17	9	17	15
+atjaunināšanu	N	atjaunināšana	N-fsa---------n-----------l-	17	17	17	29
+,	T	,	T--------------------------,	17	30	17	30
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	17	32	17	43
+uz	S	uz	S----------------sgp------l-	17	45	17	46
+pogas	N	poga	N-fsg---------n-----------l-	17	48	17	52
+Sākt	V	sākt	V--------n----------3-----f-	17	54	17	57
+
+
+.	T	.	T--------------------------.	18	0	18	0
+Meklēšanas	N	meklēšana	N-fsg---------n-----------f-	18	2	18	11
+lodziņā	N	logs	N-msl---------y-----------l-	18	13	18	19
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	18	21	18	30
+Atjaunināšana	N	atjaunināšana	N-fsn---------n-----------f-	18	32	18	44
+un	C	un	C---------------------c---l-	18	46	18	47
+pēc tam	-	pēc_tam	----------------------------	18	49	18	55
+rezultātu	N	rezultāts	N-msa---------n-----------l-	18	57	18	65
+sarakstā	N	saraksts	N-msl---------n-----------l-	18	67	18	74
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	18	76	18	88
+uz	S	uz	S----------------sgp------l-	18	90	18	91
+Windows	N	Windows	N-fsg---------n-----------f-	18	93	18	99
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	18	101	18	113
+.	SENT	.	T--------------------------.	18	114	18	114
+
+
+Kreisajā	A	kreiss	A-fslp-y------------------f-	19	0	19	7
+rūtī	N	rūts	N-fsl---------n-----------l-	19	9	19	12
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	19	14	19	26
+uz	S	uz	S----------------sap------l-	19	28	19	29
+Mainīt	V	mainīt	V--------n----------------f-	19	31	19	36
+iestatījumus	N	iestatījums	N-mpa---------n-----------l-	19	38	19	49
+.	SENT	.	T--------------------------.	19	50	19	50
+
+
+Veiciet	V	veikt	V--p--2--m----------------f-	20	0	20	6
+kādu	P	kāds	P-fsa-------g---------a---l-	20	8	20	11
+no	S	no	S----------------pdp------l-	20	13	20	14
+tālāk	R	tālu	R----c--------------------l-	20	16	20	20
+minētajām	G	minēts	Gsfpdp-y---p--------------l-	20	22	20	30
+darbībām	N	darbība	N-fpd---------n-----------l-	20	32	20	39
+:	T	:	T--------------------------:	20	40	20	40
+
+
+Lai	C	lai	C---------------------k---f-	21	0	21	2
+standarta	N	standarts	N-msg---------n-----------l-	21	4	21	12
+lietotājiem	N	lietotājs	N-mpd---------n-----------l-	21	14	21	24
+ļautu	V	ļaut	Vp-------s----------3-----l-	21	26	21	30
+instalēt	V	instalēt	V--------n----------------l-	21	32	21	39
+iezīmējiet	V	iezīmēt	V--p--2--m----------------l-	21	41	21	50
+izvēles	N	izvēle	N-fpa---------n-----------l-	21	52	21	58
+rūtiņu	N	rūtiņa	N-fsa---------n-----------l-	21	60	21	65
+Ļaut	V	ļaut	V--------n----------9-----f-	21	67	21	70
+visiem	P	viss	P-mpd-------g-------------l-	21	72	21	77
+lietotājiem	N	lietotājs	N-mpd---------n-----------l-	21	79	21	89
+instalēt	V	instalēt	V--------n----------------l-	21	91	21	98
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	21	100	21	113
+šajā	P	šis	P-msl-------d-------------l-	21	115	21	118
+datorā	N	dators	N-msl---------n-----------l-	21	120	21	125
+.	SENT	.	T--------------------------.	21	126	21	126
+
+
+Lai	C	lai	C---------------------k---f-	22	0	22	2
+standarta	N	standarts	N-msg---------n-----------l-	22	4	22	12
+lietotājiem	N	lietotājs	N-mpd---------n-----------l-	22	14	22	24
+neļautu	V	neļaut	Vp-------s------y---9-----l-	22	26	22	32
+instalēt	V	instalēt	V--------n----------------l-	22	34	22	41
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	22	43	22	56
+,	T	,	T--------------------------,	22	57	22	57
+notīriet	V	notīrīt	V--p--2--m----------------l-	22	59	22	66
+izvēles	N	izvēle	N-fsg---------n-----------l-	22	68	22	74
+rūtiņu	N	rūtiņa	N-fsa---------n-----------l-	22	76	22	81
+Ļaut	V	ļaut	V--------n----------9-----f-	22	83	22	86
+visiem	P	viss	P-mpd-------g-------------l-	22	88	22	93
+lietotājiem	N	lietotājs	N-mpd---------n-----------l-	22	95	22	105
+instalēt	V	instalēt	V--------n----------------l-	22	107	22	114
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	22	116	22	129
+šajā	P	šis	P-msl-------d-------------l-	22	131	22	134
+datorā	N	dators	N-msl---------n-----------l-	22	136	22	141
+.	SENT	.	T--------------------------.	22	142	22	142
+
+
+Ja	C	ja	C---------------------f---f-	23	0	23	1
+svarīgu	A	svarīgs	A-fpgp-n------------------l-	23	3	23	9
+vai	C	vai	C---------------------c---l-	23	11	23	13
+ieteicamu	G	ieteicams	Gpmpgp-n---p--------------l-	23	15	23	23
+atjauninājumu	N	atjauninājums	N-mpg---------n-----------l-	23	25	23	37
+atjaunināšanai	N	atjaunināšana	N-fsd---------n-----------l-	23	39	23	52
+izmantojat	V	izmantot	Vp-p--2--i----------------l-	23	54	23	63
+automātisko	A	automātisks	A-fsap-y------------------l-	23	65	23	75
+atjaunināšanu	N	atjaunināšana	N-fsa---------n-----------l-	23	77	23	89
+,	T	,	T--------------------------,	23	90	23	90
+šādi	P	šāds	P-mpn-------d-------------l-	23	92	23	95
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	23	97	23	109
+tiek	V	tikt	Vp----3--i----------6-----l-	23	111	23	114
+instalēti	G	instalēts	Gsmpnp-n---p--------------l-	23	116	23	124
+neatkarīgi	R	neatkarīgi	R----p----------y---------l-	23	126	23	135
+no	S	no	S----------------sgp------l-	23	137	23	138
+tā	P	tas	P-msg-------d-------------l-	23	140	23	141
+,	T	,	T--------------------------,	23	142	23	142
+vai	C	vai	C---------------------c---l-	23	144	23	146
+pašreizējais	A	pašreizējs	A-msnp-y------------------l-	23	148	23	159
+lietotājs	N	lietotājs	N-msn---------n-----------l-	23	161	23	169
+ir	V	būt	Vp----3--i----------7-----l-	23	171	23	172
+vai	C	vai	C---------------------c---l-	23	174	23	176
+nav	V	nebūt	Vp----3--i------y---1-----l-	23	178	23	180
+administrators	N	administrators	N-msn---------n-----------l-	23	182	23	195
+.	SENT	.	T--------------------------.	23	196	23	196
+
+
+Atjauninājumi	N	atjauninājums	N-mpn---------n-----------f-	24	0	24	12
+tiek	V	tikt	Vp----3--i----------6-----l-	24	14	24	17
+klasificēti	G	klasificēts	Gsmpnp-n---p--------------l-	24	19	24	29
+kā	C	kā	C---------------------f---l-	24	31	24	32
+svarīgi	R	svarīgi	R----p--------------------l-	24	34	24	40
+,	T	,	T--------------------------,	24	41	24	41
+ieteicami	R	ieteicami	R----p--------------------l-	24	43	24	51
+,	T	,	T--------------------------,	24	52	24	52
+neobligāti	A	neobligāts	A-mpnp-n--------y---------l-	24	54	24	63
+un	C	un	C---------------------c---l-	24	65	24	66
+piedāvātie	G	piedāvāts	Gsmpnp-y---p--------------l-	24	68	24	77
+.	SENT	.	T--------------------------.	24	78	24	78
+
+To	P	tas	P-fpg-------d-------------f-	24	80	24	81
+nozīme	N	nozīme	N-fsn---------n-----------l-	24	83	24	88
+ir	V	būt	Vp----3--i----------7-----l-	24	90	24	91
+šāda	P	šāds	P-fsn-------d-------------l-	24	93	24	96
+:	T	:	T--------------------------:	24	97	24	97
+
+
+Svarīgi	A	svarīgs	A-mpnp-n------------------f-	25	0	25	6
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	25	8	25	20
+piedāvā	V	piedāvāt	Vp----3--i----------------l-	25	22	25	28
+ievērojamas	G	ievērojams	Gpfpap-n---p--------------l-	25	30	25	40
+priekšrocības	N	priekšrocība	N-fpn---------n-----------l-	25	42	25	54
+,	T	,	T--------------------------,	25	55	25	55
+piemēram	R	piemēram	R----p--------------------l-	25	57	25	64
+,	T	,	T--------------------------,	25	65	25	65
+uzlabotu	V	uzlabot	Vp-------s----------------l-	25	67	25	74
+drošību	N	drošība	N-fsa---------n-----------l-	25	76	25	82
+,	T	,	T--------------------------,	25	83	25	83
+konfidencialitāti	N	konfidencialitāte	N-fsa---------n-----------l-	25	85	25	101
+un	C	un	C---------------------c---l-	25	103	25	104
+uzticamību	N	uzticamība	N-fsa---------n-----------l-	25	106	25	115
+.	SENT	.	T--------------------------.	25	116	25	116
+
+Šos	P	šis	P-mpa-------d-------------f-	25	118	25	120
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	25	122	25	135
+jāinstalē	V	instalēt	Vp-------c----------------l-	25	137	25	145
+,	T	,	T--------------------------,	25	146	25	146
+līdzko	C	līdzko	C---------------------t---l-	25	148	25	153
+tie	P	tas	P-mpn-------d-------------l-	25	155	25	157
+kļūst	V	kļūt	Vp----3--i----------2-----l-	25	159	25	163
+pieejami	R	pieejami	R----p--------------------l-	25	165	25	172
+,	T	,	T--------------------------,	25	173	25	173
+un	C	un	C---------------------c---l-	25	175	25	176
+tos	P	tas	P-mpa-------d-------------l-	25	178	25	180
+var	V	varēt	Vp----3--i----------3-----l-	25	182	25	184
+instalēt	V	instalēt	V--------n----------------l-	25	186	25	193
+automātiski	R	automātiski	R----p--------------------l-	25	195	25	205
+,	T	,	T--------------------------,	25	206	25	206
+izmantojot	G	izmantojot	G----------a-n------------l-	25	208	25	217
+līdzekli	N	līdzeklis	N-msa---------n-----------l-	25	219	25	226
+Windows	N	Windows	N-fsa---------n-----------f-	25	228	25	234
+Update	-	Update	----------------------------	25	236	25	241
+.	SENT	.	T--------------------------.	25	242	25	242
+
+
+Ieteicamie	A	ieteicams	A-mpnp-y------------------f-	26	0	26	9
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	26	11	26	23
+novērš	V	novērst	Vp----3--i----------------l-	26	25	26	30
+problēmas	N	problēma	N-fpn---------n-----------l-	26	32	26	40
+,	T	,	T--------------------------,	26	41	26	41
+kas	P	kas	P---n-------r---------x---l-	26	43	26	45
+nav	V	nebūt	Vp----3--i------y---1-----l-	26	47	26	49
+kritiskas	A	kritisks	A-fsgp-n------------------l-	26	51	26	59
+,	T	,	T--------------------------,	26	60	26	60
+un	C	un	C---------------------c---l-	26	62	26	63
+uzlabo	V	uzlabot	Vp----3--i----------------l-	26	65	26	70
+datora	N	dators	N-msg---------n-----------l-	26	72	26	77
+darbību	N	darbība	N-fsa---------n-----------l-	26	79	26	85
+.	SENT	.	T--------------------------.	26	86	26	86
+
+Lai	C	lai	C---------------------k---f-	26	88	26	90
+gan	Q	gan	Q-------------------------l-	26	92	26	94
+šie	P	šis	P-mpn-------d-------------l-	26	96	26	98
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	26	100	26	112
+nav	V	nebūt	Vp----3--i------y---1-----l-	26	114	26	116
+paredzēti	G	paredzēts	Gsmpnp-n---p--------------l-	26	118	26	126
+datora	N	dators	N-msg---------n-----------l-	26	128	26	133
+vai	C	vai	C---------------------c---l-	26	135	26	137
+Windows	N	Windows	N-fpg---------n-----------f-	26	139	26	145
+programmatūras	N	programmatūra	N-fsg---------n-----------l-	26	147	26	160
+pamatproblēmu	N	pamatproblēma	N-fpg---------n-----------l-	26	162	26	174
+novēršanai	N	novēršana	N-fsd---------n-----------l-	26	176	26	185
+,	T	,	T--------------------------,	26	186	26	186
+tie	P	tas	P-mpn-------d-------------l-	26	188	26	190
+piedāvā	V	piedāvāt	Vp----3--i----------------l-	26	192	26	198
+nozīmīgus	A	nozīmīgs	A-mpap-n------------------l-	26	200	26	208
+uzlabojumus	N	uzlabojums	N-mpa---------n-----------l-	26	210	26	220
+.	SENT	.	T--------------------------.	26	221	26	221
+
+Šos	P	šis	P-mpa-------d-------------f-	26	223	26	225
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	26	227	26	240
+var	V	varēt	Vp----3--i----------3-----l-	26	242	26	244
+instalēt	V	instalēt	V--------n----------------l-	26	246	26	253
+automātiski	R	automātiski	R----p--------------------l-	26	255	26	265
+.	SENT	.	T--------------------------.	26	266	26	266
+
+
+Neobligātie	A	neobligāts	A-mpnp-y--------y---------f-	27	0	27	10
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	27	12	27	24
+var	V	varēt	Vp----3--i----------3-----l-	27	26	27	28
+būt	V	būt	V--------n----------1-----l-	27	30	27	32
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	27	34	27	46
+,	T	,	T--------------------------,	27	47	27	47
+draiveri	N	draiveris	N-mpn---------n-----------l-	27	49	27	56
+vai	C	vai	C---------------------c---l-	27	58	27	60
+jauna	A	jauns	A-fsnp-n------------------l-	27	62	27	66
+Microsoft	N	Microsoft	N-fsg---------n-----------f-	27	68	27	76
+programmatūra	N	programmatūra	N-fsn---------n-----------l-	27	78	27	90
+,	T	,	T--------------------------,	27	91	27	91
+kuru	P	kurš	P-mpg-------r---------a---l-	27	93	27	96
+mērķis	N	mērķis	N-msn---------n-----------l-	27	98	27	103
+ir	V	būt	Vp----3--i----------7-----l-	27	105	27	106
+uzlabot	V	uzlabot	V--------n----------------l-	27	108	27	114
+datora	N	dators	N-msg---------n-----------l-	27	116	27	121
+darbību	N	darbība	N-fsa---------n-----------l-	27	123	27	129
+.	SENT	.	T--------------------------.	27	130	27	130
+
+Tos	P	tas	P-mpa-------d-------------f-	27	132	27	134
+var	V	varēt	Vp----3--i----------3-----l-	27	136	27	138
+instalēt	V	instalēt	V--------n----------------l-	27	140	27	147
+tikai	Q	tikai	Q-------------------------l-	27	149	27	153
+manuāli	R	manuāli	R----p--------------------l-	27	155	27	161
+.	SENT	.	T--------------------------.	27	162	27	162
+
+
+Atkarībā	N	atkarība	N-fsl---------n-----------f-	28	0	28	7
+no	S	no	S----------------sgp------l-	28	9	28	10
+atjauninājuma	N	atjauninājums	N-msg---------n-----------l-	28	12	28	24
+veida	N	veids	N-msg---------n-----------l-	28	26	28	30
+līdzeklis	N	līdzeklis	N-msn---------n-----------l-	28	32	28	40
+Windows	N	Windows	N-fsn---------n-----------f-	28	42	28	48
+Update	-	Update	----------------------------	28	50	28	55
+var	V	varēt	Vp----3--i----------3-----l-	28	57	28	59
+veikt	V	veikt	V--------n----------------l-	28	61	28	65
+šādas	P	šāds	P-fpa-------d-------------l-	28	67	28	71
+darbības	N	darbība	N-fpa---------n-----------l-	28	73	28	80
+:	T	:	T--------------------------:	28	81	28	81
+
+
+Drošības	N	drošība	N-fsg---------n-----------f-	29	0	29	7
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	29	9	29	21
+.	SENT	.	T--------------------------.	29	22	29	22
+
+Plaši	R	plaši	R----p--------------------f-	29	24	29	28
+izlaists	G	izlaists	Gsmsnp-n---p--------------l-	29	30	29	37
+labojums	N	labojums	N-msn---------n-----------l-	29	39	29	46
+,	T	,	T--------------------------,	29	47	29	47
+kas	P	kas	P---n-------r---------x---l-	29	49	29	51
+paredzēts	G	paredzēts	Gsmsnp-n---p--------------l-	29	53	29	61
+produkta	N	produkts	N-msg---------n-----------l-	29	63	29	70
+ievainojamībai	N	ievainojamība	N-fsd---------n-----------l-	29	72	29	85
+,	T	,	T--------------------------,	29	86	29	86
+kura	P	kurš	P-fsn-------r---------o---l-	29	88	29	91
+saistīta	G	saistīts	Gsfsnp-n---p--------------l-	29	93	29	100
+ar	S	ar	S----------------sap------l-	29	102	29	103
+drošību	N	drošība	N-fsa---------n-----------l-	29	105	29	111
+.	SENT	.	T--------------------------.	29	112	29	112
+
+Ievainojamība	N	ievainojamība	N-fsn---------n-----------f-	29	114	29	126
+drošības	N	drošība	N-fsg---------n-----------l-	29	128	29	135
+ziņā	N	ziņa	N-fsl---------n-----------l-	29	137	29	140
+tiek	V	tikt	Vp----3--i----------6-----l-	29	142	29	145
+klasificēta	G	klasificēts	Gsfsnp-n---p--------------l-	29	147	29	157
+pēc	S	pēc	S----------------sgt------l-	29	159	29	161
+apdraudējuma	N	apdraudējums	N-msg---------n-----------l-	29	163	29	174
+nopietnības	N	nopietnība	N-fsg---------n-----------l-	29	176	29	186
+,	T	,	T--------------------------,	29	187	29	187
+kas	P	kas	P---n-------r---------x---l-	29	189	29	191
+Microsoft	N	Microsoft	N-fsg---------n-----------f-	29	193	29	201
+drošības	N	drošība	N-fsg---------n-----------l-	29	203	29	210
+biļetenā	N	biļetens	N-msl---------n-----------l-	29	212	29	219
+norādīta	G	norādīts	Gsfsnp-n---p--------------l-	29	221	29	228
+kā	C	kā	C---------------------f---l-	29	230	29	231
+kritiska	A	kritisks	A-fsnp-n------------------l-	29	233	29	240
+,	T	,	T--------------------------,	29	241	29	241
+svarīga	A	svarīgs	A-fsnp-n------------------l-	29	243	29	249
+,	T	,	T--------------------------,	29	250	29	250
+vidēja	A	vidējs	A-fsnp-n------------------l-	29	252	29	257
+vai	C	vai	C---------------------c---l-	29	259	29	261
+zema	A	zems	A-fsnp-n------------------l-	29	263	29	266
+.	SENT	.	T--------------------------.	29	267	29	267
+
+
+Kritiski	A	kritisks	A-mpnp-n------------------f-	30	0	30	7
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	30	9	30	21
+.	SENT	.	T--------------------------.	30	22	30	22
+
+Plaši	R	plaši	R----p--------------------f-	30	24	30	28
+izlaists	G	izlaists	Gsmsnp-n---p--------------l-	30	30	30	37
+labojums	N	labojums	N-msn---------n-----------l-	30	39	30	46
+konkrētai	A	konkrēts	A-fsdp-n------------------l-	30	48	30	56
+problēmai	N	problēma	N-fsd---------n-----------l-	30	58	30	66
+,	T	,	T--------------------------,	30	67	30	67
+kurā	P	kurš	P-fsl-------r---------a---l-	30	69	30	72
+risināta	G	risināts	Gsfsnp-n---p--------------l-	30	74	30	81
+kritiska	A	kritisks	A-fsnp-n------------------l-	30	83	30	90
+,	T	,	T--------------------------,	30	91	30	91
+ar	S	ar	S----------------sap------l-	30	93	30	94
+drošību	N	drošība	N-fsa---------n-----------l-	30	96	30	102
+nesaistīta	A	nesaistīts	A-fsnp-n--------y---------l-	30	104	30	113
+kļūda	N	kļūda	N-fsn---------n-----------l-	30	115	30	119
+.	SENT	.	T--------------------------.	30	120	30	120
+
+
+Servisa	N	serviss	N-msg---------n-----------f-	31	0	31	6
+pakotnes	N	pakotne	N-fpn---------n-----------l-	31	8	31	15
+.	SENT	.	T--------------------------.	31	16	31	16
+
+Pārbaudīta	G	pārbaudīts	Gsfsnp-n---p--------------f-	31	18	31	27
+,	T	,	T--------------------------,	31	28	31	28
+uzkrāta	G	uzkrāts	Gsfsnp-n---p--------------l-	31	30	31	36
+labojumfailu	-	labojumfailu	----------------------------	31	38	31	49
+,	T	,	T--------------------------,	31	50	31	50
+drošības	N	drošība	N-fsg---------n-----------l-	31	52	31	59
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	31	61	31	73
+,	T	,	T--------------------------,	31	74	31	74
+kritisko	A	kritisks	A-mpgp-y------------------l-	31	76	31	83
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	31	85	31	97
+un	C	un	C---------------------c---l-	31	99	31	100
+atjauninājumu	N	atjauninājums	N-mpg---------n-----------l-	31	102	31	114
+kopa	V	kopt	Vs----3--i----------------l-	31	116	31	119
+,	T	,	T--------------------------,	31	120	31	120
+kā arī	C	kā_arī	C---------------------c---l-	31	122	31	127
+papildu	N	papildu	N-mpg---------n-----------l-	31	129	31	135
+labojumi	N	labojums	N-mpn---------n-----------l-	31	137	31	144
+iekšējām	A	iekšējs	A-fpdp-y------------------l-	31	146	31	153
+problēmām	N	problēma	N-fpd---------n-----------l-	31	155	31	163
+,	T	,	T--------------------------,	31	164	31	164
+kas	P	kas	P---n-------r---------x---l-	31	166	31	168
+noteiktas	G	noteikts	Gsfpnp-n---p--------------l-	31	170	31	178
+kopš	S	kopš	S----------------sgp------l-	31	180	31	183
+produkta	N	produkts	N-msg---------n-----------l-	31	185	31	192
+izlaišanas	N	izlaišana	N-fsg---------n-----------l-	31	194	31	203
+.	SENT	.	T--------------------------.	31	204	31	204
+
+Servisa	N	serviss	N-msg---------n-----------f-	31	206	31	212
+pakotnes	N	pakotne	N-fpn---------n-----------l-	31	214	31	221
+var	V	varēt	Vp----3--i----------3-----l-	31	223	31	225
+būt	V	būt	V--------n----------7-----l-	31	227	31	229
+ietverts	G	ietverts	Gsmsnp-n---p--------------l-	31	231	31	238
+arī	Q	arī	Q-------------------------l-	31	240	31	242
+ierobežots	A	ierobežots	A-msnp-n------------------l-	31	244	31	253
+skaits	N	skaits	N-msn---------n-----------l-	31	255	31	260
+klienta	N	klients	N-msg---------n-----------l-	31	262	31	268
+pieprasītu	G	pieprasīts	Gsmsap-n---p--------------l-	31	270	31	279
+noformējuma	N	noformējums	N-msg---------n-----------l-	31	281	31	291
+izmaiņu	N	izmaiņa	N-fsa---------n-----------l-	31	293	31	299
+vai	C	vai	C---------------------c---l-	31	301	31	303
+līdzekļu	N	līdzeklis	N-mpg---------n-----------l-	31	305	31	312
+.	SENT	.	T--------------------------.	31	313	31	313
+
+
+Jā	Q	jā	Q-------------------------f-	32	0	32	1
+.	SENT	.	T--------------------------.	32	2	32	2
+
+Atjauninājumi	N	atjauninājums	N-mpn---------n-----------f-	32	4	32	16
+nedarbojas	V	nedarboties	Vp----3--i-----yy---------l-	32	18	32	27
+,	T	,	T--------------------------,	32	28	32	28
+kamēr	C	kamēr	C---------------------t---l-	32	30	32	34
+tie	P	tas	P-mpn-------d-------------l-	32	36	32	38
+nav	V	nebūt	Vp----3--i------y---1-----l-	32	40	32	42
+instalēti	G	instalēts	Gsmpnp-n---p--------------l-	32	44	32	52
+.	SENT	.	T--------------------------.	32	53	32	53
+
+Lai	C	lai	C---------------------k---f-	32	55	32	57
+instalētu	V	instalēt	Vp-------s----------------l-	32	59	32	67
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	32	69	32	82
+,	T	,	T--------------------------,	32	83	32	83
+vispirms	R	vispirms	R----p--------------------l-	32	85	32	92
+tos	P	tas	P-mpa-------d-------------l-	32	94	32	96
+lejupielādējiet	V	lejupielādēt	V--p--2--m----------------l-	32	98	32	112
+savā	P	savs	P-msl-------s-------------l-	32	114	32	117
+datorā	N	dators	N-msl---------n-----------l-	32	119	32	124
+.	SENT	.	T--------------------------.	32	125	32	125
+
+Varat	V	varēt	Vp-p--2--i----------3-----f-	32	127	32	131
+izvēlēties	V	izvēlēties	V--------n-----y----------l-	32	133	32	142
+,	T	,	T--------------------------,	32	143	32	143
+lai	C	lai	C---------------------f---l-	32	145	32	147
+Windows	N	Windows	N-fsn---------n-----------f-	32	149	32	155
+automātiski	R	automātiski	R----p--------------------l-	32	157	32	167
+lejupielādē	V	lejupielādēt	Vp----3--i----------------l-	32	169	32	179
+un	C	un	C---------------------c---l-	32	181	32	182
+instalē	V	instalēt	Vp----3--i----------------l-	32	184	32	190
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	32	192	32	205
+;	T	;	T--------------------------;	32	206	32	206
+automātiski	R	automātiski	R----p--------------------l-	32	208	32	218
+lejupielādē	V	lejupielādēt	Vp----3--i----------------l-	32	220	32	230
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	32	232	32	245
+un	C	un	C---------------------c---l-	32	247	32	248
+to	P	tas	P-fsa-------d-------------l-	32	250	32	251
+paziņo	V	paziņot	Vp----3--i----------------l-	32	253	32	258
+,	T	,	T--------------------------,	32	259	32	259
+lai	C	lai	C---------------------f---l-	32	261	32	263
+jūs	P	jūs	P--pn-2-----p-------------l-	32	265	32	267
+varētu	V	varēt	Vp-------s----------3-----l-	32	269	32	274
+instalēt	V	instalēt	V--------n----------------l-	32	276	32	283
+;	T	;	T--------------------------;	32	284	32	284
+vai	C	vai	C---------------------c---l-	32	286	32	288
+paziņo	V	paziņot	Vp----3--i----------------l-	32	290	32	295
+par	S	par	S--------------------g----l-	32	297	32	299
+iespēju	N	iespēja	N-fsa---------n-----------l-	32	301	32	307
+lejupielādēt	V	lejupielādēt	V--------n----------------l-	32	309	32	320
+un	C	un	C---------------------c---l-	32	322	32	323
+instalēt	V	instalēt	V--------n----------------l-	32	325	32	332
+jaunos	A	jauns	A-mpap-y------------------l-	32	334	32	339
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	32	341	32	354
+.	SENT	.	T--------------------------.	32	355	32	355
+
+Papildinformāciju	N	papildinformācija	N-fsa---------n-----------f-	32	357	32	373
+skatiet	V	skatīt	V--p--2--m----------------l-	32	375	32	381
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	32	383	32	388
+Veida	N	veids	N-msg---------n-----------f-	32	390	32	394
+,	T	,	T--------------------------,	32	395	32	395
+kā	C	kā	C---------------------f---l-	32	397	32	398
+sistēma	N	sistēma	N-fsn---------n-----------l-	32	400	32	406
+Windows	N	Windows	N-fsn---------n-----------f-	32	408	32	414
+instalē	V	instalēt	Vp----3--i----------------l-	32	416	32	422
+un	C	un	C---------------------c---l-	32	424	32	425
+paziņo	V	paziņot	Vp----3--i----------------l-	32	427	32	432
+par	S	par	S----------------pdp------l-	32	434	32	436
+atjauninājumiem	N	atjauninājums	N-mpd---------n-----------l-	32	438	32	452
+mainīšana	N	mainīšana	N-fsn---------n-----------l-	32	454	32	462
+.	SENT	.	T--------------------------.	32	464	32	464
+
+
+Windows	N	Windows	N-fsg---------n-----------f-	33	0	33	6
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	33	8	33	20
+saglabā	V	saglabāt	Vp----3--i----------------l-	33	22	33	28
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	33	30	33	42
+vēsturi	N	vēsture	N-fsa---------n-----------l-	33	44	33	50
+,	T	,	T--------------------------,	33	51	33	51
+lai	C	lai	C---------------------f---l-	33	53	33	55
+jūs	P	jūs	P--pn-2-----p-------------l-	33	57	33	59
+varētu	V	varēt	Vp-------s----------3-----l-	33	61	33	66
+pārbaudīt	V	pārbaudīt	V--------n----------------l-	33	68	33	76
+,	T	,	T--------------------------,	33	77	33	77
+kādi	P	kāds	P-mpn-------g---------a---l-	33	79	33	82
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	33	84	33	96
+ir	V	būt	Vp----3--i----------7-----l-	33	98	33	99
+instalēti	G	instalēts	Gsmpnp-n---p--------------l-	33	101	33	109
+un	C	un	C---------------------c---l-	33	111	33	112
+kurā	P	kurš	P-msl-------r---------o---l-	33	114	33	117
+laikā	N	laiks	N-msl---------n-----------l-	33	119	33	123
+.	SENT	.	T--------------------------.	33	124	33	124
+
+Papildinformāciju	N	papildinformācija	N-fsa---------n-----------f-	33	126	33	142
+lasiet	V	lasīt	V--p--2--m----------------l-	33	144	33	149
+rakstā	N	raksts	N-msl---------n-----------l-	33	151	33	156
+Sistēmas	N	sistēma	N-fsg---------n-----------f-	33	158	33	165
+Windows	N	Windows	N-fsl---------n-----------f-	33	167	33	173
+instalēto	G	instalēts	Gsmpgp-y---p--------------l-	33	175	33	183
+atjauninājumu	N	atjauninājums	N-mpg---------n-----------l-	33	185	33	197
+noskaidrošana	N	noskaidrošana	N-fsn---------n-----------l-	33	199	33	211
+.	SENT	.	T--------------------------.	33	213	33	213
+
+
+Sistēmu	N	sistēma	N-fsa---------n-----------f-	34	0	34	6
+Windows	N	Windows	N-fsn---------n-----------f-	34	8	34	14
+var	V	varēt	Vp----3--i----------3-----l-	34	16	34	18
+iestatīt	V	iestatīt	V--------n----------------l-	34	20	34	27
+,	T	,	T--------------------------,	34	28	34	28
+lai	C	lai	C---------------------f---l-	34	30	34	32
+tā	P	tas	P-fsn-------d-------------l-	34	34	34	35
+automātiski	R	automātiski	R----p--------------------l-	34	37	34	47
+instalē	V	instalēt	Vp----3--i----------------l-	34	49	34	55
+vai nu	C	vai_nu	C---------------------s---l-	34	57	34	62
+svarīgos	A	svarīgs	A-mpap-y------------------l-	34	64	34	71
+un	C	un	C---------------------c---l-	34	73	34	74
+ieteicamos	A	ieteicams	A-mpap-y------------------l-	34	76	34	85
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	34	87	34	100
+,	T	,	T--------------------------,	34	101	34	101
+vai arī	C	vai_arī	C---------------------c---l-	34	103	34	109
+lai	C	lai	C---------------------f---l-	34	111	34	113
+instalē	V	instalēt	Vp----3--i----------------l-	34	115	34	121
+tikai	Q	tikai	Q-------------------------l-	34	123	34	127
+svarīgos	A	svarīgs	A-mpap-y------------------l-	34	129	34	136
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	34	138	34	151
+.	SENT	.	T--------------------------.	34	152	34	152
+
+Svarīgi	A	svarīgs	A-mpnp-n------------------f-	34	154	34	160
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	34	162	34	174
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	34	176	34	184
+ievērojamas	G	ievērojams	Gpfpap-n---p--------------l-	34	186	34	196
+priekšrocības	N	priekšrocība	N-fpn---------n-----------l-	34	198	34	210
+,	T	,	T--------------------------,	34	211	34	211
+piemēram	R	piemēram	R----p--------------------l-	34	213	34	220
+,	T	,	T--------------------------,	34	221	34	221
+uzlabotu	G	uzlabots	Gsmsap-n---p--------------l-	34	223	34	230
+drošību	N	drošība	N-fsa---------n-----------l-	34	232	34	238
+un	C	un	C---------------------c---l-	34	240	34	241
+uzticamību	N	uzticamība	N-fsa---------n-----------l-	34	243	34	252
+.	SENT	.	T--------------------------.	34	253	34	253
+
+Ieteicamie	A	ieteicams	A-mpnp-y------------------f-	34	255	34	264
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	34	266	34	278
+izskata	V	izskatīt	Vp----3--i----------------l-	34	280	34	286
+ne	Q	ne	Q---------------y---------l-	34	288	34	289
+kritiskas	A	kritisks	A-fpap-n------------------l-	34	291	34	299
+problēmas	N	problēma	N-fpa---------n-----------l-	34	301	34	309
+un	C	un	C---------------------c---l-	34	311	34	312
+uzlabo	V	uzlabot	Vp----3--i----------------l-	34	314	34	319
+datora	N	dators	N-msg---------n-----------l-	34	321	34	326
+darbību	N	darbība	N-fsa---------n-----------l-	34	328	34	334
+.	SENT	.	T--------------------------.	34	335	34	335
+
+Neobligātie	A	neobligāts	A-mpnp-y--------y---------f-	34	337	34	347
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	34	349	34	361
+netiek	V	netikt	Vp----3--i------y---6-----l-	34	363	34	368
+lejupielādēti	G	lejupielādēts	Gsmpnp-n---p--------------l-	34	370	34	382
+un	C	un	C---------------------c---l-	34	384	34	385
+instalēti	G	instalēts	Gsmpnp-n---p--------------l-	34	387	34	395
+automātiski	A	automātisks	A-mpnp-n------------------l-	34	397	34	407
+.	SENT	.	T--------------------------.	34	408	34	408
+
+Papildinformāciju	N	papildinformācija	N-fsa---------n-----------f-	34	410	34	426
+skatiet	V	skatīt	V--p--2--m----------------l-	34	428	34	434
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	34	436	34	441
+Automātiskās	A	automātisks	A-fsgp-y------------------f-	34	443	34	454
+atjaunināšanas	N	atjaunināšana	N-fsg---------n-----------l-	34	456	34	469
+ieslēgšana	N	ieslēgšana	N-fsn---------n-----------l-	34	471	34	480
+vai	C	vai	C---------------------c---l-	34	482	34	484
+izslēgšana	N	izslēgšana	N-fsn---------n-----------l-	34	486	34	495
+un	C	un	C---------------------c---l-	34	497	34	498
+Veida	N	veids	N-msg---------n-----------f-	34	500	34	504
+,	T	,	T--------------------------,	34	505	34	505
+kā	C	kā	C---------------------f---l-	34	507	34	508
+sistēma	N	sistēma	N-fsn---------n-----------l-	34	510	34	516
+Windows	N	Windows	N-fsn---------n-----------f-	34	518	34	524
+instalē	V	instalēt	Vp----3--i----------------l-	34	526	34	532
+un	C	un	C---------------------c---l-	34	534	34	535
+paziņo	V	paziņot	Vp----3--i----------------l-	34	537	34	542
+par	S	par	S----------------pdp------l-	34	544	34	546
+atjauninājumiem	N	atjauninājums	N-mpd---------n-----------l-	34	548	34	562
+mainīšana	N	mainīšana	N-fsn---------n-----------l-	34	564	34	572
+.	SENT	.	T--------------------------.	34	574	34	574
+
+
+Lai	C	lai	C---------------------k---f-	35	0	35	2
+instalētu	V	instalēt	Vp-------s----------------l-	35	4	35	12
+draiverus	N	draiveris	N-mpa---------n-----------l-	35	14	35	22
+vai	C	vai	C---------------------c---l-	35	24	35	26
+citus	P	cits	P-mpa-------i-------------l-	35	28	35	32
+neobligātos	A	neobligāts	A-mpap-y--------y---------l-	35	34	35	44
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	35	46	35	59
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	36	0	36	7
+Windows	N	Windows	N-fsl---------n-----------f-	36	9	36	15
+atjaunināšanu	N	atjaunināšana	N-fsa---------n-----------l-	36	17	36	29
+,	T	,	T--------------------------,	36	30	36	30
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	36	32	36	43
+uz	S	uz	S----------------sgp------l-	36	45	36	46
+pogas	N	poga	N-fsg---------n-----------l-	36	48	36	52
+Sākt	V	sākt	V--------n----------3-----f-	36	54	36	57
+
+
+.	T	.	T--------------------------.	37	0	37	0
+Meklēšanas	N	meklēšana	N-fsg---------n-----------f-	37	2	37	11
+lodziņā	N	logs	N-msl---------y-----------l-	37	13	37	19
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	37	21	37	30
+Atjaunināšana	N	atjaunināšana	N-fsn---------n-----------f-	37	32	37	44
+un	C	un	C---------------------c---l-	37	46	37	47
+pēc tam	-	pēc_tam	----------------------------	37	49	37	55
+rezultātu	N	rezultāts	N-msa---------n-----------l-	37	57	37	65
+sarakstā	N	saraksts	N-msl---------n-----------l-	37	67	37	74
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	37	76	37	88
+uz	S	uz	S----------------sgp------l-	37	90	37	91
+Windows	N	Windows	N-fsg---------n-----------f-	37	93	37	99
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	37	101	37	113
+.	SENT	.	T--------------------------.	37	114	37	114
+
+
+Kreisajā	A	kreiss	A-fslp-y------------------f-	38	0	38	7
+rūtī	N	rūts	N-fsl---------n-----------l-	38	9	38	12
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	38	14	38	26
+uz	S	uz	S----------------sap------l-	38	28	38	29
+Pārbaudīt	N	pārbaude	N-fsv---------y-----------f-	38	31	38	39
+,	T	,	T--------------------------,	38	40	38	40
+vai	C	vai	C---------------------c---l-	38	42	38	44
+nav	V	nebūt	Vp----3--i------y---1-----l-	38	46	38	48
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	38	50	38	62
+un	C	un	C---------------------c---l-	38	64	38	65
+gaidiet	V	gaidīt	V--p--2--m----------------l-	38	67	38	73
+,	T	,	T--------------------------,	38	74	38	74
+kamēr	C	kamēr	C---------------------t---l-	38	76	38	80
+sistēma	N	sistēma	N-fsn---------n-----------l-	38	82	38	88
+Windows	N	Windows	N-fsd---------n-----------f-	38	90	38	96
+sameklē	V	sameklēt	Vp----3--i----------------l-	38	98	38	104
+jaunākos	A	jauns	A-mpac-y------------------l-	38	106	38	113
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	38	115	38	128
+jūsu	P	jūs	P--pg-2-----p-------------l-	38	130	38	133
+datoram	N	dators	N-msd---------n-----------l-	38	135	38	141
+.	SENT	.	T--------------------------.	38	142	38	142
+
+
+Ja	C	ja	C---------------------f---f-	39	0	39	1
+saņemat	V	saņemt	Vp-p--2--i----------------l-	39	3	39	9
+ziņojumu	N	ziņojums	N-msa---------n-----------l-	39	11	39	18
+par	S	par	S----------------pdp------l-	39	20	39	22
+pieejamajiem	A	pieejams	A-mpdp-y------------------l-	39	24	39	35
+svarīgajiem	A	svarīgs	A-mpdp-y------------------l-	39	37	39	47
+atjauninājumiem	N	atjauninājums	N-mpd---------n-----------l-	39	49	39	63
+vai	C	vai	C---------------------c---l-	39	65	39	67
+papildu	N	papildu	N-mpg---------n-----------l-	39	69	39	75
+atjauninājumiem	N	atjauninājums	N-mpd---------n-----------l-	39	77	39	91
+,	T	,	T--------------------------,	39	92	39	92
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	39	94	39	106
+uz	S	uz	S----------------sgp------l-	39	108	39	109
+ziņojuma	N	ziņojums	N-msg---------n-----------l-	39	111	39	118
+,	T	,	T--------------------------,	39	119	39	119
+lai	C	lai	C---------------------f---l-	39	121	39	123
+skatītu	V	skatīt	Vp-------s----------------l-	39	125	39	131
+un	C	un	C---------------------c---l-	39	133	39	134
+izvēlētos	V	izvēlēties	Vp-------s-----y----------l-	39	136	39	144
+instalējamos	G	instalējams	Gpmpap-y---p--------------l-	39	146	39	157
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	39	159	39	172
+.	SENT	.	T--------------------------.	39	173	39	173
+
+
+Atlasiet	V	atlasīt	V--p--2--m----------------f-	40	0	40	7
+neobligātos	A	neobligāts	A-mpap-y--------y---------l-	40	9	40	19
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	40	21	40	34
+,	T	,	T--------------------------,	40	35	40	35
+kurus	P	kurš	P-mpa-------r---------a---l-	40	37	40	41
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	40	43	40	50
+instalēt	V	instalēt	V--------n----------------l-	40	52	40	59
+,	T	,	T--------------------------,	40	60	40	60
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	40	62	40	74
+uz	S	uz	S----------------sgp------l-	40	76	40	77
+Labi	R	labi	R----p--------------------f-	40	79	40	82
+un	C	un	C---------------------c---l-	40	84	40	85
+pēc tam	-	pēc_tam	----------------------------	40	87	40	93
+uz	S	uz	S----------------sap------l-	40	95	40	96
+Instalēt	V	instalēt	V--------n----------------f-	40	98	40	105
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	40	107	40	120
+.	SENT	.	T--------------------------.	40	121	40	121
+
+
+Ja	C	ja	C---------------------f---f-	41	1	41	2
+tiek	V	tikt	Vp----3--i----------6-----l-	41	4	41	7
+prasīts	G	prasīts	Gsmsnp-n---p--------------l-	41	9	41	15
+ievadīt	V	ievadīt	V--------n----------------l-	41	17	41	23
+administratora	N	administrators	N-msg---------n-----------l-	41	25	41	38
+paroli	N	parole	N-fsa---------n-----------l-	41	40	41	45
+vai	C	vai	C---------------------c---l-	41	47	41	49
+apstiprinājumu	N	apstiprinājums	N-msa---------n-----------l-	41	51	41	64
+,	T	,	T--------------------------,	41	65	41	65
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	41	67	41	76
+paroli	N	parole	N-fsa---------n-----------l-	41	78	41	83
+vai	C	vai	C---------------------c---l-	41	85	41	87
+apstipriniet	V	apstiprināt	V--p--2--m----------------l-	41	89	41	100
+.	SENT	.	T--------------------------.	41	101	41	101
+
+
+Cik	R	cik	R----p----------------m---f-	42	0	42	2
+bieži	R	bieži	R----p--------------------l-	42	4	42	8
+vien	Q	vien	Q-------------------------l-	42	10	42	13
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	42	15	42	23
+.	SENT	.	T--------------------------.	42	24	42	24
+
+Atjauninājumi	N	atjauninājums	N-mpn---------n-----------f-	42	26	42	38
+ir	V	būt	Vp----3--i----------7-----l-	42	40	42	41
+vislabākais	A	labs	A-msns-y------------------l-	42	43	42	53
+veids	N	veids	N-msn---------n-----------l-	42	55	42	59
+,	T	,	T--------------------------,	42	60	42	60
+kā	C	kā	C---------------------f---l-	42	62	42	63
+novērst	V	novērst	V--------n----------------l-	42	65	42	71
+vai	C	vai	C---------------------c---l-	42	73	42	75
+izlabot	V	izlabot	V--------n----------------l-	42	77	42	83
+zināmas	A	zināms	A-fpap-n------------------l-	42	85	42	91
+problēmas	N	problēma	N-fpa---------n-----------l-	42	93	42	101
+,	T	,	T--------------------------,	42	102	42	102
+un	C	un	C---------------------c---l-	42	104	42	105
+tie	P	tas	P-mpn-------d-------------l-	42	107	42	109
+uzlabo	V	uzlabot	Vp----3--i----------------l-	42	111	42	116
+jūsu	P	jūs	P--pg-2-----p-------------l-	42	118	42	121
+datora	N	dators	N-msg---------n-----------l-	42	123	42	128
+drošību	N	drošība	N-fsa---------n-----------l-	42	130	42	136
+.	SENT	.	T--------------------------.	42	137	42	137
+
+Sistēmai	N	sistēma	N-fsd---------n-----------f-	42	139	42	146
+Windows	N	Windows	N-fsg---------n-----------f-	42	148	42	154
+visvienkāršāk	R	vienkārši	R----s--------------------l-	42	156	42	168
+ir	V	būt	Vp----3--i----------7-----l-	42	170	42	171
+instalēt	V	instalēt	V--------n----------------l-	42	173	42	180
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	42	182	42	195
+,	T	,	T--------------------------,	42	196	42	196
+ja	C	ja	C---------------------d---l-	42	198	42	199
+ir	V	būt	Vp----3--i----------7-----l-	42	201	42	202
+ieslēgta	G	ieslēgts	Gsfsnp-n---p--------------l-	42	204	42	211
+automātiskā	A	automātisks	A-fsnp-y------------------l-	42	213	42	223
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	42	225	42	237
+.	SENT	.	T--------------------------.	42	238	42	238
+
+Šajā	P	šis	P-msl-------d-------------f-	42	240	42	243
+gadījumā	N	gadījums	N-msl---------n-----------l-	42	245	42	252
+Windows	N	Windows	N-fsl---------n-----------f-	42	254	42	260
+instalēs	V	instalēt	Vf----3--i----------------l-	42	262	42	269
+pēdējos	A	pēdējais	A-mpap-y------------------l-	42	271	42	277
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	42	279	42	292
+,	T	,	T--------------------------,	42	293	42	293
+tiklīdz	C	tiklīdz	C---------------------t---l-	42	295	42	301
+tie	P	tas	P-mpn-------d-------------l-	42	303	42	305
+būs	V	būt	Vf----3--i----------1-----l-	42	307	42	309
+pieejami	A	pieejams	A-mpnp-n------------------l-	42	311	42	318
+.	SENT	.	T--------------------------.	42	319	42	319
+
+Papildinformāciju	N	papildinformācija	N-fsa---------n-----------f-	42	321	42	337
+skatiet	V	skatīt	V--p--2--m----------------l-	42	339	42	345
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	42	347	42	352
+Automātiskās	A	automātisks	A-fsgp-y------------------f-	42	354	42	365
+atjaunināšanas	N	atjaunināšana	N-fsg---------n-----------l-	42	367	42	380
+ieslēgšana	N	ieslēgšana	N-fsn---------n-----------l-	42	382	42	391
+vai	C	vai	C---------------------c---l-	42	393	42	395
+izslēgšana	N	izslēgšana	N-fsn---------n-----------l-	42	397	42	406
+.	SENT	.	T--------------------------.	42	408	42	408
+
+
+Dators	N	dators	N-msn---------n-----------f-	43	0	43	5
+tiek	V	tikt	Vp----3--i----------6-----l-	43	7	43	10
+pakļauts	G	pakļauts	Gsmsnp-n---p--------------l-	43	12	43	19
+riskam	N	risks	N-msd---------n-----------l-	43	21	43	26
+,	T	,	T--------------------------,	43	27	43	27
+vai arī	C	vai_arī	C---------------------c---l-	43	29	43	35
+varat	V	varēt	Vp-p--2--i----------3-----l-	43	37	43	41
+saskarties	V	saskarties	V--------n-----y----------l-	43	43	43	52
+ar	S	ar	S----------------pdp------l-	43	54	43	55
+liekām	A	lieks	A-fpdp-n------------------l-	43	57	43	62
+Windows	N	Windows	N-fsg---------n-----------f-	43	64	43	70
+programmu	N	programma	N-fsa---------n-----------l-	43	72	43	80
+vai	C	vai	C---------------------c---l-	43	82	43	84
+savu	P	savs	P-fpg-------s-------------l-	43	86	43	89
+programmu	N	programma	N-fpg---------n-----------l-	43	91	43	99
+problēmām	N	problēma	N-fpd---------n-----------l-	43	101	43	109
+.	SENT	.	T--------------------------.	43	110	43	110
+
+Ļaunprātīga	A	ļaunprātīgs	A-fsnp-n------------------f-	43	112	43	122
+programmatūra	N	programmatūra	N-fsn---------n-----------l-	43	124	43	136
+tiek	V	tikt	Vp----3--i----------6-----l-	43	138	43	141
+izlaista	A	izlaists	A-fsnp-n------------------l-	43	143	43	150
+nepārtraukti	R	nepārtraukti	R----p--------------------l-	43	152	43	163
+,	T	,	T--------------------------,	43	164	43	164
+izmantojot	G	izmantojot	G----------a-n------------l-	43	166	43	175
+Windows	N	Windows	N-fsg---------n-----------f-	43	177	43	183
+vai	C	vai	C---------------------c---l-	43	185	43	187
+citu	P	cits	P-fpg-------i-------------l-	43	189	43	192
+programmu	N	programma	N-fsa---------n-----------l-	43	194	43	202
+ievainojamību	N	ievainojamība	N-fsa---------n-----------l-	43	204	43	216
+,	T	,	T--------------------------,	43	217	43	217
+lai	C	lai	C---------------------f---l-	43	219	43	221
+bojātu	V	bojāt	Vp-------s----------------l-	43	223	43	228
+datus	N	dati	N-mpa---------n-----------l-	43	230	43	234
+vai	C	vai	C---------------------c---l-	43	236	43	238
+datoru	N	dators	N-msa---------n-----------l-	43	240	43	245
+vai	C	vai	C---------------------c---l-	43	247	43	249
+piekļūtu	V	piekļūt	Vp-------s----------------l-	43	251	43	258
+tiem	P	tas	P-mpd-------d-------------l-	43	260	43	263
+.	SENT	.	T--------------------------.	43	264	43	264
+
+Windows	N	Windows	N-fsn---------n-----------f-	43	266	43	272
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	43	274	43	286
+un	C	un	C---------------------c---l-	43	288	43	289
+citi	P	cits	P-mpn-------i-------------l-	43	291	43	294
+programmatūras	N	programmatūra	N-fsg---------n-----------l-	43	296	43	309
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	43	311	43	323
+novērš	V	novērst	Vp----3--i----------------l-	43	325	43	330
+šādu	P	šāds	P-fsa-------d-------------l-	43	332	43	335
+ievainojamību	N	ievainojamība	N-fsa---------n-----------l-	43	337	43	349
+uzreiz	R	uzreiz	R----p--------------------l-	43	351	43	356
+pēc	S	pēc	S----------------sgp------l-	43	358	43	360
+tās	P	tas	P-fsg-------d-------------l-	43	362	43	364
+konstatēšanas	N	konstatēšana	N-fsg---------n-----------l-	43	366	43	378
+.	SENT	.	T--------------------------.	43	379	43	379
+
+Ja	C	ja	C---------------------f---f-	43	381	43	382
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	43	384	43	397
+atliek	V	atlikt	Vp----3--i----------------l-	43	399	43	404
+vai	C	vai	C---------------------c---l-	43	406	43	408
+neizmanto	V	neizmantot	Vp----3--i------y---------l-	43	410	43	418
+,	T	,	T--------------------------,	43	419	43	419
+dators	N	dators	N-msn---------n-----------l-	43	421	43	426
+var	V	varēt	Vp----3--i----------3-----l-	43	428	43	430
+kļūt	V	kļūt	V--------n----------5-----l-	43	432	43	435
+ievainojams	G	ievainojams	Gpmsnp-n---p--------------l-	43	437	43	447
+šādam	P	šāds	P-msd-------d-------------l-	43	449	43	453
+apdraudējumam	N	apdraudējums	N-msd---------n-----------l-	43	455	43	467
+.	SENT	.	T--------------------------.	43	468	43	468
+
+
+Microsoft	N	Microsoft	N-msg---------n-----------f-	44	0	44	8
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	44	10	44	22
+un	C	un	C---------------------c---l-	44	24	44	25
+programmatūra	N	programmatūra	N-fsn---------n-----------l-	44	27	44	39
+,	T	,	T--------------------------,	44	40	44	40
+kuri	P	kurš	P-mpn-------r---------p---l-	44	42	44	45
+paredzēta	G	paredzēts	Gsfsnp-n---p--------------l-	44	47	44	55
+Microsoft	N	Microsoft	N-msg---------n-----------f-	44	57	44	65
+produktiem	N	produkts	N-mpd---------n-----------l-	44	67	44	76
+,	T	,	T--------------------------,	44	77	44	77
+ir	V	būt	Vp----3--i----------7-----l-	44	79	44	80
+bezmaksas	N	bezmaksas	N-fsg---------n-----------l-	44	82	44	90
+uzturēšanas	N	uzturēšana	N-fsg---------n-----------l-	44	92	44	102
+un	C	un	C---------------------c---l-	44	104	44	105
+atbalsta	N	atbalsts	N-msg---------n-----------l-	44	107	44	114
+pakalpojums	N	pakalpojums	N-msn---------n-----------l-	44	116	44	126
+.	SENT	.	T--------------------------.	44	127	44	127
+
+Lai	C	lai	C---------------------k---f-	44	129	44	131
+uzzinātu	V	uzzināt	Vp-------s----------------l-	44	133	44	140
+,	T	,	T--------------------------,	44	141	44	141
+vai	C	vai	C---------------------c---l-	44	143	44	145
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	44	147	44	159
+ir	V	būt	Vp----3--i----------7-----l-	44	161	44	162
+bezmaksas	N	bezmaksas	N-fsg---------n-----------l-	44	164	44	172
+citām	P	cits	P-fpd-------i-------------l-	44	174	44	178
+programmām	N	programma	N-fpd---------n-----------l-	44	180	44	189
+,	T	,	T--------------------------,	44	190	44	190
+skatiet	V	skatīt	V--p--2--m----------------l-	44	192	44	198
+šīs	P	šis	P-fsg-------d-------------l-	44	200	44	202
+programmas	N	programma	N-fsg---------n-----------l-	44	204	44	213
+izdevēja	N	izdevējs	N-msg---------n-----------l-	44	215	44	222
+un	C	un	C---------------------c---l-	44	224	44	225
+ierīces	N	ierīce	N-fsg---------n-----------l-	44	227	44	233
+ražotāja	N	ražotājs	N-msg---------n-----------l-	44	235	44	242
+informāciju	N	informācija	N-fsa---------n-----------l-	44	244	44	254
+.	SENT	.	T--------------------------.	44	255	44	255
+
+Atkarībā	N	atkarība	N-fsl---------n-----------f-	44	257	44	264
+no	S	no	S----------------sgp------l-	44	266	44	267
+interneta	N	internets	N-msg---------n-----------l-	44	269	44	277
+savienojuma	N	savienojums	N-msg---------n-----------l-	44	279	44	289
+var	V	varēt	Vp----3--i----------3-----l-	44	291	44	293
+tikt	V	tikt	V--------n----------6-----l-	44	295	44	298
+piemērota	G	piemērots	Gsmsgp-n---p--------------l-	44	300	44	308
+tālruņa	N	tālrunis	N-msg---------n-----------l-	44	310	44	316
+sarunu	N	saruna	N-fpg---------n-----------l-	44	318	44	323
+maksa	N	maksa	N-fsn---------n-----------l-	44	325	44	329
+par	S	par	S----------------sap------l-	44	331	44	333
+standarta	N	standarts	N-msg---------n-----------l-	44	335	44	343
+vietējo	A	vietējs	A-fsap-y------------------l-	44	345	44	351
+sarunu	N	saruna	N-fsa---------n-----------l-	44	353	44	358
+vai	C	vai	C---------------------c---l-	44	360	44	362
+tālsarunu	N	tālsaruna	N-fsa---------n-----------l-	44	364	44	372
+un	C	un	C---------------------c---l-	44	374	44	375
+/	T	/	T--------------------------/	44	376	44	376
+vai	C	vai	C---------------------c---l-	44	377	44	379
+interneta	N	internets	N-msg---------n-----------l-	44	381	44	389
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	44	391	44	401
+maksa	N	maksa	N-fsn---------n-----------l-	44	403	44	407
+,	T	,	T--------------------------,	44	408	44	408
+kas	P	kas	P---n-------r---------x---l-	44	410	44	412
+rodas	V	rasties	Vp----3--i-----y----------l-	44	414	44	418
+,	T	,	T--------------------------,	44	419	44	419
+lejupielādējot	G	lejupielādējot	G----------a-n------------l-	44	421	44	434
+un	C	un	C---------------------c---l-	44	436	44	437
+instalējot	G	instalējot	G----------a-n------------l-	44	439	44	448
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	44	450	44	463
+no	S	no	S----------------sgp------l-	44	465	44	466
+izdevēja	N	izdevējs	N-msg---------n-----------l-	44	468	44	475
+vai	C	vai	C---------------------c---l-	44	477	44	479
+ražotāja	N	ražotāja	N-fsn---------n-----------l-	44	481	44	488
+vietnes	N	vietne	N-fsg---------n-----------l-	44	490	44	496
+.	SENT	.	T--------------------------.	44	497	44	497
+
+
+Tāpēc	R	tāpēc	R----p--------------------f-	45	0	45	4
+,	T	,	T--------------------------,	45	5	45	5
+ka	C	ka	C---------------------p---l-	45	7	45	8
+dažiem	P	dažs	P-mpd-------i-------------l-	45	10	45	15
+atjauninājumiem	N	atjauninājums	N-mpd---------n-----------l-	45	17	45	31
+,	T	,	T--------------------------,	45	32	45	32
+lai	C	lai	C---------------------f---l-	45	34	45	36
+tie	P	tas	P-mpn-------d-------------l-	45	38	45	40
+stātos	V	stāties	Vp-------s-----y----------l-	45	42	45	47
+spēkā	N	spēks	N-msl---------n-----------l-	45	49	45	53
+,	T	,	T--------------------------,	45	54	45	54
+nepieciešama	G	nepieciešams	Gpmsgp-n---p----y---------l-	45	56	45	67
+datora	N	dators	N-msg---------n-----------l-	45	69	45	74
+restartēšana	N	restartēšana	N-fsn---------n-----------l-	45	76	45	87
+.	SENT	.	T--------------------------.	45	88	45	88
+
+Piemēram	R	piemēram	R----p--------------------f-	45	90	45	97
+,	T	,	T--------------------------,	45	98	45	98
+lai	C	lai	C---------------------f---l-	45	100	45	102
+meklētu	V	meklēt	Vp-------s----------------l-	45	104	45	110
+citus	P	cits	P-mpa-------i-------------l-	45	112	45	116
+datora	N	dators	N-msg---------n-----------l-	45	118	45	123
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	45	125	45	138
+,	T	,	T--------------------------,	45	139	45	139
+vispirms	R	vispirms	R----p--------------------l-	45	141	45	148
+var	V	varēt	Vp----3--i----------3-----l-	45	150	45	152
+būt	V	būt	V--------n----------1-----l-	45	154	45	156
+nepieciešams	G	nepieciešams	Gpmsnp-n---p----y---------l-	45	158	45	169
+instalēt	V	instalēt	V--------n----------------l-	45	171	45	178
+līdzekļa	N	līdzeklis	N-msg---------n-----------l-	45	180	45	187
+Windows	N	Windows	N-fsd---------n-----------f-	45	189	45	195
+Update	-	Update	----------------------------	45	197	45	202
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	45	204	45	216
+.	SENT	.	T--------------------------.	45	217	45	217
+
+Citos	P	cits	P-mpl-------i-------------f-	45	219	45	223
+gadījumos	N	gadījums	N-mpl---------n-----------l-	45	225	45	233
+atjauninājums	N	atjauninājums	N-msn---------n-----------l-	45	235	45	247
+var	V	varēt	Vp----3--i----------3-----l-	45	249	45	251
+būt	V	būt	V--------n----------1-----l-	45	253	45	255
+pašlaik	R	pašlaik	R----p--------------------l-	45	257	45	263
+izmantojamās	G	izmantojams	Gpfsgp-y---p--------------l-	45	265	45	276
+programmatūras	N	programmatūra	N-fsg---------n-----------l-	45	278	45	291
+jaunā	A	jauns	A-fsnp-y------------------l-	45	293	45	297
+versija	N	versija	N-fsn---------n-----------l-	45	299	45	305
+vai	C	vai	C---------------------c---l-	45	307	45	309
+servisa	N	serviss	N-msg---------n-----------l-	45	311	45	317
+pakotne	N	pakotne	N-fsn---------n-----------l-	45	319	45	325
+.	SENT	.	T--------------------------.	45	326	45	326
+
+Lai	C	lai	C---------------------k---f-	45	328	45	330
+pārliecinātos	V	pārliecināties	Vp-------s-----y----------l-	45	332	45	344
+,	T	,	T--------------------------,	45	345	45	345
+ka	C	ka	C---------------------p---l-	45	347	45	348
+dators	N	dators	N-msn---------n-----------l-	45	350	45	355
+ir	V	būt	Vp----3--i----------7-----l-	45	357	45	358
+sagatavots	G	sagatavots	Gsmsnp-n---p--------------l-	45	360	45	369
+šo	P	šis	P-mpg-------d-------------l-	45	371	45	372
+atjauninājumu	N	atjauninājums	N-mpg---------n-----------l-	45	374	45	386
+instalēšanai	N	instalēšana	N-fsd---------n-----------l-	45	388	45	399
+,	T	,	T--------------------------,	45	400	45	400
+vispirms	R	vispirms	R----p--------------------l-	45	402	45	409
+instalējiet	V	instalēt	V--p--2--m----------------l-	45	411	45	421
+visus	P	viss	P-mpa-------g-------------l-	45	423	45	427
+svarīgos	A	svarīgs	A-mpap-y------------------l-	45	429	45	436
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	45	438	45	451
+.	SENT	.	T--------------------------.	45	452	45	452
+
+Tad	R	tad	R----p--------------------f-	45	454	45	456
+,	T	,	T--------------------------,	45	457	45	457
+kad	R	kad	R----p----------------f---l-	45	459	45	461
+visi	P	viss	P-mpn-------g-------------l-	45	463	45	466
+svarīgie	A	svarīgs	A-mpnp-y------------------l-	45	468	45	475
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	45	477	45	489
+ir	V	būt	Vp----3--i----------7-----l-	45	491	45	492
+instalēti	G	instalēts	Gsmpnp-n---p--------------l-	45	494	45	502
+,	T	,	T--------------------------,	45	503	45	503
+sistēma	N	sistēma	N-fsn---------n-----------l-	45	505	45	511
+Windows	N	Windows	N-fsa---------n-----------f-	45	513	45	519
+jautā	V	jautāt	Vp----3--i----------------l-	45	521	45	525
+,	T	,	T--------------------------,	45	526	45	526
+vai	C	vai	C---------------------c---l-	45	528	45	530
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	45	532	45	539
+instalēt	V	instalēt	V--------n----------------l-	45	541	45	548
+atsevišķu	A	atsevišķs	A-fsap-n------------------l-	45	550	45	558
+vai	C	vai	C---------------------c---l-	45	560	45	562
+ekskluzīvu	A	ekskluzīvs	A-msap-n------------------l-	45	564	45	573
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	45	575	45	587
+.	SENT	.	T--------------------------.	45	588	45	588
+
+
+Nē	Q	nē	Q-------------------------f-	46	0	46	1
+.	SENT	.	T--------------------------.	46	2	46	2
+
+Katram	P	katrs	P-msd-------g-------------f-	46	4	46	9
+datoram	N	dators	N-msd---------n-----------l-	46	11	46	17
+atsevišķi	R	atsevišķi	R----p--------------------l-	46	19	46	27
+ir	V	būt	Vp----3--i----------7-----l-	46	29	46	30
+jāieslēdz	V	ieslēgt	Vp-------c----------------l-	46	32	46	40
+automātiskā	A	automātisks	A-fsnp-y------------------l-	46	42	46	52
+atjaunināšana	N	atjaunināšana	N-fsn---------n-----------l-	46	54	46	66
+vai	C	vai	C---------------------c---l-	46	68	46	70
+jāpārbauda	V	pārbaudīt	Vp-------c----------------l-	46	72	46	81
+jaunu	A	jauns	A-msap-n------------------l-	46	83	46	87
+atjauninājumu	N	atjauninājums	N-mpg---------n-----------l-	46	89	46	101
+esamība	N	esamība	N-fsn---------n-----------l-	46	103	46	109
+.	SENT	.	T--------------------------.	46	110	46	110
+
+Piemēram	R	piemēram	R----p--------------------f-	46	112	46	119
+,	T	,	T--------------------------,	46	120	46	120
+datoriem	N	dators	N-mpd---------n-----------l-	46	122	46	129
+,	T	,	T--------------------------,	46	130	46	130
+kuros	P	kurš	P-mpl-------r---------f---l-	46	132	46	136
+darbojas	V	darboties	Vp----3--i-----y----------l-	46	138	46	145
+dažādas	A	dažāds	A-fsgp-n------------------l-	46	147	46	153
+Windows	N	Windows	N-fpg---------n-----------f-	46	155	46	161
+versijas	N	versija	N-fpn---------n-----------l-	46	163	46	170
+,	T	,	T--------------------------,	46	171	46	171
+nepieciešami	R	nepieciešami	R----p----------y---------l-	46	173	46	184
+dažādi	A	dažāds	A-mpnp-n------------------l-	46	186	46	191
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	46	193	46	205
+.	SENT	.	T--------------------------.	46	206	46	206
+
+Windows	N	Windows	N-fpa---------n-----------f-	46	208	46	214
+nosaka	V	nosacīt	Vp----3--i----------------l-	46	216	46	221
+,	T	,	T--------------------------,	46	222	46	222
+kuri	P	kurš	P-mpn-------r---------a---l-	46	224	46	227
+atjauninājumi	N	atjauninājums	N-mpn---------n-----------l-	46	229	46	241
+jālieto	V	lietot	Vp-------c----------------l-	46	243	46	249
+katrā	P	katrs	P-msl-------g-------------l-	46	251	46	255
+atsevišķā	A	atsevišķs	A-mslp-n------------------l-	46	257	46	265
+gadījumā	N	gadījums	N-msl---------n-----------l-	46	267	46	274
+,	T	,	T--------------------------,	46	275	46	275
+jo	C	jo	C---------------------r---l-	46	277	46	278
+nav	V	nebūt	Vp----3--i------y---1-----l-	46	280	46	282
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	46	284	46	292
+lietot	V	lietot	V--------n----------------l-	46	294	46	299
+Windows	N	Windows	N-fsa---------n-----------f-	46	301	46	307
+ XP	-	 XP	----------------------------	46	308	46	310
+paredzētos	G	paredzēts	Gsmpap-y---p--------------l-	46	312	46	321
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	46	323	46	336
+datoram	N	dators	N-msd---------n-----------l-	46	338	46	344
+ar	S	ar	S----------------pdp------l-	46	346	46	347
+Windows	N	Windows	N-fsa---------n-----------f-	46	349	46	355
+ 2000	-	 2000	----------------------------	46	356	46	360
+versiju	N	versija	N-fsa---------n-----------l-	46	362	46	368
+.	SENT	.	T--------------------------.	46	369	46	369
+
+
+Var	V	varēt	Vp----3--i----------3-----f-	47	0	47	2
+būt	V	būt	V--------n----------1-----l-	47	4	47	6
+vairāki	P	vairāki	P-mpn-------i-------------l-	47	8	47	14
+iemesli	N	iemesls	N-mpn---------n-----------l-	47	16	47	22
+,	T	,	T--------------------------,	47	23	47	23
+kāpēc	R	kāpēc	R----p----------------o---l-	47	25	47	29
+neizdodas	V	neizdoties	Vp----3--i-----yy---------l-	47	31	47	39
+instalēt	V	instalēt	V--------n----------------l-	47	41	47	48
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	47	50	47	62
+.	SENT	.	T--------------------------.	47	63	47	63
+
+Līdzeklim	N	līdzeklis	N-msd---------n-----------f-	47	65	47	73
+Windows	N	Windows	N-fsl---------n-----------f-	47	75	47	81
+Update	-	Update	----------------------------	47	83	47	88
+datorā	N	dators	N-msl---------n-----------l-	47	90	47	95
+jānodrošina	V	nodrošināt	Vp-------c----------------l-	47	97	47	107
+iespēja	N	iespēja	N-fsn---------n-----------l-	47	109	47	115
+atjauninājumus	N	atjauninājums	N-mpa---------n-----------l-	47	117	47	130
+meklēt	V	meklēt	V--------n----------------l-	47	132	47	137
+,	T	,	T--------------------------,	47	138	47	138
+lejupielādēt	V	lejupielādēt	V--------n----------------l-	47	140	47	151
+un	C	un	C---------------------c---l-	47	153	47	154
+pēc tam	-	pēc_tam	----------------------------	47	156	47	162
+instalēt	V	instalēt	V--------n----------------l-	47	164	47	171
+.	SENT	.	T--------------------------.	47	172	47	172
+
+Ja	C	ja	C---------------------f---f-	47	174	47	175
+kādā	P	kāds	P-fsl-------r---------a---l-	47	177	47	180
+no	S	no	S----------------pdp------l-	47	182	47	183
+šiem	P	šis	P-mpd-------d-------------l-	47	185	47	188
+posmiem	N	posms	N-mpd---------n-----------l-	47	190	47	196
+rodas	V	rasties	Vp----3--i-----y----------l-	47	198	47	202
+kļūda	N	kļūda	N-fsn---------n-----------l-	47	204	47	208
+,	T	,	T--------------------------,	47	209	47	209
+atjauninājumu	N	atjauninājums	N-msa---------n-----------l-	47	211	47	223
+var	V	varēt	Vp----3--i----------3-----l-	47	225	47	227
+neizdoties	V	neizdoties	V--------n-----yy---------l-	47	229	47	238
+instalēt	V	instalēt	V--------n----------------l-	47	240	47	247
+datorā	N	dators	N-msl---------n-----------l-	47	249	47	254
+.	SENT	.	T--------------------------.	47	255	47	255
+
+Lai	C	lai	C---------------------k---f-	47	257	47	259
+saņemtu	V	saņemt	Vp-------s----------------l-	47	261	47	267
+papildinformāciju	N	papildinformācija	N-fsa---------n-----------l-	47	269	47	285
+par	S	par	S----------------sap------l-	47	287	47	289
+kļūdu	N	kļūda	N-fsa---------n-----------l-	47	291	47	295
+vai	C	vai	C---------------------c---l-	47	297	47	299
+kļūmi	N	kļūme	N-fsa---------n-----------l-	47	301	47	305
+,	T	,	T--------------------------,	47	306	47	306
+kļūdas	N	kļūda	N-fsg---------n-----------l-	47	308	47	313
+ziņojumā	N	ziņojums	N-msl---------n-----------l-	47	315	47	322
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	47	324	47	336
+uz	S	uz	S----------------sgp------l-	47	338	47	339
+palīdzības	N	palīdzība	N-fsg---------n-----------l-	47	341	47	350
+saites	N	saite	N-fsg---------n-----------l-	47	352	47	357
+.	SENT	.	T--------------------------.	47	358	47	358
+
+Ja	C	ja	C---------------------f---f-	47	360	47	361
+nav	V	nebūt	Vp----3--i------y---1-----l-	47	363	47	365
+nevienas	P	neviens	P-fpn-------z-------------l-	47	367	47	374
+tēmas	N	tēma	N-fpn---------n-----------l-	47	376	47	380
+par	S	par	S----------------sap------l-	47	382	47	384
+attiecīgo	A	attiecīgs	A-fsap-y------------------l-	47	386	47	394
+kļūdu	N	kļūda	N-fsa---------n-----------l-	47	396	47	400
+,	T	,	T--------------------------,	47	401	47	401
+papildinformāciju	N	papildinformācija	N-fsa---------n-----------l-	47	403	47	419
+skatiet	V	skatīt	V--p--2--m----------------l-	47	421	47	427
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	47	429	47	434
+Atjauninājumu	N	atjauninājums	N-mpg---------n-----------f-	47	436	47	448
+instalēšanas	N	instalēšana	N-fsg---------n-----------l-	47	450	47	461
+problēmu	N	problēma	N-fpg---------n-----------l-	47	463	47	470
+novēršana	N	novēršana	N-fsn---------n-----------l-	47	472	47	480
+.	SENT	.	T--------------------------.	47	482	47	482
+
+
+Ja	C	ja	C---------------------f---f-	48	0	48	1
+problēma	N	problēma	N-fsn---------n-----------l-	48	3	48	10
+joprojām	R	joprojām	R----p--------------------l-	48	12	48	19
+pastāv	V	pastāvēt	Vp----3--i----------------l-	48	21	48	26
+,	T	,	T--------------------------,	48	27	48	27
+atveriet	V	atvērt	V--p--2--m----------------l-	48	29	48	36
+Microsoft	N	Microsoft	N-mpg---------n-----------f-	48	38	48	46
+atjaunināšanas	N	atjaunināšana	N-fsg---------n-----------l-	48	48	48	61
+risinājumu	N	risinājums	N-msa---------n-----------l-	48	63	48	72
+centra	N	centrs	N-msg---------n-----------l-	48	74	48	79
+vietni	N	vietne	N-fsa---------n-----------l-	48	81	48	86
+,	T	,	T--------------------------,	48	87	48	87
+lai	C	lai	C---------------------f---l-	48	89	48	91
+saņemtu	V	saņemt	Vp-------s----------------l-	48	93	48	99
+papildinformāciju	N	papildinformācija	N-fsa---------n-----------l-	48	101	48	117
+par	S	par	S----------------sap------l-	48	119	48	121
+kļūdas	N	kļūda	N-fsg---------n-----------l-	48	123	48	128
+kodu	N	kods	N-msa---------n-----------l-	48	130	48	133
+vai	C	vai	C---------------------c---l-	48	135	48	137
+pieprasītu	V	pieprasīt	Vp-------s----------------l-	48	139	48	148
+atbalsta	N	atbalsts	N-msg---------n-----------l-	48	150	48	157
+saņemšanu	N	saņemšana	N-fsa---------n-----------l-	48	159	48	167
+pa	S	pa	S----------------sap------l-	48	169	48	170
+e-pastu	-	e-pastu	----------------------------	48	172	48	178
+.	SENT	.	T--------------------------.	48	179	48	179
+
+
+Paldies	I	paldies	I-------------------------f-	49	0	49	6
+!	SENT	!	T--------------------------!	49	7	49	7
+
+
+Paldies	I	paldies	I-------------------------f-	50	0	50	6
+!	SENT	!	T--------------------------!	50	7	50	7
+
+Jūsu	P	jūs	P--pg-2-----p-------------f-	50	9	50	12
+atsauksmes	N	atsauksme	N-fpn---------n-----------l-	50	14	50	23
+palīdz	V	palīdzēt	Vp----3--i----------------l-	50	25	50	30
+mums	P	mēs	P--pd-1-----p-------------l-	50	32	50	35
+pastāvīgi	R	pastāvīgi	R----p--------------------l-	50	37	50	45
+uzlabot	V	uzlabot	V--------n----------------l-	50	47	50	53
+saturu	N	saturs	N-msa---------n-----------l-	50	55	50	60
+.	SENT	.	T--------------------------.	50	61	50	61
+
+
+1200	D	1200	D--pg-----------------------	51	0	51	3
+400	D	400	D--pg-----------------------	51	5	51	7
+Kā	C	kā	C---------------------f---f-	51	9	51	10
+padarīt	V	padarīt	V--------n----------------l-	51	12	51	18
+šo	P	šis	P-fsa-------d-------------l-	51	20	51	21
+informāciju	N	informācija	N-fsa---------n-----------l-	51	23	51	33
+vēl	Q	vēl	Q-------------------------l-	51	35	51	37
+noderīgāku	A	noderīgs	A-fsac-n------------------l-	51	39	51	48
+?	SENT	?	T--------------------------?	51	49	51	49
+
+Iesniegt	V	iesniegt	V--------n----------------f-	51	51	51	58
+Izlaist	V	izlaist	V--------n----------------f-	51	60	51	66
+Vai	C	vai	C---------------------c---f-	51	68	51	70
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	51	72	51	79
+vēl	Q	vēl	Q-------------------------l-	51	81	51	83
+kaut ko	P	kaut_kas	P---a-------g-------------l-	51	85	51	91
+pievienot	V	pievienot	V--------n----------------l-	51	93	51	101
+?	SENT	?	T--------------------------?	51	102	51	102
+
+Iesniegt	V	iesniegt	V--------n----------------f-	51	104	51	111
+Nē	Q	nē	Q-------------------------f-	51	113	51	114
+,	T	,	T--------------------------,	51	115	51	115
+paldies	I	paldies	I-------------------------l-	51	117	51	123

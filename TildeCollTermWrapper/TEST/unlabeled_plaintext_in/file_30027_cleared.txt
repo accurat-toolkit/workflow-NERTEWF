@@ -1,0 +1,68 @@
+Kas ir Mailigen?
+Kā Mailigen darbojas?
+Mailigen ir uz interneta bāzes izveidota programma, kas Jums ļaus vienkāršā veidā veidot un sūtīt efektīvas e-pasta mārketinga kampaņas , kā arī saņemt statistiku par to rezultātiem reālajā laikā. Mailigen ir interneta aplikācija, kas nozīmē, ka Jums nekas savā datorā nav jāinstalē.
+Cenas un tarifikācija
+Kāda ir Mailigen aktivizēšanas vai uzstādīšanas cena?
+Mailigen uzstādīšana ir bezmaksas pakalpojums un pat mūsu sistēmas izmantošana 30 dienu garumā Jums neizmaksās pilnīgi neko.
+Kā es varu samaksāt par Mailigen izmantošanu?
+Jūs varat maksāt, izmantojot visas populārākās kredītkartes vai pārskaitot samaksas summu uz mūsu uzņēmuma kontu. Šo informāciju Jūs atradīsiet mūsu reģistrēto lietotāju kontaktu lapā. Ja maksājiet ar kredītkarti, tiks izmantota ikmēneša vai ikgadēja tarifikācija, atkarībā no tā, kādu kontrakta periodu Jūs būsiet izvēlējies.
+Vai ir jāmaksā arī par izsūtīto e-pastu skaitu vai abonentiem?
+Mūsu pakalpojuma cena ir atkarīga nevis no izsūtīto e-pastu skaita, bet gan no abonentu jeb kontaktu saraksta izmēra. Citas internetā esošās sistēmas iekasē maksu par izsūtītiem e-pastiem, kas var kļūt par dārgu prieku, it īpaši, ja saviem abonentiem izsūtiet daudzus e-pastus ik nedēļu. Runājot par Mailigen - Jūs veicat konstantu ikmēneša maksājumu par attiecīgo abonentu skaita limitu, un, Jūs ik mēnesi varat veikt NEIEROBEŽOTU skaitu sūtījumus, ko nevarētu teikt par citām sistēmām (kredīta princips vai maksa par sūtīšanu), kas pavisam drīz varētu kļūt par ievērojamu apgrūtinājumu Jūsu mārketinga budžetam.
+Vai pastāv minimālais kontrakta periods Mailigen izmantošanai?
+Nē, minimālais kontrakta periods nav noteikts. Pirmkārt, Jūs varat pieteikties bez maksas 30 dienu izmēģinājumam. Pēc šī perioda beigām Jūs varēsiet atjaunot vai papildināt savu kontu izvēloties vienu no abonentu skaita limita variantiem, maksājot par to konstantu summu katru mēnesi.
+Apmācība un Atbalsts
+Kur man jāgriežas, lai saņemtu tehniska rakstura palīdzību?
+Mēs tehnsisko atbalstu piedāvājam 24 stundas dienā un 7 dienas nedēļā caur e-pastu. Jūs varat sazināties ar Mailigen klientu palīdzību ,nosūtot e-pastu uz support (at) mailigen.lv
+Kāda apmācība man ir nepieciešama, lai es varētu izmantot Mailigen?
+Mailigen ir intuitīva un viegli lietojama sistēma, kuru izmantot Jums nebūs nekādu problēmu jau kopš pirmā brīža. Tomēr jebkurā gadījumā noderēs vienreizēja apmācības nodarbība aptuveni stundas garumā, lai Jūs spētu pilnvērtīgi izmantot visas Mailigen dotās iespējas. Lai veiktu šādu apmācības nodarbību, lūdzam sazinieties ar mūsu atbalsta komandu!
+Drošība un Privātums
+Vai Jums būs iespēja piekļūt manam kontam?
+Ja pastāvēs problēma, kuru nevarēs atrisināt citādā veidā, un Jūs mums piešķirsiet atļauju. Tas var notikt vienīgi izņēmuma gadījumos.
+Cik lielā drošībā ir manis saglabātās jaunumu vēstules, attēli un sūtījumu saraksti?
+Pilnīgā drošībā! Šeit - Mailigen sistēmā, drošība ieņem sevišķi svarīgu lomu. Mailigen sistēma ir daudzpusīgi aizsargāta. Tā ietver sevī augsta līmeņa aparatūras un programmatūras drošības konfigurāciju, ieskaitot sarežģītas "firewall" polises un arhivēšanas procedūras. Jūsu aktivitātes un pat Jūsu IP adreses vienmēr tiek glabātas drošībā, turklāt – tāpat kā mūsu privātuma polisi, arī jebkāda satura datus mēs nenododam trešajām personām.
+Vai Mailigen uztur manu datu arhīvus?
+Jā. Mailigen regulāri arhivē visus Jūsu datus, kā arī atstāj to kopijas citā serverī. Tas nozīmē, ka, ja viens serveris uz laiku nedarbojas, otrs to nekavējoties aizstāj. Lai arī Jūsu dati pie mums ir drošībā, mēs iesakām Jums ik pa laikam no Mailigen lejupielādēt savus atjaunotos kontaktu sarakstus jebkurā brīdī, kad esat iegājis, lai izsūtītu kārtējo kampaņu. Šādi Jūs dubulti nodrošināsieties pret savu sarakstu pazaudēšanu gadījumā, ja Jūsu konts ir paralizēts.
+Sistēmas prasības
+Vai man jāiegādājas aparatūra vai programmatūra, kas atbalstīs Mailigen darbību?
+Nē. Tādēļ, ka Mailigen ir uz interneta bāzes veidots tiešā e-pasta mārketinga produkts – nav nepieciešamības iegādāties nedz papildus aparatūru, nedz programmatūru. Interneta pārlūkprogramma (piemēram: Internet Explorer, Mozilla u.c.) un interneta pieslēgums ir viss, kas Jums jebkad būs nepieciešams.
+Vai ir iespējams lejupielādēt Mailigen un to darbināt no mana datora cietā diska?
+Nē. Mailigen ir interneta aplikācija, tādēļ kā augstāk minēts – viss, kas Jums ir nepieciešams, ir interneta pārlūkprogramma un interneta pieslēgums. Kad Jūs ieejat savā kontā, izmantojot savu lietotājvārdu un paroli, Mailigen sistēma Jūs atpazīst un sniedz Jums drošu piekļuvi sava konta saturam.
+Kā būs ar ekrāna izšķirtspēju?
+Tas atkarīgs no pikseļu daudzuma, ko spēj attēlot Jūsu monitors. Minimālā izšķirtspēja, lai varētu ērti izmantot Mailigen, ir 1024 x 768px. Jebkurš mazāks izšķirtspējas režīms par šo var neietvert visu Mailigen funkciju attēlošanu visa ekrāna platībā, kas nozīmē, ka tādā gadījumā Jums nāksies izmanot horizontālo un vertikālo datorpeles kustības režīmu.
+Abonēšana un atteikšanās no Mailigen sistēmas
+Kā es varēšu uzzināt, kad kāds būs piekritis abonēšanai?
+Mailigen kontaktu kopsavilkuma lapa ir veidota tā, lai Jūs informētu par jebkādām jaunām aktivitātēm, ieskaitot – datus par jauniem abonentiem un pārējo svarīgo informāciju sakarā ar parakstīšanos.
+Kas notiek ar personas kontaktinformāciju, ja persona pēc laika atsakās no abonēšanas?
+Kad persona atsakās no abonēšanas, tās informācija ir neizdzēšama. Šādi tiek samazināta iespējamība, ka tās personas, kuras ir atteikušās no abonēšanas, vēlāk netiks importētas sistēmā. Mūsu sistēma ievieto norādes sarakstos pie abonentiem un tiem, kuri atteikušies no abonēšanas, tādējādi tos strikti atdalot. Tādā veidā tiek panākts, ka cilvēki, kuri nevēlas kļūt par abonentiem, nekad nesaņems sev nevēlamas vēstules.
+Kādā veidā notiek atteikšanās no abonēšanas?
+Katrai vēstulei, ko Jūs izsūtat saviem kontaktiem, izmantojot Mailigen, ir jāsatur saite, kuru saņēmējs var izmantot gadījumā, ja tam ir vēlēšanās izdzēst sevi no turpmāko vēstuļu saņēmēju saraksta. Šī iespēja ir iebūvēta kā standarta funkcija, tomēr Jums jāparūpējas par pašu uzrakstītu ziņojumu atteikuma tekstam un saitei.
+Kontaktu apzināšana, grupas un avoti
+Cik daudz sarakstu es varu izveidot?
+Tik, cik Jūs vēlaties. Pilnā mērā organizējot savus kontaktus, Jūs varat iekļaut vairāku atsevišķu sarakstu izveidi, katrā no tām – ar saviem abonentiem. Jūs variet izveidot atsevišķu sarakstu katrai no vēlamajām jaunumu vēstulēm, katrai interešu grupai vai pēc demogrāfiskiem datiem.
+Kas notiek ar "pamestajiem" vai nepiegādātajiem e-pastiem?
+Šādos gadījumos Jūs varat ietaupīt savu laiku, jo Mailigen Jums ļauj apzināt savus pamestos jeb nepiegādātos e-pastus, automātiski visus tos šķirojot. Pamesto e-pastu skaits tāpat ir redzams analīzes atskaitēs.
+Kā es varu importēt kontaktus?
+Tiklīdz Jūsu kontakti ir sakārtoti, lai tie atbilstu importēšanas noteikumiem, Jūs tos varat importēt, izmantojot vai nu CSV vai XLS failu paplašinājumus. Mailigen skenē importēto informāciju, lai izvairītos no dublikātiem, slikti formatētiem ierakstiem, pārbauda to sakritību ar personu datiem, kas ir atteikušās no abonēšanas, un tad dod sniedz par visu augšminēto atskaiti. Pilna instrukcija ir pieejama Mailigen dokumentācijā.
+Jaunumu vēstuļu sūtīšana un saņemšana
+Kādēļ manu vēstuļu saņēmējiem saturā neparādās attēli?
+Mailigen neiedarina jeb nepievieno attēlus e-pastiem. Tā vietā attēli tiek lejupielādēti no to dislokācijas vietas internetā. Tam ir divas lielas priekšrocības: 1) Maza izmēra e-pasti ir efektīvāki, un 2) Tas novērš iespējamību, ka e-pasts netiks līdz saņēmējam pārāk lielā izmēra dēļ.
+Vai es varu izmantot savu e-pasta adresi ailē „No”?
+Jā, Mailigen sistēma automātiski izsūta e-pastus norādūt Jūs kā sūtītāju, norādīta tiek adresi ar kuru Jūs reģistrējāties. Jūs varat mainīt e-pasta adresi ailē „Atbildēt uz”, tādejādi saņēmēji klikšķinot uz „Atbildēt” taustiņa savā e-pasta pārlūkprogrammā nosūtīs atbildes uz Jums vēlamo e-pasta kastīti. Šādi Jūs nodrošināsiet to, ka Jūs saņemsiet vienīgi tos e-pasta sūtījumus, kuri patiesi ir Jūsu uzmanības vērti.
+Vai saņēmēja vārds var parādīties ailē „Kam”?
+Protams, bet tas ir atkarīgs no Jūsu kontaktu datubāzes, vai tur ir iekļautas ailes ar vārdiem.
+Kā ir ar personalizāciju?
+Jūs varat personalizēt saņēmēja vārda lauku un jebkuru vēstules daļu, lai tā atainotu Jūsu izvēlēto sveiciena formu. Piemēram: „Dārgā Liepas k-dze” vai "Labdien, cien. Dace". Tālākās darbības, sīkāk noregulējot personalizēto vēstuli, iekļauj sevī vairāku informācijas lauku pievienošanu, tādus kā atrašanās vieta, preces nosaukums utt.
+Vai es savām jaunumu vēstulēm varu pievienot pielikumus?
+Nē. Dokumenti nevar tikt pievienoti, jo ar faila izmēru saistītie sarežģījumi var Jūsu e-pastus nelaist cauri korporatīviem „firewall” un „spam” filtriem. Tomēr Jūs varat ievietot saiti, kas ved uz dokumentu. Rezultātā Jūs panāksiet to pašu efektu, tikai bez liekām problēmām.
+Jaunumu vēstuļu konstruēšana
+Vai jums ir HTML šabloni, ko mēs varam izmantot?
+Jā. Mums ir plaša krātuve ar HTML šabloniem, ko mēs ik nedēļu papildinām. Tie ir ļoti vienkārši lietojami un tos var rediģēt izmantojot mūsu iebūvēto HTML rediģētāju. Tāpat mēs par simbolisku samaksu varam izveidot HTML šablonu pēc Jūsu pasūtījuma.
+Vai Jūs varat manam uzņēmumam izveidot e-pasta šablonus?
+Mēs varam izstrādāt individuālu un pieskaņotu "uzņēmuma šablonu", kad Jūs iegādāsieties Mailigen pakalpojumus. Šis šablons ir veidots, lai atainotu Jūsu uzņēmuma korporatīvo identitāti un tiek pievienots Jūsu uzņēmuma šabloniem, kā arī ir rediģējams HTML rediģētājā. Nedz parastās teksta, nedz HTML augšupielādes vēstules tiek iespaidotas.
+Izmēģiniet Mailigen un izsūtiet savu pirmo e-pasta marketinga kampaņu dažu minūšu laika! Par Brīvu. Bez saistībām vai jebkādas maksas
+lietotājvārds:
+e-pasta mārketinga blogs
+lietotāju atsauksmes
+“Mailigen lietošana ir ļoti ērta un vienkārša, kā arī sniedz fantastiskas statistikas iespējas. Mailgen komanda ir izpalīdzīga un reaģē uz jebkuru jautājumu. Beidzot Latvijai ir savs pilnvērtīgs interneta mārketinga rīks!”
+Laura Pečate - RITO tīkla vadītāja
+MAILIGEN © 2010. Visas tiesības aizsargātas.

@@ -1,0 +1,131 @@
+﻿<ENAMEX TYPE="LOCATION">Letonia</ENAMEX> .
+De la <ENAMEX TYPE="LOCATION">Wikipedia</ENAMEX> , enciclopedia liberă .
+<ENAMEX TYPE="LOCATION">Letonia</ENAMEX> .
+<ENAMEX TYPE="PERSON">Latvijas Republika</ENAMEX> .
+Republica <ENAMEX TYPE="LOCATION">Letonia</ENAMEX> . .
+Drapel .
+Deviză :
+nu are .
+Imn :
+<ENAMEX TYPE="LOCATION">Dievs</ENAMEX> , <ENAMEX TYPE="PERSON">Svētī Latviju</ENAMEX> .
+Capitală .
+( și cel mai mare oraș ) Riga .
+Limbi oficiale letonă .
+Sistem politic .
+- Președinte <ENAMEX TYPE="PERSON">Valdis Zatlers</ENAMEX> .
+- <ENAMEX TYPE="PERSON">Prim- ministru Valdis Dombrovskis</ENAMEX> .
+Independență .
+- față de Imperiul <ENAMEX TYPE="ORGANIZATION">Rus.</ENAMEX> declarată :
+18 noiembrie <TIMEX TYPE="DATE">1918</TIMEX> .
+recunoscută :
+11 august <TIMEX TYPE="DATE">1920</TIMEX> .
+pierdută :
+17 iunie <TIMEX TYPE="DATE">1940</TIMEX> .
+față de Uniunea Sovietică : . declarată :
+4 mai <TIMEX TYPE="DATE">1990</TIMEX> .
+recunoscută :
+21 august <TIMEX TYPE="DATE">1991</TIMEX> .
+Suprafață .
+- Total 64,589 km² km² ( locul Locul 121 ) .
+- Apă ( % ) 1,5% .
+Populație .
+- Estimare 2.224.100 ( locul Locul 137 ) .
+- Densitate 36 / km² loc / km² .
+Monedă <ENAMEX TYPE="LOCATION">Lats</ENAMEX> .
+Prefix telefonic + 371 .
+Domeniu .
+Internet .
+lv .
+Fus orar <ENAMEX TYPE="ORGANIZATION">UTC</ENAMEX> + 2 / + 3 .
+modifică .
+<ENAMEX TYPE="PERSON">Letonia</ENAMEX> este o țară baltică în Europa de Nord .
+Capitală țării este <ENAMEX TYPE="PERSON">Rīga</ENAMEX> .
+Granița de vest a țării o constituie Marea Baltică .
+În nord și în sud , <ENAMEX TYPE="PERSON">Letonia</ENAMEX> se învecinează cu <ENAMEX TYPE="PERSON">Estonia</ENAMEX> și respectiv <ENAMEX TYPE="PERSON">Lituania</ENAMEX> , iar în est cu <ENAMEX TYPE="PERSON">Rusia</ENAMEX> .
+Este membră a Uniunii Europene .
+Cuprins [ ascunde ] .
+1 Istoria <ENAMEX TYPE="LOCATION">Letoniei</ENAMEX> .
+2 Județe .
+3 Patrimoniu mondial .
+3.1 Bibliografie .
+4 Vezi și .
+[ modificare ] Istoria <ENAMEX TYPE="LOCATION">Letoniei</ENAMEX> .
+<ENAMEX TYPE="PERSON">Letonia</ENAMEX> există ca stat din 1918 , ca urmare a Tratatului de <ENAMEX TYPE="ORGANIZATION">Pace</ENAMEX> de la <ENAMEX TYPE="LOCATION">Paris</ENAMEX> și a acordării de teritorii pe bază etnico-lingvistică .
+Înainte de 1918 , <ENAMEX TYPE="PERSON">Letonia</ENAMEX> fusese o provincie a Imperiului <ENAMEX TYPE="LOCATION">Rus</ENAMEX> , ( gubernie ) condusă de un guvernator numit de țar .
+Numele ei era <ENAMEX TYPE="LOCATION">Livonia</ENAMEX> , iar teritoriul acesteia includea și sudul <ENAMEX TYPE="PRODUCT">Estoniei de astăzi</ENAMEX> .
+Denumirea de <ENAMEX TYPE="PERSON">Livonia</ENAMEX> datează din perioada primei ocupații germane a teritoriilor baltice , de la începutul secolului al <ENAMEX TYPE="ORGANIZATION">XIII</ENAMEX> -lea și derivă de la cuvântul <ENAMEX TYPE="PERSON">Liv</ENAMEX> , care denumea locuitorii băștinași .
+Teritoriul baltic populat de acești livi a fost treptat colonizat de o populație germană în căutare de noi pământuri și surse de venit .
+Pretextul prezenței crescânde a populației germane a fost creștinarea acestei populații încă păgâne la începutul anilor 1200 .
+Erau implicați în această strategie Biserica Catolică germană și mai ales scaunul episcopal din <ENAMEX TYPE="LOCATION">Bremen</ENAMEX> , precum și cavalerii Ordinului Fraților de <ENAMEX TYPE="PERSON">Sabie</ENAMEX> , o grupare militară ce- și pierduse orice menire în Germania odată ce cruciadele luaseră sfârșit .
+Inițial cele două instituții au decis să colaboreze pentru a- și împărți teritoriile însușite , după care relația a devenit competitivă și conflictuală .
+După o inițială ripostă a băștinașilor ( triburile live , zemgale , curoniene ) ce a durat peste 100 de ani , germanii au reușit să își însușească majoritatea teritoriilor locale fie prin forță , fie prin jaf , fie prin alocări ilicite .
+În acest mod a pierit unul din cele mai razboinice triburi baltice , prușii .
+Cavalerii germani au exterminat sistematic orice prezență prusacă pe teritoriul baltic , adoptând ulterior numele acestora .
+În 1201 a fost fondată Riga , construită treptat pe locul unei foste așezări live .
+Orașul a devenit și locul de scaun al episcopului de <ENAMEX TYPE="LOCATION">Bremen</ENAMEX> , acum de <ENAMEX TYPE="LOCATION">Riga</ENAMEX> - <ENAMEX TYPE="PERSON">Albert</ENAMEX> .
+Datorită prezenței germane din ce în ce mai numeroase , Riga devine cel mai important centru comercial din golful baltic , la gurile râului <ENAMEX TYPE="LOCATION">Daugava</ENAMEX> .
+În mai puțin de 100 de ani , Riga devenise deja membru activ și cu drepturi depline în cadrul Ligii Hanseatice .
+Populația locală , indiferent de apartenența tribală , este exclusă de la administrarea orașului , având un statut de paria .
+Riga devine începând cu anii 1210 un oraș preponderent german și va rămâne așa pentru următorii 700 de ani .
+Anii 1520 afectează și statutul credincioșilor germani din Riga , când sub influența puternică a luteranismului , cavalerii Ordinului Fraților de <ENAMEX TYPE="PERSON">Sabie</ENAMEX> încearcă să sustragă Bisericii Catolice toate proprietățile .
+Populația băștinașă este și ea implicată , chiar și indirect , în această feudă și mulți localnici ( fie livi , fie lațtgali , fie zemgali ori cursi ) se convertesc la luternaism ca urmare a promisiunilor celor ce îl promovau și împotriva prezenței Bisericii Catolice .
+[ modificare ] Județe .
+Pentru detalii , vezi :
+Raioanele <ENAMEX TYPE="LOCATION">Letoniei</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Aizkraukle</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Alūksne</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Balvi</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Bauska</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Cēsis</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Daugavpils</ENAMEX> .
+Raionul Dobele .
+Raionul <ENAMEX TYPE="LOCATION">Gulbene</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Jēkabpils</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Jelgava</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Krāslava</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Kuldīga</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Liepāja</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Limbaži</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Ludza</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Madona</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Ogre</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Preiļi</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Rēzekne</ENAMEX> .
+Raionul Riga .
+Raionul <ENAMEX TYPE="LOCATION">Saldus</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Talsi</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Tukums</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Valka</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Valmiera</ENAMEX> .
+Raionul <ENAMEX TYPE="LOCATION">Ventspils</ENAMEX> .
+[ modificare ] Patrimoniu mondial .
+Pe lista patrimoniului mondial <ENAMEX TYPE="PERSON">UNESCO</ENAMEX> sunt înscrise următoarele obiective din <ENAMEX TYPE="LOCATION">Letonia</ENAMEX> : .
+Centrul vechi istoric din Riga ( 1997 ) .
+Arcul geodezic <ENAMEX TYPE="PERSON">Struve</ENAMEX> ( pe teritoriul <ENAMEX TYPE="LOCATION">Letoniei</ENAMEX> ) ( 2005 ) .
+[ modificare ] Bibliografie .
+<ENAMEX TYPE="PERSON">Giuseppe D'Amato Travel</ENAMEX> to the Baltic Hansa .
+The European <ENAMEX TYPE="PRODUCT">Union</ENAMEX> and its enlargement to the <ENAMEX TYPE="PERSON">East</ENAMEX> .
+<ENAMEX TYPE="PERSON">Book</ENAMEX> în <ENAMEX TYPE="LOCATION">Italian</ENAMEX> .
+<ENAMEX TYPE="PERSON">Viaggio</ENAMEX> nell ’ Hansa baltică .
+L ’ <ENAMEX TYPE="PERSON">Unione</ENAMEX> europea e l ’ allargamento ad Est .
+Greco & Greco editori , <ENAMEX TYPE="LOCATION">Milano</ENAMEX> , 2004 .
+<ENAMEX TYPE="ORGANIZATION">ISBN</ENAMEX> 88-7980-355-7 .
+<ENAMEX TYPE="LOCATION">Dreifelds</ENAMEX> , <ENAMEX TYPE="PERSON">Juris</ENAMEX> ( 1996 ) .
+<ENAMEX TYPE="PERSON">Latvia</ENAMEX> în <ENAMEX TYPE="LOCATION">Transition</ENAMEX> .
+<ENAMEX TYPE="PERSON">Cambridge University Press</ENAMEX> .
+<ENAMEX TYPE="ORGANIZATION">ISBN</ENAMEX> 978-0521555371 .
+<ENAMEX TYPE="LOCATION">Rutkis</ENAMEX> , <ENAMEX TYPE="PERSON">Jānis</ENAMEX> ( ed. ) ( 1967 ) .
+<ENAMEX TYPE="LOCATION">Latvia</ENAMEX> :
+<ENAMEX TYPE="PERSON">Country</ENAMEX> & <ENAMEX TYPE="PERSON">People</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Stockholm</ENAMEX> :
+Latvian Național Foundation .
+<TIMEX TYPE="DATE">OCLC 457313</TIMEX> .
+<ENAMEX TYPE="LOCATION">Arveds</ENAMEX> , <ENAMEX TYPE="PERSON">Švābe</ENAMEX> ( 1949 ) .
+The <ENAMEX TYPE="PERSON">Story of Latvia</ENAMEX> :
+A <ENAMEX TYPE="ORGANIZATION">Historical Survey</ENAMEX> .
+<ENAMEX TYPE="LOCATION">Stockholm</ENAMEX> :
+Latvian Național Foundation .
+<TIMEX TYPE="DATE">OCLC 2961684</TIMEX> .
+[ modificare ] Vezi și .
+Locuri din patrimoniul mondial <ENAMEX TYPE="ORGANIZATION">UNESCO</ENAMEX> .
+Pușcașii letoni .

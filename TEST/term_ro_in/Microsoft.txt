@@ -1,0 +1,73 @@
+﻿
+<TENAME>Microsoft</TENAME> De la <TENAME>Wikipedia</TENAME>, enciclopedia liberă
+
+
+<TENAME>Microsoft CorporationTip</TENAME>	companie listată la bursă
+Fondată	4 aprilie 1975
+Oameni cheie	<TENAME>Bill</TENAME> <TENAME>Gates</TENAME>, Paul <TENAME>Allen</TENAME>,
+<TENAME>Steve</TENAME> Ballmer
+Industrie	Software
+Produse	<TENAME>Microsoft</TENAME> Windows,
+<TENAME>Microsoft</TENAME> Office,
+Windows Server
+Cifra de afaceri	44,3 miliarde USD (2006)
+Angajați	71.172 (2006)
+Slogan	Be What's <TENAME>Next</TENAME>.
+<TENAME>Website</TENAME>	<TENAME>www</TENAME>.<TENAME>microsoft</TENAME>.ro
+modifică 
+<TENAME>Microsoft</TENAME> Corp. (<TENAME>NASDAQ</TENAME>: <TENAME>MSFT</TENAME>) este o companie americană, cea mai mare producătoare de software din lume, cu peste 90.000 de angajați în mai mult de 100 de <TENAME>țări</TENAME>. Deseori numele firmei se prescurtează "<TENAME>MS</TENAME>". Are sediul în <TENAME>Redmond</TENAME>, Washington, SUA.
+Până în momentul de <TENAME>față</TENAME> a livrat, și continuă să livreze, cel mai mare număr de sisteme de operare pentru calculatoare personale, anume sistemul <TENAME>MS</TENAME> Windows, în numeroasele sale variante.
+Compania a fost fondată în 1975 de către <TENAME>Bill</TENAME> <TENAME>Gates</TENAME> și Paul <TENAME>Allen</TENAME>, după ce, cu 3 ani în urmă, aceiași înființaseră compania <TENAME>Traf-O-Data</TENAME>, cu care însă nu au avut succesul scontat. Directorul general este în momentul de <TENAME>față</TENAME> <TENAME>Steve</TENAME> Ballmer.
+Cuprins [ascunde]
+1 Produse software
+2 Tehnologii
+3 Produse <TENAME>hardware</TENAME>
+4 <TENAME>Achiziții</TENAME>
+5 
+<TENAME>Microsoft în România</TENAME> 6 Note
+7 Vezi și
+8 Legături externe
+[modificare]Produse software
+
+<TENAME>Microsoft</TENAME> Windows - sistem de operare
+Windows Live
+Internet <TENAME>Explorer</TENAME> - <TENAME>browser</TENAME>
+<TENAME>Microsoft</TENAME> Office - suită de programe pentru birou
+Windows Media <TENAME>Player</TENAME> - redare media
+<TENAME>SQL</TENAME> Server
+Visual Studio
+<TENAME>Microsoft</TENAME> Frontpage - editor HTML
+<TENAME>Microsoft</TENAME> Encarta - enciclopedie
+[modificare]Tehnologii
+
+<TENAME>DirectX</TENAME>
+Active <TENAME>Directory</TENAME>
+<TENAME>MSN</TENAME> <TENAME>Search</TENAME>
+.NET
+Windows Media
+<TENAME>PlaysForSure</TENAME>
+App-V
+Hyper-V
+<TENAME>Silverlight</TENAME>
+Windows <TENAME>Embedded</TENAME>
+<TENAME>Mediaroom</TENAME>
+<TENAME>Microsoft</TENAME> Auto
+<TENAME>Microsoft</TENAME> Tag
+<TENAME>HDi</TENAME>
+[modificare]Produse <TENAME>hardware</TENAME>
+
+<TENAME>maus</TENAME>, <TENAME>trackball</TENAME>
+<TENAME>tastatură</TENAME>
+<TENAME>Xbox</TENAME>, <TENAME>Xbox</TENAME> 360 - <TENAME>consolă</TENAME> de jocuri
+<TENAME>SideWinder</TENAME> - <TENAME>controller</TENAME> de joc
+cititor de amprente
+<TENAME>Zune</TENAME>
+[modificare]<TENAME>Achiziții</TENAME>
+
+În august 2008, <TENAME>Microsoft a achiziționat compania</TENAME> de sondaje online <TENAME>Greenfield</TENAME> Online pentru suma de 486 milioane dolari[1]. Prin preluarea companiei internet, <TENAME>Microsoft a</TENAME> dobândit acces la site-ul <TENAME>Ciao</TENAME>.<TENAME>com</TENAME>, care se ocupă de <TENAME>comparațiile</TENAME> de <TENAME>preturi</TENAME> și <TENAME>pareri</TENAME> ale consumatorilor cu privire la produse comercializate pe <TENAME>piață</TENAME>[1].
+[modificare]
+
+<TENAME>Microsoft în RomâniaCompania</TENAME> este prezentă în România din anul 1992[2]. <TENAME>Microsoft</TENAME> are două centre în România, unul de suport tehnic la <TENAME>București</TENAME>, și unul de dezvoltare la <TENAME>Timișoara</TENAME>, unde se dezvoltă parte a motorului de căutare, <TENAME>Bing</TENAME>[3]. În total, în cele două centre lucrează 300 de angajați[3].
+<TENAME>Microsoft a</TENAME> văndut în România, în cursul anului fiscal 2006–2007, 220.000 de <TENAME>licențe</TENAME> de Windows, în sistem <TENAME>OEM</TENAME> (preinstalate pe PC-urile asamblate în România), din care 35% (77.000) au fost vânzări ale noului sistem de operare <TENAME>Vista</TENAME>[4].
+Cifra de afaceri în 2007: 22,7 milioane euro[5][2]
+Venit net în 2007: 5,1 milioane euro[5][2]

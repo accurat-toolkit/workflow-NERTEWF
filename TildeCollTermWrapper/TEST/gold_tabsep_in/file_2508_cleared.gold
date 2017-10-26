@@ -1,0 +1,1774 @@
+Bezvadu	N	bezvadu	N-mpg---------n-----------f-	0	0	0	6	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	0	8	0	12	I-TERM
+iestatīšana	N	iestatīšana	N-fsn---------n-----------l-	0	14	0	24	I-TERM
+
+
+Iztēlojieties	V	iztēloties	V--p--2--m-----y----------f-	1	0	1	12	O
+,	T	,	T--------------------------,	1	13	1	13	O
+ka	C	ka	C---------------------p---l-	1	15	1	16	O
+sēžat	V	sēdēt	Vp-p--2--i----------------l-	1	18	1	22	O
+savā	P	savs	P-fsl-------s-------------l-	1	24	1	27	O
+viesistabā	N	viesistaba	N-fsl---------n-----------l-	1	29	1	38	O
+un	C	un	C---------------------c---l-	1	40	1	41	O
+klejojat	V	klejot	Vp-p--2--i----------------l-	1	43	1	50	O
+tīmeklī	N	tīmeklis	N-msl---------n-----------l-	1	52	1	58	B-TERM
+,	T	,	T--------------------------,	1	59	1	59	O
+tērzējat	V	tērzēt	Vp-p--2--i----------------l-	1	61	1	68	O
+ar	S	ar	S----------------pdp------l-	1	70	1	71	O
+draugiem	N	draugs	N-mpd---------n-----------l-	1	73	1	80	O
+tiešsaistē	N	tiešsaiste	N-fsl---------n-----------l-	1	82	1	91	B-TERM
+,	T	,	T--------------------------,	1	92	1	92	O
+vakarā	N	vakars	N-msl---------n-----------l-	1	94	1	99	O
+atpūšoties	G	atpūšoties	G----------a-n-y----------l-	1	101	1	110	O
+gultā	N	gulta	N-fsl---------n-----------l-	1	112	1	116	O
+,	T	,	T--------------------------,	1	117	1	117	O
+vai arī	C	vai_arī	C---------------------c---l-	1	119	1	125	O
+esat	V	būt	Vp-p--2--i----------1-----l-	1	127	1	130	O
+virtuvē	N	virtuve	N-fsl---------n-----------l-	1	132	1	138	O
+un	C	un	C---------------------c---l-	1	140	1	141	O
+pārsūtāt	V	pārsūtīt	Vp-p--2--i----------------l-	1	143	1	150	O
+dokumentus	N	dokuments	N-mpa---------n-----------l-	1	152	1	161	B-TERM
+no	S	no	S----------------sgp------l-	1	163	1	164	O
+datora	N	dators	N-msg---------n-----------l-	1	166	1	171	B-TERM
+uz	S	uz	S----------------sap------l-	1	173	1	174	O
+mājas	N	māja	N-fsg---------n-----------l-	1	176	1	180	B-TERM
+biroja	N	birojs	N-msg---------n-----------l-	1	182	1	187	I-TERM
+printeri	N	printeris	N-msa---------n-----------l-	1	189	1	196	I-TERM
+.	SENT	.	T--------------------------.	1	197	1	197	O
+
+Bezvadu	N	bezvadu	N-mpg---------n-----------f-	1	199	1	205	B-TERM
+tīkls	N	tīkls	N-msn---------n-----------l-	1	207	1	211	I-TERM
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	1	213	1	221	O
+maksimāli	A	maksimāls	A-mpnp-n------------------l-	1	223	1	231	O
+pielāgojamas	G	pielāgojams	Gpfsgp-n---p--------------l-	1	233	1	244	O
+tīkla	N	tīkls	N-msg---------n-----------l-	1	246	1	250	B-TERM
+izmantošanas	N	izmantošana	N-fsg---------n-----------l-	1	252	1	263	O
+iespējas	N	iespēja	N-fpa---------n-----------l-	1	265	1	272	O
+,	T	,	T--------------------------,	1	273	1	273	O
+un	C	un	C---------------------c---l-	1	275	1	276	O
+to	P	tas	P-fsa-------d-------------l-	1	278	1	279	O
+iestatīt	V	iestatīt	V--------n----------------l-	1	281	1	288	O
+ir	V	būt	Vp----3--i----------7-----l-	1	290	1	291	O
+vieglāk	R	viegli	R----c--------------------l-	1	293	1	299	O
+,	T	,	T--------------------------,	1	300	1	300	O
+nekā	C	nekā	C---------------------w---l-	1	302	1	305	O
+domājat	V	domāt	Vp-p--2--i----------------l-	1	307	1	313	O
+.	SENT	.	T--------------------------.	1	314	1	314	O
+
+Šajā	P	šis	P-msl-------d-------------f-	1	316	1	319	O
+rakstā	N	raksts	N-msl---------n-----------l-	1	321	1	326	O
+ir	V	būt	Vp----3--i----------7-----l-	1	328	1	329	O
+izklāstīts	G	izklāstīts	Gsmsnp-n---p--------------l-	1	331	1	340	O
+,	T	,	T--------------------------,	1	341	1	341	O
+kādas	P	kāds	P-fpa-------g---------a---l-	1	343	1	347	O
+darbības	N	darbība	N-fpn---------n-----------l-	1	349	1	356	O
+jāveic	V	veikt	Vp-------c----------------l-	1	358	1	363	O
+,	T	,	T--------------------------,	1	364	1	364	O
+lai	C	lai	C---------------------f---l-	1	366	1	368	O
+iestatītu	V	iestatīt	Vp-------s----------------l-	1	370	1	378	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	1	380	1	386	B-TERM
+tīklu	N	tīkls	N-msa---------n-----------l-	1	388	1	392	I-TERM
+un	C	un	C---------------------c---l-	1	394	1	395	O
+sāktu	V	sākt	Vp-------s----------3-----l-	1	397	1	401	O
+to	P	tas	P-msa-------d-------------l-	1	403	1	404	O
+lietot	V	lietot	V--------n----------------l-	1	406	1	411	O
+.	SENT	.	T--------------------------.	1	412	1	412	O
+
+
+Atbilstoša	G	atbilstošs	Gpmsgp-n---a--------------f-	2	0	2	9	O
+aprīkojuma	N	aprīkojums	N-msg---------n-----------l-	2	11	2	20	O
+iegāde	N	iegāde	N-fsn---------n-----------l-	2	22	2	27	O
+
+
+Platjoslas	N	platjosla	N-fsg---------n-----------f-	3	0	3	9	B-TERM
+interneta	N	internets	N-msg---------n-----------l-	3	11	3	19	I-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	3	21	3	31	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	3	33	3	34	O
+ātrdarbīgs	A	ātrdarbīgs	A-msnp-n------------------l-	3	36	3	45	B-TERM
+interneta	N	internets	N-msg---------n-----------l-	3	47	3	55	I-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	3	57	3	67	I-TERM
+atšķirībā	N	atšķirība	N-fsl---------n-----------l-	3	69	3	77	O
+no	S	no	S----------------sgp------l-	3	79	3	80	O
+iezvanes	N	iezvane	N-fsg---------n-----------l-	3	82	3	89	B-TERM
+savienojuma	N	savienojums	N-msg---------n-----------l-	3	91	3	101	I-TERM
+,	T	,	T--------------------------,	3	102	3	102	O
+kas	P	kas	P---n-------r---------x---l-	3	104	3	106	O
+ir	V	būt	Vp----3--i----------7-----l-	3	108	3	109	O
+lēnāks	A	lēns	A-msnc-n------------------l-	3	111	3	116	O
+un	C	un	C---------------------c---l-	3	118	3	119	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	3	121	3	123	O
+pietiekami	R	pietiekami	R----p--------------------l-	3	125	3	134	O
+efektīvs	A	efektīvs	A-msnp-n------------------l-	3	136	3	143	O
+,	T	,	T--------------------------,	3	144	3	144	O
+lai	C	lai	C---------------------f---l-	3	146	3	148	O
+atbalstītu	V	atbalstīt	Vp-------s----------------l-	3	150	3	159	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	3	161	3	167	B-TERM
+tīklu	N	tīkls	N-msa---------n-----------l-	3	169	3	173	I-TERM
+.	SENT	.	T--------------------------.	3	174	3	174	O
+
+Ciparu	N	cipars	N-mpg---------n-----------f-	3	176	3	181	B-TERM
+abonentlīnija	N	abonentlīnija	N-fsn---------n-----------l-	3	183	3	195	I-TERM
+(	T	(	T--------------------------(	3	197	3	197	O
+Digital	-	Digital	----------------------------	3	198	3	204	O
+Subscriber	-	Subscriber	----------------------------	3	206	3	215	O
+Line	-	Line	----------------------------	3	217	3	220	O
+—	T	—	T--------------------------—	3	222	3	222	O
+DSL	-	DSL	----------------------------	3	224	3	226	B-TERM
+)	T	)	T--------------------------)	3	227	3	227	O
+un	C	un	C---------------------c---l-	3	229	3	230	O
+kabeļa	N	kabelis	N-msg---------n-----------l-	3	232	3	237	B-TERM
+līnija	N	līnija	N-fsn---------n-----------l-	3	239	3	244	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	3	246	3	247	O
+divi	M	divi	M-mpn---c-----------------l-	3	249	3	252	O
+visbiežāk	R	bieži	R----s--------------------l-	3	254	3	262	O
+izmantotie	G	izmantots	Gsmpnp-y---p--------------l-	3	264	3	273	O
+platjoslas	N	platjosla	N-fsg---------n-----------l-	3	275	3	284	B-TERM
+savienojumu	N	savienojums	N-mpg---------n-----------l-	3	286	3	296	I-TERM
+veidi	N	veids	N-mpn---------n-----------l-	3	298	3	302	O
+.	SENT	.	T--------------------------.	3	303	3	303	O
+
+Platjoslas	N	platjosla	N-fsg---------n-----------f-	3	305	3	314	B-TERM
+savienojumu	N	savienojums	N-msa---------n-----------l-	3	316	3	326	I-TERM
+var	V	varēt	Vp----3--i----------3-----l-	3	328	3	330	O
+iegūt	V	iegūt	V--------n----------------l-	3	332	3	336	O
+,	T	,	T--------------------------,	3	337	3	337	O
+sazinoties	G	sazinoties	G----------a-n-y----------l-	3	339	3	348	O
+ar	S	ar	S----------------sap------l-	3	350	3	351	O
+interneta	N	internets	N-msg---------n-----------l-	3	353	3	361	B-TERM
+pakalpojumu	N	pakalpojums	N-msa---------n-----------l-	3	363	3	373	I-TERM
+sniedzēju	N	sniedzēja	N-fsa---------n-----------l-	3	375	3	383	I-TERM
+(	T	(	T--------------------------(	3	385	3	385	O
+ISP	-	ISP	----------------------------	3	386	3	388	B-TERM
+)	T	)	T--------------------------)	3	389	3	389	O
+.	SENT	.	T--------------------------.	3	390	3	390	O
+
+Parasti	R	parasti	R----p--------------------f-	3	392	3	398	O
+interneta	N	internets	N-msg---------n-----------l-	3	400	3	408	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	3	410	3	420	I-TERM
+sniedzēji	N	sniedzējs	N-mpn---------n-----------l-	3	422	3	430	I-TERM
+,	T	,	T--------------------------,	3	431	3	431	O
+kas	P	kas	P---n-------r---------x---l-	3	433	3	435	O
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	3	437	3	445	O
+ciparu	N	cipars	N-mpg---------n-----------l-	3	447	3	452	B-TERM
+abonentlīniju	N	abonentlīnija	N-fsa---------n-----------l-	3	454	3	466	I-TERM
+,	T	,	T--------------------------,	3	467	3	467	O
+ir	V	būt	Vp----3--i----------7-----l-	3	469	3	470	O
+telefona	N	telefons	N-msg---------n-----------l-	3	472	3	479	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	3	481	3	491	I-TERM
+uzņēmumi	N	uzņēmums	N-mpn---------n-----------l-	3	493	3	500	O
+,	T	,	T--------------------------,	3	501	3	501	O
+savukārt	R	savukārt	R----p--------------------l-	3	503	3	510	O
+interneta	N	internets	N-msg---------n-----------l-	3	512	3	520	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	3	522	3	532	I-TERM
+sniedzēji	N	sniedzējs	N-mpn---------n-----------l-	3	534	3	542	I-TERM
+,	T	,	T--------------------------,	3	543	3	543	O
+kas	P	kas	P---n-------r---------x---l-	3	545	3	547	O
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	3	549	3	557	O
+kabeļa	N	kabelis	N-msg---------n-----------l-	3	559	3	564	B-TERM
+līniju	N	līnija	N-fsa---------n-----------l-	3	566	3	571	I-TERM
+,	T	,	T--------------------------,	3	572	3	572	O
+ir	V	būt	Vp----3--i----------7-----l-	3	574	3	575	O
+kabeļtelevīzijas	N	kabeļtelevīzija	N-fsg---------n-----------l-	3	577	3	592	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	3	594	3	604	I-TERM
+uzņēmumi	N	uzņēmums	N-mpn---------n-----------l-	3	606	3	613	O
+.	SENT	.	T--------------------------.	3	614	3	614	O
+
+Interneta	N	internets	N-msg---------n-----------f-	3	616	3	624	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	3	626	3	636	I-TERM
+sniedzēji	N	sniedzējs	N-mpn---------n-----------l-	3	638	3	646	I-TERM
+parasti	R	parasti	R----p--------------------l-	3	648	3	654	O
+piedāvā	V	piedāvāt	Vp----3--i----------------l-	3	656	3	662	O
+platjoslas	N	platjosla	N-fsg---------n-----------l-	3	664	3	673	B-TERM
+modemus	N	modems	N-mpa---------n-----------l-	3	675	3	681	I-TERM
+un	C	un	C---------------------c---l-	3	683	3	684	O
+,	T	,	T--------------------------,	3	685	3	685	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	3	687	3	695	O
+,	T	,	T--------------------------,	3	696	3	696	O
+pat	Q	pat	Q-------------------------l-	3	698	3	700	O
+varētu	V	varēt	Vp-------s----------3-----l-	3	702	3	707	O
+tos	P	tas	P-mpa-------d-------------l-	3	709	3	711	O
+instalēt	V	instalēt	V--------n----------------l-	3	713	3	720	O
+jūsu	P	jūs	P--pg-2-----p-------------l-	3	722	3	725	O
+vietā	N	vieta	N-fsl---------n-----------l-	3	727	3	731	O
+.	SENT	.	T--------------------------.	3	732	3	732	O
+
+Daži	P	dažs	P-mpn-------i-------------f-	3	734	3	737	O
+interneta	N	internets	N-msg---------n-----------l-	3	739	3	747	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	3	749	3	759	I-TERM
+sniedzēji	N	sniedzējs	N-mpn---------n-----------l-	3	761	3	769	I-TERM
+arī	Q	arī	Q-------------------------l-	3	771	3	773	O
+piedāvā	V	piedāvāt	Vp----3--i----------------l-	3	775	3	781	O
+modemu	N	modems	N-msa---------n-----------l-	3	783	3	788	B-TERM
+/	T	/	T--------------------------/	3	789	3	789	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	3	790	3	796	B-TERM
+maršrutētāju	N	maršrutētāja	N-fpg---------n-----------l-	3	798	3	809	I-TERM
+kombināciju	N	kombinācija	N-fsa---------n-----------l-	3	811	3	821	O
+.	SENT	.	T--------------------------.	3	822	3	822	O
+
+Tos	P	tas	P-mpa-------d-------------f-	3	824	3	826	O
+var	V	varēt	Vp----3--i----------3-----l-	3	828	3	830	O
+iegādāties	V	iegādāties	V--------n-----y----------l-	3	832	3	841	O
+arī	Q	arī	Q-------------------------l-	3	843	3	845	O
+datoru	N	dators	N-msa---------n-----------l-	3	847	3	852	B-TERM
+vai	C	vai	C---------------------c---l-	3	854	3	856	O
+elektronikas	N	elektronika	N-fsg---------n-----------l-	3	858	3	869	B-TERM
+veikalos	N	veikals	N-mpl---------n-----------l-	3	871	3	878	I-TERM
+.	SENT	.	T--------------------------.	3	879	3	879	O
+
+
+Tipisks	A	tipisks	A-msnp-n------------------f-	4	0	4	6	O
+kabeļmodems	-	kabeļmodems	----------------------------	4	8	4	18	B-TERM
+(	T	(	T--------------------------(	4	20	4	20	O
+pa	S	pa	S----------------sap------l-	4	21	4	22	O
+kresi	N	krese	N-fsa---------n-----------l-	4	24	4	28	O
+)	T	)	T--------------------------)	4	29	4	29	O
+un	C	un	C---------------------c---l-	4	31	4	32	O
+DSL	-	DSL	----------------------------	4	34	4	36	B-TERM
+modems	N	modems	N-msn---------n-----------l-	4	38	4	43	I-TERM
+(	T	(	T--------------------------(	4	45	4	45	O
+pa	S	pa	S----------------sap------l-	4	46	4	47	O
+labi	R	labi	R----p--------------------l-	4	49	4	52	O
+)	T	)	T--------------------------)	4	53	4	53	O
+
+
+Maršrutētājs	N	maršrutētājs	N-msn---------n-----------f-	5	0	5	11	B-TERM
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	5	13	5	21	O
+informācijas	N	informācija	N-fsg---------n-----------l-	5	23	5	34	B-TERM
+plūsmu	N	plūsma	N-fsa---------n-----------l-	5	36	5	41	I-TERM
+starp	S	starp	S----------------sap------l-	5	43	5	47	O
+tīklu	N	tīkls	N-msa---------n-----------l-	5	49	5	53	B-TERM
+un	C	un	C---------------------c---l-	5	55	5	56	O
+internetu	N	internets	N-msa---------n-----------l-	5	58	5	66	B-TERM
+.	SENT	.	T--------------------------.	5	67	5	67	O
+
+Bezvadu	N	bezvadu	N-mpg---------n-----------f-	5	69	5	75	B-TERM
+maršrutētājs	N	maršrutētājs	N-msn---------n-----------l-	5	77	5	88	I-TERM
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	5	90	5	98	O
+savienojuma	N	savienojums	N-msg---------n-----------l-	5	100	5	110	B-TERM
+izveidi	N	izveide	N-fsa---------n-----------l-	5	112	5	118	I-TERM
+starp	S	starp	S----------------sap------l-	5	120	5	124	O
+datoru	N	dators	N-msa---------n-----------l-	5	126	5	131	B-TERM
+un	C	un	C---------------------c---l-	5	133	5	134	O
+tīklu	N	tīkls	N-msa---------n-----------l-	5	136	5	140	B-TERM
+,	T	,	T--------------------------,	5	141	5	141	O
+izmantojot	G	izmantojot	G----------a-n------------l-	5	143	5	152	O
+radio	N	radio	N-msg---------n-----------l-	5	154	5	158	B-TERM
+signālus	N	signāls	N-mpa---------n-----------l-	5	160	5	167	I-TERM
+,	T	,	T--------------------------,	5	168	5	168	O
+nevis	C	nevis	C-------------------------l-	5	170	5	174	O
+vadus	N	vads	N-mpa---------n-----------l-	5	176	5	180	B-TERM
+.	SENT	.	T--------------------------.	5	181	5	181	O
+
+Pastāv	V	pastāvēt	Vp----3--i----------------f-	5	183	5	188	O
+daži	P	dažs	P-mpn-------i-------------l-	5	190	5	193	O
+atšķirīgi	A	atšķirīgs	A-mpnp-n------------------l-	5	195	5	203	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	5	205	5	211	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	5	213	5	217	I-TERM
+tehnoloģiju	N	tehnoloģija	N-fpg---------n-----------l-	5	219	5	229	I-TERM
+tipi	N	tips	N-mpn---------n-----------l-	5	231	5	234	O
+,	T	,	T--------------------------,	5	235	5	235	O
+tostarp	R	tostarp	R----p--------------------l-	5	237	5	243	O
+802.11	D	802.11	D--s------------------------	5	245	5	250	O
+a	-	a	----------------------------	5	251	5	251	O
+,	T	,	T--------------------------,	5	252	5	252	O
+802.11	D	802.11	D--s------------------------	5	254	5	259	O
+b	-	b	----------------------------	5	260	5	260	O
+,	T	,	T--------------------------,	5	261	5	261	O
+802.11	D	802.11	D--s------------------------	5	263	5	268	O
+g	Y	g	Y-------------------------l-	5	269	5	269	O
+un	C	un	C---------------------c---l-	5	271	5	272	O
+802.11	D	802.11	D--s------------------------	5	274	5	279	O
+n	-	n	----------------------------	5	280	5	280	O
+.	SENT	.	T--------------------------.	5	281	5	281	O
+
+Ieteicams	G	ieteicams	Gpmsnp-n---p--------------f-	5	283	5	291	O
+izmantot	V	izmantot	V--------n----------------l-	5	293	5	300	O
+maršrutētāju	N	maršrutētājs	N-msa---------n-----------l-	5	302	5	313	B-TERM
+,	T	,	T--------------------------,	5	314	5	314	O
+kas	P	kas	P---n-------r---------x---l-	5	316	5	318	O
+atbalsta	V	atbalstīt	Vp----3--i----------------l-	5	320	5	327	O
+802.11	D	802.11	D--s------------------------	5	329	5	334	O
+g	Y	g	Y-------------------------l-	5	335	5	335	O
+vai	C	vai	C---------------------c---l-	5	337	5	339	O
+802.11	D	802.11	D--s------------------------	5	341	5	346	O
+n	-	n	----------------------------	5	347	5	347	O
+,	T	,	T--------------------------,	5	348	5	348	O
+jo	C	jo	C---------------------r---l-	5	350	5	351	O
+tie	P	tas	P-mpn-------d-------------l-	5	353	5	355	O
+ir	V	būt	Vp----3--i----------7-----l-	5	357	5	358	O
+ātrdarbīgi	A	ātrdarbīgs	A-mpnp-n------------------l-	5	360	5	369	O
+un	C	un	C---------------------c---l-	5	371	5	372	O
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	5	374	5	382	O
+spēcīgu	A	spēcīgs	A-mpgp-n------------------l-	5	384	5	390	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	5	392	5	398	B-TERM
+signālu	N	signāls	N-msa---------n-----------l-	5	400	5	406	I-TERM
+.	SENT	.	T--------------------------.	5	407	5	407	O
+
+Papildinformāciju	N	papildinformācija	N-fsa---------n-----------f-	5	409	5	425	O
+par	S	par	S----------------pdp------l-	5	427	5	429	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	5	431	5	437	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	5	439	5	443	I-TERM
+tehnoloģijām	N	tehnoloģija	N-fpd---------n-----------l-	5	445	5	456	I-TERM
+skatiet	V	skatīt	V--p--2--m----------------l-	5	458	5	464	O
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	5	466	5	471	O
+Bezvadu	N	bezvadu	N-mpg---------n-----------f-	5	473	5	479	B-TERM
+tīklošana	N	tīklošana	N-fsn---------n-----------l-	5	481	5	489	I-TERM
+:	T	:	T--------------------------:	5	490	5	490	O
+bieži	R	bieži	R----p--------------------l-	5	492	5	496	O
+uzdotie	G	uzdots	Gsmpnp-y---p--------------l-	5	498	5	504	O
+jautājumi	N	jautājums	N-mpn---------n-----------l-	5	506	5	514	O
+.	SENT	.	T--------------------------.	5	516	5	516	O
+
+
+Tipisks	A	tipisks	A-msnp-n------------------f-	6	0	6	6	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	6	8	6	14	B-TERM
+maršrutētājs	N	maršrutētājs	N-msn---------n-----------l-	6	16	6	27	I-TERM
+
+
+Tīkla	N	tīkls	N-msg---------n-----------f-	7	0	7	4	B-TERM
+adapteris	N	adapteris	N-msn---------n-----------l-	7	6	7	14	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	7	16	7	17	O
+ierīce	N	ierīce	N-fsn---------n-----------l-	7	19	7	24	B-TERM
+,	T	,	T--------------------------,	7	25	7	25	O
+kas	P	kas	P---n-------r---------x---l-	7	27	7	29	O
+savieno	V	savienot	Vp----3--i----------------l-	7	31	7	37	O
+datoru	N	dators	N-msa---------n-----------l-	7	39	7	44	B-TERM
+ar	S	ar	S----------------sap------l-	7	46	7	47	O
+tīklu	N	tīkls	N-msa---------n-----------l-	7	49	7	53	B-TERM
+.	SENT	.	T--------------------------.	7	54	7	54	O
+
+Lai	C	lai	C---------------------k---f-	7	56	7	58	O
+mobilo	A	mobils	A-mpgp-y------------------l-	7	60	7	65	B-TERM
+datoru	N	dators	N-msa---------n-----------l-	7	67	7	72	I-TERM
+vai	C	vai	C---------------------c---l-	7	74	7	76	O
+galddatoru	N	galddators	N-msa---------n-----------l-	7	78	7	87	B-TERM
+savienotu	A	savienots	A-fsap-n------------------l-	7	89	7	97	O
+ar	S	ar	S----------------sap------l-	7	99	7	100	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	7	102	7	108	B-TERM
+tīklu	N	tīkls	N-msa---------n-----------l-	7	110	7	114	I-TERM
+,	T	,	T--------------------------,	7	115	7	115	O
+datorā	N	dators	N-msl---------n-----------l-	7	117	7	122	B-TERM
+jābūt	V	būt	Vp-------c----------------l-	7	124	7	128	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	7	130	7	136	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	7	138	7	142	I-TERM
+adapterim	N	adapteris	N-msd---------n-----------l-	7	144	7	152	I-TERM
+.	SENT	.	T--------------------------.	7	153	7	153	O
+
+Lielākajā	A	liels	A-fslc-y------------------f-	7	155	7	163	O
+daļā	N	daļa	N-fsl---------n-----------l-	7	165	7	168	O
+mobilo	A	mobils	A-msap-y------------------l-	7	170	7	175	B-TERM
+datoru	N	dators	N-msa---------n-----------l-	7	177	7	182	I-TERM
+,	T	,	T--------------------------,	7	183	7	183	O
+kā arī	C	kā_arī	C---------------------c---l-	7	185	7	190	O
+daudzos	M	daudzi	M-mpl---c-----------------l-	7	192	7	198	O
+galddatoros	N	galddators	N-mpl---------n-----------l-	7	200	7	210	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	7	212	7	216	B-TERM
+adapteris	N	adapteris	N-msn---------n-----------l-	7	218	7	226	I-TERM
+jau	Q	jau	Q-------------------------l-	7	228	7	230	O
+ir	V	būt	Vp----3--i----------7-----l-	7	232	7	233	O
+instalēts	G	instalēts	Gsmsnp-n---p--------------l-	7	235	7	243	O
+.	SENT	.	T--------------------------.	7	244	7	244	O
+
+Lai	C	lai	C---------------------k---f-	7	246	7	248	O
+pārbaudītu	V	pārbaudīt	Vp-------s----------------l-	7	250	7	259	O
+,	T	,	T--------------------------,	7	260	7	260	O
+vai	C	vai	C---------------------c---l-	7	262	7	264	O
+datoram	N	dators	N-msd---------n-----------l-	7	266	7	272	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	7	274	7	275	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	7	277	7	283	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	7	285	7	289	I-TERM
+adapteris	N	adapteris	N-msn---------n-----------l-	7	291	7	299	I-TERM
+,	T	,	T--------------------------,	7	300	7	300	O
+rīkojieties	V	rīkoties	V--p--2--m-----y----------l-	7	302	7	312	O
+šādi	R	šādi	R----p--------------------l-	7	314	7	317	O
+:	T	:	T--------------------------:	7	318	7	318	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	8	0	8	7	O
+ierīču	N	ierīce	N-fpg---------n-----------l-	8	9	8	14	B-TERM
+pārvaldnieku	N	pārvaldnieks	N-msa---------n-----------l-	8	16	8	27	I-TERM
+,	T	,	T--------------------------,	8	28	8	28	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	8	30	8	41	O
+uz	S	uz	S----------------sgp------l-	8	43	8	44	O
+pogas	N	poga	N-fsg---------n-----------l-	8	46	8	50	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	8	52	8	55	O
+
+
+,	T	,	T--------------------------,	9	0	9	0	O
+pēc tam	-	pēc_tam	----------------------------	9	2	9	8	O
+uz	S	uz	S----------------sgp------l-	9	10	9	11	O
+Vadības	N	vadība	N-fsg---------n-----------f-	9	13	9	19	B-TERM
+panelis	N	panelis	N-msn---------n-----------l-	9	21	9	27	I-TERM
+,	T	,	T--------------------------,	9	28	9	28	O
+uz	S	uz	S----------------sgp------l-	9	30	9	31	O
+Sistēma	N	sistēma	N-fsn---------n-----------f-	9	33	9	39	B-TERM
+un	C	un	C---------------------c---l-	9	41	9	42	O
+uzturēšana	N	uzturēšana	N-fsn---------n-----------l-	9	44	9	53	B-TERM
+un	C	un	C---------------------c---l-	9	55	9	56	O
+uz	S	uz	S----------------sap------l-	9	58	9	59	O
+Ierīču	N	ierīce	N-fpg---------n-----------f-	9	61	9	66	B-TERM
+pārvaldnieks	N	pārvaldnieks	N-msn---------n-----------l-	9	68	9	79	I-TERM
+.	T	.	T--------------------------.	9	80	9	80	O
+‌	-	‌	----------------------------	9	81	9	81	O
+
+
+Ja	C	ja	C---------------------f---f-	10	1	10	2	O
+tiek	V	tikt	Vp----3--i----------6-----l-	10	4	10	7	O
+lūgts	G	lūgts	Gsmsnp-n---p--------------l-	10	9	10	13	O
+ievadīt	V	ievadīt	V--------n----------------l-	10	15	10	21	O
+administratora	N	administrators	N-msg---------n-----------l-	10	23	10	36	B-TERM
+paroli	N	parole	N-fsa---------n-----------l-	10	38	10	43	B-TERM
+vai	C	vai	C---------------------c---l-	10	45	10	47	O
+apstiprinājumu	N	apstiprinājums	N-msa---------n-----------l-	10	49	10	62	O
+,	T	,	T--------------------------,	10	63	10	63	O
+ierakstiet	V	ierakstīt	V--p--2--m----------------l-	10	65	10	74	O
+paroli	N	parole	N-fsa---------n-----------l-	10	76	10	81	B-TERM
+vai	C	vai	C---------------------c---l-	10	83	10	85	O
+apstipriniet	V	apstiprināt	V--p--2--m----------------l-	10	87	10	98	O
+.	SENT	.	T--------------------------.	10	99	10	99	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	11	0	11	12	O
+uz	S	uz	S----------------sap------l-	11	14	11	15	O
+pluszīmes	N	pluszīme	N-fsg---------n-----------l-	11	17	11	25	B-TERM
+(	T	(	T--------------------------(	11	27	11	27	O
++	T	+	T--------------------------+	11	28	11	28	O
+)	T	)	T--------------------------)	11	29	11	29	O
+pie	S	pie	S----------------sgp------l-	11	31	11	33	O
+teksta	N	teksts	N-msg---------n-----------l-	11	35	11	40	O
+Tīkla	N	tīkls	N-msg---------n-----------f-	11	42	11	46	B-TERM
+adapteri	N	adapters	N-mpn---------n-----------l-	11	48	11	55	I-TERM
+.	SENT	.	T--------------------------.	11	56	11	56	O
+
+
+Meklējiet	V	meklēt	V--p--2--m----------------f-	12	0	12	8	O
+tīkla	N	tīkls	N-msg---------n-----------l-	12	10	12	14	B-TERM
+adapteri	N	adapteris	N-msa---------n-----------l-	12	16	12	23	I-TERM
+,	T	,	T--------------------------,	12	24	12	24	O
+kura	P	kurš	P-msg-------r---------o---l-	12	26	12	29	O
+nosaukumā	N	nosaukums	N-msl---------n-----------l-	12	31	12	39	O
+ir	V	būt	Vp----3--i----------7-----l-	12	41	12	42	O
+vārds	N	vārds	N-msn---------n-----------l-	12	44	12	48	O
+"	T	"	T--------------------------"	12	50	12	50	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	12	51	12	57	B-TERM
+"	T	"	T--------------------------"	12	58	12	58	O
+(	T	(	T--------------------------(	12	60	12	60	O
+"	T	"	T--------------------------"	12	61	12	61	O
+wireless	-	wireless	----------------------------	12	62	12	69	O
+"	T	"	T--------------------------"	12	70	12	70	O
+)	T	)	T--------------------------)	12	71	12	71	O
+.	SENT	.	T--------------------------.	12	72	12	72	O
+
+
+Ierīču	N	ierīce	N-fpg---------n-----------f-	13	0	13	5	B-TERM
+pārvaldnieks	N	pārvaldnieks	N-msn---------n-----------l-	13	7	13	18	I-TERM
+,	T	,	T--------------------------,	13	19	13	19	O
+kurā	P	kurš	P-msl-------r---------a---l-	13	21	13	24	O
+redzams	G	redzams	Gpmsnp-n---p--------------l-	13	26	13	32	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	13	34	13	40	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	13	42	13	46	I-TERM
+adapteris	N	adapteris	N-msn---------n-----------l-	13	48	13	56	I-TERM
+
+
+Ja	C	ja	C---------------------f---f-	14	0	14	1	O
+datoram	N	dators	N-msd---------n-----------l-	14	3	14	9	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	14	11	14	12	O
+nepieciešams	G	nepieciešams	Gpmsnp-n---p----y---------l-	14	14	14	25	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	14	27	14	33	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	14	35	14	39	I-TERM
+adapteris	N	adapteris	N-msn---------n-----------l-	14	41	14	49	I-TERM
+,	T	,	T--------------------------,	14	50	14	50	O
+to	P	tas	P-fsa-------d-------------l-	14	52	14	53	O
+var	V	varēt	Vp----3--i----------3-----l-	14	55	14	57	O
+iegādāties	V	iegādāties	V--------n-----y----------l-	14	59	14	68	O
+datoru	N	dators	N-msa---------n-----------l-	14	70	14	75	B-TERM
+vai	C	vai	C---------------------c---l-	14	77	14	79	O
+elektronikas	N	elektronika	N-fsg---------n-----------l-	14	81	14	92	B-TERM
+preču	N	prece	N-fpg---------n-----------l-	14	94	14	98	I-TERM
+veikalā	N	veikals	N-msl---------n-----------l-	14	100	14	106	I-TERM
+un	C	un	C---------------------c---l-	14	108	14	109	O
+instalēt	V	instalēt	V--------n----------------l-	14	111	14	118	O
+patstāvīgi	R	patstāvīgi	R----p--------------------l-	14	120	14	129	O
+.	SENT	.	T--------------------------.	14	130	14	130	O
+
+Ieteicams	G	ieteicams	Gpmsnp-n---p--------------f-	14	132	14	140	O
+izvēlēties	V	izvēlēties	V--------n-----y----------l-	14	142	14	151	O
+universālās	A	universāls	A-fsgp-y------------------l-	14	153	14	163	B-TERM
+seriālās	A	seriāls	A-fpap-y------------------l-	14	165	14	172	I-TERM
+kopnes	N	kopne	N-fpa---------n-----------l-	14	174	14	179	I-TERM
+(	T	(	T--------------------------(	14	181	14	181	O
+USB	-	USB	----------------------------	14	182	14	184	B-TERM
+)	T	)	T--------------------------)	14	185	14	185	O
+tipa	N	tips	N-msg---------n-----------l-	14	187	14	190	O
+adapteri	N	adapters	N-mpn---------n-----------l-	14	192	14	199	B-TERM
+,	T	,	T--------------------------,	14	200	14	200	O
+jo	C	jo	C---------------------r---l-	14	202	14	203	O
+tie	P	tas	P-mpn-------d-------------l-	14	205	14	207	O
+ir	V	būt	Vp----3--i----------7-----l-	14	209	14	210	O
+nelieli	R	nelieli	R----p----------y---------l-	14	212	14	218	O
+,	T	,	T--------------------------,	14	219	14	219	O
+ērti	R	ērti	R----p--------------------l-	14	221	14	224	O
+instalējami	G	instalējams	Gpmpnp-n---p--------------l-	14	226	14	236	O
+un	C	un	C---------------------c---l-	14	238	14	239	O
+tos	P	tas	P-mpa-------d-------------l-	14	241	14	243	O
+var	V	varēt	Vp----3--i----------3-----l-	14	245	14	247	O
+pārvietot	V	pārvietot	V--------n----------------l-	14	249	14	257	O
+dažādos	A	dažāds	A-mplp-n------------------l-	14	259	14	265	O
+datoros	N	dators	N-mpl---------n-----------l-	14	267	14	273	B-TERM
+.	SENT	.	T--------------------------.	14	274	14	274	O
+
+Nodrošiniet	V	nodrošināt	V--p--2--m----------------f-	14	276	14	286	O
+,	T	,	T--------------------------,	14	287	14	287	O
+lai	C	lai	C---------------------f---l-	14	289	14	291	O
+adapteris	N	adapteris	N-msn---------n-----------l-	14	293	14	301	B-TERM
+atbilstu	V	atbilst	Vp-s--1--i----------------l-	14	303	14	310	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	14	312	14	318	B-TERM
+maršrutētāja	N	maršrutētājs	N-msg---------n-----------l-	14	320	14	331	I-TERM
+tipam	N	tips	N-msd---------n-----------l-	14	333	14	337	I-TERM
+.	SENT	.	T--------------------------.	14	338	14	338	O
+
+Adaptera	N	adapters	N-msg---------n-----------f-	14	340	14	347	B-TERM
+tips	N	tips	N-msn---------n-----------l-	14	349	14	352	I-TERM
+parasti	R	parasti	R----p--------------------l-	14	354	14	360	O
+ir	V	būt	Vp----3--i----------7-----l-	14	362	14	363	O
+norādīts	G	norādīts	Gsmsnp-n---p--------------l-	14	365	14	372	O
+uz	S	uz	S----------------sap------l-	14	374	14	375	O
+iepakojuma	N	iepakojums	N-msg---------n-----------l-	14	377	14	386	O
+,	T	,	T--------------------------,	14	387	14	387	O
+visbiežāk	R	bieži	R----s--------------------l-	14	389	14	397	O
+ar	S	ar	S----------------pdp------l-	14	399	14	400	O
+burtu	N	burts	N-msa---------n-----------l-	14	402	14	406	O
+,	T	,	T--------------------------,	14	407	14	407	O
+piemēram	R	piemēram	R----p--------------------l-	14	409	14	416	O
+,	T	,	T--------------------------,	14	417	14	417	O
+G	Y	g	Y-------------------------f-	14	419	14	419	O
+vai	C	vai	C---------------------c---l-	14	421	14	423	O
+A.	-	A.	----------------------------	14	425	14	426	O
+
+
+Tipiski	R	tipiski	R----p--------------------f-	15	0	15	6	O
+USB	-	USB	----------------------------	15	8	15	10	B-TERM
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	15	12	15	18	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	15	20	15	24	I-TERM
+adapteri	N	adapters	N-mpn---------n-----------l-	15	26	15	33	I-TERM
+
+
+Modema	N	modems	N-msg---------n-----------f-	16	0	16	5	B-TERM
+un	C	un	C---------------------c---l-	16	7	16	8	O
+interneta	N	internets	N-msg---------n-----------l-	16	10	16	18	B-TERM
+savienojuma	N	savienojums	N-msg---------n-----------l-	16	20	16	30	I-TERM
+iestatīšana	N	iestatīšana	N-fsn---------n-----------l-	16	32	16	42	I-TERM
+
+
+Kad	R	kad	R----p----------------o---f-	17	0	17	2	O
+esat	V	būt	Vp-p--2--i----------1-----l-	17	4	17	7	O
+iegādājies	V	iegādāties	Vp-s--2--i-----y----------l-	17	9	17	18	O
+visu	P	viss	P-msa-------g-------------l-	17	20	17	23	O
+aprīkojumu	N	aprīkojums	N-msa---------n-----------l-	17	25	17	34	O
+,	T	,	T--------------------------,	17	35	17	35	O
+jāiestata	V	iestatīt	Vp-------c----------------l-	17	37	17	45	O
+modems	N	modems	N-msn---------n-----------l-	17	47	17	52	B-TERM
+un	C	un	C---------------------c---l-	17	54	17	55	O
+interneta	N	internets	N-msg---------n-----------l-	17	57	17	65	B-TERM
+savienojums	N	savienojums	N-msn---------n-----------l-	17	67	17	77	I-TERM
+.	SENT	.	T--------------------------.	17	78	17	78	O
+
+Ja	C	ja	C---------------------f---f-	17	80	17	81	O
+modemu	N	modems	N-msa---------n-----------l-	17	83	17	88	B-TERM
+nav	V	nebūt	Vp----3--i------y---4-----l-	17	90	17	92	O
+iestatījis	G	iestatījis	Gsmsn--n---a--------------l-	17	94	17	103	O
+interneta	N	internets	N-msg---------n-----------l-	17	105	17	113	B-TERM
+pakalpojumu	N	pakalpojums	N-mpg---------n-----------l-	17	115	17	125	I-TERM
+sniedzējs	N	sniedzējs	N-msn---------n-----------l-	17	127	17	135	I-TERM
+(	T	(	T--------------------------(	17	137	17	137	O
+ISP	-	ISP	----------------------------	17	138	17	140	B-TERM
+)	T	)	T--------------------------)	17	141	17	141	O
+,	T	,	T--------------------------,	17	142	17	142	O
+izpildiet	V	izpildīt	V--p--2--m----------------l-	17	144	17	152	O
+modemam	N	modems	N-msd---------n-----------l-	17	154	17	160	B-TERM
+pievienotās	G	pievienots	Gsfpap-y---p--------------l-	17	162	17	172	O
+instrukcijas	N	instrukcija	N-fsg---------n-----------l-	17	174	17	185	O
+,	T	,	T--------------------------,	17	186	17	186	O
+lai	C	lai	C---------------------f---l-	17	188	17	190	O
+to	P	tas	P-msa-------d-------------l-	17	192	17	193	O
+savienotu	V	savienot	Vp-------s----------------l-	17	195	17	203	O
+ar	S	ar	S----------------sap------l-	17	205	17	206	O
+datoru	N	dators	N-msa---------n-----------l-	17	208	17	213	B-TERM
+un	C	un	C---------------------c---l-	17	215	17	216	O
+internetu	N	internets	N-msa---------n-----------l-	17	218	17	226	B-TERM
+.	SENT	.	T--------------------------.	17	227	17	227	O
+
+Ja	C	ja	C---------------------f---f-	17	229	17	230	O
+izmantojat	V	izmantot	Vp-p--2--i----------------l-	17	232	17	241	O
+ciparu	N	cipars	N-mpg---------n-----------l-	17	243	17	248	B-TERM
+abonentlīniju	N	abonentlīnija	N-fsa---------n-----------l-	17	250	17	262	I-TERM
+(	T	(	T--------------------------(	17	264	17	264	O
+DSL	-	DSL	----------------------------	17	265	17	267	B-TERM
+)	T	)	T--------------------------)	17	268	17	268	O
+,	T	,	T--------------------------,	17	269	17	269	O
+savienojiet	V	savienot	V--p--2--m----------------l-	17	271	17	281	O
+modemu	N	modems	N-msa---------n-----------l-	17	283	17	288	B-TERM
+ar	S	ar	S----------------sap------l-	17	290	17	291	O
+tālruņa	N	tālrunis	N-msg---------n-----------l-	17	293	17	299	B-TERM
+kontaktligzdu	N	kontaktligzda	N-fsa---------n-----------l-	17	301	17	313	I-TERM
+.	SENT	.	T--------------------------.	17	314	17	314	O
+
+Ja	C	ja	C---------------------d---f-	17	316	17	317	O
+izmantojat	V	izmantot	Vp-p--2--i----------------l-	17	319	17	328	O
+kabeli	N	kabelis	N-msa---------n-----------l-	17	330	17	335	B-TERM
+,	T	,	T--------------------------,	17	336	17	336	O
+savienojiet	V	savienot	V--p--2--m----------------l-	17	338	17	348	O
+modemu	N	modems	N-msa---------n-----------l-	17	350	17	355	B-TERM
+ar	S	ar	S----------------sap------l-	17	357	17	358	O
+kabeļa	N	kabelis	N-msg---------n-----------l-	17	360	17	365	B-TERM
+kontaktligzdu	N	kontaktligzda	N-fsa---------n-----------l-	17	367	17	379	I-TERM
+.	SENT	.	T--------------------------.	17	380	17	380	O
+
+Plašāku	A	plašs	A-fsac-n------------------f-	17	382	17	388	O
+informāciju	N	informācija	N-fsa---------n-----------l-	17	390	17	400	O
+skatiet	V	skatīt	V--p--2--m----------------l-	17	402	17	408	O
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	17	410	17	415	O
+DSL	-	DSL	----------------------------	17	417	17	419	B-TERM
+vai	C	vai	C---------------------c---l-	17	421	17	423	O
+kabeļsavienojuma	N	kabeļsavienojums	N-msg---------n-----------l-	17	425	17	440	B-TERM
+iestatīšana	N	iestatīšana	N-fsn---------n-----------l-	17	442	17	452	I-TERM
+.	SENT	.	T--------------------------.	17	454	17	454	O
+
+
+Bezvadu	N	bezvadu	N-mpg---------n-----------f-	18	0	18	6	B-TERM
+maršrutētāja	N	maršrutētāja	N-fsn---------n-----------l-	18	8	18	19	I-TERM
+novietošana	N	novietošana	N-fsn---------n-----------l-	18	21	18	31	O
+
+
+Bezvadu	N	bezvadu	N-mpg---------n-----------f-	19	0	19	6	B-TERM
+maršrutētāju	N	maršrutētājs	N-msa---------n-----------l-	19	8	19	19	I-TERM
+ieteicams	G	ieteicams	Gpmsnp-n---p--------------l-	19	21	19	29	O
+novietot	V	novietot	V--------n----------------l-	19	31	19	38	O
+vietā	N	vieta	N-fsl---------n-----------l-	19	40	19	44	O
+,	T	,	T--------------------------,	19	45	19	45	O
+kur	R	kur	R----p----------------f---l-	19	47	19	49	O
+tiek	V	tikt	Vp----3--i----------6-----l-	19	51	19	54	O
+saņemts	G	saņemts	Gsmsnp-n---p--------------l-	19	56	19	62	O
+visspēcīgākais	A	spēcīgs	A-msvs-y------------------l-	19	64	19	77	O
+signāls	N	signāls	N-msn---------n-----------l-	19	79	19	85	B-TERM
+ar	S	ar	S----------------pdp------l-	19	87	19	88	O
+minimāliem	A	minimāls	A-mpdp-n------------------l-	19	90	19	99	B-TERM
+traucējumiem	N	traucējums	N-mpd---------n-----------l-	19	101	19	112	I-TERM
+.	SENT	.	T--------------------------.	19	113	19	113	O
+
+Lai	C	lai	C---------------------k---f-	19	115	19	117	O
+iegūtu	V	iegūt	Vp-------s----------------l-	19	119	19	124	O
+vislabākos	A	labs	A-mpas-y------------------l-	19	126	19	135	O
+rezultātus	N	rezultāts	N-mpa---------n-----------l-	19	137	19	146	O
+,	T	,	T--------------------------,	19	147	19	147	O
+rīkojieties	V	rīkoties	V--p--2--m-----y----------l-	19	149	19	159	O
+šādi	R	šādi	R----p--------------------l-	19	161	19	164	O
+:	T	:	T--------------------------:	19	165	19	165	O
+
+
+Novietojiet	V	novietot	V--p--2--m----------------f-	20	0	20	10	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	20	12	20	18	B-TERM
+maršrutētāju	N	maršrutētājs	N-msa---------n-----------l-	20	20	20	31	I-TERM
+centrālā	A	centrāls	A-fslp-n------------------l-	20	33	20	40	O
+vietā	N	vieta	N-fsl---------n-----------l-	20	42	20	46	O
+.	SENT	.	T--------------------------.	20	47	20	47	O
+
+Lai	C	lai	C---------------------k---f-	20	49	20	51	O
+pastiprinātu	V	pastiprināt	Vp-------s----------------l-	20	53	20	64	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	20	66	20	72	B-TERM
+signāla	N	signāls	N-msg---------n-----------l-	20	74	20	80	I-TERM
+stiprumu	N	stiprums	N-msa---------n-----------l-	20	82	20	89	I-TERM
+visā	P	viss	P-fsl-------g-------------l-	20	91	20	94	O
+mājā	N	māja	N-fsl---------n-----------l-	20	96	20	99	O
+,	T	,	T--------------------------,	20	100	20	100	O
+novietojiet	V	novietot	V--p--2--m----------------l-	20	102	20	112	O
+maršrutētāju	N	maršrutētāja	N-fsa---------n-----------l-	20	114	20	125	B-TERM
+pēc	S	pēc	S----------------sgt------l-	20	127	20	129	O
+iespējas	N	iespēja	N-fsg---------n-----------l-	20	131	20	138	O
+tuvāk	R	tuvu	R----c--------------------l-	20	140	20	144	O
+mājas	N	māja	N-fsg---------n-----------l-	20	146	20	150	O
+vidusdaļai	N	vidusdaļa	N-fsd---------n-----------l-	20	152	20	161	O
+.	SENT	.	T--------------------------.	20	162	20	162	O
+
+
+Nenovietojiet	V	nenovietot	V--p--2--m------y---------f-	21	0	21	12	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	21	14	21	20	B-TERM
+maršrutētāju	N	maršrutētāja	N-fsa---------n-----------l-	21	22	21	33	I-TERM
+uz	S	uz	S----------------sgp------l-	21	35	21	36	O
+grīdas	N	grīda	N-fsg---------n-----------l-	21	38	21	43	O
+,	T	,	T--------------------------,	21	44	21	44	O
+netuviniet	V	netuvināt	V--p--2--m------y---------l-	21	46	21	55	O
+to	P	tas	P-mpg-------d-------------l-	21	57	21	58	O
+sienām	N	siena	N-fpd---------n-----------l-	21	60	21	65	O
+un	C	un	C---------------------c---l-	21	67	21	68	O
+metāla	N	metāls	N-msg---------n-----------l-	21	70	21	75	O
+priekšmetiem	N	priekšmets	N-mpd---------n-----------l-	21	77	21	88	O
+,	T	,	T--------------------------,	21	89	21	89	O
+piemēram	R	piemēram	R----p--------------------l-	21	91	21	98	O
+,	T	,	T--------------------------,	21	99	21	99	O
+metāla	N	metāls	N-msg---------n-----------l-	21	101	21	106	O
+dokumentu	N	dokuments	N-mpg---------n-----------l-	21	108	21	116	O
+skapjiem	N	skapis	N-mpd---------n-----------l-	21	118	21	125	O
+.	SENT	.	T--------------------------.	21	126	21	126	O
+
+Jo	C	jo	C---------------------r---f-	21	128	21	129	O
+mazāk	R	maz	R----c---------------g----l-	21	131	21	135	O
+fizisku	A	fizisks	A-msap-n------------------l-	21	137	21	143	O
+šķēršļu	N	šķērslis	N-mpg---------n-----------l-	21	145	21	151	O
+būs	V	būt	Vf----3--i----------1-----l-	21	153	21	155	O
+starp	S	starp	S----------------sap------l-	21	157	21	161	O
+datoru	N	dators	N-msa---------n-----------l-	21	163	21	168	B-TERM
+un	C	un	C---------------------c---l-	21	170	21	171	O
+maršrutētāja	N	maršrutētājs	N-msg---------n-----------l-	21	173	21	184	B-TERM
+signālu	N	signāls	N-msa---------n-----------l-	21	186	21	192	I-TERM
+,	T	,	T--------------------------,	21	193	21	193	O
+jo	C	jo	C---------------------r---l-	21	195	21	196	O
+lielāka	A	liels	A-fsnc-n------------------l-	21	198	21	204	O
+iespēja	N	iespēja	N-fsn---------n-----------l-	21	206	21	212	O
+,	T	,	T--------------------------,	21	213	21	213	O
+ka	C	ka	C---------------------p---l-	21	215	21	216	O
+varēsit	V	varēt	Vf-p--2--i----------3-----l-	21	218	21	224	O
+izmantot	V	izmantot	V--------n----------------l-	21	226	21	233	O
+maksimālu	A	maksimāls	A-mpgp-n------------------l-	21	235	21	243	O
+maršrutētāja	N	maršrutētājs	N-msg---------n-----------l-	21	245	21	256	B-TERM
+signāla	N	signāls	N-msg---------n-----------l-	21	258	21	264	I-TERM
+stiprumu	N	stiprums	N-msa---------n-----------l-	21	266	21	273	I-TERM
+.	SENT	.	T--------------------------.	21	274	21	274	O
+
+
+Samaziniet	V	samazināt	V--p--2--m----------------f-	22	0	22	9	O
+traucējumus	N	traucējums	N-mpa---------n-----------l-	22	11	22	21	B-TERM
+.	SENT	.	T--------------------------.	22	22	22	22	O
+
+802.11	D	802.11	D--s------------------------	22	24	22	29	O
+g	Y	g	Y-------------------------l-	22	30	22	30	O
+tīklošanas	N	tīklošana	N-fsg---------n-----------l-	22	32	22	41	B-TERM
+aprīkojumam	N	aprīkojums	N-msd---------n-----------l-	22	43	22	53	I-TERM
+tiek	V	tikt	Vp----3--i----------6-----l-	22	55	22	58	O
+izmantota	G	izmantots	Gsfsnp-n---p--------------l-	22	60	22	68	O
+2,4	D	2,4	D--p------------------------	22	70	22	72	O
+gigahercu	-	gigahercu	----------------------------	22	74	22	82	B-TERM
+(	T	(	T--------------------------(	22	84	22	84	O
+GHz	Y	GHz	Y-------------------------u-	22	85	22	87	B-TERM
+)	T	)	T--------------------------)	22	88	22	88	O
+radiofrekvence	N	radiofrekvence	N-fsn---------n-----------l-	22	90	22	103	B-TERM
+.	SENT	.	T--------------------------.	22	104	22	104	O
+
+Šī	P	šis	P-fsn-------d-------------f-	22	106	22	107	O
+frekvence	N	frekvence	N-fsn---------n-----------l-	22	109	22	117	B-TERM
+tiek	V	tikt	Vp----3--i----------6-----l-	22	119	22	122	O
+izmantota	G	izmantots	Gsfsnp-n---p--------------l-	22	124	22	132	O
+arī	Q	arī	Q-------------------------l-	22	134	22	136	O
+lielākajā	A	liels	A-fslc-y------------------l-	22	138	22	146	O
+daļā	N	daļa	N-fsl---------n-----------l-	22	148	22	151	O
+mikroviļņu	N	mikroviļņu	N-mpg---------n-----------l-	22	153	22	162	O
+krāšņu	A	krāšņs	A-msap-n------------------l-	22	164	22	169	O
+un	C	un	C---------------------c---l-	22	171	22	172	O
+daudzos	M	daudzi	M-mpl---c-----------------l-	22	174	22	180	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	22	182	22	188	B-TERM
+tālruņos	N	tālrunis	N-mpl---------n-----------l-	22	190	22	197	I-TERM
+.	SENT	.	T--------------------------.	22	198	22	198	O
+
+Kad	R	kad	R----p----------------o---f-	22	200	22	202	O
+tiek	V	tikt	Vp----3--i----------6-----l-	22	204	22	207	O
+ieslēgta	G	ieslēgts	Gsfsnp-n---p--------------l-	22	209	22	216	O
+mikroviļņu	N	mikroviļņu	N-mpg---------n-----------l-	22	218	22	227	O
+krāsns	N	krāsns	N-fsn---------n-----------l-	22	229	22	234	O
+vai	C	vai	C---------------------c---l-	22	236	22	238	O
+saņemts	G	saņemts	Gsmsnp-n---p--------------l-	22	240	22	246	O
+zvans	N	zvans	N-msn---------n-----------l-	22	248	22	252	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	22	254	22	260	B-TERM
+tālrunī	N	tālrunis	N-msl---------n-----------l-	22	262	22	268	I-TERM
+,	T	,	T--------------------------,	22	269	22	269	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	22	271	22	277	B-TERM
+signāls	N	signāls	N-msn---------n-----------l-	22	279	22	285	I-TERM
+var	V	varēt	Vp----3--i----------3-----l-	22	287	22	289	O
+tikt	V	tikt	V--------n----------6-----l-	22	291	22	294	O
+īslaicīgi	R	īslaicīgi	R----p--------------------l-	22	296	22	304	O
+pārtraukts	G	pārtraukts	Gsmsnp-n---p--------------l-	22	306	22	315	O
+.	SENT	.	T--------------------------.	22	316	22	316	O
+
+Lai	C	lai	C---------------------k---f-	22	318	22	320	O
+izvairītos	V	izvairīties	Vp-------s-----y----------l-	22	322	22	331	O
+no	S	no	S----------------pdp------l-	22	333	22	334	O
+šiem	P	šis	P-mpd-------d-------------l-	22	336	22	339	O
+traucējumiem	N	traucējums	N-mpd---------n-----------l-	22	341	22	352	B-TERM
+,	T	,	T--------------------------,	22	353	22	353	O
+izmantojiet	V	izmantot	V--p--2--m----------------l-	22	355	22	365	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	22	367	22	373	B-TERM
+tālruni	N	tālrunis	N-msa---------n-----------l-	22	375	22	381	I-TERM
+ar	S	ar	S----------------sap------l-	22	383	22	384	O
+lielāku	A	liels	A-fsac-n------------------l-	22	386	22	392	O
+frekvenci	N	frekvence	N-fsa---------n-----------l-	22	394	22	402	B-TERM
+,	T	,	T--------------------------,	22	403	22	403	O
+piemēram	R	piemēram	R----p--------------------l-	22	405	22	412	O
+,	T	,	T--------------------------,	22	413	22	413	O
+5,8	D	5,8	D--p------------------------	22	415	22	417	O
+ GHz	-	 GHz	----------------------------	22	418	22	421	O
+.	SENT	.	T--------------------------.	22	422	22	422	O
+
+
+Bezvadu	N	bezvadu	N-mpg---------n-----------f-	23	0	23	6	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	23	8	23	12	I-TERM
+aizsardzība	N	aizsardzība	N-fsn---------n-----------l-	23	14	23	24	I-TERM
+
+
+Drošība	N	drošība	N-fsn---------n-----------f-	24	0	24	6	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	24	8	24	9	O
+svarīga	A	svarīgs	A-fsnp-n------------------l-	24	11	24	17	O
+vienmēr	R	vienmēr	R----p--------------------l-	24	19	24	25	O
+,	T	,	T--------------------------,	24	26	24	26	O
+tomēr	C	tomēr	C-------------------------l-	24	28	24	32	O
+,	T	,	T--------------------------,	24	33	24	33	O
+izmantojot	G	izmantojot	G----------a-n------------l-	24	35	24	44	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	24	46	24	52	B-TERM
+tīklu	N	tīkls	N-msa---------n-----------l-	24	54	24	58	I-TERM
+,	T	,	T--------------------------,	24	59	24	59	O
+tā	P	tas	P-fsn-------d-------------l-	24	61	24	62	O
+ir	V	būt	Vp----3--i----------7-----l-	24	64	24	65	O
+vēl	Q	vēl	Q-------------------------l-	24	67	24	69	O
+svarīgāka	A	svarīgs	A-fsnc-n------------------l-	24	71	24	79	O
+,	T	,	T--------------------------,	24	80	24	80	O
+jo	C	jo	C---------------------r---l-	24	82	24	83	O
+tīkla	N	tīkls	N-msg---------n-----------l-	24	85	24	89	B-TERM
+signāls	N	signāls	N-msn---------n-----------l-	24	91	24	97	I-TERM
+var	V	varēt	Vp----3--i----------3-----l-	24	99	24	101	O
+izkļūt	V	izkļūt	V--------n----------------l-	24	103	24	108	O
+ārpus	S	ārpus	S----------------sgp------l-	24	110	24	114	O
+mājas	N	māja	N-fsg---------n-----------l-	24	116	24	120	O
+robežām	N	robeža	N-fpd---------n-----------l-	24	122	24	128	O
+.	SENT	.	T--------------------------.	24	129	24	129	O
+
+Ja	C	ja	C---------------------f---f-	24	131	24	132	O
+nerūpējaties	V	nerūpēties	Vp-p--2--i-----yy---------l-	24	134	24	145	O
+par	S	par	S----------------sap------l-	24	147	24	149	O
+sava	P	savs	P-msg-------s-------------l-	24	151	24	154	O
+tīkla	N	tīkls	N-msg---------n-----------l-	24	156	24	160	B-TERM
+drošību	N	drošība	N-fsa---------n-----------l-	24	162	24	168	I-TERM
+,	T	,	T--------------------------,	24	169	24	169	O
+datora	N	dators	N-msg---------n-----------l-	24	171	24	176	B-TERM
+lietotāji	N	lietotājs	N-mpn---------n-----------l-	24	178	24	186	I-TERM
+,	T	,	T--------------------------,	24	187	24	187	O
+kas	P	kas	P---n-------r---------x---l-	24	189	24	191	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	24	193	24	199	O
+netālu	R	netālu	R----p--------------------l-	24	201	24	206	O
+no	S	no	S----------------sgp------l-	24	208	24	209	O
+jums	P	jūs	P--pd-2-----p-------------l-	24	211	24	214	O
+,	T	,	T--------------------------,	24	215	24	215	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	24	217	24	225	O
+,	T	,	T--------------------------,	24	226	24	226	O
+var	V	varēt	Vp----3--i----------3-----l-	24	228	24	230	O
+piekļūt	V	piekļūt	V--------n----------------l-	24	232	24	238	O
+informācijai	N	informācija	N-fsd---------n-----------l-	24	240	24	251	B-TERM
+,	T	,	T--------------------------,	24	252	24	252	O
+kas	P	kas	P---n-------r---------x---l-	24	254	24	256	O
+saglabāta	G	saglabāts	Gsmsgp-n---p--------------l-	24	258	24	266	O
+tīkla	N	tīkls	N-msg---------n-----------l-	24	268	24	272	B-TERM
+datoros	N	dators	N-mpl---------n-----------l-	24	274	24	280	I-TERM
+,	T	,	T--------------------------,	24	281	24	281	O
+un	C	un	C---------------------c---l-	24	283	24	284	O
+lietot	V	lietot	V--------n----------------l-	24	286	24	291	O
+jūsu	P	jūs	P--pg-2-----p-------------l-	24	293	24	296	O
+interneta	N	internets	N-msg---------n-----------l-	24	298	24	306	B-TERM
+savienojumu	N	savienojums	N-msa---------n-----------l-	24	308	24	318	I-TERM
+,	T	,	T--------------------------,	24	319	24	319	O
+lai	C	lai	C---------------------f---l-	24	321	24	323	O
+piekļūtu	V	piekļūt	Vp-------s----------------l-	24	325	24	332	O
+tīmeklim	N	tīmeklis	N-msd---------n-----------l-	24	334	24	341	B-TERM
+.	SENT	.	T--------------------------.	24	342	24	342	O
+
+Lai	C	lai	C---------------------k---f-	24	344	24	346	O
+garantētu	V	garantēt	Vp-------s----------------l-	24	348	24	356	O
+tīkla	N	tīkls	N-msg---------n-----------l-	24	358	24	362	B-TERM
+drošību	N	drošība	N-fsa---------n-----------l-	24	364	24	370	I-TERM
+,	T	,	T--------------------------,	24	371	24	371	O
+rīkojieties	V	rīkoties	V--p--2--m-----y----------l-	24	373	24	383	O
+šādi	R	šādi	R----p--------------------l-	24	385	24	388	O
+:	T	:	T--------------------------:	24	389	24	389	O
+
+
+Aizsargājiet	V	aizsargāt	V--p--2--m----------------f-	25	0	25	11	O
+maršrutētāju	N	maršrutētājs	N-msa---------n-----------l-	25	13	25	24	B-TERM
+,	T	,	T--------------------------,	25	25	25	25	O
+mainot	G	mainot	G----------a-n------------l-	25	27	25	32	O
+noklusējuma	N	noklusējums	N-msg---------n-----------l-	25	34	25	44	B-TERM
+lietotājvārdu	N	lietotājvārds	N-msa---------n-----------l-	25	46	25	58	I-TERM
+un	C	un	C---------------------c---l-	25	60	25	61	O
+paroli	N	parole	N-fsa---------n-----------l-	25	63	25	68	B-TERM
+.	SENT	.	T--------------------------.	25	69	25	69	O
+
+Lielākā	A	liels	A-fsnc-y------------------f-	25	71	25	77	O
+daļa	N	daļa	N-fsn---------n-----------l-	25	79	25	82	O
+ražotāju	N	ražotājs	N-mpg---------n-----------l-	25	84	25	91	O
+maršrutētājiem	N	maršrutētājs	N-mpd---------n-----------l-	25	93	25	106	B-TERM
+piešķir	V	piešķirt	Vp----3--i----------------l-	25	108	25	114	O
+noklusējuma	N	noklusējums	N-msg---------n-----------l-	25	116	25	126	B-TERM
+lietotājvārdu	N	lietotājvārds	N-msa---------n-----------l-	25	128	25	140	I-TERM
+un	C	un	C---------------------c---l-	25	142	25	143	O
+paroli	N	parole	N-fsa---------n-----------l-	25	145	25	150	B-TERM
+,	T	,	T--------------------------,	25	151	25	151	O
+kā arī	C	kā_arī	C---------------------c---l-	25	153	25	158	O
+noklusējuma	N	noklusējums	N-msg---------n-----------l-	25	160	25	170	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	25	172	25	176	I-TERM
+nosaukumu	N	nosaukums	N-msa---------n-----------l-	25	178	25	186	I-TERM
+.	SENT	.	T--------------------------.	25	187	25	187	O
+
+Kāds	P	kāds	P-msn-------r---------p---f-	25	189	25	192	O
+var	V	varēt	Vp----3--i----------3-----l-	25	194	25	196	O
+izmantot	V	izmantot	V--------n----------------l-	25	198	25	205	O
+šo	P	šis	P-fsa-------d-------------l-	25	207	25	208	O
+informāciju	N	informācija	N-fsa---------n-----------l-	25	210	25	220	B-TERM
+,	T	,	T--------------------------,	25	221	25	221	O
+lai	C	lai	C---------------------f---l-	25	223	25	225	O
+piekļūtu	V	piekļūt	Vp-------s----------------l-	25	227	25	234	O
+maršrutētājam	N	maršrutētājs	N-msd---------n-----------l-	25	236	25	248	B-TERM
+bez	S	bez	S----------------sgp------l-	25	250	25	252	O
+jūsu	P	jūs	P--pg-2-----p-------------l-	25	254	25	257	O
+ziņas	N	ziņa	N-fsg---------n-----------l-	25	259	25	263	O
+.	SENT	.	T--------------------------.	25	264	25	264	O
+
+Lai	C	lai	C---------------------k---f-	25	266	25	268	O
+novērstu	V	novērst	Vp-------s----------------l-	25	270	25	277	O
+šādu	P	šāds	P-fsa-------d-------------l-	25	279	25	282	O
+iespēju	N	iespēja	N-fsa---------n-----------l-	25	284	25	290	O
+,	T	,	T--------------------------,	25	291	25	291	O
+mainiet	V	mainīt	V--p--2--m----------------l-	25	293	25	299	O
+maršrutētāja	N	maršrutētājs	N-msg---------n-----------l-	25	301	25	312	B-TERM
+noklusējuma	N	noklusējums	N-msg---------n-----------l-	25	314	25	324	B-TERM
+lietotājvārdu	N	lietotājvārds	N-msa---------n-----------l-	25	326	25	338	I-TERM
+un	C	un	C---------------------c---l-	25	340	25	341	O
+paroli	N	parole	N-fsa---------n-----------l-	25	343	25	348	B-TERM
+.	SENT	.	T--------------------------.	25	349	25	349	O
+
+Skatiet	V	skatīt	V--p--2--m----------------f-	25	351	25	357	O
+ierīces	N	ierīce	N-fsg---------n-----------l-	25	359	25	365	B-TERM
+instrukcijās	N	instrukcija	N-fpl---------n-----------l-	25	367	25	378	I-TERM
+sniegto	G	sniegts	Gsfsap-y---p--------------l-	25	380	25	386	O
+informāciju	N	informācija	N-fsa---------n-----------l-	25	388	25	398	O
+.	SENT	.	T--------------------------.	25	399	25	399	O
+
+
+Iestatiet	V	iestatīt	V--p--2--m----------------f-	26	0	26	8	O
+tīkla	N	tīkls	N-msg---------n-----------l-	26	10	26	14	B-TERM
+drošības	N	drošība	N-fsg---------n-----------l-	26	16	26	23	I-TERM
+atslēgu	N	atslēga	N-fsa---------n-----------l-	26	25	26	31	I-TERM
+.	SENT	.	T--------------------------.	26	32	26	32	O
+
+Tāpat	R	tāpat	R----p--------------------f-	26	34	26	38	O
+kā	C	kā	C---------------------f---l-	26	40	26	41	O
+dokumentu	N	dokuments	N-mpg---------n-----------l-	26	43	26	51	O
+skapjiem	N	skapis	N-mpd---------n-----------l-	26	53	26	60	O
+ir	V	būt	Vp----3--i----------7-----l-	26	62	26	63	O
+atslēgas	N	atslēga	N-fsg---------n-----------l-	26	65	26	72	O
+un	C	un	C---------------------c---l-	26	74	26	75	O
+seifiem	N	seifs	N-mpd---------n-----------l-	26	77	26	83	O
+ir	V	būt	Vp----3--i----------7-----l-	26	85	26	86	O
+drošības	N	drošība	N-fsg---------n-----------l-	26	88	26	95	O
+kombinācijas	N	kombinācija	N-fpa---------n-----------l-	26	97	26	108	O
+,	T	,	T--------------------------,	26	109	26	109	O
+arī	C	arī	C-------------------------l-	26	111	26	113	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	26	115	26	121	B-TERM
+tīkliem	N	tīkls	N-mpd---------n-----------l-	26	123	26	129	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	26	131	26	132	O
+tīkla	N	tīkls	N-msg---------n-----------l-	26	134	26	138	B-TERM
+drošības	N	drošība	N-fsg---------n-----------l-	26	140	26	147	I-TERM
+atslēga	N	atslēga	N-fsn---------n-----------l-	26	149	26	155	I-TERM
+,	T	,	T--------------------------,	26	156	26	156	O
+lai	C	lai	C---------------------f---l-	26	158	26	160	O
+palīdzētu	V	palīdzēt	Vp-------s----------9-----l-	26	162	26	170	O
+tos	P	tas	P-mpa-------d-------------l-	26	172	26	174	O
+aizsargāt	V	aizsargāt	V--------n----------------l-	26	176	26	184	O
+pret	S	pret	S----------------sap------l-	26	186	26	189	O
+nesankcionētu	G	nesankcionēts	Gsfsap-n---p----y---------l-	26	191	26	203	B-TERM
+piekļuvi	N	piekļuve	N-fsa---------n-----------l-	26	205	26	212	I-TERM
+.	SENT	.	T--------------------------.	26	213	26	213	O
+
+Lai	C	lai	C---------------------k---f-	26	215	26	217	O
+iestatītu	V	iestatīt	Vp-------s----------------l-	26	219	26	227	O
+tīkla	N	tīkls	N-msg---------n-----------l-	26	229	26	233	B-TERM
+drošības	N	drošība	N-fsg---------n-----------l-	26	235	26	242	I-TERM
+atslēgu	N	atslēga	N-fsa---------n-----------l-	26	244	26	250	I-TERM
+,	T	,	T--------------------------,	26	251	26	251	O
+rīkojieties	V	rīkoties	V--p--2--m-----y----------l-	26	253	26	263	O
+šādi	R	šādi	R----p--------------------l-	26	265	26	268	O
+:	T	:	T--------------------------:	26	269	26	269	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	27	0	27	7	O
+tīkla	N	tīkls	N-msg---------n-----------l-	27	9	27	13	B-TERM
+un	C	un	C---------------------c---l-	27	15	27	16	O
+koplietošanas	N	koplietošana	N-fsg---------n-----------l-	27	18	27	30	B-TERM
+centru	N	centrs	N-msa---------n-----------l-	27	32	27	37	I-TERM
+,	T	,	T--------------------------,	27	38	27	38	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	27	40	27	51	O
+uz	S	uz	S----------------sgp------l-	27	53	27	54	O
+pogas	N	poga	N-fsg---------n-----------l-	27	56	27	60	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	27	62	27	65	O
+
+
+,	T	,	T--------------------------,	28	0	28	0	O
+pēc tam	-	pēc_tam	----------------------------	28	2	28	8	O
+uz	S	uz	S----------------sgp------l-	28	10	28	11	O
+Vadības	N	vadība	N-fsg---------n-----------f-	28	13	28	19	B-TERM
+panelis	N	panelis	N-msn---------n-----------l-	28	21	28	27	I-TERM
+,	T	,	T--------------------------,	28	28	28	28	O
+uz	S	uz	S----------------sgp------l-	28	30	28	31	O
+Tīkls	N	tīkls	N-msn---------n-----------f-	28	33	28	37	B-TERM
+un	C	un	C---------------------c---l-	28	39	28	40	O
+internets	N	internets	N-msn---------n-----------l-	28	42	28	50	B-TERM
+un	C	un	C---------------------c---l-	28	52	28	53	O
+uz	S	uz	S----------------sap------l-	28	55	28	56	O
+Tīkla	N	tīkls	N-msg---------n-----------f-	28	58	28	62	B-TERM
+un	C	un	C---------------------c---l-	28	64	28	65	O
+koplietošanas	N	koplietošana	N-fsg---------n-----------l-	28	67	28	79	B-TERM
+centrs	N	centrs	N-msn---------n-----------l-	28	81	28	86	I-TERM
+.	SENT	.	T--------------------------.	28	87	28	87	O
+
+
+Kreisajā	A	kreiss	A-fslp-y------------------f-	29	0	29	7	O
+rūtī	N	rūts	N-fsl---------n-----------l-	29	9	29	12	B-TERM
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	29	14	29	26	O
+uz	S	uz	S----------------sap------l-	29	28	29	29	O
+Iestatīt	V	iestatīt	V--------n----------------f-	29	31	29	38	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	29	40	29	50	B-TERM
+vai	C	vai	C---------------------c---l-	29	52	29	54	O
+tīklu	N	tīkls	N-msa---------n-----------l-	29	56	29	60	B-TERM
+.	SENT	.	T--------------------------.	29	61	29	61	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	30	0	30	12	O
+uz	S	uz	S----------------sap------l-	30	14	30	15	O
+Iestatīt	V	iestatīt	V--------n----------------f-	30	17	30	24	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	30	26	30	32	B-TERM
+maršrutētāju	N	maršrutētājs	N-msa---------n-----------l-	30	34	30	45	I-TERM
+vai	C	vai	C---------------------c---l-	30	47	30	49	O
+piekļuves	N	piekļuve	N-fsg---------n-----------l-	30	51	30	59	B-TERM
+punktu	N	punkts	N-msa---------n-----------l-	30	61	30	66	I-TERM
+un	C	un	C---------------------c---l-	30	68	30	69	O
+pēc tam	-	pēc_tam	----------------------------	30	71	30	77	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	30	79	30	91	O
+uz	S	uz	S----------------sap------l-	30	93	30	94	O
+Tālāk	R	tālu	R----c--------------------f-	30	96	30	100	O
+.	SENT	.	T--------------------------.	30	101	30	101	O
+
+
+Vednis	N	vednis	N-msn---------n-----------f-	31	0	31	5	B-TERM
+palīdzēs	V	palīdzēt	Vf----3--i----------------l-	31	7	31	14	O
+izveidot	V	izveidot	V--------n----------------l-	31	16	31	23	O
+tīkla	N	tīkls	N-msg---------n-----------l-	31	25	31	29	B-TERM
+nosaukumu	N	nosaukums	N-msa---------n-----------l-	31	31	31	39	I-TERM
+un	C	un	C---------------------c---l-	31	41	31	42	O
+drošības	N	drošība	N-fsg---------n-----------l-	31	44	31	51	B-TERM
+atslēgu	N	atslēga	N-fsa---------n-----------l-	31	53	31	59	I-TERM
+.	SENT	.	T--------------------------.	31	60	31	60	O
+
+Ja	C	ja	C---------------------f---f-	31	62	31	63	O
+maršrutētājs	N	maršrutētājs	N-msn---------n-----------l-	31	65	31	76	B-TERM
+to	P	tas	P-msa-------d-------------l-	31	78	31	79	O
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	31	81	31	89	O
+,	T	,	T--------------------------,	31	90	31	90	O
+vednis	N	vednis	N-msn---------n-----------l-	31	92	31	97	B-TERM
+izveidos	V	izveidot	Vf----3--i----------------l-	31	99	31	106	O
+noklusējuma	N	noklusējums	N-msg---------n-----------l-	31	108	31	118	B-TERM
+Wi-Fi	-	Wi-Fi	----------------------------	31	120	31	124	B-TERM
+aizsargātās	G	aizsargāts	Gsfpnp-y---p--------------l-	31	126	31	136	I-TERM
+piekļuves	N	piekļuve	N-fsg---------n-----------l-	31	138	31	146	I-TERM
+(	T	(	T--------------------------(	31	148	31	148	O
+Wi–Fi	-	Wi–Fi	----------------------------	31	149	31	153	O
+Protected	-	Protected	----------------------------	31	155	31	163	O
+Access	N	Access	N-fsn---------n-----------f-	31	165	31	170	O
+—	T	—	T--------------------------—	31	172	31	172	O
+WPA	-	WPA	----------------------------	31	174	31	176	B-TERM
+)	T	)	T--------------------------)	31	177	31	177	O
+drošību	N	drošība	N-fsa---------n-----------l-	31	179	31	185	B-TERM
+.	SENT	.	T--------------------------.	31	186	31	186	O
+
+Ieteicams	G	ieteicams	Gpmsnp-n---p--------------f-	31	188	31	196	O
+izmantot	V	izmantot	V--------n----------------l-	31	198	31	205	O
+WPA	-	WPA	----------------------------	31	207	31	209	B-TERM
+,	T	,	T--------------------------,	31	210	31	210	O
+jo	C	jo	C---------------------r---l-	31	212	31	213	O
+tā	P	tas	P-fsn-------d-------------l-	31	215	31	216	O
+sniedz	V	sniegt	Vp----3--i----------------l-	31	218	31	223	O
+lielāku	A	liels	A-fsac-n------------------l-	31	225	31	231	O
+drošību	N	drošība	N-fsa---------n-----------l-	31	233	31	239	B-TERM
+nekā	C	nekā	C---------------------w---l-	31	241	31	244	O
+tradicionālā	A	tradicionāls	A-fsnp-y------------------l-	31	246	31	257	O
+vadu	N	vads	N-mpg---------n-----------l-	31	259	31	262	B-TERM
+ekvivalentā	A	ekvivalents	A-msgp-y------------------l-	31	264	31	274	I-TERM
+privātuma	N	privātums	N-msg---------n-----------l-	31	276	31	284	I-TERM
+(	T	(	T--------------------------(	31	286	31	286	O
+Wired	-	Wired	----------------------------	31	287	31	291	O
+Equivalent	-	Equivalent	----------------------------	31	293	31	302	O
+Privacy	-	Privacy	----------------------------	31	304	31	310	O
+—	T	—	T--------------------------—	31	312	31	312	O
+WEP	-	WEP	----------------------------	31	314	31	316	B-TERM
+)	T	)	T--------------------------)	31	317	31	317	O
+drošība	N	drošība	N-fsn---------n-----------l-	31	319	31	325	O
+.	SENT	.	T--------------------------.	31	326	31	326	O
+
+WPA	-	WPA	----------------------------	31	328	31	330	B-TERM
+ļauj	V	ļaut	Vp----3--i----------3-----l-	31	332	31	335	O
+izmantot	V	izmantot	V--------n----------------l-	31	337	31	344	O
+arī	Q	arī	Q-------------------------l-	31	346	31	348	O
+ieejas	N	ieeja	N-fsg---------n-----------l-	31	350	31	355	B-TERM
+frāzi	N	frāze	N-fsa---------n-----------l-	31	357	31	361	I-TERM
+,	T	,	T--------------------------,	31	362	31	362	O
+tādējādi	R	tādējādi	R----p--------------------l-	31	364	31	371	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	31	373	31	375	O
+jāatceras	V	atcerēties	Vp-------c-----y----------l-	31	377	31	385	O
+slepenā	A	slepens	A-mslp-n------------------l-	31	387	31	393	O
+burtu	N	burts	N-mpg---------n-----------l-	31	395	31	399	O
+un	C	un	C---------------------c---l-	31	401	31	402	O
+skaitļu	N	skaitlis	N-mpg---------n-----------l-	31	404	31	410	O
+secība	N	secība	N-fsn---------n-----------l-	31	412	31	417	O
+.	SENT	.	T--------------------------.	31	418	31	418	O
+
+Plašāku	A	plašs	A-fsac-n------------------f-	31	420	31	426	O
+informāciju	N	informācija	N-fsa---------n-----------l-	31	428	31	438	O
+skatiet	V	skatīt	V--p--2--m----------------l-	31	440	31	446	O
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	31	448	31	453	O
+Kādas	P	kāds	P-fsg-------r---------o---f-	31	455	31	459	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	31	461	31	467	B-TERM
+tīkla	N	tīkls	N-msg---------n-----------l-	31	469	31	473	I-TERM
+drošības	N	drošība	N-fsg---------n-----------l-	31	475	31	482	I-TERM
+metodes	N	metode	N-fpn---------n-----------l-	31	484	31	490	O
+ir	V	būt	Vp----3--i----------7-----l-	31	492	31	493	O
+pieejamas	G	pieejams	Gpfpnp-n---p--------------l-	31	495	31	503	O
+?	SENT	?	T--------------------------?	31	504	31	504	O
+
+
+Tīkla	N	tīkls	N-msg---------n-----------f-	32	0	32	4	B-TERM
+drošības	N	drošība	N-fsg---------n-----------l-	32	6	32	13	I-TERM
+atslēgas	N	atslēga	N-fsg---------n-----------l-	32	15	32	22	I-TERM
+izveide	N	izveide	N-fsn---------n-----------l-	32	24	32	30	O
+,	T	,	T--------------------------,	32	31	32	31	O
+ievadot	G	ievadot	G----------a-n------------l-	32	33	32	39	O
+ieejas	N	ieeja	N-fsg---------n-----------l-	32	41	32	46	B-TERM
+frāzi	N	frāze	N-fsa---------n-----------l-	32	48	32	52	I-TERM
+
+
+Pierakstiet	V	pierakstīt	V--p--2--m----------------f-	33	0	33	10	O
+drošības	N	drošība	N-fsg---------n-----------l-	33	12	33	19	B-TERM
+atslēgu	N	atslēga	N-fsa---------n-----------l-	33	21	33	27	I-TERM
+un	C	un	C---------------------c---l-	33	29	33	30	O
+saglabājiet	V	saglabāt	V--p--2--m----------------l-	33	32	33	42	O
+to	P	tas	P-fsa-------d-------------l-	33	44	33	45	O
+drošā	A	drošs	A-fslp-n------------------l-	33	47	33	51	O
+vietā	N	vieta	N-fsl---------n-----------l-	33	53	33	57	O
+.	SENT	.	T--------------------------.	33	58	33	58	O
+
+Ja	C	ja	C---------------------f---f-	33	60	33	61	O
+jums	P	jūs	P--pd-2-----p-------------l-	33	63	33	66	O
+ir	V	būt	Vp----3--i----------7-----l-	33	68	33	69	O
+USB	-	USB	----------------------------	33	71	33	73	B-TERM
+zibatmiņa	N	zibatmiņa	N-fsn---------n-----------l-	33	75	33	83	I-TERM
+,	T	,	T--------------------------,	33	84	33	84	O
+drošības	N	drošība	N-fsg---------n-----------l-	33	86	33	93	B-TERM
+atslēgu	N	atslēga	N-fsa---------n-----------l-	33	95	33	101	I-TERM
+varat	V	varēt	Vp-p--2--i----------3-----l-	33	103	33	107	O
+saglabāt	V	saglabāt	V--------n----------------l-	33	109	33	116	O
+tajā	P	tas	P-msl-------d-------------l-	33	118	33	121	O
+,	T	,	T--------------------------,	33	122	33	122	O
+izpildot	G	izpildot	G----------a-n------------l-	33	124	33	131	O
+vedņa	N	vednis	N-msg---------n-----------l-	33	133	33	137	B-TERM
+norādījumus	N	norādījums	N-mpa---------n-----------l-	33	139	33	149	O
+.	SENT	.	T--------------------------.	33	150	33	150	O
+
+
+Lietojiet	V	lietot	V--p--2--m----------------f-	34	0	34	8	O
+ugunsmūri	N	ugunsmūris	N-mpn---------n-----------l-	34	10	34	18	B-TERM
+.	SENT	.	T--------------------------.	34	19	34	19	O
+
+Ugunsmūris	N	ugunsmūris	N-msn---------n-----------f-	34	21	34	30	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	34	32	34	33	O
+aparatūra	N	aparatūra	N-fsn---------n-----------l-	34	35	34	43	B-TERM
+vai	C	vai	C---------------------c---l-	34	45	34	47	O
+programmatūra	N	programmatūra	N-fsn---------n-----------l-	34	49	34	61	B-TERM
+,	T	,	T--------------------------,	34	62	34	62	O
+kas	P	kas	P---n-------r---------x---l-	34	64	34	66	O
+var	V	varēt	Vp----3--i----------3-----l-	34	68	34	70	O
+palīdzēt	V	palīdzēt	V--------n----------------l-	34	72	34	79	O
+aizsargāt	V	aizsargāt	V--------n----------------l-	34	81	34	89	O
+datoru	N	dators	N-msa---------n-----------l-	34	91	34	96	B-TERM
+pret	S	pret	S----------------pdp------l-	34	98	34	101	O
+urķiem	N	urķis	N-mpd---------n-----------l-	34	103	34	108	B-TERM
+vai	C	vai	C---------------------c---l-	34	110	34	112	O
+ļaunprātīgu	A	ļaunprātīgs	A-fsap-n------------------l-	34	114	34	124	B-TERM
+programmatūru	N	programmatūra	N-fsa---------n-----------l-	34	126	34	138	I-TERM
+.	SENT	.	T--------------------------.	34	139	34	139	O
+
+Ja	C	ja	C---------------------f---f-	34	141	34	142	O
+ugunsmūris	N	ugunsmūris	N-msn---------n-----------l-	34	144	34	153	B-TERM
+darbojas	V	darboties	Vp----3--i-----y----------l-	34	155	34	162	O
+katrā	P	katrs	P-msl-------g-------------l-	34	164	34	168	O
+tīkla	N	tīkls	N-msg---------n-----------l-	34	170	34	174	B-TERM
+datorā	N	dators	N-msl---------n-----------l-	34	176	34	181	I-TERM
+,	T	,	T--------------------------,	34	182	34	182	O
+tas	P	tas	P-msn-------d-------------l-	34	184	34	186	O
+var	V	varēt	Vp----3--i----------3-----l-	34	188	34	190	O
+palīdzēt	V	palīdzēt	V--------n----------------l-	34	192	34	199	O
+ierobežot	V	ierobežot	V--------n----------------l-	34	201	34	209	O
+ļaunprātīgas	A	ļaunprātīgs	A-fsgp-n------------------l-	34	211	34	222	B-TERM
+programmatūras	N	programmatūra	N-fsg---------n-----------l-	34	224	34	237	I-TERM
+izplatību	N	izplatība	N-fsa---------n-----------l-	34	239	34	247	O
+tīklā	N	tīkls	N-msl---------n-----------l-	34	249	34	253	B-TERM
+,	T	,	T--------------------------,	34	254	34	254	O
+kā arī	C	kā_arī	C---------------------c---l-	34	256	34	261	O
+aizsargāt	V	aizsargāt	V--------n----------------l-	34	263	34	271	O
+datorus	N	dators	N-mpa---------n-----------l-	34	273	34	279	B-TERM
+,	T	,	T--------------------------,	34	280	34	280	O
+kad	R	kad	R----p----------------f---l-	34	282	34	284	O
+piekļūstat	V	piekļūt	Vp-p--2--i----------------l-	34	286	34	295	O
+internetam	N	internets	N-msd---------n-----------l-	34	297	34	306	B-TERM
+.	SENT	.	T--------------------------.	34	307	34	307	O
+
+Windows	N	Windows	N-fsn---------n-----------f-	34	309	34	315	O
+ugunsmūris	N	ugunsmūris	N-msn---------n-----------l-	34	317	34	326	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	34	328	34	329	O
+iekļauts	G	iekļauts	Gsmsnp-n---p--------------l-	34	331	34	338	O
+operētājsistēmā	N	operētājsistēma	N-fsl---------n-----------l-	34	340	34	354	B-TERM
+Windows	N	Windows	N-fsd---------n-----------f-	34	356	34	362	O
+ Vista	-	 Vista	----------------------------	34	363	34	368	O
+.	SENT	.	T--------------------------.	34	369	34	369	O
+
+Papildinformāciju	N	papildinformācija	N-fsa---------n-----------f-	34	371	34	387	O
+skatiet	V	skatīt	V--p--2--m----------------l-	34	389	34	395	O
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	34	397	34	402	O
+Ugunsmūris	N	ugunsmūris	N-msn---------n-----------f-	34	404	34	413	B-TERM
+:	T	:	T--------------------------:	34	414	34	414	O
+bieži	R	bieži	R----p--------------------l-	34	416	34	420	O
+uzdotie	G	uzdots	Gsmpnp-y---p--------------l-	34	422	34	428	O
+jautājumi	N	jautājums	N-mpn---------n-----------l-	34	430	34	438	O
+.	SENT	.	T--------------------------.	34	440	34	440	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	35	0	35	7	O
+Izveidot	V	izveidot	V--------n----------------f-	35	9	35	16	O
+savienonjumu	-	savienonjumu	----------------------------	35	18	35	29	O
+ar	S	ar	S----------------sap------l-	35	31	35	32	O
+tīklu	N	tīkls	N-msa---------n-----------l-	35	34	35	38	B-TERM
+,	T	,	T--------------------------,	35	39	35	39	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	35	41	35	52	O
+uz	S	uz	S----------------sgp------l-	35	54	35	55	O
+pogas	N	poga	N-fsg---------n-----------l-	35	57	35	61	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	35	63	35	66	O
+
+
+un	C	un	C---------------------c---l-	36	0	36	1	O
+pēc tam	-	pēc_tam	----------------------------	36	3	36	9	O
+uz	S	uz	S----------------sap------l-	36	11	36	12	O
+Izveidot	V	izveidot	V--------n----------------f-	36	14	36	21	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	36	23	36	33	B-TERM
+ar	V	art	Vp----3--i----------------l-	36	35	36	36	O
+.	SENT	.	T--------------------------.	36	37	36	37	O
+
+
+Tīklu	N	tīkls	N-mpg---------n-----------f-	37	0	37	4	B-TERM
+sarakstā	N	saraksts	N-msl---------n-----------l-	37	6	37	13	B-TERM
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	37	15	37	27	O
+uz	S	uz	S----------------sgp------l-	37	29	37	30	O
+tā	P	tas	P-msg-------d-------------l-	37	32	37	33	O
+tīkla	N	tīkls	N-msg---------n-----------l-	37	35	37	39	B-TERM
+nosaukuma	N	nosaukums	N-msg---------n-----------l-	37	41	37	49	I-TERM
+,	T	,	T--------------------------,	37	50	37	50	O
+ar	S	ar	S----------------sap------l-	37	52	37	53	O
+kuru	P	kurš	P-msa-------r---------f---l-	37	55	37	58	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	37	60	37	67	O
+izveidot	V	izveidot	V--------n----------------l-	37	69	37	76	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	37	78	37	88	B-TERM
+,	T	,	T--------------------------,	37	89	37	89	O
+un	C	un	C---------------------c---l-	37	91	37	92	O
+pēc tam	-	pēc_tam	----------------------------	37	94	37	100	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	37	102	37	114	O
+uz	S	uz	S----------------sap------l-	37	116	37	117	O
+Veidot	V	veidot	V--------n----------------f-	37	119	37	124	O
+savienojumu	N	savienojums	N-msa---------n-----------l-	37	126	37	136	B-TERM
+.	SENT	.	T--------------------------.	37	137	37	137	O
+
+
+Ievadiet	V	ievadīt	V--p--2--m----------------f-	38	0	38	7	O
+drošības	N	drošība	N-fsg---------n-----------l-	38	9	38	16	B-TERM
+atslēgu	N	atslēga	N-fsa---------n-----------l-	38	18	38	24	I-TERM
+.	SENT	.	T--------------------------.	38	25	38	25	O
+
+Varat	V	varēt	Vp-p--2--i----------3-----f-	38	27	38	31	O
+ierakstīt	V	ierakstīt	V--------n----------------l-	38	33	38	41	O
+atslēgu	N	atslēga	N-fsa---------n-----------l-	38	43	38	49	B-TERM
+vai arī	C	vai_arī	C---------------------c---l-	38	51	38	57	O
+datora	N	dators	N-msg---------n-----------l-	38	59	38	64	B-TERM
+USB	-	USB	----------------------------	38	66	38	68	I-TERM
+portā	N	ports	N-msl---------n-----------l-	38	70	38	74	I-TERM
+ievietot	V	ievietot	V--------n----------------l-	38	76	38	83	O
+USB	-	USB	----------------------------	38	85	38	87	B-TERM
+zibatmiņas	N	zibatmiņa	N-fsg---------n-----------l-	38	89	38	98	I-TERM
+disku	N	disks	N-msa---------n-----------l-	38	100	38	104	I-TERM
+,	T	,	T--------------------------,	38	105	38	105	O
+kurā	P	kurš	P-fsl-------r---------a---l-	38	107	38	110	O
+ir	V	būt	Vp----3--i----------7-----l-	38	112	38	113	O
+drošības	N	drošība	N-fsg---------n-----------l-	38	115	38	122	B-TERM
+atslēga	N	atslēga	N-fsn---------n-----------l-	38	124	38	130	I-TERM
+.	SENT	.	T--------------------------.	38	131	38	131	O
+
+
+Failu	N	fails	N-mpg---------n-----------f-	39	0	39	4	B-TERM
+un	C	un	C---------------------c---l-	39	6	39	7	O
+printeru	N	printeris	N-mpg---------n-----------l-	39	9	39	16	B-TERM
+koplietošana	N	koplietošana	N-fsn---------n-----------l-	39	18	39	29	I-TERM
+
+
+Lielai	A	liels	A-fsdp-n------------------f-	40	0	40	5	O
+daļai	N	daļa	N-fsd---------n-----------l-	40	7	40	11	O
+lietotāju	N	lietotāja	N-fsa---------n-----------l-	40	13	40	21	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	40	23	40	24	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	40	26	40	32	B-TERM
+tīkls	N	tīkls	N-msn---------n-----------l-	40	34	40	38	I-TERM
+,	T	,	T--------------------------,	40	39	40	39	O
+tādējādi	R	tādējādi	R----p--------------------l-	40	41	40	48	O
+viņi	P	viņš	P-mpn-3-----p-------------l-	40	50	40	53	O
+var	V	varēt	Vp----3--i----------3-----l-	40	55	40	57	O
+piekļūt	V	piekļūt	V--------n----------------l-	40	59	40	65	O
+internetam	N	internets	N-msd---------n-----------l-	40	67	40	76	B-TERM
+no	S	no	S----------------sgp------l-	40	78	40	79	O
+jebkuras	P	jebkurš	P-fsg-------g-------------l-	40	81	40	88	O
+ēkas	N	ēka	N-fsg---------n-----------l-	40	90	40	93	O
+vietas	N	vieta	N-fsg---------n-----------l-	40	95	40	100	O
+,	T	,	T--------------------------,	40	101	40	101	O
+taču	C	taču	C-------------------------l-	40	103	40	106	O
+ir	V	būt	Vp----3--i----------7-----l-	40	108	40	109	O
+noderīgi	R	noderīgi	R----p--------------------l-	40	111	40	118	O
+,	T	,	T--------------------------,	40	119	40	119	O
+ja arī	C	ja_arī	C---------------------y---l-	40	121	40	126	O
+failiem	N	fails	N-mpd---------n-----------l-	40	128	40	134	B-TERM
+un	C	un	C---------------------c---l-	40	136	40	137	O
+printeriem	N	printeris	N-mpd---------n-----------l-	40	139	40	148	B-TERM
+var	V	varēt	Vp----3--i----------3-----l-	40	150	40	152	O
+piekļūt	V	piekļūt	V--------n----------------l-	40	154	40	160	O
+,	T	,	T--------------------------,	40	161	40	161	O
+lietojot	G	lietojot	G----------a-n------------l-	40	163	40	170	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	40	172	40	178	B-TERM
+savienojumu	N	savienojums	N-msa---------n-----------l-	40	180	40	190	I-TERM
+.	SENT	.	T--------------------------.	40	191	40	191	O
+
+
+Piezīme	N	piezīme	N-fsn---------n-----------f-	41	0	41	6	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	42	0	42	7	O
+tīkla	N	tīkls	N-msg---------n-----------l-	42	9	42	13	B-TERM
+un	C	un	C---------------------c---l-	42	15	42	16	O
+koplietošanas	N	koplietošana	N-fsg---------n-----------l-	42	18	42	30	B-TERM
+centru	N	centrs	N-msa---------n-----------l-	42	32	42	37	I-TERM
+,	T	,	T--------------------------,	42	38	42	38	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	42	40	42	51	O
+uz	S	uz	S----------------sgp------l-	42	53	42	54	O
+pogas	N	poga	N-fsg---------n-----------l-	42	56	42	60	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	42	62	42	65	O
+
+
+,	T	,	T--------------------------,	43	0	43	0	O
+pēc tam	-	pēc_tam	----------------------------	43	2	43	8	O
+uz	S	uz	S----------------sgp------l-	43	10	43	11	O
+Vadības	N	vadība	N-fsg---------n-----------f-	43	13	43	19	B-TERM
+panelis	N	panelis	N-msn---------n-----------l-	43	21	43	27	I-TERM
+,	T	,	T--------------------------,	43	28	43	28	O
+uz	S	uz	S----------------sgp------l-	43	30	43	31	O
+Tīkls	N	tīkls	N-msn---------n-----------f-	43	33	43	37	B-TERM
+un	C	un	C---------------------c---l-	43	39	43	40	O
+internets	N	internets	N-msn---------n-----------l-	43	42	43	50	B-TERM
+un	C	un	C---------------------c---l-	43	52	43	53	O
+uz	S	uz	S----------------sap------l-	43	55	43	56	O
+Tīkla	N	tīkls	N-msg---------n-----------f-	43	58	43	62	B-TERM
+un	C	un	C---------------------c---l-	43	64	43	65	O
+koplietošanas	N	koplietošana	N-fsg---------n-----------l-	43	67	43	79	B-TERM
+centrs	N	centrs	N-msn---------n-----------l-	43	81	43	86	I-TERM
+.	SENT	.	T--------------------------.	43	87	43	87	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	44	0	44	12	O
+uz	S	uz	S----------------sgp------l-	44	14	44	15	O
+bultiņas	N	bulta	N-fsg---------y-----------l-	44	17	44	24	B-TERM
+pogas	N	poga	N-fsg---------n-----------l-	44	26	44	30	I-TERM
+
+
+Ieslēgt	V	ieslēgt	V--------n----------------f-	45	0	45	6	O
+koplietošanu	N	koplietošana	N-fsa---------n-----------l-	45	8	45	19	B-TERM
+,	T	,	T--------------------------,	45	20	45	20	O
+lai	C	lai	C---------------------f---l-	45	22	45	24	O
+ikviens	P	ikviens	P-msn-------g-------------l-	45	26	45	32	O
+lietotājs	N	lietotājs	N-msn---------n-----------l-	45	34	45	42	B-TERM
+ar	S	ar	S----------------sap------l-	45	44	45	45	O
+tīkla	N	tīkls	N-msg---------n-----------l-	45	47	45	51	B-TERM
+piekļuvi	N	piekļuve	N-fsa---------n-----------l-	45	53	45	60	I-TERM
+var	V	varēt	Vp----3--i----------3-----l-	45	62	45	64	O
+atvērt	V	atvērt	V--------n----------------l-	45	66	45	71	O
+failus	N	fails	N-mpa---------n-----------l-	45	73	45	78	B-TERM
+
+
+Ieslēgt	V	ieslēgt	V--------n----------------f-	46	0	46	6	O
+koplietošanu	N	koplietošana	N-fsa---------n-----------l-	46	8	46	19	B-TERM
+,	T	,	T--------------------------,	46	20	46	20	O
+lai	C	lai	C---------------------f---l-	46	22	46	24	O
+ikviens	P	ikviens	P-msn-------g-------------l-	46	26	46	32	O
+lietotājs	N	lietotājs	N-msn---------n-----------l-	46	34	46	42	B-TERM
+ar	S	ar	S----------------sap------l-	46	44	46	45	O
+tīkla	N	tīkls	N-msg---------n-----------l-	46	47	46	51	B-TERM
+piekļuvi	N	piekļuve	N-fsa---------n-----------l-	46	53	46	60	I-TERM
+var	V	varēt	Vp----3--i----------3-----l-	46	62	46	64	O
+atvērt	V	atvērt	V--------n----------------l-	46	66	46	71	O
+,	T	,	T--------------------------,	46	72	46	72	O
+mainīt	V	mainīt	V--------n----------------l-	46	74	46	79	O
+un	C	un	C---------------------c---l-	46	81	46	82	O
+izveidot	V	izveidot	V--------n----------------l-	46	84	46	91	O
+failus	N	fails	N-mpa---------n-----------l-	46	93	46	98	B-TERM
+
+
+Izslēgt	V	izslēgt	V--------n----------------f-	47	0	47	6	O
+koplietošanu	N	koplietošana	N-fsa---------n-----------l-	47	8	47	19	B-TERM
+(	T	(	T--------------------------(	47	21	47	21	O
+lietotāji	N	lietotājs	N-mpn---------n-----------l-	47	22	47	30	B-TERM
+,	T	,	T--------------------------,	47	31	47	31	O
+kas	P	kas	P---n-------r---------x---l-	47	33	47	35	O
+pieteikušies	G	pieteicies	Gsmpn--n---a---y----------l-	47	37	47	48	O
+šajā	P	šis	P-msl-------d-------------l-	47	50	47	53	O
+datorā	N	dators	N-msl---------n-----------l-	47	55	47	60	B-TERM
+,	T	,	T--------------------------,	47	61	47	61	O
+joprojām	R	joprojām	R----p--------------------l-	47	63	47	70	O
+varēs	V	varēt	Vf----3--i----------3-----l-	47	72	47	76	O
+piekļūt	V	piekļūt	V--------n----------------l-	47	78	47	84	O
+šai	P	šis	P-fsd-------d-------------l-	47	86	47	88	O
+mapei	N	mape	N-fsd---------n-----------l-	47	90	47	94	B-TERM
+)	T	)	T--------------------------)	47	95	47	95	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	48	0	48	12	O
+uz	S	uz	S----------------sap------l-	48	14	48	15	O
+Lietot	V	lietot	V--------n----------------f-	48	17	48	22	O
+.	SENT	.	T--------------------------.	48	23	48	23	O
+
+
+Atkārtojiet	V	atkārtot	V--p--2--m----------------f-	49	0	49	10	O
+iepriekš	R	iepriekš	R----p--------------------l-	49	12	49	19	O
+minētās	G	minēts	Gsfsgp-y---p--------------l-	49	21	49	27	O
+darbības	N	darbība	N-fsg---------n-----------l-	49	29	49	36	O
+katrā	P	katrs	P-msl-------g-------------l-	49	38	49	42	O
+datorā	N	dators	N-msl---------n-----------l-	49	44	49	49	B-TERM
+,	T	,	T--------------------------,	49	50	49	50	O
+kura	P	kurš	P-msg-------r---------a---l-	49	52	49	55	O
+failus	N	fails	N-mpa---------n-----------l-	49	57	49	62	B-TERM
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	49	64	49	71	O
+koplietot	V	koplietot	V--------n----------------l-	49	73	49	81	O
+.	SENT	.	T--------------------------.	49	82	49	82	O
+
+
+Lai	C	lai	C---------------------k---f-	50	0	50	2	O
+koplietotu	V	koplietot	Vp-------s----------------l-	50	4	50	13	O
+failus	N	fails	N-mpa---------n-----------l-	50	15	50	20	B-TERM
+,	T	,	T--------------------------,	50	21	50	21	O
+saglabājiet	V	saglabāt	V--p--2--m----------------l-	50	23	50	33	O
+tos	P	tas	P-mpa-------d-------------l-	50	35	50	37	O
+vai	C	vai	C---------------------c---l-	50	39	50	41	O
+kopējiet	V	kopēt	V--p--2--m----------------l-	50	43	50	50	O
+uz	S	uz	S----------------sgp------l-	50	52	50	53	O
+sava	P	savs	P-msg-------s-------------l-	50	55	50	58	O
+datora	N	dators	N-msg---------n-----------l-	50	60	50	65	B-TERM
+publisko	A	publisks	A-fsap-y------------------l-	50	67	50	74	B-TERM
+mapi	N	mape	N-fsa---------n-----------l-	50	76	50	79	I-TERM
+.	SENT	.	T--------------------------.	50	80	50	80	O
+
+Katrā	P	katrs	P-msl-------g-------------f-	50	82	50	86	O
+datorā	N	dators	N-msl---------n-----------l-	50	88	50	93	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	50	95	50	96	O
+viena	M	viens	M-fsn---c-----------------l-	50	98	50	102	O
+publiskā	A	publisks	A-fsnp-y------------------l-	50	104	50	111	B-TERM
+mape	N	mape	N-fsn---------n-----------l-	50	113	50	116	I-TERM
+.	SENT	.	T--------------------------.	50	117	50	117	O
+
+Šo	P	šis	P-fsa-------d-------------f-	50	119	50	120	O
+mapi	N	mape	N-fsa---------n-----------l-	50	122	50	125	B-TERM
+koplieto	V	koplietot	Vp----3--i----------------l-	50	127	50	134	O
+visas	P	viss	P-fpa-------g-------------l-	50	136	50	140	O
+personas	N	persona	N-fpa---------n-----------l-	50	142	50	149	O
+,	T	,	T--------------------------,	50	150	50	150	O
+kurām	P	kurš	P-fpd-------r---------f---l-	50	152	50	156	O
+datorā	N	dators	N-msl---------n-----------l-	50	158	50	163	B-TERM
+ir	V	būt	Vp----3--i----------7-----l-	50	165	50	166	O
+lietotāja	N	lietotāja	N-fsn---------n-----------l-	50	168	50	176	B-TERM
+konts	N	konts	N-msn---------n-----------l-	50	178	50	182	I-TERM
+.	SENT	.	T--------------------------.	50	183	50	183	O
+
+Lai	C	lai	C---------------------k---f-	50	185	50	187	O
+atvērtu	V	atvērst	Vs-s--1--i----------------l-	50	189	50	195	O
+publisko	A	publisks	A-fsap-y------------------l-	50	197	50	204	B-TERM
+mapi	N	mape	N-fsa---------n-----------l-	50	206	50	209	I-TERM
+:	T	:	T--------------------------:	50	210	50	210	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	51	0	51	7	O
+dokumentus	N	dokuments	N-mpa---------n-----------l-	51	9	51	18	B-TERM
+,	T	,	T--------------------------,	51	19	51	19	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	51	21	51	32	O
+uz	S	uz	S----------------sgp------l-	51	34	51	35	O
+pogas	N	poga	N-fsg---------n-----------l-	51	37	51	41	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	51	43	51	46	O
+
+
+un	C	un	C---------------------c---l-	52	0	52	1	O
+pēc tam	-	pēc_tam	----------------------------	52	3	52	9	O
+uz	S	uz	S----------------sap------l-	52	11	52	12	O
+Dokumenti	N	dokuments	N-mpn---------n-----------f-	52	14	52	22	B-TERM
+.	SENT	.	T--------------------------.	52	23	52	23	O
+
+
+Navigācijas	N	navigācija	N-fsg---------n-y---------f-	53	0	53	10	B-TERM
+rūts	N	rūts	N-fsg---------n-----------l-	53	12	53	15	I-TERM
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	53	17	53	22	O
+Izlases	N	izlase	N-fsg---------n-----------f-	53	24	53	30	B-TERM
+saites	N	saite	N-fsg---------n-----------l-	53	32	53	37	I-TERM
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	53	39	53	51	O
+uz	S	uz	S----------------sgp------l-	53	53	53	54	O
+Publisks	A	publisks	A-msnp-n------------------f-	53	56	53	63	O
+.	SENT	.	T--------------------------.	53	64	53	64	O
+
+
+Publiskā	A	publisks	A-fsnp-y------------------f-	54	0	54	7	B-TERM
+mape	N	mape	N-fsn---------n-----------l-	54	9	54	12	I-TERM
+
+
+Piesakieties	V	piesacīties	V--p--2--m-----y----------f-	55	0	55	11	O
+datorā	N	dators	N-msl---------n-----------l-	55	13	55	18	B-TERM
+,	T	,	T--------------------------,	55	19	55	19	O
+kuram	P	kurš	P-msd-------r---------o---l-	55	21	55	25	O
+ir	V	būt	Vp----3--i----------7-----l-	55	27	55	28	O
+pievienots	G	pievienots	Gsmsnp-n---p--------------l-	55	30	55	39	O
+printeris	N	printeris	N-msn---------n-----------l-	55	41	55	49	B-TERM
+.	SENT	.	T--------------------------.	55	50	55	50	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	56	0	56	7	O
+tīkla	N	tīkls	N-msg---------n-----------l-	56	9	56	13	B-TERM
+un	C	un	C---------------------c---l-	56	15	56	16	O
+koplietošanas	N	koplietošana	N-fsg---------n-----------l-	56	18	56	30	B-TERM
+centru	N	centrs	N-msa---------n-----------l-	56	32	56	37	I-TERM
+,	T	,	T--------------------------,	56	38	56	38	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	56	40	56	51	O
+uz	S	uz	S----------------sgp------l-	56	53	56	54	O
+pogas	N	poga	N-fsg---------n-----------l-	56	56	56	60	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	56	62	56	65	O
+
+
+,	T	,	T--------------------------,	57	0	57	0	O
+pēc tam	-	pēc_tam	----------------------------	57	2	57	8	O
+uz	S	uz	S----------------sgp------l-	57	10	57	11	O
+Vadības	N	vadība	N-fsg---------n-----------f-	57	13	57	19	B-TERM
+panelis	N	panelis	N-msn---------n-----------l-	57	21	57	27	I-TERM
+,	T	,	T--------------------------,	57	28	57	28	O
+uz	S	uz	S----------------sgp------l-	57	30	57	31	O
+Tīkls	N	tīkls	N-msn---------n-----------f-	57	33	57	37	B-TERM
+un	C	un	C---------------------c---l-	57	39	57	40	O
+internets	N	internets	N-msn---------n-----------l-	57	42	57	50	B-TERM
+un	C	un	C---------------------c---l-	57	52	57	53	O
+uz	S	uz	S----------------sap------l-	57	55	57	56	O
+Tīkla	N	tīkls	N-msg---------n-----------f-	57	58	57	62	B-TERM
+un	C	un	C---------------------c---l-	57	64	57	65	O
+koplietošanas	N	koplietošana	N-fsg---------n-----------l-	57	67	57	79	B-TERM
+centrs	N	centrs	N-msn---------n-----------l-	57	81	57	86	I-TERM
+.	SENT	.	T--------------------------.	57	87	57	87	O
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	58	0	58	12	O
+uz	S	uz	S----------------sgp------l-	58	14	58	15	O
+bultiņas	N	bulta	N-fsg---------y-----------l-	58	17	58	24	B-TERM
+pogas	N	poga	N-fsg---------n-----------l-	58	26	58	30	I-TERM
+
+
+Noklikšķiniet	V	noklikšķināt	V--p--2--m----------------f-	59	0	59	12	O
+uz	S	uz	S----------------sgp------l-	59	14	59	15	O
+bultiņas	N	bulta	N-fsg---------y-----------l-	59	17	59	24	B-TERM
+pogas	N	poga	N-fsg---------n-----------l-	59	26	59	30	I-TERM
+
+
+blakus	R	blakus	R----p--------------------l-	60	0	60	5	O
+Ar	S	ar	S----------------sap------f-	60	7	60	8	O
+paroli	N	parole	N-fsa---------n-----------l-	60	10	60	15	B-TERM
+aizsargāta	G	aizsargāts	Gsfsnp-n---p--------------l-	60	17	60	26	O
+koplietošana	N	koplietošana	N-fsn---------n-----------l-	60	28	60	39	B-TERM
+,	T	,	T--------------------------,	60	40	60	40	O
+pēc tam	-	pēc_tam	----------------------------	60	42	60	48	O
+noklikšķiniet	V	noklikšķināt	V--p--2--m----------------l-	60	50	60	62	O
+uz	S	uz	S----------------sap------l-	60	64	60	65	O
+Izslēgt	V	izslēgt	V--------n----------------f-	60	67	60	73	O
+ar	S	ar	S----------------sap------l-	60	75	60	76	O
+paroli	N	parole	N-fsa---------n-----------l-	60	78	60	83	B-TERM
+aizsargātu	G	aizsargāts	Gsfsap-n---p--------------l-	60	85	60	94	B-TERM
+koplietošanu	N	koplietošana	N-fsa---------n-----------l-	60	96	60	107	I-TERM
+un	C	un	C---------------------c---l-	60	109	60	110	O
+pēc tam	-	pēc_tam	----------------------------	60	112	60	118	O
+uz	S	uz	S----------------sap------l-	60	120	60	121	O
+Lietot	V	lietot	V--------n----------------f-	60	123	60	128	O
+.	SENT	.	T--------------------------.	60	129	60	129	O
+
+
+Piezīme	N	piezīme	N-fsn---------n-----------f-	61	0	61	6	O
+
+
+Ja	C	ja	C---------------------f---f-	62	0	62	1	O
+ir	V	būt	Vp----3--i----------7-----l-	62	3	62	4	O
+ieslēgta	G	ieslēgts	Gsfsnp-n---p--------------l-	62	6	62	13	O
+ar	S	ar	S----------------sap------l-	62	15	62	16	O
+paroli	N	parole	N-fsa---------n-----------l-	62	18	62	23	B-TERM
+aizsargāta	G	aizsargāts	Gsfsnp-n---p--------------l-	62	25	62	34	B-TERM
+koplietošana	N	koplietošana	N-fsn---------n-----------l-	62	36	62	47	I-TERM
+,	T	,	T--------------------------,	62	48	62	48	O
+personām	N	persona	N-fpd---------n-----------l-	62	50	62	57	O
+ir	V	būt	Vp----3--i----------7-----l-	62	59	62	60	O
+nepieciešams	G	nepieciešams	Gpmsnp-n---p----y---------l-	62	62	62	73	O
+lietotāja	N	lietotāja	N-fsn---------n-----------l-	62	75	62	83	B-TERM
+konts	N	konts	N-msn---------n-----------l-	62	85	62	89	I-TERM
+un	C	un	C---------------------c---l-	62	91	62	92	O
+parole	N	parole	N-fsn---------n-----------l-	62	94	62	99	B-TERM
+jūsu	P	jūs	P--pg-2-----p-------------l-	62	101	62	104	O
+datorā	N	dators	N-msl---------n-----------l-	62	106	62	111	B-TERM
+,	T	,	T--------------------------,	62	112	62	112	O
+lai	C	lai	C---------------------f---l-	62	114	62	116	O
+piekļūtu	V	piekļūt	Vp-------s----------------l-	62	118	62	125	O
+jūsu	P	jūs	P--pg-2-----p-------------l-	62	127	62	130	O
+printerim	N	printeris	N-msd---------n-----------l-	62	132	62	140	B-TERM
+.	SENT	.	T--------------------------.	62	141	62	141	O
+
+
+Lai	C	lai	C---------------------k---f-	63	0	63	2	O
+piekļūtu	V	piekļūt	Vp-------s----------------l-	63	4	63	11	O
+printerim	N	printeris	N-msd---------n-----------l-	63	13	63	21	B-TERM
+no	S	no	S----------------sgp------l-	63	23	63	24	O
+jebkura	P	jebkurš	P-msg-------g-------------l-	63	26	63	32	O
+tīklā	N	tīkls	N-msl---------n-----------l-	63	34	63	38	B-TERM
+esoša	G	esošs	Gpmsgp-n---a--------------l-	63	40	63	44	O
+datora	N	dators	N-msg---------n-----------l-	63	46	63	51	B-TERM
+,	T	,	T--------------------------,	63	52	63	52	O
+rīkojieties	V	rīkoties	V--p--2--m-----y----------l-	63	54	63	64	O
+šādi	R	šādi	R----p--------------------l-	63	66	63	69	O
+:	T	:	T--------------------------:	63	70	63	70	O
+
+
+Atveriet	V	atvērt	V--p--2--m----------------f-	64	0	64	7	O
+tīklu	N	tīkls	N-msa---------n-----------l-	64	9	64	13	B-TERM
+,	T	,	T--------------------------,	64	14	64	14	O
+noklikšķinot	G	noklikšķinot	G----------a-n------------l-	64	16	64	27	O
+uz	S	uz	S----------------sgp------l-	64	29	64	30	O
+pogas	N	poga	N-fsg---------n-----------l-	64	32	64	36	B-TERM
+Sākt	V	sākt	V--------n----------3-----f-	64	38	64	41	O
+
+
+un	C	un	C---------------------c---l-	65	0	65	1	O
+pēc tam	-	pēc_tam	----------------------------	65	3	65	9	O
+uz	S	uz	S----------------sgp------l-	65	11	65	12	O
+Tīkls	N	tīkls	N-msn---------n-----------f-	65	14	65	18	B-TERM
+.	SENT	.	T--------------------------.	65	19	65	19	O
+
+
+Veiciet	V	veikt	V--p--2--m----------------f-	66	0	66	6	O
+dubultklikšķi	N	dubultklikšķis	N-mpn---------n-----------l-	66	8	66	20	B-TERM
+uz	S	uz	S----------------pdp------l-	66	22	66	23	O
+ikonas	N	ikona	N-fsg---------n-----------l-	66	25	66	30	B-TERM
+,	T	,	T--------------------------,	66	31	66	31	O
+kas	P	kas	P---n-------r---------x---l-	66	33	66	35	O
+atbilst	V	atbilst	Vp----3--i----------------l-	66	37	66	43	O
+datoram	N	dators	N-msd---------n-----------l-	66	45	66	51	B-TERM
+,	T	,	T--------------------------,	66	52	66	52	O
+kuram	P	kurš	P-msd-------r---------f---l-	66	54	66	58	O
+pievienots	G	pievienots	Gsmsnp-n---p--------------l-	66	60	66	69	O
+printeris	N	printeris	N-msn---------n-----------l-	66	71	66	79	B-TERM
+.	SENT	.	T--------------------------.	66	80	66	80	O
+
+
+Veiciet	V	veikt	V--p--2--m----------------f-	67	0	67	6	O
+dubultklikšķi	N	dubultklikšķis	N-msa---------n-----------l-	67	8	67	20	B-TERM
+uz	S	uz	S----------------sap------l-	67	22	67	23	O
+printera	N	printeris	N-msg---------n-----------l-	67	25	67	32	B-TERM
+ikonas	N	ikona	N-fsg---------n-----------l-	67	34	67	39	I-TERM
+.	SENT	.	T--------------------------.	67	40	67	40	O
+
+Sistēma	N	sistēma	N-fsn---------n-----------f-	67	42	67	48	B-TERM
+Windows	N	Windows	N-fsn---------n-----------f-	67	50	67	56	O
+automātiski	R	automātiski	R----p--------------------l-	67	58	67	68	O
+pievienos	V	pievienot	Vf----3--i----------------l-	67	70	67	78	O
+printeri	N	printeris	N-mpn---------n-----------l-	67	80	67	87	B-TERM
+jūsu	P	jūs	P--pg-2-----p-------------l-	67	89	67	92	O
+datoram	N	dators	N-msd---------n-----------l-	67	94	67	100	B-TERM
+un	C	un	C---------------------c---l-	67	102	67	103	O
+instalēs	V	instalēt	Vf----3--i----------------l-	67	105	67	112	O
+printera	N	printeris	N-msg---------n-----------l-	67	114	67	121	B-TERM
+draiveri	N	draiveris	N-mpn---------n-----------l-	67	123	67	130	I-TERM
+.	SENT	.	T--------------------------.	67	131	67	131	O
+
+
+Brīvības	N	brīvība	N-fsg---------n-----------f-	68	0	68	7	O
+izmantošana	N	izmantošana	N-fsn---------n-----------l-	68	9	68	19	O
+
+
+Tas	P	tas	P-msn-------d-------------f-	69	0	69	2	O
+arī	Q	arī	Q-------------------------l-	69	4	69	6	O
+viss	P	viss	P-msn-------g-------------l-	69	8	69	11	O
+—	T	—	T--------------------------—	69	13	69	13	O
+bezvadu	N	bezvadu	N-mpg---------n-----------l-	69	15	69	21	B-TERM
+tīkls	N	tīkls	N-msn---------n-----------l-	69	23	69	27	I-TERM
+ir	V	būt	Vp----3--i----------7-----l-	69	29	69	30	O
+gatavs	A	gatavs	A-msnp-n------------------l-	69	32	69	37	O
+lietošanai	N	lietošana	N-fsd---------n-----------l-	69	39	69	48	O
+.	SENT	.	T--------------------------.	69	49	69	49	O
+
+Iekārtojieties	V	iekārtoties	V--p--2--m-----y----------f-	69	51	69	64	O
+ērtāk	R	ērti	R----c--------------------l-	69	66	69	70	O
+ uz	-	 uz	----------------------------	69	71	69	73	O
+dīvāna	N	dīvāns	N-msg---------n-----------l-	69	75	69	80	O
+vai	C	vai	C---------------------c---l-	69	82	69	84	O
+pie	S	pie	S----------------sgp------l-	69	86	69	88	O
+galda	N	galds	N-msg---------n-----------l-	69	90	69	94	O
+un	C	un	C---------------------c---l-	69	96	69	97	O
+izmēģiniet	V	izmēģināt	V--p--2--m----------------l-	69	99	69	108	O
+iepirkšanos	N	iepirkšanās	N-fpg---------n-----------l-	69	110	69	120	B-TERM
+tiešsaistē	N	tiešsaiste	N-fsl---------n-----------l-	69	122	69	131	I-TERM
+.	SENT	.	T--------------------------.	69	132	69	132	O
+
+
+Paldies	I	paldies	I-------------------------f-	70	0	70	6	O
+!	SENT	!	T--------------------------!	70	7	70	7	O
+
+
+Paldies	I	paldies	I-------------------------f-	71	0	71	6	O
+!	SENT	!	T--------------------------!	71	7	71	7	O
+
+Jūsu	P	jūs	P--pg-2-----p-------------f-	71	9	71	12	O
+atsauksmes	N	atsauksme	N-fpn---------n-----------l-	71	14	71	23	O
+palīdz	V	palīdzēt	Vp----3--i----------------l-	71	25	71	30	O
+mums	P	mēs	P--pd-1-----p-------------l-	71	32	71	35	O
+pastāvīgi	R	pastāvīgi	R----p--------------------l-	71	37	71	45	O
+uzlabot	V	uzlabot	V--------n----------------l-	71	47	71	53	O
+saturu	N	saturs	N-msa---------n-----------l-	71	55	71	60	B-TERM
+.	SENT	.	T--------------------------.	71	61	71	61	O
+
+
+1200	D	1200	D--pg-----------------------	72	0	72	3	O
+400	D	400	D--pg-----------------------	72	5	72	7	O
+Kā	C	kā	C---------------------f---f-	72	9	72	10	O
+padarīt	V	padarīt	V--------n----------------l-	72	12	72	18	O
+šo	P	šis	P-fsa-------d-------------l-	72	20	72	21	O
+informāciju	N	informācija	N-fsa---------n-----------l-	72	23	72	33	B-TERM
+vēl	Q	vēl	Q-------------------------l-	72	35	72	37	O
+noderīgāku	A	noderīgs	A-fsac-n------------------l-	72	39	72	48	O
+?	SENT	?	T--------------------------?	72	49	72	49	O
+
+Iesniegt	V	iesniegt	V--------n----------------f-	72	51	72	58	O
+Izlaist	V	izlaist	V--------n----------------f-	72	60	72	66	O
+Vai	C	vai	C---------------------c---f-	72	68	72	70	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	72	72	72	79	O
+vēl	Q	vēl	Q-------------------------l-	72	81	72	83	O
+kaut ko	P	kaut_kas	P---a-------g-------------l-	72	85	72	91	O
+pievienot	V	pievienot	V--------n----------------l-	72	93	72	101	O
+?	SENT	?	T--------------------------?	72	102	72	102	O
+
+Iesniegt	V	iesniegt	V--------n----------------f-	72	104	72	111	O
+Nē	Q	nē	Q-------------------------f-	72	113	72	114	O
+,	T	,	T--------------------------,	72	115	72	115	O
+paldies	I	paldies	I-------------------------l-	72	117	72	123	O

@@ -1,0 +1,52 @@
+Atjauninājumi: bieži uzdotie jautājumi
+Piedāvājam atbildes uz tipiskiem jautājumiem par atjauninājumiem. Informāciju par atjauninājumiem un konfidencialitāti lasiet Windows atjaunināšanas paziņojumā par konfidencialitāti tiešsaistē.
+Programmatūras atjauninājumi periodiski informē par jaunajām programmām, kas var uzlabot darbu ar datoru un internetu. Var izvēlēties saņemt detalizētus ziņojumus par to, kad programma ir pieejama lejupielādei un instalēšanai. Pēc ziņojuma saņemšanas varat pārskatīt piedāvājumu un iegūt papildinformāciju. Varat instalēt vajadzīgās programmas. Paziņojums tiek parādīts ierobežotā laika posmā un, ja neesat ieinteresēts, varat to aizvērt. Lai ieslēgtu vai izslēgtu paziņojumus par programmatūru, rīkojieties šādi:
+Atveriet Windows atjaunināšanu, noklikšķinot uz pogas Sākt
+. Meklēšanas lodziņā ierakstiet Atjaunināšana un pēc tam rezultātu sarakstā noklikšķiniet uz Windows atjaunināšana.
+Kreisajā rūtī noklikšķiniet uz Mainīt iestatījumus.
+Veiciet kādu no šīm darbībām:
+Lai ieslēgtu jaunus paziņojumus par Microsoft programmatūru, atzīmējiet izvēles rūtiņu Rādīt detalizētus paziņojumus, kad ir pieejama jauna Microsoft programmatūra.
+Lai izslēgtu jaunus paziņojumus par Microsoft programmatūru, notīriet izvēles rūtiņu Rādīt detalizētus paziņojumus, kad ir pieejama jauna Microsoft programmatūra.
+Noklikšķiniet uz Labi.
+Atveriet Windows atjaunināšanu, noklikšķinot uz pogas Sākt
+. Meklēšanas lodziņā ierakstiet Atjaunināšana un pēc tam rezultātu sarakstā noklikšķiniet uz Windows atjaunināšana.
+Kreisajā rūtī noklikšķiniet uz Pārbaudīt, vai nav atjauninājumu.
+Iesakām ieslēgt automātisko atjaunināšanu, lai Windows instalētu pēdējos atjauninājumus, tiklīdz tie ir pieejami. Papildinformāciju skatiet sadaļā Automātiskās atjaunināšanas ieslēgšana vai izslēgšana .
+Lai saņemtu atjauninājumus, kas paredzēti Microsoft Office sistēmai un citai Microsoft programmatūrai, atveriet Microsoft atjaunināšanas vietni. Kad Microsoft atjaunināšana būs ieslēgta, tiks atvērta Windows atjaunināšana, kur varēsit meklēt jaunus Microsoft atjauninājumus. Lai atrastu citu programmu un ierīču izmantojamos atjauninājumus, apmeklējiet izdevēja vai ražotāja vietni.
+Pēc noklusējuma sistēma Windows ļauj instalēt atjauninājumus tikai lietotājiem, kuriem ir administratora konts. Varat ļaut instalēt atjauninājumus arī lietotājiem ar standarta kontu. Tas var būt noderīgi, ja izmantojat ģimenes datoru, kurā vairākumam lietotāju ir standarta konti, kas uzlabo interneta drošību vai vecāku kontroli. Izmantojot šo opciju, varat atļaut standarta lietotājiem, kas nav administratori, instalēt atjauninājumus manuāli.
+Lai lietotājiem atļautu instalēt atjauninājumus, rīkojieties šādi:
+Atveriet Windows atjaunināšanu, noklikšķinot uz pogas Sākt
+. Meklēšanas lodziņā ierakstiet Atjaunināšana un pēc tam rezultātu sarakstā noklikšķiniet uz Windows atjaunināšana.
+Kreisajā rūtī noklikšķiniet uz Mainīt iestatījumus.
+Veiciet kādu no tālāk minētajām darbībām:
+Lai standarta lietotājiem ļautu instalēt iezīmējiet izvēles rūtiņu Ļaut visiem lietotājiem instalēt atjauninājumus šajā datorā.
+Lai standarta lietotājiem neļautu instalēt atjauninājumus, notīriet izvēles rūtiņu Ļaut visiem lietotājiem instalēt atjauninājumus šajā datorā.
+Ja svarīgu vai ieteicamu atjauninājumu atjaunināšanai izmantojat automātisko atjaunināšanu, šādi atjauninājumi tiek instalēti neatkarīgi no tā, vai pašreizējais lietotājs ir vai nav administrators.
+Atjauninājumi tiek klasificēti kā svarīgi, ieteicami, neobligāti un piedāvātie. To nozīme ir šāda:
+Svarīgi atjauninājumi piedāvā ievērojamas priekšrocības, piemēram, uzlabotu drošību, konfidencialitāti un uzticamību. Šos atjauninājumus jāinstalē, līdzko tie kļūst pieejami, un tos var instalēt automātiski, izmantojot līdzekli Windows Update.
+Ieteicamie atjauninājumi novērš problēmas, kas nav kritiskas, un uzlabo datora darbību. Lai gan šie atjauninājumi nav paredzēti datora vai Windows programmatūras pamatproblēmu novēršanai, tie piedāvā nozīmīgus uzlabojumus. Šos atjauninājumus var instalēt automātiski.
+Neobligātie atjauninājumi var būt atjauninājumi, draiveri vai jauna Microsoft programmatūra, kuru mērķis ir uzlabot datora darbību. Tos var instalēt tikai manuāli.
+Atkarībā no atjauninājuma veida līdzeklis Windows Update var veikt šādas darbības:
+Drošības atjauninājumi. Plaši izlaists labojums, kas paredzēts produkta ievainojamībai, kura saistīta ar drošību. Ievainojamība drošības ziņā tiek klasificēta pēc apdraudējuma nopietnības, kas Microsoft drošības biļetenā norādīta kā kritiska, svarīga, vidēja vai zema.
+Kritiski atjauninājumi. Plaši izlaists labojums konkrētai problēmai, kurā risināta kritiska, ar drošību nesaistīta kļūda.
+Servisa pakotnes. Pārbaudīta, uzkrāta labojumfailu, drošības atjauninājumu, kritisko atjauninājumu un atjauninājumu kopa, kā arī papildu labojumi iekšējām problēmām, kas noteiktas kopš produkta izlaišanas. Servisa pakotnes var būt ietverts arī ierobežots skaits klienta pieprasītu noformējuma izmaiņu vai līdzekļu.
+Jā. Atjauninājumi nedarbojas, kamēr tie nav instalēti. Lai instalētu atjauninājumus, vispirms tos lejupielādējiet savā datorā. Varat izvēlēties, lai Windows automātiski lejupielādē un instalē atjauninājumus; automātiski lejupielādē atjauninājumus un to paziņo, lai jūs varētu instalēt; vai paziņo par iespēju lejupielādēt un instalēt jaunos atjauninājumus. Papildinformāciju skatiet sadaļā Veida, kā sistēma Windows instalē un paziņo par atjauninājumiem mainīšana .
+Windows atjaunināšana saglabā atjauninājumu vēsturi, lai jūs varētu pārbaudīt, kādi atjauninājumi ir instalēti un kurā laikā. Papildinformāciju lasiet rakstā Sistēmas Windows instalēto atjauninājumu noskaidrošana .
+Sistēmu Windows var iestatīt, lai tā automātiski instalē vai nu svarīgos un ieteicamos atjauninājumus, vai arī lai instalē tikai svarīgos atjauninājumus. Svarīgi atjauninājumi nodrošina ievērojamas priekšrocības, piemēram, uzlabotu drošību un uzticamību. Ieteicamie atjauninājumi izskata ne kritiskas problēmas un uzlabo datora darbību. Neobligātie atjauninājumi netiek lejupielādēti un instalēti automātiski. Papildinformāciju skatiet sadaļā Automātiskās atjaunināšanas ieslēgšana vai izslēgšana un Veida, kā sistēma Windows instalē un paziņo par atjauninājumiem mainīšana .
+Lai instalētu draiverus vai citus neobligātos atjauninājumus
+Atveriet Windows atjaunināšanu, noklikšķinot uz pogas Sākt
+. Meklēšanas lodziņā ierakstiet Atjaunināšana un pēc tam rezultātu sarakstā noklikšķiniet uz Windows atjaunināšana.
+Kreisajā rūtī noklikšķiniet uz Pārbaudīt, vai nav atjauninājumu un gaidiet, kamēr sistēma Windows sameklē jaunākos atjauninājumus jūsu datoram.
+Ja saņemat ziņojumu par pieejamajiem svarīgajiem atjauninājumiem vai papildu atjauninājumiem, noklikšķiniet uz ziņojuma, lai skatītu un izvēlētos instalējamos atjauninājumus.
+Atlasiet neobligātos atjauninājumus, kurus vēlaties instalēt, noklikšķiniet uz Labi un pēc tam uz Instalēt atjauninājumus.
+ Ja tiek prasīts ievadīt administratora paroli vai apstiprinājumu, ierakstiet paroli vai apstipriniet.
+Cik bieži vien iespējams. Atjauninājumi ir vislabākais veids, kā novērst vai izlabot zināmas problēmas, un tie uzlabo jūsu datora drošību. Sistēmai Windows visvienkāršāk ir instalēt atjauninājumus, ja ir ieslēgta automātiskā atjaunināšana. Šajā gadījumā Windows instalēs pēdējos atjauninājumus, tiklīdz tie būs pieejami. Papildinformāciju skatiet sadaļā Automātiskās atjaunināšanas ieslēgšana vai izslēgšana .
+Dators tiek pakļauts riskam, vai arī varat saskarties ar liekām Windows programmu vai savu programmu problēmām. Ļaunprātīga programmatūra tiek izlaista nepārtraukti, izmantojot Windows vai citu programmu ievainojamību, lai bojātu datus vai datoru vai piekļūtu tiem. Windows atjauninājumi un citi programmatūras atjauninājumi novērš šādu ievainojamību uzreiz pēc tās konstatēšanas. Ja atjauninājumus atliek vai neizmanto, dators var kļūt ievainojams šādam apdraudējumam.
+Microsoft atjauninājumi un programmatūra, kuri paredzēta Microsoft produktiem, ir bezmaksas uzturēšanas un atbalsta pakalpojums. Lai uzzinātu, vai atjauninājumi ir bezmaksas citām programmām, skatiet šīs programmas izdevēja un ierīces ražotāja informāciju. Atkarībā no interneta savienojuma var tikt piemērota tālruņa sarunu maksa par standarta vietējo sarunu vai tālsarunu un/vai interneta pakalpojumu maksa, kas rodas, lejupielādējot un instalējot atjauninājumus no izdevēja vai ražotāja vietnes.
+Tāpēc, ka dažiem atjauninājumiem, lai tie stātos spēkā, nepieciešama datora restartēšana. Piemēram, lai meklētu citus datora atjauninājumus, vispirms var būt nepieciešams instalēt līdzekļa Windows Update atjauninājumu. Citos gadījumos atjauninājums var būt pašlaik izmantojamās programmatūras jaunā versija vai servisa pakotne. Lai pārliecinātos, ka dators ir sagatavots šo atjauninājumu instalēšanai, vispirms instalējiet visus svarīgos atjauninājumus. Tad, kad visi svarīgie atjauninājumi ir instalēti, sistēma Windows jautā, vai vēlaties instalēt atsevišķu vai ekskluzīvu atjauninājumu.
+Nē. Katram datoram atsevišķi ir jāieslēdz automātiskā atjaunināšana vai jāpārbauda jaunu atjauninājumu esamība. Piemēram, datoriem, kuros darbojas dažādas Windows versijas, nepieciešami dažādi atjauninājumi. Windows nosaka, kuri atjauninājumi jālieto katrā atsevišķā gadījumā, jo nav iespējams lietot Windows XP paredzētos atjauninājumus datoram ar Windows 2000 versiju.
+Var būt vairāki iemesli, kāpēc neizdodas instalēt atjauninājumu. Līdzeklim Windows Update datorā jānodrošina iespēja atjauninājumus meklēt, lejupielādēt un pēc tam instalēt. Ja kādā no šiem posmiem rodas kļūda, atjauninājumu var neizdoties instalēt datorā. Lai saņemtu papildinformāciju par kļūdu vai kļūmi, kļūdas ziņojumā noklikšķiniet uz palīdzības saites. Ja nav nevienas tēmas par attiecīgo kļūdu, papildinformāciju skatiet sadaļā Atjauninājumu instalēšanas problēmu novēršana .
+Ja problēma joprojām pastāv, atveriet Microsoft atjaunināšanas risinājumu centra vietni, lai saņemtu papildinformāciju par kļūdas kodu vai pieprasītu atbalsta saņemšanu pa e-pastu.
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

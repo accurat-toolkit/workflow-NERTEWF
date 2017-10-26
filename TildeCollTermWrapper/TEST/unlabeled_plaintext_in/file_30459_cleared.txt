@@ -1,0 +1,92 @@
+Tastatūras lietošana
+Neatkarīgi no tā, vai rakstāt vēstuli vai ievadāt skaitliskos datus, tastatūra ir galvenais līdzeklis, kā ievadīt informāciju datorā. Bet vai jūs zināt, ka tastatūru var arī lietot, lai vadītu datoru? Dažu vienkāršu tastatūras komandu (datora instrukciju) iegaumēšana var palīdzēt jums strādāt efektīvāk. Šajā rakstā tiek aplūkoti tastatūras darbības pamati un jūs tiekat sagatavots darbam ar tastatūras komandām.
+Taustiņu organizācija
+Tastatūras taustiņus, pamatojoties uz to funkcijām, var iedalīt vairākās grupās:
+Rakstīšanas (burtciparu) taustiņi. Šo taustiņu skaitā ir tie paši burtu, ciparu, punktuācijas un simbolu taustiņi, kas tradicionālajā rakstāmmašīnā.
+Kontroltaustiņi. Šie taustiņi tiek lietoti atsevišķi vai kombinācijā ar citiem taustiņiem, lai veiktu noteiktas darbības. Visbiežāk lietotie kontroltaustiņi ir: CTRL, ALT, Windows logotipa taustiņš
+un ESC.
+Funkciju taustiņi. Funkciju taustiņi tiek lietoti specifisku uzdevumu izpildei. Tie ir apzīmēti ar F1, F2, F3 un tā tālāk līdz F12. Šo taustiņu funkcionalitāte dažādās programmās atšķiras.
+Navigācijas taustiņi. Šie taustiņi tiek lietoti, lai pārvietotos dokumentos vai Web lapās un rediģētu tekstu. To skaitā ir bulttaustiņi, taustiņi HOME, END, PAGE UP, PAGE DOWN, DELETE un INSERT.
+Cipartastatūra. Cipartastatūru ir parocīgi izmantot ātrai ciparu ievadīšanai. Taustiņi ir sagrupēti vienā blokā tāpat kā parastajā kalkulatorā vai skaitļošanas mašīnā.
+Šajā attēlā ir parādīts, kā šie taustiņi ir sakārtoti tipiskā tastatūrā. Jūsu tastatūras izkārtojums var būt citāds.
+Taustiņu izkārtojums tastatūrā
+Vienmēr, kad kaut kas būs jāieraksta programmā, e‑pasta ziņojumā vai tekstlodziņā, būs redzama mirgojoša vertikāla līnija (
+).  Tas ir kursors, kas tiek saukts arī par ievietošanas punktu. Kursors norāda vietu, kur jāsākas tekstam, ko rakstīsit. Kursoru var pārvietot, noklikšķinot ar peli vajadzīgajā vietā vai lietojot navigācijas taustiņus (skatiet šī raksta sadaļu "Navigācijas taustiņu lietošana").
+Līdztekus burtiem, cipariem, pieturzīmēm un simboliem pie rakstīšanas taustiņiem pieder arī taustiņi SHIFT, CAPS LOCK, TAB, ENTER, kā arī atstarpes un atpakaļatkāpes taustiņš.
+Taustiņa nosaukums
+SHIFT
+Nospiežot SHIFT kombinācijā ar burtu, tiek ievadīts lielais burts. Nospiežot SHIFT kombinācijā ar citu taustiņu, tiek ievadīts simbols, kas redzams šī taustiņa augšējā daļā.
+CAPS LOCK
+Nospiežot CAPS LOCK vienreiz, visi burti tiek ievadīti kā lielie burti. Nospiežot CAPS LOCK vēlreiz, šī funkcija tiek izslēgta. Tastatūrai var būt indikators, kas norāda, vai CAPS LOCK ir ieslēgts.
+TAB
+Nospiežot taustiņu TAB, kursors tiek pārvietots vairākas atstarpes uz priekšu. Taustiņu TAB var nospiest arī, lai formā pārvietotos uz nākamo tekstlodziņu.
+ENTER
+Atstarpes taustiņš
+Atpakaļatkāpes taustiņš
+Tastatūras īsinājumtaustiņu lietošana
+Īsinājumtaustiņi ir līdzeklis, kas palīdz izpildīt darbības, lietojot tastatūru. Tie tiek saukti par saīsnēm, jo palīdz ātrāk veikt darbu. Būtībā gandrīz visas darbības un komandas, kuras var veikt, izmantojot peli, ātrāk var paveikt, izmantojot vienu vai vairākus tastatūras taustiņus.
+Palīdzības tēmās pluszīme (+) starp diviem vai vairākiem taustiņiem norāda, ka šie taustiņi jāspiež kombinācijā. Piemēram, CTRL+A nozīmē, ka vispirms jānospiež un jātur taustiņš CTRL un pēc tam jānospiež A. CTRL+SHIFT+A nozīmē, ka vispirms jānospiež un jātur taustiņi CTRL un SHIFT un pēc tam jānospiež A.
+Programmu saīšņu atrašana
+Ar lielāko daļu programmu var strādāt, lietojot tastatūru. Lai apskatītu īsinājumtaustiņu komandas, atveriet izvēlni. Saīsnes (ja tādas ir pieejamas) tiek parādītas blakus izvēlnes elementiem.
+Īsinājumtaustiņi ir redzami blakus izvēlnes elementiem
+Izvēlņu, komandu un opciju izvēle
+Lietojot tastatūru, var atvērt izvēlnes, izvēlēties komandas un citas opcijas. Programmā, kurā ir izvēlnes, nospiežot taustiņu ALT, viens burts katrā izvēlnes nosaukumā tiek pasvītrots. Lai atvērtu atbilstošo izvēlni, nospiediet pasvītroto burtu. Lai izvēlētos šo komandu, nospiediet izvēlnes elementa pasvītroto burtu.
+Lai atvērtu izvēlni Fails, nospiediet ALT+F un pēc tam, lai izvēlētos komandu Drukāt, nospiediet P
+Šis paņēmiens darbojas arī dialoglodziņos. Vienmēr, kad dialoglodziņa opcijai ir redzams pievienots pasvītrots burts, tas nozīmē, ka šo opciju var izvēlēties, nospiežot taustiņu ALT un šo burtu.
+Noderīgas saīsnes
+Nospiediet
+ALT+F4
+CTRL+S
+CTRL+C
+F1
+Windows logotipa taustiņš
+ESC
+Lietojumprogrammas taustiņu
+Atvērt komandu izvēlni, kuras saistītas ar atlases veikšanu programmā. Tas pats rezultāts tiek iegūts, ja uz atlases noklikšķina ar peles labo pogu.
+Navigācijas taustiņu lietošana
+Navigācijas taustiņi ļauj pārvietot kursoru, pārvietoties dokumentos un Web lapās, kā arī rediģēt tekstu. Šajā tabulā ir uzskaitītas dažas funkcijas, kas šiem taustiņiem ir kopīgas.
+Nospiediet
+Kreiso, labo, augšupvērsto vai lejupvērsto bultiņu
+Pārvietot kursoru vai atlasi par vienu atstarpi vai rindu bultiņas virzienā vai ritināt Web lapu bultiņas virzienā
+HOME
+END
+CTRL+HOME
+PAGE DOWN
+DELETE
+Dzēst rakstzīmi pēc kursora vai atlasīto tekstu; sistēmā Windows dzēst atlasīto vienumu un pārvietot to uz atkritni
+INSERT
+Ieslēgt vai izslēgt ievietošanas režīmu. Kad ievietošanas režīms ir ieslēgts, rakstītais teksts tiek ievietots pie kursora. Kad ievietošanas režīms ir izslēgts, rakstītais teksts aizstāj esošās rakstzīmes.
+Cipartastatūras lietošana
+Cipartastatūrā, līdzīgi kā kalkulatorā vai skaitļošanas mašīnā, ir sakārtoti cipari no 0 līdz 9, aritmētiskie operatori + (saskaitīšana), - (atņemšana), * (reizināšana) un / (dalīšana), kā arī komats. Šīs rakstzīmes, protams, tastatūrā ir dublētas citur, taču papildtastatūras sakārtojums ļauj ātri ar vienu roku ievadīt skaitliskos datus vai matemātiskās darbības.
+Cipartastatūra
+Lai ciparu ievadīšanai varētu lietot cipartastatūru, jānospiež taustiņš NUM LOCK. Lielākajai daļai cipartastatūru ir indikators, kas norāda, vai taustiņš NUM LOCK ir ieslēgts vai izslēgts. Kad taustiņš NUM LOCK ir izslēgts, cipartastatūra veic otra navigācijas taustiņu komplekta funkcijas (šīs funkcijas ir parādītas uz taustiņiem blakus cipariem vai simboliem).
+Cipartastatūru var lietot, lai veiktu vienkāršus aprēķinus ar kalkulatoru.
+, pēc tam uz Visas programmas, uz Piederumi un uz Kalkulators.
+Pārbaudiet tastatūras indikatoru, lai pārliecinātos, vai taustiņš NUM LOCK ir ieslēgts. Ja tas nav ieslēgts, nospiediet NUM LOCK.
+Lietojot cipartastatūru, ievadiet pirmo aprēķina ciparu.
+Ievadiet papildtastatūrā +, lai pieskaitītu, -, lai atņemtu, *, lai reizinātu vai / dalītu.
+Ievadiet nākamo aprēķina skaitli.
+Trīs īpašie taustiņi
+Iepriekš tika aplūkoti gandrīz visi taustiņi, kurus jums, iespējams, būs jālieto. Bet patiesi zinātkārajiem ir iespēja iepazīties ar trīs noslēpumainākajiem tastatūras taustiņiem: PRINT SCREEN, SCROLL LOCK un PAUSE/BREAK.
+PRINT SCREEN (vai PRT SCN)
+Senāk šis taustiņš veica savā nosaukumā ietverto funkciju — tas nosūtīja pašreizējā teksta ekrānu uz printeri. Mūsdienās, nospiežot taustiņu PRINT SCREEN, tiek uzņemts visa ekrāna attēls (ekrānuzņēmums), un tas tiek kopēts datora atmiņasstarpliktuvē. No šīs vietas to var ielīmēt (nospiežot taustiņu kombināciju CTRL+V) programmā Microsoft Molberts vai citā programmā, kā arī izdrukāt no šīs programmas.
+Mazāk skaidra ir SYS RQ nozīme, kas dažās tastatūrās atrodas uz viena taustiņa ar PRINT SCREEN. Vēsturiski SYS RQ bija paredzēts kā "sistēmas pieprasījums", taču sistēmā Windows šī komanda nav iespējota.
+Padoms
+SCROLL LOCK (vai SCR LK)
+Lielākajā daļā programmu pēc SCROLL LOCK nospiešanas nekas nenotiek. Dažās programmās, nospiežot SCROLL LOCK, tiek mainīta bulttaustiņu un taustiņu PAGE UP un PAGE DOWN darbība. Nospiežot šos taustiņus, dokuments tiek ritināts, nemainot kursora vai atlases pozīciju. Tastatūrai var būt indikators, kas norāda, vai SCROLL LOCK ir ieslēgts.
+PAUSE/BREAK
+Šis taustiņš tiek izmantots retos gadījumos. Dažās vecākās programmās, nospiežot šo taustiņu, programma tika pauzēta vai, nospiežot kombinācijā ar taustiņu CTRL, tika apturēta tās darbība.
+Citi taustiņi
+Dažu mūsdienīgo tastatūru komplektā ir "karstie taustiņi" vai pogas, kas sniedz ātru piekļuvi programmām, failiem vai komandām, tikai vienreiz noklikšķinot ar peles pogu. Citiem tastatūru modeļiem ir skaļuma vadīklas, ritināšanas ritenīši, tālummaiņas ritenīši un citi sīkrīki. Lai iegūtu sīkāku informāciju par šiem līdzekļiem, skatiet dokumentāciju, ko saņēmāt kopā ar tastatūru vai datoru, vai apmeklējiet ražotāja vietni.
+Padomi drošai tastatūras lietošanai
+Pareiza tastatūras lietošana var palīdzēt izvairīties no sāpēm, plaukstu locītavu, plaukstu un roku savainošanas, īpaši, ja dators jālieto bieži. Lūk, daži padomi, kas palīdzēs izvairīties no problēmām:
+Novietojiet tastatūru vienā līmenī ar elkoņiem. Roku augšējām daļām ir jābūt atslābinātām.
+Centrējiet tastatūru sev priekšā. Ja tastatūrai ir cipartastatūra, kā centrējuma punktu var lietot atstarpes taustiņu.
+Rakstiet, mainot plaukstu un plaukstu locītavu atrašanās vietu virs tastatūras, lai attālo taustiņu sasniegšanai nebūtu jāizstiepj pirksti, bet varētu izmantot visu roku.
+Rakstīšanas laikā neatbalstiet delnas vai plaukstu locītavas uz kādas virsmas. Ja tastatūrai ir plaukstu balsts, lietojiet to vienīgi rakstīšanas pārtraukumos.
+Rakstīšanas laikā viegli pieskarieties taustiņiem un plaukstu locītavas turiet taisni izstieptas.
+Kad nerakstāt, atslābiniet rokas un plaukstas.
+Ik pēc 15–20 minūtēm īsu brīdi atpūtieties no datora.
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

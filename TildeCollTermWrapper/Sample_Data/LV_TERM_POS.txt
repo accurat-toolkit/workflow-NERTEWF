@@ -1,0 +1,120 @@
+﻿^A.fsa.*
+^A.msn.*
+^N.*
+^-.---.*	^N.*
+^A.fsn.*	^N.fsn.*
+^A.fsg.*	^N.fsg.*
+^A.fsd.*	^N.fsd.*
+^A.fsa.*	^N.fsa.*
+^A.fsl.*	^N.fsl.*
+^A.fpn.*	^N.fpn.*
+^A.fpg.*	^N.fpg.*
+^A.fpd.*	^N.fpd.*
+^A.fpa.*	^N.fpa.*
+^A.fpl.*	^N.fpl.*
+^A.msn.*	^N.msn.*
+^A.msg.*	^N.msg.*
+^A.msd.*	^N.msd.*
+^A.msa.*	^N.msa.*
+^A.msl.*	^N.msl.*
+^A.mpn.*	^N.mpn.*
+^A.mpg.*	^N.mpg.*
+^A.mpd.*	^N.mpd.*
+^A.mpa.*	^N.mpa.*
+^A.mpl.*	^N.mpl.*
+^G.fsn.*	^N.fsn.*
+^G.fsg.*	^N.fsg.*
+^G.fsd.*	^N.fsd.*
+^G.fsa.*	^N.fsa.*
+^G.fsl.*	^N.fsl.*
+^G.fpn.*	^N.fpn.*
+^G.fpg.*	^N.fpg.*
+^G.fpd.*	^N.fpd.*
+^G.fpa.*	^N.fpa.*
+^G.fpl.*	^N.fpl.*
+^G.msn.*	^N.msn.*
+^G.msg.*	^N.msg.*
+^G.msd.*	^N.msd.*
+^G.msa.*	^N.msa.*
+^G.msl.*	^N.msl.*
+^G.mpn.*	^N.mpn.*
+^G.mpg.*	^N.mpg.*
+^G.mpd.*	^N.mpd.*
+^G.mpa.*	^N.mpa.*
+^G.mpl.*	^N.mpl.*
+^N...g.*	^N.*
+^-.---.*	^N...g.*	^N.*
+^-.---.*	^-.---.*	^N.*
+^[AG].fpa.*	^N...g.*	^N.fpa.*
+^[AG].fsn.*	^N...g.*	^N.fsn.*
+^[AG].fsg.*	^N...g.*	^N.fsg.*
+^[AG].fsd.*	^N...g.*	^N.fsd.*
+^[AG].fsa.*	^N...g.*	^N.fsa.*
+^[AG].fsl.*	^N...g.*	^N.fsl.*
+^[AG].fpn.*	^N...g.*	^N.fpn.*
+^[AG].fpg.*	^N...g.*	^N.fpg.*
+^[AG].fpd.*	^N...g.*	^N.fpd.*
+^[AG].fpa.*	^N...g.*	^N.fpa.*
+^[AG].fpl.*	^N...g.*	^N.fpl.*
+^[AG].msn.*	^N...g.*	^N.msn.*
+^[AG].msg.*	^N...g.*	^N.msg.*
+^[AG].msd.*	^N...g.*	^N.msd.*
+^[AG].msa.*	^N...g.*	^N.msa.*
+^[AG].msl.*	^N...g.*	^N.msl.*
+^[AG].mpn.*	^N...g.*	^N.mpn.*
+^[AG].mpg.*	^N...g.*	^N.mpg.*
+^[AG].mpd.*	^N...g.*	^N.mpd.*
+^[AG].mpa.*	^N...g.*	^N.mpa.*
+^[AG].mpl.*	^N...g.*	^N.mpl.*
+^N...g.*	^[AG].fpa.*	^N.fpa.*
+^N...g.*	^[AG].fsn.*	^N.fsn.*
+^N...g.*	^[AG].fsg.*	^N.fsg.*
+^N...g.*	^[AG].fsd.*	^N.fsd.*
+^N...g.*	^[AG].fsa.*	^N.fsa.*
+^N...g.*	^[AG].fsl.*	^N.fsl.*
+^N...g.*	^[AG].fpn.*	^N.fpn.*
+^N...g.*	^[AG].fpg.*	^N.fpg.*
+^N...g.*	^[AG].fpd.*	^N.fpd.*
+^N...g.*	^[AG].fpa.*	^N.fpa.*
+^N...g.*	^[AG].fpl.*	^N.fpl.*
+^N...g.*	^[AG].msn.*	^N.msn.*
+^N...g.*	^[AG].msg.*	^N.msg.*
+^N...g.*	^[AG].msd.*	^N.msd.*
+^N...g.*	^[AG].msa.*	^N.msa.*
+^N...g.*	^[AG].msl.*	^N.msl.*
+^N...g.*	^[AG].mpn.*	^N.mpn.*
+^N...g.*	^[AG].mpg.*	^N.mpg.*
+^N...g.*	^[AG].mpd.*	^N.mpd.*
+^N...g.*	^[AG].mpa.*	^N.mpa.*
+^N...g.*	^[AG].mpl.*	^N.mpl.*
+^A.msg.*	^N.msg.*	^N.*
+^A.mpg.*	^N.mpg.*	^N.*
+^A.fsg.*	^N.fsg.*	^N.*
+^A.fpg.*	^N.fpg.*	^N.*
+^[AG].fsn.*	^[AG].fsn.*	^N.fsn.*
+^[AG].fsg.*	^[AG].fsg.*	^N.fsg.*
+^[AG].fsd.*	^[AG].fsd.*	^N.fsd.*
+^[AG].fsa.*	^[AG].fsa.*	^N.fsa.*
+^[AG].fsl.*	^[AG].fsl.*	^N.fsl.*
+^[AG].fpn.*	^[AG].fpn.*	^N.fpn.*
+^[AG].fpg.*	^[AG].fpg.*	^N.fpg.*
+^[AG].fpd.*	^[AG].fpd.*	^N.fpd.*
+^[AG].fpa.*	^[AG].fpa.*	^N.fpa.*
+^[AG].fpl.*	^[AG].fpl.*	^N.fpl.*
+^[AG].msn.*	^[AG].msn.*	^N.msn.*
+^[AG].msg.*	^[AG].msg.*	^N.msg.*
+^[AG].msd.*	^[AG].msd.*	^N.msd.*
+^[AG].msa.*	^[AG].msa.*	^N.msa.*
+^[AG].msl.*	^[AG].msl.*	^N.msl.*
+^[AG].mpn.*	^[AG].mpn.*	^N.mpn.*
+^[AG].mpg.*	^[AG].mpg.*	^N.mpg.*
+^[AG].mpd.*	^[AG].mpd.*	^N.mpd.*
+^[AG].mpa.*	^[AG].mpa.*	^N.mpa.*
+^[AG].mpl.*	^[AG].mpl.*	^N.mpl.*
+^N...g.*	^-.---.*	^N.*
+^N...g.*	^N...g.*	^N.*
+^-.---.*	^-.---.*	^N...g.*	^N.*
+^-.---.*	^N...g.*	^N...g.*	^N.*
+^N...g.*	^C.---.*	^N...g.*	^N.*
+^N...l.*	^[AG].mpg.*	^N.mpg.*	^N.*
+^[AG].msn.*	^N...g.*	^T.---.*	^-.---.*	^N...g.*	^N.msn.*

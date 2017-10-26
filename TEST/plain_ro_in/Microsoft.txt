@@ -1,0 +1,73 @@
+﻿Microsoft
+De la Wikipedia, enciclopedia liberă
+Microsoft Corporation
+
+Tip	companie listată la bursă
+Fondată	4 aprilie 1975
+Oameni cheie	Bill Gates, Paul Allen,
+Steve Ballmer
+Industrie	Software
+Produse	Microsoft Windows,
+Microsoft Office,
+Windows Server
+Cifra de afaceri	44,3 miliarde USD (2006)
+Angajați	71.172 (2006)
+Slogan	Be What's Next.
+Website	www.microsoft.ro
+modifică 
+Microsoft Corp. (NASDAQ: MSFT) este o companie americană, cea mai mare producătoare de software din lume, cu peste 90.000 de angajați în mai mult de 100 de țări. Deseori numele firmei se prescurtează "MS". Are sediul în Redmond, Washington, SUA.
+Până în momentul de față a livrat, și continuă să livreze, cel mai mare număr de sisteme de operare pentru calculatoare personale, anume sistemul MS Windows, în numeroasele sale variante.
+Compania a fost fondată în 1975 de către Bill Gates și Paul Allen, după ce, cu 3 ani în urmă, aceiași înființaseră compania Traf-O-Data, cu care însă nu au avut succesul scontat. Directorul general este în momentul de față Steve Ballmer.
+Cuprins [ascunde]
+1 Produse software
+2 Tehnologii
+3 Produse hardware
+4 Achiziții
+5 Microsoft în România
+6 Note
+7 Vezi și
+8 Legături externe
+[modificare]Produse software
+
+Microsoft Windows - sistem de operare
+Windows Live
+Internet Explorer - browser
+Microsoft Office - suită de programe pentru birou
+Windows Media Player - redare media
+SQL Server
+Visual Studio
+Microsoft Frontpage - editor HTML
+Microsoft Encarta - enciclopedie
+[modificare]Tehnologii
+
+DirectX
+Active Directory
+MSN Search
+.NET
+Windows Media
+PlaysForSure
+App-V
+Hyper-V
+Silverlight
+Windows Embedded
+Mediaroom
+Microsoft Auto
+Microsoft Tag
+HDi
+[modificare]Produse hardware
+
+maus, trackball
+tastatură
+Xbox, Xbox 360 - consolă de jocuri
+SideWinder - controller de joc
+cititor de amprente
+Zune
+[modificare]Achiziții
+
+În august 2008, Microsoft a achiziționat compania de sondaje online Greenfield Online pentru suma de 486 milioane dolari[1]. Prin preluarea companiei internet, Microsoft a dobândit acces la site-ul Ciao.com, care se ocupă de comparațiile de preturi și pareri ale consumatorilor cu privire la produse comercializate pe piață[1].
+[modificare]Microsoft în România
+
+Compania este prezentă în România din anul 1992[2]. Microsoft are două centre în România, unul de suport tehnic la București, și unul de dezvoltare la Timișoara, unde se dezvoltă parte a motorului de căutare, Bing[3]. În total, în cele două centre lucrează 300 de angajați[3].
+Microsoft a văndut în România, în cursul anului fiscal 2006–2007, 220.000 de licențe de Windows, în sistem OEM (preinstalate pe PC-urile asamblate în România), din care 35% (77.000) au fost vânzări ale noului sistem de operare Vista[4].
+Cifra de afaceri în 2007: 22,7 milioane euro[5][2]
+Venit net în 2007: 5,1 milioane euro[5][2]
